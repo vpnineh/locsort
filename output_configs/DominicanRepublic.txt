@@ -1,12 +1,15 @@
 ss://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://20e2bbf8-848c-42f8-8034-b0f57699b109@c4.spadgaming.ir:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNVhYaUU4THJMaW9rVHU4QWtpWmhk@194.87.45.189:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇪🇸%20ES%20down
+ss://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+ss://e48eda24-bd30-4e93-84f3-a164ee69808b@jdio.mestershop.top:57453?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.133.225.73:80?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@c4.spadgaming.ir:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.145.219:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.139.18:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?encryption=none&security=none&type=tcp&headerType=http#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
+vless://e48eda24-bd30-4e93-84f3-a164ee69808b@jdio.mestershop.top:57453?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@85.133.225.73:80?encryption=none&security=none&type=ws&path=%2F#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vmess://eyJhZGQiOiI4MS45MS4xNTguOTgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzc4NjRhZGMtYjc5NS00YTgyLTgyMTItZjJmMzE2OWIxMTliIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjk3NDUiLCJwcyI6Ilx1ZDgzY1x1ZGQ5NHhpeHYycmF5IFx1ZDgzZFx1ZGQxMyBWTS1XUy1OXC9BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUiBkb3duIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
