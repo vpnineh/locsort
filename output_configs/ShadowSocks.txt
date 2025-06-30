@@ -16,7 +16,7 @@ ss://01b8c498-d50c-453b-9cd8-bc5fd9496362@31.41.35.210:2281?security=none&type=t
 ss://02efadbe-677f-4dc1-a696-6bafef3b0c15@37.202.231.157:2096?security=none&type=tcp#🔒
 ss://0360806c-74b9-4883-8e85-87494a4a73f6@89.235.116.36:8091?security=none&type=tcp&host=mydigipay.com&headerType=http#🔒
 ss://04d533ee-51ba-47cc-a703-6336470898ad@31.214.251.222:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#🔒
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.124.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20162ms
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.124.22:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇫🇷%20FR%20106ms
 ss://0586f5cc-28a7-431f-adc2-24a399f8cab4@85.133.240.43:21405?type=tcp&host=taaghche.com&headerType=http#🔒
 ss://063f79bf-b690-43bd-99d7-18fd0d0f03de@2.188.224.181:54546?security=none&type=ws&path=/#🔒
 ss://063f79bf-b690-43bd-99d7-18fd0d0f03de@2.188.224.183:54546?security=none&type=ws&path=/#🔒
@@ -95,9 +95,9 @@ ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.121:443?security=none&encryp
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?encryption=none&host=zula.ir&type=tcp&headerType=http#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20127ms
+ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20119ms
 ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20137ms
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20158ms
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20158ms
+ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.207.21:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20112ms
 ss://16b95750-74af-4dec-b526-3d8891ed3b67@85.133.233.175:9999?security=none&type=ws&path=/#🔒
 ss://172b0030-57a1-4121-9405-fdc2168c2dc5@46.34.163.15:443?security=reality&sni=speedtest.net&type=tcp&fp=safari&pbk=lOSV30_ooEIjNnh43qQZzYqv7F7R6DCh9kyA5N36tmE&sid=6b#🔒
 ss://173c4b2c-46f0-4afa-b041-630ba41f1738@31.14.123.18:48265?security=none&type=tcp&host=telewebion.com&headerType=http#🔒
@@ -189,8 +189,8 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryp
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.210:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔configfa%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20122ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.190.38:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20123ms
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20126ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20127ms
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20173ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=account.zula.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN&headerType=http&type=tcp#🆔configx2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -199,8 +199,8 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?security=none&encrypt
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20120ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20124ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20120ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20123ms
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20167ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.205.175:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#1-%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.135:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#3-%40%F0%9D%97%A6%F0%9D%97%B6%F0%9D%97%A1%F0%9D%97%94%F0%9D%97%A9%F0%9D%97%A0%F0%9F%91%88%F0%9F%8F%BB%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+%F0%9F%87%A9%F0%9F%87%AA
@@ -214,6 +214,7 @@ ss://2fa19c27-05b2-45b9-abce-4ca6371d7f75@37.202.228.27:44628?security=none&type
 ss://3055df14-c714-4a00-a86b-b15c4c099ea5@185.49.105.170:8443?security=reality&sni=lovelive-anime.jp&type=grpc&serviceName=lovelive&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=6ba85179e30d4fc2#🔒
 ss://30e09ed1-4b76-45e6-b744-d3a03bca8b98@185.83.182.217:4001?security=none&type=tcp&host=telewebion.com&headerType=http#🔒
 ss://30e09ed1-4b76-45e6-b744-d3a03bca8b98@194.1.155.186:4001?security=none&type=tcp&host=telewebion.com&headerType=http#🔒
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@172.67.132.39:443/?type=ws&encryption=none&flow=&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=random#%F0%9F%87%A9%F0%9F%87%AA%20%E2%9C%96%EF%B8%8F%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%9F%B0%F0%9F%87%A9%F0%9F%87%AA%20S%2Ch%20gpt%E2%9C%85%EF%B8%8F%20
 ss://318d45fa-d5fa-461e-9276-3084af1fa423@185.141.107.136:13798?type=tcp#🔒
 ss://31a0713a-2c36-41ec-8bc5-52a5f546cc4e@46.38.150.199:9090?security=none&type=tcp&host=telewebion.com&headerType=http#🔒
 ss://32895c66-fe57-49ad-ba5a-1936f2d5a7a8@185.97.117.67:8080?security=none&type=ws&path=/#🔒
@@ -506,11 +507,10 @@ ss://7b5dc282-bfb2-4b7a-97ca-11ee587111c6@109.122.247.205:53857?security=none&ty
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?encryption=none&host=zula.ir&type=tcp&headerType=http#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20117ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20114ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20125ms
-ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20171ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?encryption=none&host=zula.ir&type=tcp&headerType=http#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20122ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20122ms
+ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20119ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20120ms
-ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20160ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.231.218:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2097ms
 ss://7b9a615e-9597-44bc-a79f-be7119555023@193.151.133.249:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
 ss://7c5381a0-9bea-4edb-f99a-9fa9918b5c1d@94.182.149.18:7850?security=none&type=ws&path=/#🔒
@@ -595,7 +595,6 @@ ss://97469164-110c-5924-6d56-1ba7a0f42f6a@s1.ersalb.top:3670?security=none&type=
 ss://97469164-110c-5924-6d56-1ba7a0f42f6a@s1.ersalb.top:3670?security=none&type=tcp&path=%2F&headerType=http&host=telewebion.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20481ms
 ss://97469164-110c-5924-6d56-1ba7a0f42f6a@s1.ersalb.top:3670?security=none&type=tcp&path=%2F&headerType=http&host=telewebion.com#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20630ms
 ss://985acae9-b627-417c-95a8-36b3e3677be2@185.143.233.120:2086?security=none&type=ws&host=getasa.ir&path=%2F#🔒
-ss://988e2bdd-bc02-4880-8174-c4bbb9a47953@UTC.hamrahconf.ir:2479?path=%2Fpath&security=none&encryption=none&host=speedtest.net&type=ws#🆔proxyiranip%20🔓%20VL-WS-N/A%20🇩🇪%20DE%20454ms
 ss://99aafb72-246b-474f-b7cc-7ce07c5b1e32@85.133.247.48:2095?security=none&type=tcp#🔒
 ss://99e33694-b530-4910-a9e9-595c96b3f356@62.60.176.61:1990?type=tcp&host=Soft98.ir#🔒
 ss://99e33694-b530-4910-a9e9-595c96b3f356@62.60.176.61:2000?type=tcp&host=Soft98.ir#🔒
@@ -1145,6 +1144,7 @@ ss://eyJhZGQiOiIxNTIuNTMuMTMzLjE2OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N
 ss://eyJhZGQiOiIxNTIuNTMuNDguMzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlZmVyc2lvbi5jb20iLCJpZCI6ImM0ZWM2N2E4LTFkY2MtNDcxZC1hNmQ3LTRkOWI5ZWMxNzI2ZCIsIm5ldCI6InRjcCIsInBhdGgiOiJcL2FwaVwvdjFcL3N0YXR1cyIsInBvcnQiOiI1NjMyMCIsInBzIjoiXHVkODNjXHVkZDk0dnBuc2VydmVycnIgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlNlx1ZDgzY1x1ZGRmOSBBVCAxNDBtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://eyJhZGQiOiIzOC4xMi44My4yMTciLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDk0YXIxNG4yNGIgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOCBVUyA1N21zIiwicG9ydCI6MzAwMDIsImlkIjoiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwiYWlkIjoiNjQiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwiaG9zdCI6Imxvb3NlbHkuZnJlZXRyYWRlLmxpbmsiLCJwYXRoIjoiIiwidGxzIjoiIn0=
 ss://eyJhZGQiOiJYU3NzRGNWRmd0LjQ0NDY1Mi5YeVoiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZDk0YXIxNG4yNGIgXHVkODNkXHVkZDEyIFZNLVdTLVRMUyBcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMzRtcyIsInBvcnQiOjQ0MywiaWQiOiI1MTJkOTY3NC1kYjEyLTQ0Y2EtYTFiNS02NTQyNDQ1NDliNjUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwiaG9zdCI6Inhzc3NkY3ZmZ3QuNDQ0NjUyLnh5eiIsInBhdGgiOiJcL3VpQXh2SDZPa1ZrMFZDZmE3ZFgzSklyWWs3em0iLCJ0bHMiOiJ0bHMifQ==
+ss://eyJhZGQiOiJwcmZvdXIubWFyZmFuZXQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyZWZlcnNpb24uY29tIiwiaWQiOiJjNGVjNjdhOC0xZGNjLTQ3MWQtYTZkNy00ZDliOWVjMTcyNmQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC9hcGlcL3YxXC9zdGF0dXMiLCJwb3J0IjoiNTYzMjIiLCJwcyI6Ilx1ZDgzY1x1ZGQ5NG1yc291bGIgXHVkODNkXHVkZDEzIFZNLVRDUC1OXC9BIFx1ZDgzY1x1ZGRlOVx1ZDgzY1x1ZGRlYSBERSAzMzJtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 ss://eyJob3N0IjogInNwZWVkdGVzdC5uZXQiLCAibmV0IjogInRjcCIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5PTkUgXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3IElSLTIxNy4xMTQuNDAuMTM2OjMyMjMiLCAiYWRkIjogIjIxNy4xMTQuNDAuMTM2IiwgInRscyI6ICJub25lIiwgImlkIjogImMwYjMzYjVhLWMyN2UtZjI3My1lM2VlLWQyNWY3YmJmNzNkZCIsICJwb3J0IjogIjMyMjMiLCAic2N5IjogImF1dG8iLCAicGF0aCI6ICIvIiwgInR5cGUiOiAiaHR0cCJ9
 ss://eyJwb3J0IjogIjQ1MDM3IiwgIm5ldCI6ICJ0Y3AiLCAidGxzIjogIm5vbmUiLCAic2N5IjogImF1dG8iLCAiaG9zdCI6ICIiLCAicHMiOiAiXHVkODNkXHVkZDEyIFZNLVRDUC1OT05FIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi05MS4yMTIuMjMyLjEyNDo0NTAzNyIsICJwYXRoIjogIiIsICJpZCI6ICIxNzVmYzVlMy0zZTY1LTQxZDEtYWEyNy1iNzg0MmVlM2Q4YjciLCAiYWRkIjogIjkxLjIxMi4yMzIuMTI0In0=
 ss://eyJwb3J0IjogIjkwMDciLCAidHlwZSI6ICJodHRwIiwgInNjeSI6ICJhdXRvIiwgImlkIjogImUxYTYwMzc0LWQ5MmYtNDFjNi1iOGNkLWMwMTQ1YmNlMGI1MiIsICJwcyI6ICJcdWQ4M2RcdWRkMTIgVk0tVENQLU5BIFx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmNyBJUi02Mi42MC4yMjAuMTYwOjkwMDciLCAiYWRkIjogIjYyLjYwLjIyMC4xNjAiLCAiaG9zdCI6ICIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8ifQ==
