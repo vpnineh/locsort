@@ -1,1 +1,44 @@
+name: Generate Clash Configs
 
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - output_configs/**
+  workflow_dispatch: # Allows manual triggering of the workflow
+  schedule:
+    - cron: '29 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest # Uses the latest Ubuntu environment for the job
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # Checks out your repository code
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Sets up a Python environment
+        with:
+          python-version: '3.10' # Specifies Python version 3.10
+
+      - name: Install Dependencies
+        run: pip install pyyaml requests # Installs necessary Python packages
+
+      - name: Run Config Generator
+        # Correct path to your Python script based on your repository structure:
+        # https://github.com/DiDiten/ScrapeAndCategorize/blob/main/Clash/scripts/generator.py
+        run: python Clash/scripts/generator.py
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }} # Passes the repository name as an environment variable
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5 # Action to automatically commit changes
+        with:
+          commit_message: "chore: auto-generate configs via updated format" # Commit message
+          # File patterns to commit - all must reference paths within the 'Clash' directory
+          # Using "Clash/" directly for all files.
+          file_pattern: "Clash/output/*.yaml Clash/providers/*.txt Clash/README.md Clash/*.txt Clash/*.yaml"
+          commit_user_name: GitHub Actions Bot
+          commit_user_email: actions@github.com
+          commit_author: GitHub Actions Bot <actions@github.com>
