@@ -1,2 +1,2 @@
-ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20186ms
-vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20186ms
+ss://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20267ms
+vless://ccd5d8c4-634c-46bc-8f7a-5be3b8649858@213.176.0.144:3311?encryption=none&security=none&type=grpc#🆔xixv2ray%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20267ms
