@@ -1,0 +1,2 @@
+ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?encryption=none&security=none&type=ws&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇨🇦%20CA%203ms
+vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?encryption=none&security=none&type=ws&host=abcd.taraneh.dpdns.org&path=%2F%3Fed%3D2560#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇨🇦%20CA%203ms
