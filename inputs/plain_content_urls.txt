@@ -1,1 +1,3 @@
 https://raw.githubusercontent.com/vpnineh/tlgrm/refs/heads/main/subscription/normal/mix
+https://github.com/DiDiten/ScrapeAndCategorize/raw/refs/heads/main/output_configs/Germany.txt
+https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt
