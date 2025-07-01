@@ -1,11 +1,9 @@
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
-ss://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@www.vip-abanol1.zone.id:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#🆔outline_vpn%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
-vless://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@www.vip-abanol1.zone.id:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&encryption=none&pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=a20a8fdc#🆔outline_vpn%20🔒%20VL-TCP-%20🇩🇪%20DE%20down
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
