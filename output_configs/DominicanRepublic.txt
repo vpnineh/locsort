@@ -1,14 +1,11 @@
 ss://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://20e2bbf8-848c-42f8-8034-b0f57699b109@c4.spadgaming.ir:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@74.177.162.130:443#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20down
 ss://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?encryption=none&security=none&type=xhttp&host=portalo.com&path=%2F#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20🇮🇷%20IR%20down
 ss://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 ss://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔vpnserverrr%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@185.228.59.175:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://20e2bbf8-848c-42f8-8034-b0f57699b109@c4.spadgaming.ir:25183?encryption=none&security=none&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?security=none&encryption=none&headerType=none&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.181.193:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vpnserverrr%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://b7155dd2-eaac-4570-85b7-7138e7b45e49@193.37.37.24:80?encryption=none&security=none&type=xhttp&host=portalo.com&path=%2F#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20🇮🇷%20IR%20down
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
 vless://be8cf788-f546-462d-a7af-bd2505873976@ping.amirhossein.info:8443?path=%2FTelegram%40Green_WPN%40Vijra_dev%2F%3Fed%3D2560&security=none&encryption=none&host=ping.amirhossein.info&type=ws#🆔vpnserverrr%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20down
