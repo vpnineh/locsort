@@ -1,4 +1,3 @@
-hy2://PassWord2@45.138.99.106:8443?obfs=salamander&obfs-password=PassWord1&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20D%C3%BCsseldorf%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.76:7012?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%20down
 ss://1a443fcb-53eb-4f59-bae7-4c0f1b3c57b0@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@www.vip-abanol1.zone.id:8443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down

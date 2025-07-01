@@ -534,11 +534,11 @@ vless://aa4e1b2b-2ed5-41af-b306-ed43a9ff5dc3@45.159.148.180:2053?type=ws&host=go
 vless://aa5d9ceb-55bc-47a6-9a32-8a112a226c06@185.141.107.80:2095?type=ws&path=%2F#🔒
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Tue-10-TIR-1404
+vless://aabcbac-acab-aabc-cdab-ccbabbacaacb@127.0.0.1:2080?security=tls&type=tcp#🤖
 vless://ab1f0258-fe28-4f80-b21d-70561f3a2c6f@85.9.100.62:443?type=tcp#🔒
 vless://ac04c88d-8af0-4662-b98f-645dcbdda2d6@85.133.215.175:443?security=reality&sni=www.speedtest.net&type=grpc&serviceName=TelegramChannel-@vipnman&fp=chrome&pbk=JrJx95LInFp805udRHXknX3_eCO8W5wnDY2LPxy_iXo&sid=edbe&alpn=http/1.1#🔒
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&host=speedtest.net&headerType=http#🔒
-vless://acacbba-acba-aacb-adcb-cbbbaaacbacc@127.0.0.1:2080?security=tls&type=tcp#🤖
-vless://accbaba-caba-aacb-dacb-cacababcbcab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
+vless://accbaab-aacb-caab-cadb-bcbcabcbaaca@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 vless://adb34ed3-d31e-40cb-8e54-4d2d83f5908e@46.38.148.83:4002?security=none&type=tcp#🔒
 vless://adfa5abf-43f1-46b3-87cc-d8aaf0d4f72d@85.133.221.162:8484?security=none&type=tcp&host=parspack.com&path=%2Fhauskpaqhe&headerType=http#🔒
 vless://ae110a62-fa2b-455b-b620-1e85dbdf870a@185.49.105.233:5000?type=tcp&host=fast.com&headerType=http#🔒
@@ -582,6 +582,7 @@ vless://badb069f-4acd-4206-bf9a-c4bda80d55ca@185.215.228.109:1001?security=none&
 vless://bb138034-fb6a-4668-8736-222b4a15dbd8@92.114.20.16:600?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
 vless://bb56f165-4db1-407f-b9ad-1e832fc10acd@46.38.149.108:2096?security=none&type=grpc#🔒
 vless://bb589abb-ae22-468c-95ad-fd522121e22b@85.133.247.38:2095?security=none&type=tcp#🔒
+vless://bbaacca-caba-aabc-dcab-ccacabacbabb@127.0.0.1:3080?security=tls&type=tcp#🛡
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.226:2087?security=none&type=tcp&host=skyroom.online&headerType=http#🔒
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.227:2087?security=none&type=tcp&host=skyroom.online&headerType=http#🔒
 vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.228:2087?security=none&type=tcp&host=skyroom.online&headerType=http#🔒
@@ -599,6 +600,7 @@ vless://bbad4026-54a7-4681-a28e-f60efd857ab5@109.95.67.239:2087?security=none&ty
 vless://bbd2882a-c158-4ae6-b53a-5ae6be8dbcb0@172.67.164.239:80?path=%2FBaRAyeIran%3Fed%3D2560&security=none&encryption=none&host=barayeiran.nastaranh.dpdns.org&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇺🇸%20US%203ms
 vless://bbda5283-55b9-433f-9d93-aa9af508348f@185.208.79.39:15972?security=none&type=tcp&host=fast.com&path=%2F&headerType=http#🔒
 vless://bbda5283-55b9-433f-9d93-aa9af508348f@62.3.42.105:15972?security=none&type=tcp&host=fast.com&path=/&headerType=http#🔒
+vless://bcaaabc-acab-acba-adbc-bcbaabacbcac@127.0.0.1:1080?security=tls&type=tcp#🔄
 vless://bcb71050-ca19-4b71-aa21-e80ec0ee0bda@5.61.29.175:45326?security=none&type=tcp#🔒
 vless://bd82aa7b-6ec6-47b7-8587-745b20747f64@91.234.39.57:80?security=tls&sni=digi-elipii.ir&type=tcp&host=google.com%23Germany4-98274&headerType=http&fp=firefox&alpn=h2%2Chttp%2F1.1#🔒
 vless://be296aaa-7a1e-4da9-9cfe-a9d9ce6b4198@5.160.109.35:8880?type=ws&path=/#🔒
@@ -638,13 +640,11 @@ vless://c9e2b43f-a3bf-4cb4-9e21-aa40f5c7ba3c@94.182.150.200:4041?security=none&t
 vless://c9eeb167-aa1d-49c6-a843-807bd17fe17c@178.239.149.82:10002?type=tcp#🔒
 vless://c9eeb167-aa1d-49c6-a843-807bd17fe17c@94.182.145.197:10002?security=none&type=tcp#🔒
 vless://ca4ba8f9-ada9-4978-81d1-4e6163f0f4ca@94.182.134.156:2082?type=ws&path=/#🔒
-vless://caacbab-baca-bcaa-acbd-acacacbbbbca@127.0.0.1:3080?security=tls&type=tcp#🛡
 vless://caaf0e88-9139-48c2-b712-fcacde7a3a45@85.133.240.49:31086?security=none&type=tcp&host=fast.com&headerType=http#🔒
 vless://cb4b295e-2611-4206-a45d-6863ad10c8a1@91.234.39.29:80?security=tls&sni=digi-elipii.ir&type=tcp&host=google.com&headerType=http&fp=firefox&alpn=h2,http/1.1#🔒
 vless://cb70e6ac-34d5-4ad6-952f-481f7e89292b@46.38.146.186:213?security=none&type=tcp&headerType=http#🔒
 vless://cba0b35b-8943-4c70-a864-9f78145b7897@104.24.60.135:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=agolna.mahsaamini.dpdns.org&type=ws#🆔outline_vpn%20🔓%20VL-WS-N/A%20🇺🇸%20US%201ms
 vless://cc2bb70c-4bf5-4a73-cfe6-ee72b9036f49@85.133.196.3:3478?security=none&type=tcp&host=persiangames.online&headerType=http#🔒
-vless://ccabaab-baca-baca-adbc-cacabbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄
 vless://cce12a8b-abc8-4f2c-9cd8-62e4e96e863a@5.144.132.230:6067?security=none&type=grpc&serviceName=2055vless#🔒
 vless://ce0d56cd-6bea-4781-962d-061949e8c194@194.145.119.211:51721?type=tcp&host=fast.com&headerType=http#🔒
 vless://cf09b553-f72c-4b1d-81c1-bdf097506988@185.112.32.244:17920?type=tcp&path=/&headerType=http#🔒
