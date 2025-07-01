@@ -1,10 +1,9 @@
 trojan://$Iu_sL4k*u,9@185.143.235.201:2096?security=tls&sni=anten.ir&type=ws&host=mail.link.link-kon.ir&path=%2FtrPrm7agLwtAsC9J9F%3Fed%5Cu003d2560&fp=randomized&alpn=http/1.1#🔒
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@91.195.240.12:443?security=tls&sni=spkr.1234567890spcloud.com&type=tcp&headerType=none#%F0%9F%8D%93%40xixv2ray%20%7C%20%F0%9F%8C%90%2091.195.240.12%20%7C%20DE
-trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@91.195.240.12:443?security=tls&sni=spkr.1234567890spcloud.com&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20125ms
+trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@91.195.240.12:443?security=tls&sni=spkr.1234567890spcloud.com&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20100ms
 trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none#%F0%9F%8D%93%40xixv2ray%20%20%7C%20DE
-trojan://254aa898-bc2a-4ec8-87d1-9f5d37658f6c@spkr.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20238ms
 trojan://5458dada-aa7a-4d9b-bdfb-d22e30503e10@46.38.146.51:2096?security=none&type=ws&path=%2Ftr%2Fv%2FtNtL%2Fgfdr#🔒
-trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni=45.32.28.232&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%20120ms
+trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?security=tls&sni=45.32.28.232&type=tcp&headerType=none#🆔xixv2ray%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
 trojan://acacbba-acba-aacb-adcb-cbbbaaacbacc@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://accbaba-caba-aacb-dacb-cacababcbcab@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 trojan://caacbab-baca-bcaa-acbd-acacacbbbbca@127.0.0.1:3080?security=tls&type=tcp#🛡
