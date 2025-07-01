@@ -1,2 +1,2 @@
-ss://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20143ms
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20143ms
+ss://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20158ms
+vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?encryption=none&security=none&sni=www.speedtest.net&type=tcp&headerType=none#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇬🇧%20GB%20158ms
