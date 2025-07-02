@@ -1,3 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3eDJkZ1pqRzlYaXZmaHMwcG1jM2s3@62.210.88.22:443#🆔xixv2ray%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20162ms
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🆔vaslvip%20🔓%20VL-WS-N/A%20🇫🇷%20FR%206ms
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🆔vaslvip%20🔓%20VL-WS-N/A%20🇫🇷%20FR%206ms
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🆔vaslvip%20🔓%20VL-WS-N/A%20🇫🇷%20FR%2019ms
+ss://f9293f12-3a40-a014-39f2-6b8af6f113ae@score.fastly80.supercyberpower.com:80?mode=auto&path=%2F&security=none&encryption=none&host=join-to-persia-tm.ir&type=xhttp#🆔vaslvip%20🔓%20VL-XHTTP-N/A%20🇫🇷%20FR%20172ms
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.121.55:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=1750293123492.china.baidu.bilibili.china.aeko.cn&type=ws#🆔vaslvip%20🔓%20VL-WS-N/A%20🇫🇷%20FR%2019ms
+vless://f9293f12-3a40-a014-39f2-6b8af6f113ae@score.fastly80.supercyberpower.com:80?mode=auto&path=%2F&security=none&encryption=none&host=join-to-persia-tm.ir&type=xhttp#🆔vaslvip%20🔓%20VL-XHTTP-N/A%20🇫🇷%20FR%20172ms
