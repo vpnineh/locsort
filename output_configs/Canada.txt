@@ -1,2 +1,2 @@
-ss://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇨🇦%20CA%205ms
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇨🇦%20CA%205ms
+ss://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇨🇦%20CA%209ms
+vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇨🇦%20CA%209ms
