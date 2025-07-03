@@ -1,2 +1,0 @@
-ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🔓%20VL-TCP-N/A%20🇦🇪%20AE%2041ms
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🔓%20VL-TCP-N/A%20🇦🇪%20AE%2041ms
