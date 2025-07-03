@@ -1,0 +1,2 @@
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.59.218.213:8880?path=%2F&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔓%20VL-WS-N/A%20🇷🇺%20RU%202ms
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.59.218.213:8880?path=%2F&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔓%20VL-WS-N/A%20🇷🇺%20RU%202ms
