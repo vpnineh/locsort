@@ -1,4 +1,4 @@
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🆔xixv2ray%20🔒%20VL-TCP-N/A%20🇫🇮%20FI%20124ms
-ss://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20118ms
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🆔xixv2ray%20🔒%20VL-TCP-N/A%20🇫🇮%20FI%20124ms
-vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20118ms
+ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🆔xixv2ray%20🔒%20VL-TCP-N/A%20🇫🇮%20FI%20144ms
+ss://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20141ms
+vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?encryption=none&security=tls&sni=cdn.chandplus.com&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&type=tcp&headerType=none#🆔xixv2ray%20🔒%20VL-TCP-N/A%20🇫🇮%20FI%20144ms
+vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@135.181.43.64:8880?security=none&encryption=none&host=eN.TwiTtER.cOM.%3A8880&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20141ms
