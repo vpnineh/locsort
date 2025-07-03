@@ -1,2 +1,0 @@
-ss://spcmpkl14a@npmjs.com:2053?encryption=none&security=tls&sni=spcmpkl14a-9199150242.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=spcmpkl14a-9199150242.khastehnabashi.com&path=%2Fhetzner%2Fcdn#🔒%20VL-HTTPUPGRADE-N/A%20🇨🇦%20CA%203ms
-vless://spcmpkl14a@npmjs.com:2053?encryption=none&security=tls&sni=spcmpkl14a-9199150242.khastehnabashi.com&alpn=h2%2Chttp%2F1.1&fp=randomized&type=httpupgrade&host=spcmpkl14a-9199150242.khastehnabashi.com&path=%2Fhetzner%2Fcdn#🔒%20VL-HTTPUPGRADE-N/A%20🇨🇦%20CA%203ms
