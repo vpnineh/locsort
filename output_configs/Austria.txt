@@ -1,4 +1,4 @@
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-12-TIR-1404
-ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN#🆔neteiran%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20199ms
+ss://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN#🆔neteiran%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20194ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Thu-12-TIR-1404
-vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN#🆔neteiran%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20199ms
+vless://d3f3fdd0-a087-9bab-0e07-ba22bd9a6e34@46.102.157.79:58096?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir%2F%3FJOKERRVPNBIA_CHANEL%40JOKERRVPN#🆔neteiran%20🔓%20VL-TCP-N/A%20🇦🇹%20AT%20194ms

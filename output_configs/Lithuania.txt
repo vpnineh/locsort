@@ -1,1 +1,1 @@
-trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=%2F#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇱🇹%20LT%20176ms
+trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=%2F#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇱🇹%20LT%20184ms
