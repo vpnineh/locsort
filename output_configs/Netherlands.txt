@@ -1,0 +1,2 @@
+ss://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.198.13:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
+vless://9f3c4ab7-ea26-4d96-91a9-c85ff64ad9a0@185.207.198.13:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=c.82313369.xyz&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇳🇱%20NL%202ms
