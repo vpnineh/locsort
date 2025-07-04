@@ -5,5 +5,5 @@ trojan://abcaabc-bcaa-aabc-dabc-cacacabbbabc@127.0.0.1:8080?security=tls&type=tc
 trojan://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#🤖
 trojan://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 trojan://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
-trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=%2F#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇱🇹%20LT%20136ms
+trojan://vpn@46.29.234.154:2025?security=tls&type=ws&host=dns.google.com&path=%2F#🆔xixv2ray%20🔒%20TR-WS-N/A%20🇱🇹%20LT%20140ms
 trojan://y3w0piQ7ZF@193.151.136.6:2086?security=none&type=grpc#🔒
