@@ -1,6 +1,4 @@
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
-ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔neteiran%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20222ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
-vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔neteiran%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20222ms
+ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20108ms
+ss://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔neteiran%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20282ms
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20108ms
+vless://3ed3966a-ca0e-4a46-a437-8000836fa495@Sd.mciickoir.ir:9620?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#🆔neteiran%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20282ms
