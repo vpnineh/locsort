@@ -101,7 +101,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?encryption=none&s
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20155ms
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vaslvip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -206,7 +205,6 @@ vless://4bf96dd2-f451-4938-8fa4-1a2251290920@144.202.56.7:443?type=xhttp&path=%2
 vless://4c183cd1-0079-45ce-9204-4360a643601c@185.143.233.120:2052?security=none&type=ws&path=/#🔒
 vless://4c183cd1-0079-45ce-9204-4360a643601c@185.143.234.120:2052?security=none&type=ws&path=/#🔒
 vless://4c5005e6-7f17-476d-9f30-15adb302e253@109.122.247.223:2096?security=none&type=tcp&host=myket.ir&headerType=http#🔒
-vless://4c585027-6ef2-42ff-899b-06a97b1ee7b2@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#🆔proxyiranip%20🔒%20VL-TCP-%20🇩🇪%20DE%20161ms
 vless://4ca3a0bd-525c-4889-b9c7-b93680dcdab9@84.241.20.8:123?security=none&type=tcp&headerType=http#🔒
 vless://4d697fd2-1a97-47b6-b1be-97e78f26b4a0@95.38.246.121:11917?type=tcp&host=filmnet.ir&headerType=http#🔒
 vless://4d91916f-a7fd-419b-8b90-640bb8d1b9f4@104.17.147.22:443?path=%2FE4FqomT5e0mKm2nh%2FMTU5LjY5LjE0LjEzOA%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=titantablomanahamrah.ir&fp=randomized&type=ws&sni=TiTAntAbLoMaNAhamraH.Ir#🆔DailyV2ry%20🔒%20VL-WS-N/A%20🇺🇸%20US%205ms
@@ -292,7 +290,7 @@ vless://63b4093e-bf06-4bb8-9927-d6c883d789c7@test.fast.hosting-ip.com:80?mode=au
 vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?encryption=none&security=none&type=tcp&headerType=http&host=analytics.google.com#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20down
 vless://64274cc4-6375-407c-8670-13eaf31a5eba@2.189.117.37:443?security=none&type=tcp&host=analytics.google.com&headerType=http#🔒
 vless://64826a3c-b875-45d8-a746-7613e0d4a75b@109.122.251.87:35762?security=none&type=tcp&host=test.porsline.ir&headerType=http#🔒
-vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20156ms
+vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%2087ms
 vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%2088ms
 vless://651de6cb-df22-45cd-8842-438fdbef87fb@2.59.135.137:7022?security=reality&encryption=none&pbk=vj5pvcr-2G1kK7hKp937WrwAPtVg4p94HpqeCAuauD4&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%2092ms
 vless://65d2dfe6-e2f9-5880-a799-ac6664053e25@45.134.9.188:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=45.134.9.188&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇲🇽%20MX%2063ms
@@ -352,12 +350,10 @@ vless://77b7af06-6e10-4afa-a9bb-461fab6db315@87.236.208.133:55700?security=reali
 vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&type=tcp&host=fast.com&headerType=http#🔒
 vless://7956ac53-9606-42c1-ab20-9cbd46d94d3b@104.16.53.11:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sqUaRE-asSociATioN.OnEEat.CO.&type=ws#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://79eb5527-e08e-4ac9-97d4-e28ad71e9e6f@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔vaslvip%20🔒%20VL-GRPC-%20🇩🇪%20DE%20315ms
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20160ms
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.217:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.160.243:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20170ms
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔vaslvip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
 vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
@@ -480,6 +476,7 @@ vless://a4249955-0e50-5353-8f9f-a23087f668bf@77.105.162.84:443?encryption=none&s
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?Telegram=%40NasaV2%2C%40NasaV2%2C%40NasaV2%2C%40NasaV2%2C%40NasaV2%2C%40NasaV2&security=none&encryption=none%3D---%40ghalagyann---%40ghalagyann---%40ghalagyann---%40ghalagyann&host=q6.19kalA.co&type=ws#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://a57c0816-7d91-4ace-8398-40dbd70c90d8@makeitclassic.numberonedrshabi.top:2052?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20430ms
 vless://a6413839-0ef1-48e6-a9cf-85e9ab870d2c@185.215.228.237:38719?type=tcp&host=divar.ir&headerType=http#🔒
+vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@anokabaseball.com:443/?type=ws&encryption=none&flow=&host=faruzan.changli.ddns-ip.net&path=%2Fproxyip%3Dnavia.shorekeeper.ir&security=tls&sni=faruzan.changli.ddns-ip.net&alpn=http%2F1.1&fp=randomized#%F0%9F%87%A9%F0%9F%87%AA%20%20%20%20%F0%9F%87%A9%F0%9F%87%AA%20%20%20chg%20%F0%9F%87%A9%F0%9F%87%AA%20
 vless://a7413c82-3cfc-4a1d-9fd7-af1b36897f39@185.143.234.120:80?security=none&type=ws&host=latesdcamera-60c9e41acd-camera.apps.ir-central1.arvancaas.ir&path=/das/las#🔒
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@213.176.126.131:8443?security=none&type=ws&path=/netherlands#🔒
 vless://a7f5d152-0287-af42-bfbc-f8ce1e31d97e@5.182.46.67:2051?security=none&type=tcp&host=snapp.taxi&headerType=http#🔒
@@ -610,7 +607,6 @@ vless://c27e0180-7b4a-49ba-a862-a62f5e2bc17d@94.182.142.16:2020?security=none&ty
 vless://c283dd5f-b38c-404a-a0b8-1bb2b5a4bf52@89.235.116.46:7052?type=tcp&headerType=http#🔒
 vless://c2dacd05-60d2-4e92-afa6-5673f5bb594a@cash.ns.cloudflare.com:443?encryption=none&security=tls&sni=vrosxiyw.server24730.ir&type=ws&alpn=http%2F1.1&host=vrosxiyw.server24730.ir&path=%2Fwss#🆔DailyV2ry%20🔒%20VL-WS-N/A%20🇺🇸%20US%2013ms
 vless://c2df3028-a48c-4f0f-a104-013594dfa659@85.133.215.108:235?type=tcp&headerType=http#🔒
-vless://c316446d-825c-4c0e-882e-4c3badb7456d@91.99.199.145:56127?security=reality&encryption=none&pbk=iZBGYZP2PommEmcSDKWOypL3d3HWsWG7WDOh-Cuz418&headerType=&fp=chrome&spx=%2F%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec----%40MdVpnSec&type=tcp&sni=www.latimes.com&sid=6d26d809580dc9f7#🆔proxyiranip%20🔒%20VL-TCP-%20🇩🇪%20DE%20174ms
 vless://c4405794-1958-44c8-9dbe-660dad113053@87.248.154.160:52675?security=none&type=tcp&path=/#🔒
 vless://c4ca05f0-1b67-4552-bd03-9d71945ddc3e@185.14.160.173:54231?security=reality&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=4fJKg7LhM4N1J23P-YU2cJ4TPOsGVZinB6VTvmHE4Ec&sid=96ab5d73#🔒
 vless://c583fada-5131-4c0a-8ed3-99382c83edc2@185.243.51.29:22921?security=none&type=tcp&path=/&headerType=http#🔒
@@ -677,6 +673,7 @@ vless://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.93:5131?security=none&typ
 vless://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.96:5131?security=none&type=tcp&headerType=http#🔒
 vless://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.97:5131?security=none&type=tcp&headerType=http#🔒
 vless://d5fdc459-436b-459d-beda-b06d70c93af1@62.60.210.99:5131?security=none&type=tcp&headerType=http#🔒
+vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.10.215.247:8880?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&encryption=none&host=ex.sue.x10.mx&type=ws&sni=ex.sue.x10.mx#%F0%9F%87%A9%F0%9F%87%AA%20%40DailyTek
 vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@69.84.182.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇺🇸%20US%206ms
 vless://d632ac55-9598-46a2-b437-705da450b829@193.151.132.78:2053?security=none&type=tcp&host=Blubank.com&path=/&headerType=http#🔒
 vless://d64a5878-6763-4dbc-af31-433135171fce@185.231.181.98:443?security=tls&sni=irnsb.shirali.sbs&type=ws&host=irnsb.shirali.sbs&path=%2F&fp=chrome#🔒
@@ -702,8 +699,8 @@ vless://d8b137a4-d641-566e-8f85-05f82b787215@38.76.247.230:443?encryption=none&s
 vless://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@92.114.19.153:443?security=tls&sni=nv163.momdping.com&type=ws&path=/#🔒
 vless://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20200ms
 vless://dc348913-8eec-4535-b9f8-814d63b24301@94.182.83.82:2022?security=none&type=tcp&host=fast.com&headerType=http#🔒
+vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20308ms
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20315ms
-vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20445ms
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2099ms
 vless://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔vaslvip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20345ms
 vless://dcd7a24c-530a-4e38-98f8-c62a15d20e35@194.1.155.46:9501?security=none&type=tcp#🔒
