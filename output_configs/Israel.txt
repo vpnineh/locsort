@@ -1,3 +1,4 @@
-ss://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%2092ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔DailyV2ry%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20149ms
-vless://079291d7-2d5a-4dcc-b2a9-514cda7eb9f9@62.60.179.100:54080?security=none&encryption=none&host=cloud.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇦🇪%20AE%2092ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OU1VaWk3VkR3TXFoN0h6@admin.c4.webramz.co:443#🆔DailyV2ry%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2082ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#🆔DailyV2ry%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2082ms
+ss://f2ec531c-9bd4-455a-a208-11f450eff7b0@83.217.9.82:443?security=reality&encryption=none&pbk=4Z6zzKxmpXudictZw81_Kl-ZRpiqMRPdLudKG8Bi52g&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=todoist.com&sid=d36caa39a4cffbeb#🆔DailyV2ry%20🔒%20VL-TCP-%20🇹🇷%20TR%20152ms
+vless://f2ec531c-9bd4-455a-a208-11f450eff7b0@83.217.9.82:443?security=reality&encryption=none&pbk=4Z6zzKxmpXudictZw81_Kl-ZRpiqMRPdLudKG8Bi52g&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=todoist.com&sid=d36caa39a4cffbeb#🆔DailyV2ry%20🔒%20VL-TCP-%20🇹🇷%20TR%20152ms

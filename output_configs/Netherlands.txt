@@ -1,0 +1,2 @@
+ss://0a9b5598-e5c6-5a96-9c37-2a8f1eee2cce@95.215.8.25:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=95.215.8.25&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2087ms
+vless://0a9b5598-e5c6-5a96-9c37-2a8f1eee2cce@95.215.8.25:443?encryption=none&security=tls&sni=zula.ir&fp=chrome&allowInsecure=1&type=ws&host=95.215.8.25&path=%2Fvless#🆔xixv2ray%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2087ms
