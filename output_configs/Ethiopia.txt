@@ -1,2 +1,0 @@
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20162ms
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#🆔neteiran%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20162ms
