@@ -28,6 +28,7 @@ ss://0d280b77-2220-4dde-bc6a-859a668be26b@185.243.49.211:443?security=none&type=
 ss://0db8d780-5354-85bc-8f64-f7b05837b971@109.122.249.165:2086?security=none&type=ws&host=epsilon.node.iran-speed.ir#🔒
 ss://0db8d780-5354-85bc-8f64-f7b05837b971@185.124.175.35:2086?security=none&type=ws&host=epsilon.node.iran-speed.ir#🔒
 ss://0db8d780-5354-85bc-8f64-f7b05837b971@188.212.97.75:2086?security=none&type=ws&host=epsilon.node.iran-speed.ir#🔒
+ss://0e2c33de-0882-4c7a-9343-b05d204216ba@91.99.166.65:80?type=xhttp&path=%2Flunavo-vpn&host=shahin2001lunavo.global.ssl.fastly.net&mode=auto&security=reality&pbk=nuNgT0HxAJ7YZPfM5uYM_-8aDKvCmr9jQpxBUMRjJRE&fp=chrome&sni=aider.chat&sid=39f0afc3&spx=%2F#🆔proxyiranip%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20165ms
 ss://0e61f612-c6e5-4855-9324-30594cc62b66@195.182.38.176:91?security=none&type=tcp&host=Cloudflare.com&path=/&headerType=http#🔒
 ss://0f5bd9ef-cba9-4867-a6cf-028077a3d840@94.232.168.16:30501?security=none&type=tcp#🔒
 ss://1194e0f3-f2a4-46d7-fa68-eb05e0bb9874@95.38.101.22:2087?security=none&type=tcp&host=Speedtest.net&headerType=http#🔒
@@ -60,7 +61,6 @@ ss://1ba0161d-cb3d-4d10-b2ff-72e891687126@94.182.142.10:7074?type=tcp#🔒
 ss://1c224e92-0e96-4aa4-a957-8886b8157d2e@95.38.104.35:2096?security=none&type=tcp&host=soft98.ir&headerType=http#🔒
 ss://1c6a665b-d306-464c-91de-fad0c31469e0@185.215.228.253:4925?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒
 ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8787?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#r%E2%99%A1ya%F0%9F%87%A9%F0%9F%87%AA
-ss://1c88c964-a039-4c9a-b1e5-5e93eef57fd8@91.107.154.77:8787?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 ss://1e2f5e9a-e9b0-4305-dad9-635695aeb1c8@95.38.101.64:443?security=none&type=tcp#🔒
 ss://1e5856d1-ccf2-4513-a176-cf9bd2b34616@angelina.ns.cloudflare.com:443?encryption=none&security=tls&sni=6x1fujrd.testsnew.com&type=ws&alpn=http%2F1.1&host=6x1fujrd.testsnew.com&path=%2Fwss#🆔DailyV2ry%20🔒%20VL-WS-N/A%20🇺🇸%20US%209ms
 ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&security=none&encryption=none&host=pari.parinazz.dpdns.org&type=ws#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇺🇸%20US%202ms
@@ -98,7 +98,6 @@ ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&secur
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.69:51615?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20162ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.206.91:51615?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20113ms
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.207.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3F&headerType=http&type=tcp#🆔xixv2ray%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&encryption=none&host=zula.ir%2F%3FTELEGRAM%40VPN66&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
@@ -306,7 +305,7 @@ ss://6a4194f7-4e5d-4f0e-9b93-9c6593ae2dea@46.100.13.17:4040?security=none&type=w
 ss://6a7d79ea-47d7-4358-b324-7dadb7b5b7c8@v2shop31.bing-net.com:4931?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20364ms
 ss://6b279116-4754-4037-9f90-a18131b312dd@45.159.148.153:80?security=none&type=tcp&host=varzesh3.com&headerType=http#🔒
 ss://6b36f549-0c35-4e9c-ad55-c43a960f7704@193.228.168.43:5519?security=none&type=tcp&host=CCgIG.divarcdn.com,CCgIG.cafebazaar.com,CCgIG.sanjesh.org,CCgIG.rubika.ir,CCgIG.arvancloud.ir&path=%2F&headerType=http#🔒
-ss://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%20114ms
+ss://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%20163ms
 ss://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%20166ms
 ss://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%2095ms
 ss://6bdc18b7-a33f-46ae-a5e3-df7cb21f36b2@91.99.184.231:45103?mode=gun&security=none&encryption=none&type=grpc#🆔vaslvip%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%20163ms
@@ -361,6 +360,7 @@ ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?security=none&encrypt
 ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.187.13:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://7acf3d74-052a-416c-a0ff-eaeaa642847c@85.9.123.170:2086?security=none&type=tcp#🔒
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir%2F%3FTE&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20163ms
+ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.169.206:443?security=none&encryption=none&host=zula.ir%2F%3FTE&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20164ms
 ss://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.238.39:443?type=tcp&path=%2F&host=zula.ir&headerType=http&security=none#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20162ms
 ss://7b9a615e-9597-44bc-a79f-be7119555023@193.151.133.249:2096?security=none&type=tcp&host=speedtest.net&headerType=http#🔒
 ss://7bda027c-cbc8-488f-864f-cfb415cd8d77@157.173.127.227:443?security=reality&encryption=none&pbk=q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=40e3350da285#%40Golestan_VPN%20-%20%20%F0%9F%87%A9%F0%9F%87%AA
@@ -403,10 +403,9 @@ ss://860ad2ac-18b7-4940-8213-1a98c6ab4272@185.213.167.160:1916?security=none&typ
 ss://864e44d5-2cd8-c1e5-966a-4e59474db8b3@81.12.92.231:80?type=ws&host=web.rubika.ir&path=/IVApi/NL/3#🔒
 ss://86c853bd-9a6a-4e7b-aef4-d9ecc148a365@217.219.78.197:44406?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=d03tGmI85ifgn3qaXmf2xNysFi3twhU7fUuqma3Z41w&sid=64694ced#🔒
 ss://86ea1fb6-a7bf-40af-9bf6-a7dc3771e52e@188.212.97.147:6010?security=none&encryption=none&host=traffic-tile.maps.snapp.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20257ms
-ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20227ms
-ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20245ms
 ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20332ms
 ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20453ms
+ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20461ms
 ss://88b7cfdc-1cbb-4f0c-880d-876ace69134e@dev.loadbalance.iranstars-shop.ir:5629?mode=gun&security=reality&encryption=none&authority=&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=firefox&type=grpc&serviceName=nama&sni=refersion.com&sid=b6c24852f86067a6#🆔mrsoulb%20🔒%20VL-GRPC-%20🇩🇪%20DE%20756ms
 ss://88c0434e-fe9e-0472-703f-6ece5411066e@85.133.250.115:443?security=none&type=tcp&host=divarcdn.com&headerType=http#🔒
 ss://88c3aef2-1d9d-4754-92f2-659117b399d6@2.188.224.150:17200?type=ws#🔒
@@ -615,7 +614,6 @@ ss://bdd9b3a0-d57c-4de0-aaa9-53ba0241bffe@193.141.126.163:2020?security=none&typ
 ss://be296aaa-7a1e-4da9-9cfe-a9d9ce6b4198@5.160.109.35:8880?type=ws&path=/#🔒
 ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&encryption=none&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&headerType=none&fp=chrome&type=tcp&sni=dash.cloudflare.com&sid=bf517367267685#🆔xixv2ray%20🔒%20VL-TCP-%20🇮🇷%20IR%20down
 ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.223.6:2080?security=reality&sni=dash.cloudflare.com&type=tcp&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&sid=bf517367267685#🔒
-ss://bec44ac3-a662-4179-a9dd-2aa881706dde@157.173.127.224:443?security=reality&encryption=none&pbk=Ajk0QudeMVQocN88OG14PpsxparFuRJlvqzXDlW-gyQ&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&headerType=none&fp=chrome&type=tcp&sni=analytics.google.com&sid=aba7bc9a#🆔proxyiranip%20🔒%20VL-TCP-%20🇩🇪%20DE%20137ms
 ss://bec7dc06-e535-4281-8caa-fab2953d5937@135.181.201.193:51520?security=none&encryption=none&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇫🇮%20FI%20down
 ss://bf1b2375-51cf-0fae-5e69-3335783223ff@85.133.194.9:44752?security=none&type=tcp&headerType=http#🔒
 ss://bf4d1d83-91eb-4f7e-990f-3ca764eac4bd@www.venzo.com.tr:443?path=%2Fhajmi%3Fed%3D2050&security=tls&encryption=none&alpn=http%2F1.1&host=nb-de.nitter.ir&fp=chrome&type=ws&sni=nitter.ir#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇳🇱%20NL%20409ms
@@ -726,11 +724,11 @@ ss://d99c54fb-2cba-4b0e-b140-beee2fd6ea7b@92.114.19.153:443?security=tls&sni=nv1
 ss://db67312c-8388-470c-a8aa-9995732a6f8d@85.9.99.89:450?security=none&encryption=none&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20310ms
 ss://dc348913-8eec-4535-b9f8-814d63b24301@94.182.83.82:2022?security=none&type=tcp&host=fast.com&headerType=http#🔒
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20576ms
-ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20238ms
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20309ms
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20314ms
-ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20369ms
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20421ms
+ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20442ms
+ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20443ms
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20591ms
 ss://dc58f214-4227-4f58-8090-cbcedf1adeba@holkanas.atroart.ir:52928?security=none&encryption=none&host=canva.com&headerType=http&type=tcp#🆔vaslvip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20319ms
 ss://dcd7a24c-530a-4e38-98f8-c62a15d20e35@194.1.155.46:9501?security=none&type=tcp#🔒
