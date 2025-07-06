@@ -1,4 +1,4 @@
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.214.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
-ss://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.10.214.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&allowInsecure=1&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@5.10.214.254:8880?type=ws&host=yg.bantony199.top&path=%2F#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
-vless://d60fc3c5-9f07-4cdb-b81f-70af27936bdc@5.10.214.247:8880?encryption=none&security=none&sni=ex.sue.x10.mx&allowInsecure=1&type=ws&host=ex.sue.x10.mx&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
+ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%202ms

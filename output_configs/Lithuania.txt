@@ -1,2 +1,0 @@
-ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@88.216.69.3:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇱🇹%20LT%201ms
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@88.216.69.3:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔xixv2ray%20🔓%20VL-WS-N/A%20🇱🇹%20LT%201ms
