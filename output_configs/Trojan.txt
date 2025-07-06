@@ -1,1 +1,0 @@
-trojan://6gZh2JbfhQ@104.248.18.1:1935?security=tls&headerType=&type=tcp&sni=x1-germany-digitalocean-v2.devefun.org#🆔shadowproxy66%20🔒%20TR-TCP-N/A%20🇩🇪%20DE%2091ms
