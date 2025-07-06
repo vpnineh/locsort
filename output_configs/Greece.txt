@@ -1,2 +1,2 @@
-ss://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🆔DailyV2ry%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20200ms
-vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🆔DailyV2ry%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20200ms
+ss://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🆔DailyV2ry%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20331ms
+vless://e3ad2103-0f2d-4926-bc46-562dd3fbd3ba@212.86.94.176:31388?mode=gun&security=none&encryption=none&type=grpc&serviceName=#🆔DailyV2ry%20🔓%20VL-GRPC-N/A%20🇮🇷%20IR%20331ms

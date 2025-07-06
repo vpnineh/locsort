@@ -1,1 +1,0 @@
-trojan://7cf2d310-489f-11f0-8746-1239d0255272@15.204.234.166:443?security=tls&sni=usa.test3.net&type=tcp&allowInsecure=1#🆔DailyV2ry%20🔒%20TR-TCP-N/A%20🇺🇸%20US%207ms

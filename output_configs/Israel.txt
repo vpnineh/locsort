@@ -1,8 +1,6 @@
-ss://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#🆔DailyV2ry%20🔒%20VL-TCP-%20🇵🇹%20PT%20335ms
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%205ms
-ss://d56a5f79-b198-4146-a372-2bb57ca738f4@NLpizza.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20315ms
-vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#🆔DailyV2ry%20🔒%20VL-TCP-%20🇵🇹%20PT%20335ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%206ms
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%205ms
-vless://d56a5f79-b198-4146-a372-2bb57ca738f4@NLpizza.kuckenpq.ir:8880?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔DailyV2ry%20🔓%20VL-TCP-N/A%20🇳🇱%20NL%20315ms
+ss://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#🆔DailyV2ry%20🔒%20VL-TCP-%20🇵🇹%20PT%20484ms
+ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%201ms
+ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%202ms
+vless://2831b7d5-2cdd-4684-b44e-8ea6d27e8495@Fv.samiion73.ir:13469?type=tcp&security=reality&pbk=ZHQfz5WHmc4qKTjhTw14EU2yaW-TokHCeR9NiJek_2s&fp=chrome&sni=chatgpt.com&sid=f49785945765b595&spx=%2F#🆔DailyV2ry%20🔒%20VL-TCP-%20🇵🇹%20PT%20484ms
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.80.254:8880?type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%201ms
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.251.81.254:8880?security=none&type=ws&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#🆔DailyV2ry%20🔓%20VL-WS-N/A%20🇪🇸%20ES%202ms
