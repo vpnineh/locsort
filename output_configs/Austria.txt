@@ -1,4 +1,4 @@
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-16-TIR-1404
-ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%202ms
+ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%201ms
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-16-TIR-1404
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%202ms
+vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%201ms
