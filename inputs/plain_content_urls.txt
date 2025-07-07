@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/vpnineh/tlgrm/refs/heads/main/subscription/normal/mix
+https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP
 https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt
 https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt
 https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt
