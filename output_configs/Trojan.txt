@@ -1,2 +1,1 @@
-trojan://3770966768580042752@bursting-bunny.goat627.mom:443?allowInsecure=1&sni=bursting-bunny.goat627.mom#@v2Source🇩🇪🌍
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.128.1:2096?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=vle.amclubdns.dpdns.org&path=%2F%3FPROT_TYPE%3Dtrojan&sni=vle.amclubdns.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_2%20%7C%20%E2%AC%87%EF%B8%8F%205.8MB/s
