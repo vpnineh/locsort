@@ -1,2 +1,0 @@
-ss://bb28cfcd-c3d0-4866-bb0a-c3fd86b0ec12@91.199.27.118:6531?encryption=auto&security=none&type=tcp#%F0%9F%94%92%20VM-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.199.27.118:6531
-vmess://bb28cfcd-c3d0-4866-bb0a-c3fd86b0ec12@91.199.27.118:6531?encryption=auto&security=none&type=tcp#%F0%9F%94%92%20VM-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.199.27.118:6531

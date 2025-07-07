@@ -1,2 +1,0 @@
-ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9
-vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9

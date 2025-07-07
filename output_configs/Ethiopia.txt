@@ -1,8 +1,0 @@
-ss://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(4)
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(1)
-ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&headerType=http&host=zula.ir%2F%3FTELEGRAM%40VPN66&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(2)
-ss://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?encryption=none&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA
-vless://153ee04c-dcc1-4ef8-a146-8fb31cec1f48@91.99.205.56:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(4)
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(1)
-vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?encryption=none&headerType=http&host=zula.ir%2F%3FTELEGRAM%40VPN66&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA%20(2)
-vless://7a66b8ef-9713-4b69-b839-6bb45070af35@91.99.130.239:443?encryption=none&headerType=http&host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&security=none&type=tcp#@AblNet7%20%F0%9F%87%A9%F0%9F%87%AA

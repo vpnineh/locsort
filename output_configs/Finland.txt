@@ -1,4 +1,0 @@
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&security=tls&sni=local.rogsoftwaregroup.com&type=tcp#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE%20%DB%B2
-ss://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&security=tls&sni=app.chandplus.com&type=tcp#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE%20%DB%B1
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&security=tls&sni=local.rogsoftwaregroup.com&type=tcp#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE%20%DB%B2
-vless://fa72a38c-56bf-4f3b-9735-e96e9840ae54@65.109.118.175:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&security=tls&sni=app.chandplus.com&type=tcp#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE%20%DB%B1

@@ -1,2 +1,0 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.12.31.227:443?alpn=h2&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&type=grpc#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%B7%F0%9F%87%B4%20RO-45.12.31.227:443
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.12.31.227:443?alpn=h2&encryption=none&security=tls&sni=pqh36v4.hiddendom.shop&type=grpc#%F0%9F%94%92%20VL-GRPC-TLS%20%F0%9F%87%B7%F0%9F%87%B4%20RO-45.12.31.227:443

@@ -1,8 +1,0 @@
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.249.115:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.80.243:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(3)
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(2)
-ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.150.163:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(1)
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.16.249.115:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.80.243:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(3)
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.18.86.131:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(2)
-vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.19.150.163:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=zzz-eff.pages.dev&path=%2F&security=tls&sni=zzz-eff.pages.dev&type=ws#CMCC%20(1)
