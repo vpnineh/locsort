@@ -1,0 +1,2 @@
+ss://e0da40c6-4cfb-4147-80e8-fab1dccc2712@tr.france-learns.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=zula.ir&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://e0da40c6-4cfb-4147-80e8-fab1dccc2712@tr.france-learns.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=zula.ir&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
