@@ -230,6 +230,7 @@ vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.133.233:443?type=ws&host=de
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.134.234:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%7CAa64n%7C1403-05-26
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.138.232:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%F0%9F%87%A9%F0%9F%87%AA%20Aa64n
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.67.159.165:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%7CAa64n%7C1403-05-26
+vless://9e876ddd-97f0-472f-b825-e450800ba28a@good.srvice.shop:5050?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇩🇪%20DE%20245ms
 vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 vless://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20%E2%80%A6%E2%84%A2%20
@@ -294,7 +295,7 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@190.93.244.18:443?type=ws&host=BPB-
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.227.39.183:443?type=ws&host=bpb-a-mONTh-aFTeR-jUly.PAges.Dev&path=/mHso9bgMMU61Nb8B?ed%3D2560&security=tls&fp=randomized&sni=BPb-A-moNTH-aFteR-julY.PaGEs.dEV&alpn=h2,http/1.1#Aa64n
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@fbi.gov:443?flow=&type=ws&host=bPb-aFTer-july.NScl.Ir&path=/ogpFzsY1MXoyH2Wp?ed%3D2560&security=tls&fp=chrome&sni=BPB-AfTEr-JuLy.NScL.IR&alpn=h2,http/1.1&allowInsecure=false#Clean%20IP%E2%87%A2%20Aa64n:%20443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@midsummer-bpb.pages.dev:443?flow=&type=ws&host=mIdSUmMEr-BpB.paGeS.Dev&path=/7kp4FlrI8hZ4HLED?ed%3D2560&security=tls&fp=chrome&sni=MiDsummER-bPb.PAGES.DeV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇧🇯
-vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20176ms
+vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20102ms
 vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20210ms
 vless://ca38077f-01fb-471b-bee8-56a3dbc3fb82@aa64n-sarems.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=aa64n-sarems.rhyljiti.workers.dev&fp=randomized&type=ws&host=aa64n-sarems.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇺🇳
 vless://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
