@@ -1,4 +1,2 @@
-ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-16-TIR-1404
-ss://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%202ms
-vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#🔄%20LATEST-UPDATE%20📅%20Mon-16-TIR-1404
-vless://b0e6a2c9-e667-4e42-9cb3-77d7db3e736b@212.183.88.91:443?path=%40bypass_filter%2F&security=tls&encryption=none&host=bypass-filter.vikzrcqt.workers.dev&type=ws&sni=bypass-filter.vikzrcqt.workers.dev#🆔ai_duet%20🔒%20VL-WS-N/A%20🇦🇹%20AT%202ms
+ss://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9
+vless://bea34b73-3244-475b-b914-7bb80e1cda91@62.60.222.158:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9

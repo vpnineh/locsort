@@ -1,4 +1,2 @@
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%203ms
-ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%203ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.73:8880?path=%2F&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%203ms
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=%2FTelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🆔ai_duet%20🔓%20VL-WS-N/A%20🇦🇲%20AM%203ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZndxdHZkdVNZOVFnemhQcGhGRXpz@h110vpnnl.outlinekeys.net:52571#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam,%20NH,%20The%20Netherlands%20(11)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSMlVHYWQ2MUZHTzU@194.87.31.68:443#%F0%9F%87%B3%F0%9F%87%B1%20Amsterdam,%20NH,%20The%20Netherlands%20(20)

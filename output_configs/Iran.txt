@@ -1,2 +1,2 @@
-ss://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔anty_vpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20290ms
-vless://77e6e498-98e4-4a0b-93cb-8e2c117c0ad3@81.12.96.39:22631?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🆔anty_vpn%20🔓%20VL-TCP-N/A%20🇮🇷%20IR%20290ms
+ss://bb28cfcd-c3d0-4866-bb0a-c3fd86b0ec12@91.199.27.118:6531?encryption=auto&security=none&type=tcp#%F0%9F%94%92%20VM-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.199.27.118:6531
+vmess://bb28cfcd-c3d0-4866-bb0a-c3fd86b0ec12@91.199.27.118:6531?encryption=auto&security=none&type=tcp#%F0%9F%94%92%20VM-TCP-NA%20%F0%9F%87%AE%F0%9F%87%B7%20IR-91.199.27.118:6531

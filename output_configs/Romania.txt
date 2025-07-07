@@ -1,0 +1,2 @@
+ss://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?allowInsecure=1&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&mode=stream-one&path=%2Ftas&security=tls&sni=mahsa.tas-bazi.com&type=xhttp#proxy
+vless://4e0a435a-65d6-4e4e-a4ed-dfa8bdd732f5@www.speedtest.net:443?allowInsecure=1&alpn=h2&encryption=none&host=mahsa.tas-bazi.com&mode=stream-one&path=%2Ftas&security=tls&sni=mahsa.tas-bazi.com&type=xhttp#proxy

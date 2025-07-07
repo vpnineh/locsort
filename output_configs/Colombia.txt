@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#🆔ai_duet%20🔒%20SS-TCP-TLS%20🇨🇴%20CO%20164ms
+ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@194.76.18.254:8880?encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20(71)
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@194.76.18.254:8880?encryption=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20(71)
