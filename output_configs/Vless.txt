@@ -81,7 +81,6 @@ vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@194.76.18.254:8880?encryption=none&
 vless://36ee3f5a-3816-4c03-a324-47531167e53b@91.99.170.191:443?type=tcp&headerType=http&host=zula.ir&security=none#@Aa64n_0507
 vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/r3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€velss
 vless://39136329-6481-40ec-b9e3-72cbaae2d400@92.246.139.182:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=github.com&pbk=C77mWXCK8T47d5c3Dyqjlqr4AJsWozMxhYhhq_GwQj8&sid=2c229e23f30b9a13#Aa64n%20%E2%9C%85%F0%9F%87%AE%F0%9F%87%B7
-vless://3e032a0f-b397-408e-8cc9-f428634612d9@91.99.123.99:26892?security=&encryption=none&host=exo.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20138ms
 vless://3fedbd26-b4da-440e-9f7c-004d2463caec@172.67.60.20:443?type=ws&host=old-sun-8028.amiralinorozjam.workers.dev&path=/DisVpn.us.kg&security=tls&fp=chrome&sni=old-sun-8028.amiralinorozjam.workers.dev&alpn=h2,http/1.1#Aa64n🇭🇰
 vless://469d5947-c716-40d2-8b39-0f2336660644@de.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.ScHOOLcLAsSROOm.Ir.&type=ws#A.a.6.4.n
 vless://4d7d34d8-7582-4f0d-922b-ea0be312395b@tools.mobincloud.site:2086?security=none&type=httpupgrade&headerType=&path=341speedtest.net.xn--c1akkolql&host=https.upGrade8441.gOOgle.com.www.spEEdtest.net.wWw.spEEdtest.net.heSAmhehehe.IR.#CDN-Aa64n-IRANCELL
@@ -106,6 +105,7 @@ vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?type=ws&host=rub
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 vless://7badaf60-d3a6-4c7b-8a0e-c8a0bfb49f3a@vless.irani-node.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=oZQg2GnX8vAV8g9BWWr1bF4mwtGQClb8VGkRMjZaMms&security=reality&sid=2c1739c1-d577-4a1f-b5f0-ffb0c1c76fcf&sni=www.cloudflare.com&type=tcp#%DB%B3%20%F0%9F%9B%9F
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
+vless://7dfe125d-806d-4e5a-a91c-bcc2020ef7be@91.99.238.186:31015?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
@@ -193,7 +193,6 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8080?type=ws&host
 vless://8e3f5bc0-1f7f-4bc5-a0a1-78b6d509e6b9@free.vlesscdn.net:443?alpn=http%2F1.1&encryption=none&host=cdn.cloudflare.com&path=%2Fchat&security=tls&sni=cdn.cloudflare.com&type=ws#%DB%B4%20%F0%9F%9B%9F
 vless://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
-vless://913a8cd8-11ab-4d16-a6f7-c7b88d7a592e@91.99.194.113:10195?security=&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20122ms
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@all2.itdshop.cfd:2095?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n-2095
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%202
@@ -295,8 +294,8 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@190.93.244.18:443?type=ws&host=BPB-
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@23.227.39.183:443?type=ws&host=bpb-a-mONTh-aFTeR-jUly.PAges.Dev&path=/mHso9bgMMU61Nb8B?ed%3D2560&security=tls&fp=randomized&sni=BPb-A-moNTH-aFteR-julY.PaGEs.dEV&alpn=h2,http/1.1#Aa64n
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@fbi.gov:443?flow=&type=ws&host=bPb-aFTer-july.NScl.Ir&path=/ogpFzsY1MXoyH2Wp?ed%3D2560&security=tls&fp=chrome&sni=BPB-AfTEr-JuLy.NScL.IR&alpn=h2,http/1.1&allowInsecure=false#Clean%20IP%E2%87%A2%20Aa64n:%20443
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@midsummer-bpb.pages.dev:443?flow=&type=ws&host=mIdSUmMEr-BpB.paGeS.Dev&path=/7kp4FlrI8hZ4HLED?ed%3D2560&security=tls&fp=chrome&sni=MiDsummER-bPb.PAGES.DeV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇧🇯
+vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20138ms
 vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20155ms
-vless://c742a2e6-d565-4eed-bef6-16050d3dc0ed@t1.tehrandatacloud.site:2089?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20162ms
 vless://ca38077f-01fb-471b-bee8-56a3dbc3fb82@aa64n-sarems.rhyljiti.workers.dev:443?encryption=none&security=tls&sni=aa64n-sarems.rhyljiti.workers.dev&fp=randomized&type=ws&host=aa64n-sarems.rhyljiti.workers.dev&path=%2F%3Fed%3D2048#Aa64n🇺🇳
 vless://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
 vless://cf8cf683-40fa-4cd3-93cd-820071b11c90@172.66.47.120:443?type=ws&host=8b181044.BpBpANnelPaGEs.pages.dEV&path=/qc748XfWS1Zimr8H?ed%3D2560&security=tls&fp=randomized&sni=8B181044.BPBPannelpageS.paGes.DEv&alpn=h2,http/1.1#Aa64n+4
