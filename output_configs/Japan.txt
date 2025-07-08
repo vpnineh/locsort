@@ -1,5 +1,7 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
+ss://b6254eaf-67d5-468d-9815-852113b33c71@43.207.77.69:62293?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F2Wyu9g57p3SQbYjaHK61ckrWtLMEmwUbe3n5ViQ8gA&security=reality&sni=www.iij.ad.jp&type=tcp#AWSJP%E5%91%A8%E6%B6%A6%E5%8F%91
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 vless://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
+vless://b6254eaf-67d5-468d-9815-852113b33c71@43.207.77.69:62293?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F2Wyu9g57p3SQbYjaHK61ckrWtLMEmwUbe3n5ViQ8gA&security=reality&sni=www.iij.ad.jp&type=tcp#AWSJP%E5%91%A8%E6%B6%A6%E5%8F%91
