@@ -1,12 +1,2 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%AC%F0%9F%87%B6
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B3%7CIN%7C@wxgqlfx%7C65
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.148.106.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C@wxgqlfx%7C38
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C@wxgqlfx%7C29
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@188.42.89.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C@wxgqlfx%7C46
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.243.75.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%7CSG%7C@wxgqlfx%7C28
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%AC%F0%9F%87%B6
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@103.245.228.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B3%7CIN%7C@wxgqlfx%7C65
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.148.106.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%7CRU%7C@wxgqlfx%7C38
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@185.16.110.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%7CFR%7C@wxgqlfx%7C29
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@188.42.89.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B1%F0%9F%87%BA%7CLU%7C@wxgqlfx%7C46
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.243.75.254:8880?encryption=none&host=yg.bantony199.top&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AC%7CSG%7C@wxgqlfx%7C28
