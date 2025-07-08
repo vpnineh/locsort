@@ -5,10 +5,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://a9a195f1-d09e-4923-8fd2-402a412d8130@en-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%862
-ss://e0da40c6-4cfb-4147-80e8-fab1dccc2712@gb.france-learns.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=journalofbigdata.springeropen.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AC%F0%9F%87%A7%20UK%E2%9E%81
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://12169c56-03ef-49c4-8604-2a579179e128@en-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 vless://a9a195f1-d09e-4923-8fd2-402a412d8130@en-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%862
-vless://e0da40c6-4cfb-4147-80e8-fab1dccc2712@gb.france-learns.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=journalofbigdata.springeropen.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AC%F0%9F%87%A7%20UK%E2%9E%81
