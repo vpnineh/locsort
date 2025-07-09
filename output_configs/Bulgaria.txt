@@ -1,6 +1,4 @@
 ss://12169c56-03ef-49c4-8604-2a579179e128@bg-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%A7%F0%9F%87%AC%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
-ss://a9a195f1-d09e-4923-8fd2-402a412d8130@bg-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%A7%F0%9F%87%AC%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86
 vless://12169c56-03ef-49c4-8604-2a579179e128@bg-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%A7%F0%9F%87%AC%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@bg-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%A7%F0%9F%87%AC%D8%A8%D9%84%D8%BA%D8%A7%D8%B1%D8%B3%D8%AA%D8%A7%D9%86

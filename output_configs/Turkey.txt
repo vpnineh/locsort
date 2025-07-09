@@ -1,8 +1,8 @@
-ss://12169c56-03ef-49c4-8604-2a579179e128@tr-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+ss://12169c56-03ef-49c4-8604-2a579179e128@188.121.121.89:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%872
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
-ss://a9a195f1-d09e-4923-8fd2-402a412d8130@tr-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-vless://12169c56-03ef-49c4-8604-2a579179e128@tr-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+ss://a9a195f1-d09e-4923-8fd2-402a412d8130@188.121.121.89:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+vless://12169c56-03ef-49c4-8604-2a579179e128@188.121.121.89:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%872
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@tr-vip.digitalldns.net:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+vless://a9a195f1-d09e-4923-8fd2-402a412d8130@188.121.121.89:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
