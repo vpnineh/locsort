@@ -39,5 +39,6 @@ trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj675
 trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
 trojan://ttfang@13.229.159.215:443?allowInsecure=1&path=%2F&sni=ttfang.fange.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_52%20%7C%20%E2%AC%87%EF%B8%8F%2011.9MB/s
+trojan://ttfang@192.131.142.161:46639?path=%2F&security=tls&host=ttfang.fange.me&type=ws&sni=ttfang.fange.me#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://ttfang@47.245.91.197:9000?host=ttfang.fange.me&path=%2F&sni=ttfang.fange.me&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
 trojan://xNbIgqGHQk@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan4
