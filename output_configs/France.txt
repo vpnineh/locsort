@@ -3,13 +3,13 @@ ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerTyp
 ss://7555c139-5ab4-406a-b7dd-b405ce635ee0@paris.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@join.vpncustomize.vpncustomize.reziazaran.ir:443#1%20gb%E2%9C%A8%20@Vpnfreak%20%7C%20%F0%9F%94%92%20%7C%20%F0%9F%8C%90%20%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%60
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
+ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20118ms
 ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20261ms
-ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20269ms
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
 vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%AB%F0%9F%87%B7%20FR%204
 vless://7555c139-5ab4-406a-b7dd-b405ce635ee0@paris.aparat-movies-download.ir:4450?flow=xtls-rprx-vision&type=tcp&security=reality&fp=safari&sni=zhaket.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
+vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20118ms
 vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20261ms
-vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20269ms
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImYua2hpbGVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGcmFuY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiZi5raGlsZWkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
