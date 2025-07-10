@@ -5,13 +5,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@join.vpncustomize.vpnc
 ss://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%DB%B1
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20145ms
-ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20170ms
+ss://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20274ms
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
 vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
 vless://546cc913-2825-4771-b713-a23905913141@104.18.26.90:2096?alpn=h3h2&encryption=none&host=638874931195949050.kish-prx-dnraaaf.info&path=%2Fwjwqzaws&security=tls&sni=638874931195949050.kish-prx-dnraaaf.info&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%AB%F0%9F%87%B7%20FR%204
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20145ms
-vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20170ms
+vless://d76db768-0a25-49a2-94d6-4801159fd124@seif.ichimokutrader.org:38324?security=none&encryption=none&host=france24.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20274ms
 vmess://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%DB%B1
 vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImYua2hpbGVpLmNvTSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJGcmFuY2UiLCJzY3kiOiJhdXRvIiwic25pIjoiZi5raGlsZWkuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
