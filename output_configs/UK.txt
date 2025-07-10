@@ -1,12 +1,10 @@
-ss://12169c56-03ef-49c4-8604-2a579179e128@37.152.189.81:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
-ss://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
+ss://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
-vless://12169c56-03ef-49c4-8604-2a579179e128@37.152.189.81:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=www.speedtest.net&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
+vless://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86
