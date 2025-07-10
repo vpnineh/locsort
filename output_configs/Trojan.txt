@@ -9,7 +9,6 @@ trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193#@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://78ad2258-088d-11f0-8eab-f23c91cfbbc9@183.240.179.89:31253#%F0%9F%87%BA%F0%9F%87%B8US_4%20%7C%20%E2%AC%87%EF%B8%8F%2013.2MB/s
-trojan://8_%5DO5ff+7.%5D_@172.66.44.124:8443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trjPvcl8zOFnUEwKAL?ed%3D2560&security=tls&fp=randomized&sni=stf839dVvyOg9d2qa4-B8z6AhGN7b7qI.PAges.Dev&alpn=http/1.1&allowInsecure=false#IPv4%20:%208443
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://94cf288d-f764-4ce9-a547-a7228144f056@gercdn.bm04.xyz:2053?alpn=h3%2Ch2%2Chttp%2F1.1&path=%2Fproject%2Factivity%2Fws%2F&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_89%20%7C%20%E2%AC%87%EF%B8%8F%209.8MB/s
