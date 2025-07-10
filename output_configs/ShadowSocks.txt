@@ -655,6 +655,7 @@ ss://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?encryption=none&he
 ss://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#🤖
 ss://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 ss://af5a0d0c-c898-4a51-ba6a-47179d483e41@91.99.158.148:52262?encryption=auto&security=none&type=tcp#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
+ss://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%DB%B1
 ss://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20
 ss://b01c7ef9-33ec-41f6-bfbf-77ddc4d21649@94.136.185.230:10534?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B3%20(2)
 ss://b1a8ceea-6601-45b5-a674-7e5b64ab6f6f@162.159.129.11:2053?type=ws&host=sub.divib.dynv6.net&path=/?ed%3D2560&security=tls&fp=chrome&sni=sub.divib.dynv6.net#Aa64n-0419
