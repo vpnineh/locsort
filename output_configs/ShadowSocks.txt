@@ -168,7 +168,7 @@ ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&host=z
 ss://214424d8-99e0-46fe-82ff-7128ef45d126@143.14.220.111:25888?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eHaAkgZIfsYhrH_0HCj07-Vbd7nrMHnnAa663_969DA&security=reality&sid=be1be5fc&sni=www.samsung.com&type=tcp#Join+Telegram:@Farah_VPN%20(18)
 ss://22477fe4-249e-4c18-8986-74b0f1f0657e@vip1.proxystore11.news:2052?mode=auto&path=%2Fprx11&security=reality&encryption=none&pbk=-4S95rjoZIG_AeUxIlwedx89e7C_X4jnePY3RsiF4io&fp=chrome&spx=%2F&type=xhttp&sni=vultr.com&sid=f8fcb589#🆔asrnovin_ir%20🔒%20VL-XHTTP-%20🇩🇪%20DE%20105ms
 ss://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ensHOLP-91s.pageS.DEv&path=%2FdQMN2VQLkaE52qWD&security=tls&sni=ensHOLP-91s.pageS.DEv&type=ws
-ss://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20124ms
+ss://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20158ms
 ss://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20184ms
 ss://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?encryption=none&host=xcvfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&sni=XCVFgT6.890606.XYz&type=ws#Join+Telegram:@Farah_VPN%20(73)
 ss://28c04c47-3228-595c-be73-00b75038bb6c@91.99.176.57:2025?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&security=reality&sid=85decdebbcf6c7bb&sni=yahoo.com&type=tcp#Join+Telegram:@Farah_VPN%20(9)
@@ -193,7 +193,7 @@ ss://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turk
 ss://39136329-6481-40ec-b9e3-72cbaae2d400@92.246.139.182:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=github.com&pbk=C77mWXCK8T47d5c3Dyqjlqr4AJsWozMxhYhhq_GwQj8&sid=2c229e23f30b9a13#Aa64n%20%E2%9C%85%F0%9F%87%AE%F0%9F%87%B7
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20106ms
-ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20168ms
+ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20214ms
 ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@tr.panelmarzban.com:3036?encryption=none&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&security=reality&sni=refersion.com&type=tcp#Join+Telegram:@Farah_VPN%20(44)
 ss://3d554bba-9c77-499f-9055-1eb42058ed00@892389823.webnama.com.tr:1517?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@meli_proxyy%20(12)
 ss://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20104ms
@@ -243,7 +243,6 @@ ss://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@89.116.46.78:8880?ed=2560&eh=Sec-WebSo
 ss://418048af-a293-4b99-9b0c-98ca3580dd24@47.104.186.133:50002?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3%20(1)
 ss://418048af-a293-4b99-9b0c-98ca3580dd24@47.116.166.178:50002?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3%20(2)
 ss://418048af-a293-4b99-9b0c-98ca3580dd24@47.92.152.169:50002?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
-ss://4432ed67-5714-42b3-b92a-345be16ec596@hh.green1.sbs:9808?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20223ms
 ss://453aeace-638f-441e-98cd-6dbab6e0c75e@143.198.196.86:80?encryption=none&security=none&type=tcp
 ss://469d5947-c716-40d2-8b39-0f2336660644@de.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.ScHOOLcLAsSROOm.Ir.&type=ws#A.a.6.4.n
 ss://47e9a0db-50c6-4522-8819-502c55b06dde@159.112.235.174:2082?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=workerr.schodog1.workers.dev&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_68%20%7C%20%E2%AC%87%EF%B8%8F%2015.9MB/s
@@ -664,8 +663,8 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%20%F0%9F%87%B3%F0%9F%8
 ss://YWVzLTEyOC1nY206Wk1PbUNjS2V3NW9Ed3JuQ2c4T01Yc09Vd292Q2hVbFV3cGJDbjhPeXc2N0RtMTg2RXNPVUtnVlZ3NnQxR3NPcnc2QT0@156.226.173.104:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0%20(1)
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
 ss://YWVzLTEyOC1nY206YmlhLS1aRURNT0RFT04=@45.145.42.70:25367?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%A9%F0%9F%87%AA%20DE%20106ms
-ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20126ms
 ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20140ms
+ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇫🇷%20FR%20152ms
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(28)
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.18:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.18-0292
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#%F0%9F%87%BB%F0%9F%87%B3VN-103.186.154.19-3118
@@ -732,8 +731,6 @@ ss://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?encryption=none&path=%
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
 ss://a75f3f95-ad4e-4498-fc72-dd740dd02bfc@46.250.243.56:50394?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7%20(14)
 ss://a7c9c017-db10-4d15-b01b-0634db498b57@172.67.197.165:443?alpn=http%2F1.1&encryption=none&host=xcdvfgbnhu7.0890604.xyz&path=%2FxZjr7v1DqrYyamxeTh7sLJtI1&security=tls&sni=XcdvfGBnHU7.0890604.XyZ&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_53%20%7C%20%E2%AC%87%EF%B8%8F%2013.9MB/s
-ss://a9585e6f-edd3-4043-bb14-edf5bb0d1dfa@v2rex.sanaei.milxbywkaiwnx.xyz:14985?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20135ms
-ss://a9585e6f-edd3-4043-bb14-edf5bb0d1dfa@v2rex.sanaei.milxbywkaiwnx.xyz:14985?type=tcp&security=none#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20238ms
 ss://a96cb093-b164-4bc6-bd27-deb0e385de07@104.21.42.93:443?encryption=none&host=eeeeeeeeed.999864.xyz&path=%2F3zsSOohi9huFfjEPpIlRig3qizHXb&security=tls&sni=EEeeeEeEEd.999864.xyZ&type=ws#@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(3)
 ss://a9a195f1-d09e-4923-8fd2-402a412d8130@185.226.119.16:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 ss://a9a195f1-d09e-4923-8fd2-402a412d8130@188.121.121.89:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
