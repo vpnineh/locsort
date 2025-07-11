@@ -16,10 +16,9 @@ ss://119c0dae-7113-4b8e-bab2-66d659230a7a@trevor.ns.cloudflare.com:443?type=ws&h
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
-ss://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?alpn=h3&encryption=none&host=nginx-z.pages.dev&path=%2F&security=tls&sni=NGINX-Z.pages.DEV&type=ws#t.me/peterjest
 ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
-ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest
+ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest%20(1)
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://e917db16-e9b4-4aa7-8a77-617f5e82f1f8@104.17.221.248:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=816tg.3wzxh3.workers.dev&path=%2F&security=none&type=ws#%E2%9D%93Other_1%20%7C%20%E2%AC%87%EF%B8%8F%2014.1MB/s
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.218.29:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F&security=none&type=ws#%E2%9D%93Other_2%20%7C%20%E2%AC%87%EF%B8%8F%2012.3MB/s
@@ -45,10 +44,9 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@trevor.ns.cloudflare.com:443?type=w
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
-vless://75fde681-ec64-4654-86fa-30732e8e179c@62.3.12.185:443?alpn=h3&encryption=none&host=nginx-z.pages.dev&path=%2F&security=tls&sni=NGINX-Z.pages.DEV&type=ws#t.me/peterjest
 vless://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
-vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest
+vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest%20(1)
 vless://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 vless://e917db16-e9b4-4aa7-8a77-617f5e82f1f8@104.17.221.248:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=816tg.3wzxh3.workers.dev&path=%2F&security=none&type=ws#%E2%9D%93Other_1%20%7C%20%E2%AC%87%EF%B8%8F%2014.1MB/s
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@45.159.218.29:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=hk.laoyoutiao.link&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40MxlShare%2520%40WangCai2%2520%2F&security=none&type=ws#%E2%9D%93Other_2%20%7C%20%E2%AC%87%EF%B8%8F%2012.3MB/s

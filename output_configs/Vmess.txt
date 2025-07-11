@@ -6,9 +6,9 @@ vmess://512d9674-db12-44ca-a1b5-654244549b65@xcvBnMjKi.999824.xyZ:443?encryption
 vmess://7701ddf5-6a48-401b-a3ec-8af52b6deb48@FffvvVbnhJui8.222560.XYz:443?encryption=auto&host=FffvvVbnhJui8.222560.XYz&path=%2FmlyR5tmcKx3hweBopuhWEbIX&security=tls&sni=FffvvVbnhJui8.222560.XYz&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(16)
 vmess://a4e8ec0a-75d0-4fc5-837a-4973ed3a9d3e@sSsdCVfBGNjkI.931.PP.Ua:443?encryption=auto&host=sSsdCVfBGNjkI.931.PP.Ua&path=%2F14Fziqw1hYgCXNutkS5H&security=tls&sni=sssdcvfbgnjki.931.pp.ua&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(13)
 vmess://a75f3f95-ad4e-4498-fc72-dd740dd02bfc@46.250.243.56:50394?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7%20(14)
+vmess://aae9a898-82c1-411c-9d92-b88677f3b664@188.227.84.174:2096?encryption=auto&headerType=http&host=zula.ir&security=none&type=tcp#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%A7%8A
 vmess://af5a0d0c-c898-4a51-ba6a-47179d483e41@91.99.158.148:52262?encryption=auto&security=none&type=tcp#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
-vmess://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%DB%B1
-vmess://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20
+vmess://af5a0d0c-c898-4a51-ba6a-47179d483e41@ee1.daallygold.com:52262?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(4)
 vmess://b01c7ef9-33ec-41f6-bfbf-77ddc4d21649@94.136.185.230:10534?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B3%20(2)
 vmess://cbb3f877-d1fb-344c-87a9-d153bffd5484@v37.heduian.link:30837?encryption=auto&host=v37.heduian.link&path=%2Foooo&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_5%20%7C%20%E2%AC%87%EF%B8%8F%208.2MB/s
 vmess://cc31ddfc-d92e-4dab-cd06-00dfb84af8ac@103.124.107.144:29800?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(14)
