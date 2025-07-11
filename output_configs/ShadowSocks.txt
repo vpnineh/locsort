@@ -197,8 +197,8 @@ ss://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turk
 ss://39136329-6481-40ec-b9e3-72cbaae2d400@92.246.139.182:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=github.com&pbk=C77mWXCK8T47d5c3Dyqjlqr4AJsWozMxhYhhq_GwQj8&sid=2c229e23f30b9a13#Aa64n%20%E2%9C%85%F0%9F%87%AE%F0%9F%87%B7
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@104.26.0.117:2053?encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#CA_2993_@Surfboardv2ray
+ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20149ms
 ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20169ms
-ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@fr.marzban-locations.com:3032?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇩🇪%20DE%20170ms
 ss://3d1622e6-7ac5-4715-b635-7bd542e0a70b@tr.panelmarzban.com:3036?encryption=none&fp=chrome&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&security=reality&sni=refersion.com&type=tcp#Join+Telegram:@Farah_VPN
 ss://3d554bba-9c77-499f-9055-1eb42058ed00@892389823.webnama.com.tr:1517?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@meli_proxyy%20(12)
 ss://3d554bba-9c77-499f-9055-1eb42058ed00@99823232.webnama.com.tr:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20193ms
@@ -627,7 +627,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7%20(8)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443?type=tcp#Aa64n-0414
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1UVM1bnRWcUMwMHNTS2tlTnpVaUQz@89.23.103.125:42090#Aa64n🇳🇵
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5clp0VUVsR2hMOHhmZWFOMGhJSXpR@193.228.139.250:1080#🆔mrsoulb%20🔒%20SS-TCP-TLS%20🇩🇪%20DE%20115ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBY0dGRXNNUjZjMDdUeHV4@admin.c2.havij.co:443?type=tcp#Aa64n-0414
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@85.210.120.237:443#%F0%9F%87%BA%F0%9F%87%B8US_6%20%7C%20%E2%AC%87%EF%B8%8F%209.2MB/s
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@admin.c3.webramz.co:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7%20(7)
