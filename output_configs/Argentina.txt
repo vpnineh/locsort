@@ -78,8 +78,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%9
 ss://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?encryption=none&headerType=http&host=eN.TwiTtER.cOM.%3A8880&security=none&type=tcp#Join+Telegram:@Farah_VPN%20(57)
 ss://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.220.32:443?alpn=http%2F1.1&encryption=none&host=rrrfghy7.999836.xyz&path=%2FMIrEVIUviSe8ydvnmRKWDa8&security=tls&sni=RRRFGhY7.999836.xyZ&type=ws#Join+Telegram:@Farah_VPN%20(39)
 ss://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?encryption=none&host=q6.19kalA.co&security=none&type=ws#Join+Telegram:@Farah_VPN%20(20)
-ss://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#panel-marzban
-ss://a9a195f1-d09e-4923-8fd2-402a412d8130@usa-vip.digitalldns.net:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#panel-marzban
 ss://b360267f-81aa-4740-a9c0-9a64fe7f9775@Cloud.sarasimano.com:80?encryption=none&host=onlytesla4.sarasimano.com&path=%2F&security=none&type=ws#Join+Telegram:@Farah_VPN%20(4)
 ss://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#Join+Telegram:@Farah_VPN%20(69)
 ss://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?alpn=http%2F1.1&encryption=none&host=kkkkkkkkkkkklo.999824.xyz&path=%2FwU3lZaUTRQTqot0LE&security=tls&sni=KKkkKKKkkkkKLO.999824.xYz&type=ws#Join+Telegram:@Farah_VPN%20(77)
@@ -185,8 +183,6 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@198.41.193.13:2087?encryption=none&
 vless://a2eda8e1-4452-481b-9a71-aab18d3ed17e@0lan.amazon-osishop.ir:8880?encryption=none&headerType=http&host=eN.TwiTtER.cOM.%3A8880&security=none&type=tcp#Join+Telegram:@Farah_VPN%20(57)
 vless://a4291a2a-d62c-4eb9-ac7a-ac7355d1eda2@172.67.220.32:443?alpn=http%2F1.1&encryption=none&host=rrrfghy7.999836.xyz&path=%2FMIrEVIUviSe8ydvnmRKWDa8&security=tls&sni=RRRFGhY7.999836.xyZ&type=ws#Join+Telegram:@Farah_VPN%20(39)
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?encryption=none&host=q6.19kalA.co&security=none&type=ws#Join+Telegram:@Farah_VPN%20(20)
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@37.152.189.81:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#panel-marzban
-vless://a9a195f1-d09e-4923-8fd2-402a412d8130@usa-vip.digitalldns.net:8080?type=tcp&headerType=http&host=fast.com&path=/&mux=8#panel-marzban
 vless://b360267f-81aa-4740-a9c0-9a64fe7f9775@Cloud.sarasimano.com:80?encryption=none&host=onlytesla4.sarasimano.com&path=%2F&security=none&type=ws#Join+Telegram:@Farah_VPN%20(4)
 vless://bea34b73-3244-475b-b914-7bb80e1cda91@mar13t.rasmar1400.com:2080?encryption=none&fp=chrome&pbk=L3lJWdU7mHijSkNaNt-m29OYnKnHvHYRxg2Y8XXFdng&security=reality&sid=bf517367267685&sni=dash.cloudflare.com&type=tcp#Join+Telegram:@Farah_VPN%20(69)
 vless://c7f423b7-ced8-43da-a9ae-e906cb4a222c@172.67.145.189:443?alpn=http%2F1.1&encryption=none&host=kkkkkkkkkkkklo.999824.xyz&path=%2FwU3lZaUTRQTqot0LE&security=tls&sni=KKkkKKKkkkkKLO.999824.xYz&type=ws#Join+Telegram:@Farah_VPN%20(77)
