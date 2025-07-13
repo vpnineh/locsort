@@ -182,7 +182,7 @@ vless://22477fe4-249e-4c18-8986-74b0f1f0657e@vip1.proxystore11.news:2052?mode=au
 vless://2370f4d8-6694-4e51-8c72-b2782ae96a59@172.64.78.198:80?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=withered-wave-ee0b-ppal03.faxip46069.workers.dev&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(18)
 vless://267613d7-f53f-4005-b642-d6f1f687b7cf@104.16.34.128:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ensHOLP-91s.pageS.DEv&path=%2FdQMN2VQLkaE52qWD&security=tls&sni=ensHOLP-91s.pageS.DEv&type=ws
 vless://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20125ms
-vless://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20233ms
+vless://2725451d-5f83-4998-9f2f-193e656e3bc7@sp4.god-ping.net:2051?security=none&encryption=none&host=tamasha.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20212ms
 vless://288124da-0d68-42f4-9f48-70dc4dcc55a6@104.21.21.190:443?encryption=none&host=xcvfgt6.890606.xyz&path=%2Fe49RZLgIb0TdfgF5HdHEIupMZeK&security=tls&sni=XCVFgT6.890606.XYz&type=ws#Join+Telegram:@Farah_VPN%20(73)
 vless://28c04c47-3228-595c-be73-00b75038bb6c@91.99.176.57:2025?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZYOJiXfnupbX7P2IG8VmWZrZCA9QOY39GYYiTyZ21UE&security=reality&sid=85decdebbcf6c7bb&sni=yahoo.com&type=tcp#Join+Telegram:@Farah_VPN%20(9)
 vless://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
@@ -518,7 +518,7 @@ vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com:80?type=ws&host=vlees-
 vless://87ced8c4-b4d4-4c7b-ba67-11b78833a1b6@172.66.44.68:443?alpn=h2%2Chttp%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=37c60f8d.albangurakuqi.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F&security=tls&sni=37c60f8d.ALBAnGURaKUqi.paGEs.dEv&type=ws#Join+Telegram:@Farah_VPN%20(81)
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20
 vless://88f9173d-09b1-463a-99c8-e39852693cba@300232332.webnama.com.tr.privatepack.ir:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20309ms
-vless://88f9173d-09b1-463a-99c8-e39852693cba@300232332.webnama.com.tr.privatepack.ir:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20327ms
+vless://88f9173d-09b1-463a-99c8-e39852693cba@300232332.webnama.com.tr.privatepack.ir:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20432ms
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2053?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n-0110
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%F0%9F%87%A6%F0%9F%87%B
@@ -918,7 +918,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.253:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?encryption=none&security=none&type=grpc#Join+Telegram:@Farah_VPN%20(58)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.32.131.93:8880?encryption=none&security=none&type=tcp#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84:prrofile_purple@%E2%9C%85
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(1)
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20148ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20132ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?encryption=none&security=none&type=grpc#Join+Telegram:@Farah_VPN%20(54)
@@ -1032,4 +1032,3 @@ vless://fe1888f8-2361-11f0-9970-45e1d80c4039@89.23.108.188:443?encryption=none&f
 vless://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?security=tls&type=ws&path=/vless#🇲🇽
 vless://ff36090d-30b3-4d30-8462-a4d401a251bd@x1usa.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F#Aa64n_2
 vless://ffcf7ec1-3e09-4821-b3d9-b426a107b73b@172.67.157.220:443?alpn=http%2F1.1&encryption=none&host=xxcsdert6.777159.xyz&path=%2FO9jlBCbIm3xr1D40NK&security=tls&sni=XXCsDERT6.777159.XyZ&type=ws#Join+Telegram:@Farah_VPN%20(46)
-vless://telegram-id-ArV2ray@193.46.81.83:443?path=%2Ftelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%2Ctelegram-ArV2ray%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&type=ws&sni=a.speedtest2028.com#🆔proxyiranip%20🔒%20VL-WS-N/A%20🇩🇪%20DE%20158ms
