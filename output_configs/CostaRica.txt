@@ -1,2 +1,8 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@icook.hk:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%F0%9F%87%A8%F0%9F%87%B7
+ss://72982133-27fb-46fc-9061-61113e77e201@190.93.247.159:443?eh=Sec-WebSocket-Protocol&encryption=none&host=jack.jack-cq.click&path=%2F&security=tls&sni=jack.jack-cq.click&type=ws#CR_speednode_0036
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?eh=Sec-WebSocket-Protocol&encryption=none&host=bitget1.asdasd.click&path=%2F&security=tls&sni=bitget1.asdasd.click&type=ws#CR_speednode_0034
+ss://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?encryption=none&host=mylearn-8zx.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=mylearn-8zx.pages.dev&type=ws#CR_speednode_0038
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@icook.hk:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%F0%9F%87%A8%F0%9F%87%B7
+vless://72982133-27fb-46fc-9061-61113e77e201@190.93.247.159:443?eh=Sec-WebSocket-Protocol&encryption=none&host=jack.jack-cq.click&path=%2F&security=tls&sni=jack.jack-cq.click&type=ws#CR_speednode_0036
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?eh=Sec-WebSocket-Protocol&encryption=none&host=bitget1.asdasd.click&path=%2F&security=tls&sni=bitget1.asdasd.click&type=ws#CR_speednode_0034
+vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?encryption=none&host=mylearn-8zx.pages.dev&path=%2Ffp%3Dchrome&security=tls&sni=mylearn-8zx.pages.dev&type=ws#CR_speednode_0038
