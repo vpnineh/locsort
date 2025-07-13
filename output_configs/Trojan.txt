@@ -26,7 +26,6 @@ trojan://Aimer@20.243.85.49:10443?sni=epccd.ambercc.filegear-sg.me#Channel%20id:
 trojan://Aimer@36.50.90.241:47790?ed=2560&eh=Sec-WebSocket-Protocol&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2520%40WangCai2%2520%2F&sni=epml.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_44%20%7C%20%E2%AC%87%EF%B8%8F%2014.9MB/s
 trojan://Aimer@46.254.92.142:2087?host=epml.ambercc.filegear-sg.me&path=%2F&sni=epml.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_2%20%7C%20%E2%AC%87%EF%B8%8F%208.7MB/s
 trojan://Aimer@66.81.247.230:2096?ed=2560&eh=Sec-WebSocket-Protocol&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epmx.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_25%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB/s
-trojan://Aimer@pranab.ns.cloudflare.com:443?alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&path=%2F&sni=epml.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_18%20%7C%20%E2%AC%87%EF%B8%8F%2012.2MB/s
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?alpn=http%2F1.1&path=%2Fxa846InEcmjyiKVby2Lp&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_21%20%7C%20%E2%AC%87%EF%B8%8F%2012.7MB/s
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan

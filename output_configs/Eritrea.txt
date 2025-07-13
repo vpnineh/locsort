@@ -20,6 +20,7 @@ ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@139.64.235.254:8880?encryption=none&ho
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@45.131.208.112:80?encryption=none&host=redfree8.pooriashop.ir&path=%2FTelegram%40WangCai2%2F%3Fed&security=none&type=ws#%E2%9D%93Other_2%20%7C%20%E2%AC%87%EF%B8%8F%2014.7MB/s
 ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%AD%20Zurich,%20ZH,%20Switzerland%20(4)
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest%20(1)
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://e917db16-e9b4-4aa7-8a77-617f5e82f1f8@104.17.221.248:2052?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=816tg.3wzxh3.workers.dev&path=%2F&security=none&type=ws#%E2%9D%93Other_1%20%7C%20%E2%AC%87%EF%B8%8F%2014.1MB/s

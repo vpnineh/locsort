@@ -1,2 +1,0 @@
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?encryption=none&host=us.laoyoutiao.link&path=%2FTelegram%40V2ray_Alpha&security=none&type=ws#%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%20%20%F0%9F%87%A6%F0%9F%87%BF
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@141.193.213.10:80?encryption=none&host=us.laoyoutiao.link&path=%2FTelegram%40V2ray_Alpha&security=none&type=ws#%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%20%20%F0%9F%87%A6%F0%9F%87%BF

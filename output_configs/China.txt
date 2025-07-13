@@ -4,6 +4,4 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#%F0%9F%87%A8%F0%9F
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#%F0%9F%87%A8%F0%9F%87%B3TW-185.189.160.98-0466%20%7C%206.018MB
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#%F0%9F%87%A8%F0%9F%87%B3%E2%9E%AACN%20(4)
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#%F0%9F%87%A8%F0%9F%87%B3%E2%9E%AACN%20(3)
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.197.29:8880?encryption=none&host=hk.laoyoutiao.link&path=%2F&security=none&type=ws#%DA%86%DB%8C%D9%86%20%F0%9F%87%A8%F0%9F%87%B3%20
 vless://6abbc1cd-33f1-45fb-bf8e-db2d94673766@104.24.33.126:443?type=ws&host=AF560c5b.aA64n.pagES.DeV&path=/JlX2JiQdevFBhePG?ed%3D2560&security=tls&fp=randomized&sni=AF560c5b.aa64n.pAges.DeV&alpn=h2,http/1.1#Aa64n🇨🇳
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.197.29:8880?encryption=none&host=hk.laoyoutiao.link&path=%2F&security=none&type=ws#%DA%86%DB%8C%D9%86%20%F0%9F%87%A8%F0%9F%87%B3%20
