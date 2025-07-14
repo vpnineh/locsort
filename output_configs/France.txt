@@ -7,7 +7,7 @@ ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&t
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2084ms
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2085ms
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
 vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
@@ -17,6 +17,6 @@ vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tl
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2084ms
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2081ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.95:8880?mode=gun&security=&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2085ms
 vmess://eyJhZGQiOiI2Mi42MC4yNDYuODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTAyNmE0Y2YtMjdmNS00YTM3LWI2ODItZDJjMWE0ZDExYTRjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxNjYzNCIsInBzIjoi2YHYsdin2YbYs9mHIPCfh6vwn4e3IEBWMnhheSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
