@@ -14,11 +14,13 @@ trojan://00000000-0000-0000-0000-000000000000@127.0.0.1:443#%E6%B5%81%E9%87%8F%E
 trojan://06e4425e-a8cb-4b63-929f-2105604ab0a9@103.160.204.59:443?ed=2560&eh=Sec-WebSocket-Protocol&path=%2F%3FPROT_TYPE%3Dtrojan&sni=nk.ylka.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_12%20%7C%20%E2%AC%87%EF%B8%8F%206.7MB/s
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@139.59.119.143:443?sni=connectwithemployers.online#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC%20(4)
 trojan://100b5163-fbb8-425d-9621-44d119555aa4@104.21.75.120:2053?alpn=http%2F1.1&host=mahsa2.cfform.site&path=%2FtrWCuRIwSn9S6fDZGE%2Fc2hpcmVuLnlhZW1pa28uZ2dmZi5uZXQ%3D&sni=MaHSA2.cffoRm.SitE&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(1)%20(1)
+trojan://123456@104.25.165.81:8443?path=%2FAz1.vpn.33.TOP%2F%3Fed%3D2560&security=tls&host=top-azx.pages.dev&type=ws&sni=top-azx.pages.dev#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://509ed9b7-8d64-4204-8ec8-6b749020ac3f@172.67.131.27:443?alpn=http%2F1.1&path=%2F5MkU0nARgHwk3aXBStn7&sni=CcCVfGTyU.89060004.Xyz&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_88%20%7C%20%E2%AC%87%EF%B8%8F%2014.9MB/s
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://67828a6e-0144-4e57-8169-2447a3dd2e61@csgo.com:8443?host=cdn-node-oss-99.paofu.de&path=%2Fprofile%2Ftelegram%40ssrsub&sni=cdn-node-oss-99.paofu.de&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%BE%20(1)
 trojan://6gZh2JbfhQ@104.248.18.1:1935?sni=x1-germany-digitalocean-v2.devefun.org#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193#@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://78ad2258-088d-11f0-8eab-f23c91cfbbc9@183.240.179.89:31253#%F0%9F%87%BA%F0%9F%87%B8US_4%20%7C%20%E2%AC%87%EF%B8%8F%2013.2MB/s
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
@@ -43,10 +45,13 @@ trojan://bpb-trojan@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/trr
 trojan://bpb-trojan@ipw.nscl.ir:443?type=ws&host=bpb-turkey.pages.dev&path=/trKekDdHsfhoQVe5Zc/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-Turkey.pAGEs.DEV&alpn=http/1.1#Aa64n€trojan
 trojan://c7f423b7-ced8-43da-a9ae-e906cb4a222c@104.21.89.221:443?host=dddddddddf.999824.xyz&path=%2FdwPcFaK3QxWRQTqot0LE&sni=DdDdddDDdF.999824.Xyz&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.220:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=vle.amclubdns.dpdns.org&path=%2F%3FPROT_TYPE%3Dtrojan&sni=vle.amclubdns.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_11%20%7C%20%E2%AC%87%EF%B8%8F%207.3MB/s
+trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?path=%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&security=tls&host=vle.amclubdns.dpdns.org&type=ws&sni=vle.amclubdns.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e4cbe8b8-37db-4aaa-8469-b84f34c51ebc@104.21.14.54:443?host=6666yhju.777159.xyz&path=%2FdilyfCPEmLvYr5hYXD&sni=6666YHjU.777159.xYz&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(10)
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=%2FStupid-World%2F103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
@@ -114,6 +119,7 @@ trojan://s%25E%40aRPm%3Evy%276IGm@www.speedtest.net:8080?ed=2560&eh=Sec-WebSocke
 trojan://s%25E%40aRPm%3Evy%276IGm@www.speedtest.net:80?ed=2560&eh=Sec-WebSocket-Protocol&host=498c463b-shiny-feather-c367.sepisccspot.workers.dev&path=%2FtrHAKic0yoZ7s4hEnQ&security=none&type=ws#%F0%9F%92%A6%2037%20-%20Trojan%20-%20Domain%20:%2080
 trojan://s%25E%40aRPm%3Evy%276IGm@www.speedtest.net:8443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=498c463b-shiny-feather-c367.sepisccspot.workers.dev&path=%2FtrsEJW9AyWFjIA5Bl5&sni=498c463b-ShINy-fEAther-C367.sepISCcsPoT.woRKers.DEv&type=ws#%F0%9F%92%A6%209%20-%20Trojan%20-%20Domain%20:%208443
 trojan://slch2024@104.18.2.108:8443?path=%2F&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_36%20%7C%20%E2%AC%87%EF%B8%8F%206.7MB/s
+trojan://tg-fq521free@198.62.62.67:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://tg-fq521free@45.67.215.95:443?allowInsecure=1&host=torjan.xn--xhq44j.eu.org&path=%2F&sni=torjan.xn--xhq44j.eu.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_10%20%7C%20%E2%AC%87%EF%B8%8F%205.3MB/s
 trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
