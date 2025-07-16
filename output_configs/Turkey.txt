@@ -2,5 +2,6 @@ ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerTyp
 ss://891e1d1c-5fbc-40cb-9256-58b016b6b600@vip.terterppn.pw:8090?encryption=auto&security=none&type=tcp#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
+trojan://XW7lkRZpi9@46.31.76.99:22658?type=tcp&headerType=http&host=cloudflare.com&path=/&security=none#TRJ
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 vmess://891e1d1c-5fbc-40cb-9256-58b016b6b600@vip.terterppn.pw:8090?encryption=auto&security=none&type=tcp#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%F0%9F%87%B9%F0%9F%87%B7
