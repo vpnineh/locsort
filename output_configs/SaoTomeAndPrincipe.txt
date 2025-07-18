@@ -1,8 +1,4 @@
-ss://09cc040a-9b52-4d5c-b808-85d61e5e2d56@94.182.83.114:443?type=tcp&headerType=http&host=khabaronline.ir&path=/&security=none#DVHOST-.۴۲۷
 ss://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 ss://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
-ss://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&mode=auto&path=/123&security=none#Aa64n-test2804
-vless://09cc040a-9b52-4d5c-b808-85d61e5e2d56@94.182.83.114:443?type=tcp&headerType=http&host=khabaronline.ir&path=/&security=none#DVHOST-.۴۲۷
 vless://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 vless://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
-vless://f353fbf3-b6a1-4524-b916-f65bc077511f@s5.1dnt.k-l.cloud:80?type=xhttp&mode=auto&path=/123&security=none#Aa64n-test2804
