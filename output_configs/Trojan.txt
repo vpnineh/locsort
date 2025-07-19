@@ -38,7 +38,6 @@ trojan://Aimer@36.50.90.241:47790?ed=2560&eh=Sec-WebSocket-Protocol&path=%2FTele
 trojan://Aimer@46.254.92.142:2087?host=epml.ambercc.filegear-sg.me&path=%2F&sni=epml.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_2%20%7C%20%E2%AC%87%EF%B8%8F%208.7MB/s
 trojan://Aimer@66.81.247.230:2096?ed=2560&eh=Sec-WebSocket-Protocol&path=%2F%3Fproxyip%3Dts.hpc.tw&sni=epmx.ambercc.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_25%20%7C%20%E2%AC%87%EF%B8%8F%205.2MB/s
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
-trojan://XW7lkRZpi9@46.31.76.99:22658?type=tcp&headerType=http&host=cloudflare.com&path=/&security=none#TRJ
 trojan://a94fafdb-10d6-46c2-be8a-5c2e8358fbb0@172.67.187.28:443?alpn=http%2F1.1&path=%2Fxa846InEcmjyiKVby2Lp&sni=dddDdDdDDFfFf.iran2035.dPdNS.ORG&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_21%20%7C%20%E2%AC%87%EF%B8%8F%2012.7MB/s
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 trojan://auto@www.visa.com.sg:443?type=ws&host=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com&path=/trojan-aa64n.amiralinorozjam.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#Aa64n-viska
