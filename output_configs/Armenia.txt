@@ -1,6 +1,7 @@
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-Aa64n%20type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#@A64N-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133?type=tcp#Frankfurt%20am%20Main,%20HE,%20Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqRkxPV3N4bnJLRmYxMTAzRDJIT1FF@2.56.207.166:8443#%D8%A7%D8%B1%D9%85%D9%86%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%A6%F0%9F%87%B2
 ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.96.3:443?flow=&type=ws&host=mIdsUmmeR-Bpb.PAgEs.DeV&path=/fYihCIH0A78Q5ZVa?ed%3D2560&security=tls&fp=chrome&sni=MIdsUmMer-bpB.pAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇦🇲
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-Aa64n%20type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#@A64N-1
