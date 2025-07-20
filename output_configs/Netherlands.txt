@@ -1,16 +1,7 @@
-ss://4ac39e8a-6d5c-48bb-b0d0-f633c829113e@83.149.84.145:15709?encryption=auto&security=none&type=tcp#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
-ss://4ea841c1-0dc1-4563-9f47-deba8407cb4e@tgju.org:8080?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C%20%E2%AC%87%EF%B8%8F%2020.9MB/s
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.183:8080#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1%20(1)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.190:8080#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B2
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20
-ss://aae9a898-82c1-411c-9d92-b88677f3b664@188.227.84.174:2096?encryption=auto&headerType=http&host=zula.ir&security=none&type=tcp#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%A7%8A
-ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.153:8443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2FTelegram%40V2ray_Alpha%2F&security=tls&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C%20%E2%AC%87%EF%B8%8F%206.9MB/s
-vless://4ea841c1-0dc1-4563-9f47-deba8407cb4e@tgju.org:8080?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=J9.oDOtZrHUoO.ZuLAIR.ORg.&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C%20%E2%AC%87%EF%B8%8F%2020.9MB/s
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.153:8443?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&path=%2FTelegram%40V2ray_Alpha%2F&security=tls&sni=1750293059309.wk.by.ktff.ssl.com.kokk.cn.cdnktff.pp.ua&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C%20%E2%AC%87%EF%B8%8F%206.9MB/s
-vmess://4ac39e8a-6d5c-48bb-b0d0-f633c829113e@83.149.84.145:15709?encryption=auto&security=none&type=tcp#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
-vmess://aae9a898-82c1-411c-9d92-b88677f3b664@188.227.84.174:2096?encryption=auto&headerType=http&host=zula.ir&security=none&type=tcp#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%A7%8A
