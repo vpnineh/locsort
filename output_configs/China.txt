@@ -4,7 +4,6 @@ ss://418048af-a293-4b99-9b0c-98ca3580dd24@183.236.51.36:59003?encryption=auto&se
 ss://52c457bd-896f-4b45-a013-0fb4d1e9be9f@nmtow.hjdfghfc.asia:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&host=file.dingtalk.com&path=%2Fmarket&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(4)
 ss://6abbc1cd-33f1-45fb-bf8e-db2d94673766@104.24.33.126:443?type=ws&host=AF560c5b.aA64n.pagES.DeV&path=/JlX2JiQdevFBhePG?ed%3D2560&security=tls&fp=randomized&sni=AF560c5b.aa64n.pAges.DeV&alpn=h2,http/1.1#Aa64n🇨🇳
 ss://928e7e75-f418-4204-8543-dca194d61abf@212.192.15.62:20521?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(1)
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#%F0%9F%87%A8%F0%9F%87%B3%20CN_39
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#%F0%9F%87%A8%F0%9F%87%B3%E2%9E%AACN%20(9)
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@185.189.160.98:64759#%F0%9F%87%A8%F0%9F%87%B3TW-185.189.160.98-0466%20%7C%206.018MB
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#%F0%9F%87%A8%F0%9F%87%B3%E2%9E%AACN%20(4)

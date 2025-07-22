@@ -62,14 +62,12 @@ ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?
 ss://9ff807b0-c4e3-5f52-b560-0bb48c37cf3f@5.253.41.139:443?allowInsecure=1&encryption=none&host=5.253.41.139&path=%2Fvless&security=tls&sni=zula.ir&type=ws#%F0%9F%87%AF%F0%9F%87%B5JP%20%7C%20@V2ray_Collector
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#%E2%9C%85@v2ray_configs_pools%20(35)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphTllzaFJiM216cDc@93.152.207.167:443#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20ss-FI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjMzc2MDgyYy05NWMzLTQ1MmUtODhlNC02YmI2YTVkYWFiNDE@free-relay.t01.themars.top:49900#github.com/Ruk1ng001_3264396132383632
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkM1RwaFBQZk1rSXhGbVBKcEEwajdSa1BKSGplSHFhSmsyRDdDbzdWc0Z1VVUydjE@45.128.151.67:31348#%F0%9F%87%B1%F0%9F%87%BB%5Bopenproxylist.com%5D%20ss-LV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%F0%9F%87%B3%F0%9F%87%B4%5Bopenproxylist.com%5D%20ss-NO
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%5Bopenproxylist.com%5D%20ss-PT
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%F0%9F%87%B8%F0%9F%87%AE%5Bopenproxylist.com%5D%20ss-SI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#%F0%9F%87%B2%F0%9F%87%B0%5Bopenproxylist.com%5D%20ss-MK
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#%DA%A9%D9%84%D9%85%D8%A8%DB%8C%D8%A7%20%F0%9F%87%A8%F0%9F%87%B4
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-0336
 ss://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gghdfa.pages.dev&path=%2F8WuhXm4QjK0L68Uf&security=tls&sni=gGHDFa.pAgeS.Dev&type=ws#%E2%9C%85@v2ray_configs_pools%20(19)
 ss://aa374d55-b368-4121-8f02-7e6bd9ef1924@194.182.79.43:25245?encryption=none&fp=chrome&pbk=uv1gMqjxJ-bF5Xjix_d5M4qGK0-VmGyrU5ZMtiXrhHg&security=reality&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=16b619c73e22&sni=journalofbigdata.springeropen.com&type=grpc#%F0%9F%87%A8%F0%9F%87%BF%5Bopenproxylist.com%5D%20vless-CZ%20(1)
 ss://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%60%20(6)
@@ -85,7 +83,6 @@ ss://c4bd9eba-8aea-4d5e-a2ee-b5de65ac14e1@panel1.ipyar.org:42684?encryption=auto
 ss://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?encryption=none&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(32)
 ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?encryption=none&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&security=reality&sid=5fab0deb&sni=telewebion.com&type=tcp#%E2%9C%85@v2ray_configs_pools%20(16)
 ss://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?encryption=none&path=%2F&security=none&type=ws#@v2ray_configs_pools%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%8C%8B%20(1)
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#%F0%9F%9F%A0_%F0%9F%87%BB%F0%9F%87%B3_%F0%9F%92%BB_github.com/Ruk1ng001_6436633566636338
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(20)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(10)
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(22)
@@ -177,7 +174,6 @@ vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&
 vless://c699685e-b072-4141-9406-ee22f89f13ed@x8-germany-amazon-v2-rug6e.we-are-team-xstack-this-is-free-config-join-us-enjoy.net:8080?encryption=none&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(32)
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?encryption=none&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&security=reality&sid=5fab0deb&sni=telewebion.com&type=tcp#%E2%9C%85@v2ray_configs_pools%20(16)
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?encryption=none&path=%2F&security=none&type=ws#@v2ray_configs_pools%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5%F0%9F%8C%8B%20(1)
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@103.12.77.78:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#%F0%9F%9F%A0_%F0%9F%87%BB%F0%9F%87%B3_%F0%9F%92%BB_github.com/Ruk1ng001_6436633566636338
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(20)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(10)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(22)

@@ -5,8 +5,7 @@ vmess://314185f7-931d-4656-922d-0857e7afd224@45.67.230.79:11052?encryption=auto&
 vmess://350e2b01-d410-44a6-90ba-6483f1062972@172.67.131.27:2053?encryption=auto&host=rak2d4.89060004.xyz&path=%2F&security=tls&sni=rak2d4.89060004.xyz&type=ws#%F0%9F%8F%81RELAY-172.67.131.27-0253
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@112.132.215.12:50002?encryption=auto&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN_341
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@183.236.51.36:59003?encryption=auto&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN_339
-vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.164:443?encryption=auto&host=www.20850772.xyz&path=%2Fpath%2F191019072927&security=tls&sni=www.20850772.xyz&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7
-vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.164:443?encryption=auto&path=%2Fpath%2F191019072927&security=tls&sni=www.20850772.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.160.164-5031
+vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.164:443?encryption=auto&host=www.20850772.xyz&path=%2Fpath%2F191019072927&security=tls&sni=www.20850772.xyz&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7%20(1)
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.243:443?encryption=auto&path=%2Fpath%2F191019072927&security=tls&sni=www.32278117.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.160.243-5032
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@47.116.166.178:50002?encryption=auto&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20%E4%B8%AD%E5%9B%BD%20-%20%E4%B8%8A%E6%B5%B7%20-%20Hangzhou%20Alibaba%20Advertising%20Co.,%20Ltd.%20-%206
 vmess://469e0b31-30c3-4dab-800d-711232634ce1@lt.fxlcn.com:45228?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%AB%F0%9F%87%B7%20FR_92
@@ -14,22 +13,16 @@ vmess://469e0b31-30c3-4dab-800d-711232634ce1@lt.fxlcn.com:45235?encryption=auto&
 vmess://469e0b31-30c3-4dab-800d-711232634ce1@lt.fxlcn.com:45286?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%B0%F0%9F%87%B7%20KR_156
 vmess://52c457bd-896f-4b45-a013-0fb4d1e9be9f@nmtow.hjdfghfc.asia:19331?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&host=file.dingtalk.com&path=%2Fmarket&security=none&type=ws#%F0%9F%8C%8044@oneclickvpnkeys
 vmess://52c457bd-896f-4b45-a013-0fb4d1e9be9f@nmtow.hjdfghfc.asia:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&host=file.dingtalk.com&path=%2Fmarket&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(4)
-vmess://52c457bd-896f-4b45-a013-0fb4d1e9be9f@nmtow.hjdfghfc.asia:443?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&host=file.dingtalk.com&path=%2Fmarket&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
 vmess://57e595e6-ef54-4e0d-b8df-e96db9612b99@104.21.20.162:8443?encryption=auto&host=orvps2.horsenma.net&path=%2Fhorsen&security=tls&sni=orvps2.horsenma.net&type=ws#@vpnv2r4y%F0%9F%91%81%EF%B8%8F%F0%9F%91%83%F0%9F%8F%BB%F0%9F%91%81%EF%B8%8F
 vmess://58fe1542-5290-40ad-815a-77707a81afe5@15.235.41.200:80?encryption=auto&host=google.com&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vmess-CA
-vmess://58fe1542-5290-40ad-815a-77707a81afe5@15.235.41.200:80?encryption=auto&host=google.com&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vmess://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%A9%F0%9F%87%AA%20DE_76
 vmess://75404bed-ea79-4a03-ed28-cbbffa291286@143.92.41.155:39632?encryption=auto&security=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20vmess-HK%20(3)
-vmess://75404bed-ea79-4a03-ed28-cbbffa291286@143.92.41.155:39632?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 vmess://78270e28-7116-4b14-9533-a3e01c1d6f2d@cpanel.erade32.ir:100?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%A9%F0%9F%87%AA%20DE_75
 vmess://7a41a4dd-6040-4131-c9be-98a1210a5174@47.239.126.220:51339?encryption=auto&path=%2F7a41a4dd&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20vmess-HK
-vmess://7a41a4dd-6040-4131-c9be-98a1210a5174@47.239.126.220:51339?encryption=auto&path=%2F7a41a4dd&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 vmess://90e56755-db30-4455-95d0-6ab9da305720@lifetime.idk.io.vn:443?encryption=auto&host=lifetime.idk.io.vn&path=%2Fvmess&security=tls&sni=lifetime.idk.io.vn&type=ws#%F0%9F%87%BB%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-VN
 vmess://928e7e75-f418-4204-8543-dca194d61abf@212.192.15.62:20521?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(1)
-vmess://928e7e75-f418-4204-8543-dca194d61abf@212.192.15.62:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%B3
 vmess://94440946-20d3-48e3-9acc-bca519c6791f@91.99.209.224:32821?encryption=auto&security=none&type=tcp#@meli_proxyy%20(22)
 vmess://ab6dde08-ce0d-4c3d-b708-da53af1a862d@118.43.158.220:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B0%F0%9F%87%B7%5Bopenproxylist.com%5D%20vmess-KR
-vmess://ab6dde08-ce0d-4c3d-b708-da53af1a862d@118.43.158.220:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%B7
 vmess://b2e38621-035b-43f8-84a5-e92160762fc3@2.188.219.43:8443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7IR-2.188.219.43-0963
 vmess://b368a86e-6fbc-431c-9f05-6e1fab896858@37.202.225.74:40521?encryption=auto&path=%2F&security=none&type=ws#TG:@v2ray_sub%20(7)
 vmess://c208e0ae-6f6d-4745-99da-44a44744c530@www.meter.net:2083?ed=2560&eh=Sec-WebSocket-Protocol&encryption=auto&host=blaze-ger-248.blazecloudmain.site&path=%2Flinkwsrt&security=tls&sni=blaze-ger-248.blazecloudmain.site&type=ws#%D8%AA%DA%AF%D8%B2%D8%A7%D8%B3%20%F0%9F%87%BA%F0%9F%87%B8
@@ -38,7 +31,6 @@ vmess://d2021e4f-66b9-4fa1-830d-993dba014b50@daffa.xstore.web.id:443?encryption=
 vmess://d4e2f2e2-bd2d-423e-89fb-cfcf435e7963@164.70.68.128:59361?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%AF%F0%9F%87%B5%20JP_147
 vmess://de94cc0a-0592-4969-b1fc-97ea8f0ea0b3@104.18.149.76:443?encryption=auto&host=us.kkp.me.eu.org&path=%2Faa&security=tls&sni=us.kkp.me.eu.org&type=ws#%F0%9F%8F%81RELAY-104.18.149.76-1392
 vmess://edc493ca-b939-4097-e0c3-c8fee243eac6@103.38.83.253:37122?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20vmess-HK%20(1)
-vmess://edc493ca-b939-4097-e0c3-c8fee243eac6@103.38.83.253:37122?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 vmess://efeca8c2-8f63-467b-8d28-d630a7a9dc8f@121.154.187.44:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%8F%8682@oneclickvpnkeys
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVZJUFx1RDgzRFx1REVFMSIsDQogICJhZGQiOiAiNjUuMTA5LjIzMy4xNSIsDQogICJwb3J0IjogIjI5MzAxIiwNCiAgImlkIjogImQ0ZGE4MzU3LTY2NjEtNDMxMy05NDlkLTRlNmFlYzAwNjNlOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218
 vmess://eyJhZGQiOiI1NC4zNi4xNjIuMjUwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJAR29sZE5ldF9TdG9yZSIsImlkIjoiYTBkNjlmZWQtNDM1My00ZTQyLTliN2ItM2I3NDNlN2ViMDQwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5NSIsInBzIjoiVuKcjO+4j1JBWSDwn4eu8J+HtyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
@@ -59,4 +51,3 @@ vmess://eyJwcyI6IiVFOCU4QiVCMUFhNjRuLVZtZXNzIiwicG9ydCI6IjQ0MyIsImZwIjoiY2hyb21l
 vmess://eyJzbmkiOiIxZmRTTkExMTkyMjg5MjhPcFMyc21UYUIyMjhhQXNERHNkMWVhMTQ1NzY2MTE1My4zOS1tZW56YS5wcm8iLCJwb3J0IjoiMjA4NyIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsImFkZCI6Ind3dy5zcGVlZHRlc3Qub3JnIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsImhvc3QiOiIiLCJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMEFhNjRuLVEiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwidHlwZSI6Imd1biIsInBhdGgiOiIifQ==
 vmess://f11e2179-5d01-4034-879d-ee03109bc32a@212.192.15.223:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(2)
 vmess://f50628ed-e568-4cde-eda8-3dce15edc1c1@47.79.41.14:15924?ed=512&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Ff50628ed&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5%5Bopenproxylist.com%5D%20vmess-JP
-vmess://f50628ed-e568-4cde-eda8-3dce15edc1c1@47.79.41.14:15924?encryption=auto&path=%2Ff50628ed&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AF%F0%9F%87%B5
