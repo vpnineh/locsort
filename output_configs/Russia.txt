@@ -1,3 +1,4 @@
+ss://314185f7-931d-4656-922d-0857e7afd224@45.67.230.79:11052?encryption=auto&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU_234
 ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059#%F0%9F%87%B7%F0%9F%87%BA%E2%9E%AARU%20(9)
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#%F0%9F%87%B7%F0%9F%87%BA%E2%9E%AARU%20(11)
 ss://YWVzLTI1Ni1jZmI6QndjQVVaazhoVUZBa0RHTg@217.30.10.18:9031#%F0%9D%90%80%F0%9D%90%B3%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%8D%F0%9D%90%9E%F0%9D%90%AD%E2%9E%AA%F0%9F%87%B7%F0%9F%87%BA%E2%9E%AARU
@@ -16,3 +17,4 @@ ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.18:9018#%F0%9F%87%B7%F0%9F
 ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.18:9093#%F0%9F%87%B7%F0%9F%87%BA%E2%9E%AARU%20(17)
 ss://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@45.8.211.230:2087?type=ws&host=aa-3lh.pages.dev&path=/8IjuuXwegn5xjcXx/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.pAges.dEV&alpn=http/1.1&allowInsecure=false#Aa64n🇷🇺
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@45.8.211.230:2087?type=ws&host=aa-3lh.pages.dev&path=/8IjuuXwegn5xjcXx/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.pAges.dEV&alpn=http/1.1&allowInsecure=false#Aa64n🇷🇺
+vmess://314185f7-931d-4656-922d-0857e7afd224@45.67.230.79:11052?encryption=auto&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU_234

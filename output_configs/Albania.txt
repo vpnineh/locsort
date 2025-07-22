@@ -19,6 +19,7 @@ ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:80?e
 ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
+ss://418048af-a293-4b99-9b0c-98ca3580dd24@47.116.166.178:50002?encryption=auto&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20%E4%B8%AD%E5%9B%BD%20-%20%E4%B8%8A%E6%B5%B7%20-%20Hangzhou%20Alibaba%20Advertising%20Co.,%20Ltd.%20-%206
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
@@ -166,3 +167,4 @@ vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?e
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
+vmess://418048af-a293-4b99-9b0c-98ca3580dd24@47.116.166.178:50002?encryption=auto&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20%E4%B8%AD%E5%9B%BD%20-%20%E4%B8%8A%E6%B5%B7%20-%20Hangzhou%20Alibaba%20Advertising%20Co.,%20Ltd.%20-%206

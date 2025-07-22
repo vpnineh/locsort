@@ -1,0 +1,2 @@
+ss://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?encryption=none&host=45f4d22d.Mareza.pages.dev&path=%2F&security=none&type=ws#CZ_speednode_0039
+vless://c84ddb7c-7703-42a3-a22a-3ff9e5513f9a@195.58.58.88:32391?encryption=none&host=45f4d22d.Mareza.pages.dev&path=%2F&security=none&type=ws#CZ_speednode_0039
