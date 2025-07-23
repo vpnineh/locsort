@@ -91,7 +91,6 @@ ss://16248104-c4d8-478d-8ac7-826c059064c2@104.16.4.103:443/?type=ws&path=/TFbb2j
 ss://16248104-c4d8-478d-8ac7-826c059064c2@104.21.64.13:2083?type=ws&path=/BZscIEyE6Wn6lIzs?ed%3D2560&security=tls&fp=randomized&sni=aA64N-New.RhYLjiTI.wORKErs.dev&alpn=h2,http/1.1&allowInsecure=false#Aa64n-1225
 ss://16248104-c4d8-478d-8ac7-826c059064c2@162.251.82.187:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1#Best%20Ping_SMT
 ss://16248104-c4d8-478d-8ac7-826c059064c2@172.66.213.38:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1#Best%20Ping_MCI
-ss://16248104-c4d8-478d-8ac7-826c059064c2@199.59.243.225:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1#Best%20Ping_MTN
 ss://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1#Aa64n-fragment%20-%20Best%20Ping
 ss://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/TFbb2jFjevACkqUb?ed%3D2560&security=tls&fp=randomized&sni=Aa64n-NeW.RHylJITi.WorKeRS.deV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-fragment%20-%20Best%20Ping
 ss://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/TuZ7QbM2KAtiFhv9?ed%3D2560&security=tls&fp=randomized&sni=aA64n-NEw.RHYLjiTi.workerS.Dev&alpn=h2,http/1.1&allowInsecure=false#Fragment-bestPing✨✨
@@ -186,7 +185,6 @@ ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@tr01-vlr01.tcp-reset-club.net:443?encr
 ss://2a6d5efc-5a7a-481d-8798-84478db4d163@tunnyl.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&security=reality&sid=5c0333ed45b1&sni=yahoo.com&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B8%F0%9F%87%AE%C2%AE%EF%B8%8FSlovenia%C2%A9%EF%B8%8FLjubljana%F0%9F%85%BF%EF%B8%8Fping:46.21ms
 ss://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&security=reality&sid=2001&sni=yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B0%F0%9F%87%BF%20(1)
 ss://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(6)
-ss://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
 ss://2b70f40f-b236-448c-b92e-e598f025a0ed@74.119.193.67:10088?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=enVCnAoXILJUvAvwx8GNVOImPYFm3Jo-UHYHOlbDZW4&security=reality&sid=63cace289fb97072&sni=learn.microsoft.com&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vless-CN
 ss://2babf34a-16f5-4e38-a885-738fdfc8eabf@185.142.53.63:43585?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%AB%F0%9F%87%B7%20FR_90
@@ -332,7 +330,6 @@ ss://5879d109-8c92-448a-801b-3f3989019934@69.84.182.2:443?ed=2048&eh=Sec-WebSock
 ss://58fe1542-5290-40ad-815a-77707a81afe5@15.235.41.200:80?encryption=auto&host=google.com&path=%2FIOebhLMhl1CTbFHbL95myfRX2&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vmess-CA
 ss://597e7d0b-a733-4706-b0a5-eb56ab3787a1@185.83.114.59:8441?ed=80&eh=Sec-WebSocket-Protocol&encryption=none&security=none&type=ws#@meli_proxyy%20(25)
 ss://5a12794b-2125-46d7-a748-927a989faa04@nArrow-PASsEngER.oNEeAT.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(3)
-ss://5a12794b-2125-46d7-a748-927a989faa04@nArrow-PASsEngER.oNEeAT.co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://5a5d9654-2f1e-4537-b3ca-e76168b2e03f@104.21.76.15:443?encryption=none&host=wlma.jeremaih-talik.workers.dev&path=%2F&security=tls&sni=wlma.jeremaih-talik.workers.dev&type=ws#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:8.09ms%20(1)
 ss://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#ChatGPT%20%F0%9F%87%A9%F0%9F%87%AA%20DE_76
 ss://5ae45629-3db6-4c6b-9b9e-346c3e1a798d@90.156.254.164:40432?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(44)
@@ -357,7 +354,6 @@ ss://63743432-0783-4a05-811d-8f8307fc9ba5@188.114.96.3:2053?ed=2560&eh=Sec-WebSo
 ss://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?allowInsecure=1&encryption=none&host=45.12.144.8&path=%2Fvless&security=tls&sni=zula.ir&type=ws#%F0%9F%87%B1%F0%9F%87%BALU%20%7C%20@V2ray_Collector
 ss://640934db-a21c-4e58-b8a8-c2fcbe594b1b@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 ss://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
-ss://64d6d0d4-3706-4837-b154-cda2816adcc5@CRazy-idENtity.onEEat.co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://65ee27b8-88b6-45f5-a2f8-8392c4afd82d@212.183.88.29:2053?type=ws&host=PostwaRE-2jm.PaGES.DEv&path=/JkT5yFwh3Mveqw81?ed%3D2560&security=tls&fp=randomized&sni=PostwaRE-2jm.PaGES.DEv#q_047
 ss://6600e5c4-2a9c-4ca3-9c70-b6d7cb67868c@142.132.227.65:34560?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
 ss://67e07456-cb44-4406-8617-70ab725d9ff7@srv4.flightbean24.com:8880?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=qry2IbVVIgt3wWNLDFHimOsXX3mu53Za9QtVK8VNbFw&security=reality&sid=a3&sni=static.cdn.asset.filimo.com&type=xhttp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A9%F0%9F%87%AA%C2%AE%EF%B8%8FGermany%C2%A9%EF%B8%8FNuremberg%F0%9F%85%BF%EF%B8%8Fping:33.57ms
@@ -405,7 +401,6 @@ ss://7badaf60-d3a6-4c7b-8a0e-c8a0bfb49f3a@vless.irani-node.xyz:443?encryption=no
 ss://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?alpn=h2&encryption=none&host=statue.lnmarketplace.net&mode=stream-one&path=%2Fstatue&security=tls&sni=statue.lnmarketplace.net&type=xhttp#Channel@vmessorg
 ss://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(2)
-ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@LiGHT-PReseNce.oneEaT.Co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://7e74ff43-3a90-48b3-8372-7d92a045c2d4@light-presence.oneeat.co:80?encryption=none&host=light-presence.oneeat.co&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C%20%E2%AC%87%EF%B8%8F%205.9MB/s%7C15%25%7CNetflix%7COpenai
 ss://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=v2ngsupply2.ip-ddns.com&path=%2FijiDwDw8BcM9ieHc&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(66)
 ss://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.18.217.64:8080?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=v2ngsupply2.ip-ddns.com&path=%2FijiDwDw8BcM9ieHc&security=none&type=ws#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%A8%D8%B4%DB%8C%D8%AF%20%D8%AD%D8%AA%D9%85%D8%A7%20%E2%9C%85%F0%9F%9A%80%20V2rayng_Ghavi@%20(2)
@@ -831,7 +826,6 @@ ss://YWVzLTI1Ni1nY206Tml6bkx2b0l1eQ@220.124.31.130:19378#%F0%9F%87%B0%F0%9F%87%B
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%87%BA%F0%9F%87%B8%20kitkat%C2%B9%E2%81%B7
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest%20(1)
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@ComMUNaL-LosS.ONEeat.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(8)
-ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@ComMUNaL-LosS.ONEeat.co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gghdfa.pages.dev&path=%2F8WuhXm4QjK0L68Uf&security=tls&sni=gGHDFa.pAgeS.Dev&type=ws#%E2%9C%85@v2ray_configs_pools%20(19)
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://a64d45e2-b8c5-41df-ab19-58f00ea19d0d@sp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇪🇸
@@ -852,7 +846,6 @@ ss://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#�
 ss://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 ss://af60d899-39b6-5a6b-87e7-232bc3bd18d2@91.99.214.179:3080?encryption=none&fp=chrome&pbk=TX1WDNcYpkt7EnJFv7IxSK2gqIlpmzG7NFR-zWpTfVU&security=reality&sid=83cb41f8b5d47f&sni=journalofbigdata.springeropen.com&type=grpc#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@vpns_land%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%F0%9F%9B%B8%20(2)
 ss://b055036a-2d81-4d46-ab18-4e1898b58cec@feArLESS-cHANge.oNEEat.CO:80?encryption=none&path=%2F&security=none&type=ws#CONF_1
-ss://b055036a-2d81-4d46-ab18-4e1898b58cec@feArLESS-cHANge.oNEEat.CO:80?flow=&path=%2F&type=ws#CONF_1
 ss://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&path=%2F%3Fed&security=none&type=ws#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:8.1ms
 ss://b2e38621-035b-43f8-84a5-e92160762fc3@2.188.219.43:8443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7IR-2.188.219.43-0963
 ss://b368a86e-6fbc-431c-9f05-6e1fab896858@37.202.225.74:40521?encryption=auto&path=%2F&security=none&type=ws#TG:@v2ray_sub%20(7)
@@ -1009,7 +1002,6 @@ ss://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.
 ss://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://d17ad20e-08eb-461f-a802-693f685a67ed@Em.hamed-aman.ir:59354?encryption=none&fp=chrome&pbk=iqcdKLta6AuTcPG33iPj6W3kuug3hsG4U_gFgZkLYw8&security=reality&sid=6f&sni=microsoft.com&type=grpc#b8qel392
 ss://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(5)
-ss://d1e44075-8c92-4698-9db0-e71d7015b757@SMALL-mEAL.oneeAt.co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://d2021e4f-66b9-4fa1-830d-993dba014b50@daffa.xstore.web.id:443?encryption=auto&host=daffa.xstore.web.id&path=%2Fvmess&security=tls&sni=daffa.xstore.web.id&type=ws#%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20@CDPROXY_VPN%20%F0%9F%87%B8%F0%9F%87%B4%20%20%20%20%20%20%20%20%20%20%20%20%20%E2%80%8C%20%20%20%20%20%20%20%20%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=fei.634676.xyz&path=%2F&security=tls&sni=fei.634676.xyz&type=ws#%F0%9F%8C%9D52@oneclickvpnkeys
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
@@ -1040,7 +1032,6 @@ ss://dc1985a0-76ce-486f-b571-4b210aadbc8c@146.190.17.238:59365?encryption=none&f
 ss://dc1985a0-76ce-486f-b571-4b210aadbc8c@server2.fergalvpnmod.com:59365?encryption=none&fp=chrome&pbk=AtKTc84OxbQltdeNKIgGRpUBmO1nKRCyqV6OuZmGIik&security=reality&serviceName=Telegram%3A%40FergalVpnMod&sid=1e&sni=cloudflare.com&type=grpc#@%E1%B4%85%E1%B4%80%C9%AA%CA%9F%CA%8F_%E1%B4%84%E1%B4%8F%C9%B4%EA%9C%B0%C9%AA%C9%A2%EA%9C%B1
 ss://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?path=%2Fasl.mo.live.skornorth.com.zula.ir%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=asl.mo&fp=firefox&type=ws&sni=live.skornorth.com#Aa64n_fastly
 ss://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@faMous-daNGEr.OnEeAT.Co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(7)
-ss://ddc27bd6-6efa-47cf-8bfc-acaf973ba6b3@faMous-daNGEr.OnEeAT.Co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://de94cc0a-0592-4969-b1fc-97ea8f0ea0b3@104.18.149.76:443?encryption=auto&host=us.kkp.me.eu.org&path=%2Faa&security=tls&sni=us.kkp.me.eu.org&type=ws#%F0%9F%8F%81RELAY-104.18.149.76-1392
 ss://debf2a42-1ff4-4ea6-92a4-f6ac49595cc7@abzartun2.divartehran.online:23737?encryption=none&fp=chrome&pbk=i5nssGunCVG0W2CI3OM-wGXJwCn9W5Xvm0-tQw_SgEQ&security=reality&sid=7c0b6c88fe5c&sni=varzesh3.com&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7
@@ -1049,7 +1040,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&s
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(10)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
-ss://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=pingless.com&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&sid=6622dfef0c43&spx=/#new-test2
 ss://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#@Aa64🇧🇮
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(22)
@@ -1145,7 +1135,6 @@ ss://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.1:443?encryption=none&host=
 ss://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%A8%F0%9F%87%A6%C2%AE%EF%B8%8FCanada%C2%A9%EF%B8%8FToronto%F0%9F%85%BF%EF%B8%8Fping:8.84ms
 ss://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(1)
-ss://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://edc493ca-b939-4097-e0c3-c8fee243eac6@103.38.83.253:37122?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20vmess-HK%20(1)
 ss://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.2.9:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D15@oneclickvpnkeys
 ss://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D7@oneclickvpnkeys
@@ -1171,7 +1160,6 @@ ss://eyJwcyI6IiVFOCU4QiVCMUFhNjRuLVZtZXNzIiwicG9ydCI6IjQ0MyIsImZwIjoiY2hyb21lIiw
 ss://eyJzbmkiOiIxZmRTTkExMTkyMjg5MjhPcFMyc21UYUIyMjhhQXNERHNkMWVhMTQ1NzY2MTE1My4zOS1tZW56YS5wcm8iLCJwb3J0IjoiMjA4NyIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwibmV0IjoiZ3JwYyIsImFkZCI6Ind3dy5zcGVlZHRlc3Qub3JnIiwidGxzIjoidGxzIiwic2N5IjoiYXV0byIsImhvc3QiOiIiLCJwcyI6IiVGMCU5RiU4NyVCQSVGMCU5RiU4NyVCOCUyMEFhNjRuLVEiLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwidHlwZSI6Imd1biIsInBhdGgiOiIifQ==
 ss://f11e2179-5d01-4034-879d-ee03109bc32a@212.192.15.223:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%B3%5Bopenproxylist.com%5D%20vmess-CN%20(2)
 ss://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(4)
-ss://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?flow=&path=%2F&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 ss://f278037e-ce36-4634-9b4d-fca93e345a35@194.182.79.142:11745?encryption=none&fp=chrome&pbk=hgaeyKQWo1Cf0fDhXVD2AZKI6DfOhBhjsSSfccW7ADo&security=reality&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sid=26a52325&sni=sourceforge.net&type=grpc#%F0%9F%87%A8%F0%9F%87%BF%5Bopenproxylist.com%5D%20vless-CZ%20(3)
 ss://f2e486f9-1697-4be6-be59-6c4fb42c7a24@188.114.97.3:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=pas-kale-agha.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F&security=tls&sni=paS-kaLE-AGhA.pageS.deV&type=ws#Channel%20id:%20@ShadowProxy66%20%20(38)

@@ -7,7 +7,6 @@ ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.18.63.108:443?type=ws&host=midsumm
 ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.20.148.219:443?type=ws&host=midsummer-bpb.pages.dev&path=/GLpDV19lPX1MQnNG?ed%3D2560&security=tls&fp=randomized&sni=MiDsUMMER-bPB.PAGes.deV&alpn=h2,http/1.1#Aa64n_new3
 ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?flow=&type=ws&host=midsummer-bpb.pages.dev&path=/TY0QPvd6fkigt1gd?ed%3D2560&security=tls&fp=randomized&sni=miDSummeR-bPB.pAGES.dEv&alpn=h2,http/1.1&allowInsecure=false#Aa64n_new4
 ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.96.3:443?type=ws&host=midsummer-bpb.pages.dev&path=/LC6gNlDNqH600ow9?ed%3D2560&security=tls&fp=randomized&sni=mIdsUmMer-bpB.pageS.Dev&alpn=h2,http/1.1#Aa64n_new1
-ss://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=pingless.com&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&sid=6622dfef0c43&spx=/#new-test2
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
 vless://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
@@ -18,5 +17,4 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.18.63.108:443?type=ws&host=mids
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.20.148.219:443?type=ws&host=midsummer-bpb.pages.dev&path=/GLpDV19lPX1MQnNG?ed%3D2560&security=tls&fp=randomized&sni=MiDsUMMER-bPB.PAGes.deV&alpn=h2,http/1.1#Aa64n_new3
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@172.66.47.200:443?flow=&type=ws&host=midsummer-bpb.pages.dev&path=/TY0QPvd6fkigt1gd?ed%3D2560&security=tls&fp=randomized&sni=miDSummeR-bPB.pAGES.dEv&alpn=h2,http/1.1&allowInsecure=false#Aa64n_new4
 vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.96.3:443?type=ws&host=midsummer-bpb.pages.dev&path=/LC6gNlDNqH600ow9?ed%3D2560&security=tls&fp=randomized&sni=mIdsUmMer-bpB.pageS.Dev&alpn=h2,http/1.1#Aa64n_new1
-vless://e2403833-1d63-441b-be27-d2d309eecb65@145.249.115.53:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=random&sni=pingless.com&pbk=L8K_jdU-miVJuEf0lu9wCA8LMgHpOQjYLYVjzNEbRBA&sid=6622dfef0c43&spx=/#new-test2
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
