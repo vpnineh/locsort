@@ -39,7 +39,6 @@ ss://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.104.243:443?allowInsecure=1&alp
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-ss://e02df9e5-c470-466e-9f45-4b229702756b@188.114.97.2:8080?flow=&type=ws&path=/gs&security=none#%F0%9F%87%A9%F0%9F%87%AA-Route-1%E2%9C%A8%E2%9C%A8
 ss://ec0ecca3-57fc-426c-ad20-4f118a15d8b1@mahan-ex0.pages.dev:443?type=ws&host=mahan-ex0.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=mahan-ex0.pages.dev#%F0%9D%98%BC%F0%9D%99%9664%F0%9D%99%A3.dev
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
@@ -77,6 +76,5 @@ vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@104.17.104.243:443?allowInsecure=1&
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-vless://e02df9e5-c470-466e-9f45-4b229702756b@188.114.97.2:8080?flow=&type=ws&path=/gs&security=none#%F0%9F%87%A9%F0%9F%87%AA-Route-1%E2%9C%A8%E2%9C%A8
 vless://ec0ecca3-57fc-426c-ad20-4f118a15d8b1@mahan-ex0.pages.dev:443?type=ws&host=mahan-ex0.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=mahan-ex0.pages.dev#%F0%9D%98%BC%F0%9D%99%9664%F0%9D%99%A3.dev
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqREUtNTcuMTI5LjI0LjEyNS03NjAzIiwic2N5IjoiYXV0byIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==

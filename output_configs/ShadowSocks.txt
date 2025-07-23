@@ -1045,7 +1045,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&s
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(10)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
-ss://e02df9e5-c470-466e-9f45-4b229702756b@188.114.97.2:8080?flow=&type=ws&path=/gs&security=none#%F0%9F%87%A9%F0%9F%87%AA-Route-1%E2%9C%A8%E2%9C%A8
 ss://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#@Aa64🇧🇮
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(22)
@@ -1146,6 +1145,7 @@ ss://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?encr
 ss://edc493ca-b939-4097-e0c3-c8fee243eac6@103.38.83.253:37122?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20vmess-HK%20(1)
 ss://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.2.9:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D15@oneclickvpnkeys
 ss://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D7@oneclickvpnkeys
+ss://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?type=ws&host=dl1-fi-cdn.easy-upload.org&path=/&security=none#Aa64n-soon
 ss://efeca8c2-8f63-467b-8d28-d630a7a9dc8f@121.154.187.44:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%8F%8682@oneclickvpnkeys
 ss://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=net-aCcOUNt02.Pages.DEv&path=%2Fdy26vBaDi5RTblzP&security=tls&sni=net-aCcOUNt02.Pages.DEv&type=ws#Channel%20id:%20@ShadowProxy66%20%20(105)
 ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzRFx1REVFMVZJUFx1RDgzRFx1REVFMSIsDQogICJhZGQiOiAiNjUuMTA5LjIzMy4xNSIsDQogICJwb3J0IjogIjI5MzAxIiwNCiAgImlkIjogImQ0ZGE4MzU3LTY2NjEtNDMxMy05NDlkLTRlNmFlYzAwNjNlOSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.116.16.35:48172?type=tcp#Aa64n-0218

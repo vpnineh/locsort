@@ -789,7 +789,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=non
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(10)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
-vless://e02df9e5-c470-466e-9f45-4b229702756b@188.114.97.2:8080?flow=&type=ws&path=/gs&security=none#%F0%9F%87%A9%F0%9F%87%AA-Route-1%E2%9C%A8%E2%9C%A8
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#@Aa64🇧🇮
 vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?encryption=none&security=none&type=grpc#%E2%9C%85@v2ray_configs_pools%20(22)
@@ -889,6 +888,7 @@ vless://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:8
 vless://edc0a710-b736-455a-a9f2-d26150e624b2@eNThuSIasTic-CeNTUrY.OneEAt.cO:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(1)
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.2.9:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D15@oneclickvpnkeys
 vless://ee06e485-f3d1-46c0-97f4-e98040b828ed@162.159.9.55:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-4.sahel.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-4.sahel.filegear-sg.me&type=ws#%F0%9F%8C%9D7@oneclickvpnkeys
+vless://ee2bb495-2632-445b-b1f8-3c476a50b78b@dl1-fi-cdn.easy-upload.org:80?type=ws&host=dl1-fi-cdn.easy-upload.org&path=/&security=none#Aa64n-soon
 vless://efed37ed-37e5-4100-a540-049dc7929984@172.66.44.253:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=net-aCcOUNt02.Pages.DEv&path=%2Fdy26vBaDi5RTblzP&security=tls&sni=net-aCcOUNt02.Pages.DEv&type=ws#Channel%20id:%20@ShadowProxy66%20%20(105)
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creativE-coMPUter.Oneeat.Co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(4)
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
