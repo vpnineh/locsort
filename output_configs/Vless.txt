@@ -414,6 +414,7 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@162.159.255.149:2087?alpn=h2%252Cht
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.178.171:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#@meli_proxyy%20(78)
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
+vless://8938d63f-7dda-43be-9a1e-819adac28297@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&host=SMIts.jOOJehTOR.iT.coM&path=/&security=tls&sni=SMIts.jOOJehTOR.iT.coM&alpn=h2http/1.1#11231(IRCFFragment)
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2053?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n-0110
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%F0%9F%87%A6%F0%9F%87%B
@@ -588,6 +589,7 @@ vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&pat
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@ComMUNaL-LosS.ONEeat.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(8)
 vless://a396b860-11b7-4af3-9950-146caf79735e@172.66.47.61:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=gghdfa.pages.dev&path=%2F8WuhXm4QjK0L68Uf&security=tls&sni=gGHDFa.pAgeS.Dev&type=ws#%E2%9C%85@v2ray_configs_pools%20(19)
 vless://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?type=ws&host=smART.mEtalSMaRt.ORg&path=/&security=tls&sni=smART.mEtalSMaRt.ORg&alpn=h2http/1.1#443(IRCFFragment)
 vless://a64d45e2-b8c5-41df-ab19-58f00ea19d0d@sp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇪🇸
 vless://a6c4db3e-7785-429e-8bc5-9eaf7b1a79b1@45.8.146.207:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(26)
 vless://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
