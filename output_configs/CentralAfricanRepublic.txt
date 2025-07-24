@@ -40,6 +40,8 @@ ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlee
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.tw:2053?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V10_www.visa.com.tw_2053
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2053
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%20-cf-vless-2082
+ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2082
+ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086🚨🚨🚨
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2095?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n-cf-vless-2095
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-cf-vless-TLS-2096
@@ -94,6 +96,8 @@ vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=v
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.tw:2053?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V10_www.visa.com.tw_2053
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2053
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%20-cf-vless-2082
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2082?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2082
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2086?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-2086🚨🚨🚨
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2095?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n-cf-vless-2095
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-cf-vless-TLS-2096
