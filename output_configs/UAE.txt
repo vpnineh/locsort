@@ -1,0 +1,2 @@
+ss://c4a65401-26fc-4ff8-9150-1d0296dd1e85@uae-vip.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A6%F0%9F%87%AA%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA
+vless://c4a65401-26fc-4ff8-9150-1d0296dd1e85@uae-vip.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A6%F0%9F%87%AA%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA
