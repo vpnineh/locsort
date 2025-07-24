@@ -1,15 +1,15 @@
-# Configs (آخرین به‌روزرسانی: 2025-07-24 13:45:31 +0330)
+# Configs (آخرین به‌روزرسانی: 2025-07-24 14:13:10 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
 | Hysteria2 | 225 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 1234 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 1230 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 2 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 60 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 18 | [`Tuic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 956 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 952 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 54 | [`Vmess.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## دسته‌بندی بر اساس کشور
@@ -48,7 +48,6 @@
 | <img src="https://flagcdn.com/w20/dm.png" width="20"> Dominica (دومینیکا) | 2 | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Dominica.txt) | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Dominica.txt) |
 | <img src="https://flagcdn.com/w20/do.png" width="20"> DominicanRepublic (جمهوری دومینیکن) | 10 | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/DominicanRepublic.txt) | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/DominicanRepublic.txt) |
 | <img src="https://flagcdn.com/w20/eg.png" width="20"> Egypt (مصر) | 2 | [`Egypt.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Egypt.txt) | [`Egypt.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Egypt.txt) |
-| <img src="https://flagcdn.com/w20/sv.png" width="20"> ElSalvador (السالوادور) | 8 | [`ElSalvador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ElSalvador.txt) | [`ElSalvador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/ElSalvador.txt) |
 | <img src="https://flagcdn.com/w20/gq.png" width="20"> EquatorialGuinea (گینه استوایی) | 2 | [`EquatorialGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/EquatorialGuinea.txt) | [`EquatorialGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/EquatorialGuinea.txt) |
 | <img src="https://flagcdn.com/w20/er.png" width="20"> Eritrea (اریتره) | 64 | [`Eritrea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Eritrea.txt) | [`Eritrea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Eritrea.txt) |
 | <img src="https://flagcdn.com/w20/ee.png" width="20"> Estonia (استونی) | 9 | [`Estonia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Estonia.txt) | [`Estonia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Estonia.txt) |
