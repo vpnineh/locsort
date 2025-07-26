@@ -119,6 +119,7 @@ ss://f6c960f3-dc81-45ca-9891-4138f78d9125@172.67.190.173:443?ed=2048&eh=Sec-WebS
 ss://fc264e2f-753b-43fd-878c-c8f82b4bc502@ico.org.uk:443?encryption=none&host=hiddifyreplace2.safavidempire.org&path=%2F76fe1f74-5804-4a5a-8b9d-5f877d90a9c6&security=tls&sni=hiddifyreplace2.safavidempire.org&type=ws#%F0%9F%86%9330@oneclickvpnkeys
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.16.0.0:443?type=ws&host=aa-3lh.pages.dev&path=/tr6CF9GIgiOjJzVqV2?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.PAGES.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20Trojan%20F%20-%20Clean%20IP%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.pages.dev&path=/trKOJj6kXGuA58q36X?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.pAges.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20-%20Clean%20IP%20:%202053گ
+trojan://8_%5DO5ff+7.%5D_@104.24.44.228:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trcnFgGsefVOaYyGA8?ed%3D2560&security=tls&fp=randomized&sni=stf839DVVYOG9d2Qa4-b8z6aHgn7b7Qi.PAGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Clean%20IP%20:%202087
 trojan://Ng35283528@104.16.83.176:443?ed=2560&eh=Sec-WebSocket-Protocol&host=c2.validbv3528.eu.org&path=%2F&sni=c2.validbv3528.eu.org&type=ws#%F0%9F%AB%A76@oneclickvpnkeys
 trojan://tg-fq521free@194.76.18.129:443?host=torjan.xn--xhq44j.eu.org&path=%2F&sni=torjan.xn--xhq44j.eu.org&type=ws#%F0%9F%90%B85@oneclickvpnkeys
 trojan://trojan@109.234.211.66:8443?host=store.timimi.dpdns.org&path=%2F&sni=store.timimi.dpdns.org&type=ws#%F0%9F%92%8D30@oneclickvpnkeys

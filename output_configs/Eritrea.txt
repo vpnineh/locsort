@@ -4,7 +4,6 @@ ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-work
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.133.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#worker🏴new
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.110.232:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker%F0%9F%87%AE%F0%9F%87%B7
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.49.134:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker%F0%9F%87%A6%F0%9F%87%BD
-ss://119c0dae-7113-4b8e-bab2-66d659230a7a@198.62.62.4:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@dnschecker.org:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@huxley.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@ipinfo.in:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
@@ -78,7 +77,6 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(7)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(104)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(17)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%87%B5%F0%9F%87%AA%20Lima,%20LMA,%20Peru
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuYXA5UDRnOFNMTFptQnZZYzhKbEtl@h110vpnch.outlinekeys.net:4248#%F0%9F%87%A8%F0%9F%87%AD%20Zurich,%20ZH,%20Switzerland%20(3)
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?encryption=none&path=%2Fvless%2F&security=none&type=ws#t.me/peterjest%20(1)
@@ -116,7 +114,6 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-w
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.133.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#worker🏴new
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.110.232:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker%F0%9F%87%AE%F0%9F%87%B7
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.49.134:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n-worker%F0%9F%87%A6%F0%9F%87%BD
-vless://119c0dae-7113-4b8e-bab2-66d659230a7a@198.62.62.4:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@dnschecker.org:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@huxley.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@ipinfo.in:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
