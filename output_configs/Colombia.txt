@@ -25,6 +25,7 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?alpn=h2&encryption=
 ss://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?encryption=none&security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping:13.55ms
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?encryption=none&path=%2F&security=none&type=ws#@v2ray_configs_pools%20(1)
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%60%20(5)
+ss://43c09ea2-72de-4b63-8da4-d5d4be7819ad@senator.cdniran.info:80?type=ws&host=SeNaToRNoTLS-08.FligHtbEaN24.Com&path=/?ed%3D2048#CONFIG_Aa64n
 ss://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(92)
 ss://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(83)
 ss://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(53)
@@ -128,6 +129,7 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?alpn=h2&encrypti
 vless://42f8b774-f998-476d-ada2-2915588c7f45@95.217.192.56:2010?encryption=none&security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AB%F0%9F%87%AE%C2%AE%EF%B8%8FFinland%C2%A9%EF%B8%8FHelsinki%F0%9F%85%BF%EF%B8%8Fping:13.55ms
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?encryption=none&path=%2F&security=none&type=ws#@v2ray_configs_pools%20(1)
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%60%20(5)
+vless://43c09ea2-72de-4b63-8da4-d5d4be7819ad@senator.cdniran.info:80?type=ws&host=SeNaToRNoTLS-08.FligHtbEaN24.Com&path=/?ed%3D2048#CONFIG_Aa64n
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(92)
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(83)
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(53)
