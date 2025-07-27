@@ -9,7 +9,8 @@ ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?ed=2560&eh=Sec-WebSo
 ss://1d173704-d5cc-4ce2-8b06-3a9a71037530@cdnjs.com:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-navy.foton.dpdns.org&path=%2F&security=tls&sni=rayan-navy.foton.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_55%20%7C%20%E2%AC%87%EF%B8%8F%2014.6MB/s
 ss://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?allowInsecure=1&encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@Hope_Net-join-us-on-Telegram%20(45)
-ss://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%203%20Active
+ss://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
+ss://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 ss://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(11)
 ss://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.143.139:2096?encryption=none&host=ghh.wsthh.site&path=%2F&security=tls&sni=ghh.wsthh.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%E2%9E%AAUS%20(146)
 ss://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ghh.wsthh.site&path=%2F&security=tls&sni=ghh.wsthh.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%E2%9E%AAUS%20(145)
@@ -41,6 +42,7 @@ ss://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.242.104:443?eh=Sec-WebSocket-Pr
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3anZISEY1U2FGb2I@78.153.131.96:443#%F0%9F%87%B1%F0%9F%87%B9%20Vilnius,%20VL,%20Lithuania
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJT29nTkk4ZVJ5TlN1Z3BjdVF6Y3l4@h110vpnus.outlinekeys.net:9483#%F0%9F%87%BA%F0%9F%87%B8%20Atlanta,%20GA,%20United%20States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZWtUWEFSdlVmU29tbUFQUU5jQ0xR@159.203.138.123:1080?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@104.192.226.106:990#%F0%9F%87%BA%F0%9F%87%B8%20Los%20Angeles,%20CA,%20United%20States%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpscFpOM21kR05YWHRZRkVTZDNRR1NU@23.177.185.63:49454#%F0%9F%87%BA%F0%9F%87%B8%20United%20States
@@ -131,7 +133,8 @@ vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?ed=2560&eh=Sec-We
 vless://1d173704-d5cc-4ce2-8b06-3a9a71037530@cdnjs.com:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-navy.foton.dpdns.org&path=%2F&security=tls&sni=rayan-navy.foton.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_55%20%7C%20%E2%AC%87%EF%B8%8F%2014.6MB/s
 vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?allowInsecure=1&encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@Hope_Net-join-us-on-Telegram%20(45)
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%203%20Active
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(11)
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.16.143.139:2096?encryption=none&host=ghh.wsthh.site&path=%2F&security=tls&sni=ghh.wsthh.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%E2%9E%AAUS%20(146)
 vless://4527ff0c-8ac2-452a-95cb-c2d29e5a8421@104.24.73.254:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ghh.wsthh.site&path=%2F&security=tls&sni=ghh.wsthh.site&type=ws#%F0%9F%87%BA%F0%9F%87%B8%E2%9E%AAUS%20(145)
