@@ -498,6 +498,7 @@ vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?allowInsecure=1&en
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
+vless://81ed7265-be10-498b-c96f-46789e81ac88@104.248.105.52:45877?encryption=none&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8%5B@rat_leak%5D
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.229.214:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%87%BA%F0%9F%87%B8US%20%7C%20@v2ray_configs_pools%60
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?encryption=none&path=%2F&security=none&type=ws#%E2%9C%85@v2ray_configs_pools%20(77)
