@@ -1,3 +1,1 @@
-ss://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.243:443?encryption=auto&path=%2Fpath%2F191019072927&security=tls&sni=www.32278117.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.160.243-5032
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.23:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.23-0505
-vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.160.243:443?encryption=auto&path=%2Fpath%2F191019072927&security=tls&sni=www.32278117.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.160.243-5032

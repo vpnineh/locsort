@@ -1,2 +1,0 @@
-ss://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&host=KtT44fPtXh.DaStAtSaRd.OrG&path=%2F&security=tls&sni=KtT44fPtXh.DaStAtSaRd.OrG&type=ws#@aski_proxy%20:%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%60
-vless://337bf72e-bb79-4d5f-be3f-7822eb77100c@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&host=KtT44fPtXh.DaStAtSaRd.OrG&path=%2F&security=tls&sni=KtT44fPtXh.DaStAtSaRd.OrG&type=ws#@aski_proxy%20:%20%D9%82%D8%B7%D8%B9%20%D8%B4%D8%AF%DB%8C%20%D8%A8%DB%8C%D8%A7%60
