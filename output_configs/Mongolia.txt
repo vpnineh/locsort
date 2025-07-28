@@ -1,0 +1,2 @@
+ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=smn.lemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=smn.lemondns.info#wo-smn
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=smn.lemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=smn.lemondns.info#wo-smn
