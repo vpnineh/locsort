@@ -3,8 +3,6 @@ ss://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.129.11:2053?type=ws&host=new-w
 ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=%2Flinkws&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_25%20%7C%20%E2%AC%87%EF%B8%8F%2011.9MB/s
 ss://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
 ss://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?allowInsecure=1&encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@Hope_Net-join-us-on-Telegram%20(45)
-ss://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
-ss://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 ss://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(11)
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=store.steampowered.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 ss://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.81.220:443?encryption=none&host=rayan-08.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rayan-08.parastoo.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_27%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB/s
@@ -18,7 +16,6 @@ ss://8df60790-c903-4661-b85d-64c0009378e5@104.17.4.197:443?eh=Sec-WebSocket-Prot
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(5)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSZWtUWEFSdlVmU29tbUFQUU5jQ0xR@159.203.138.123:1080?type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(3)
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@137.175.97.159:8388#%F0%9F%87%BA%F0%9F%87%B8US-137.175.97.159-1111
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(7)
@@ -53,8 +50,6 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@162.159.129.11:2053?type=ws&host=ne
 vless://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&path=%2Flinkws&security=tls&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_25%20%7C%20%E2%AC%87%EF%B8%8F%2011.9MB/s
 vless://27f2ce3b-7488-4078-8887-b9c129bddc3f@86.48.24.154:5900?type=tcp&headerType=none&security=none#%F0%9F%87%BA%F0%9F%87%B8-USA
 vless://39a91eaf-a379-4fff-a9c8-1cb01442b76f@172.67.69.216:2053?allowInsecure=1&encryption=none&host=iran.akcovufun.ir&path=%2F&security=tls&sni=iran.akcovufun.ir&type=ws#@Hope_Net-join-us-on-Telegram%20(45)
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:8710?type=tcp&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
-vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@159.203.138.123:9387?type=ws&security=none#%F0%9F%87%BA%F0%9F%87%B8%20%20test-panel%202%20Active
 vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(11)
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=store.steampowered.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US
 vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@104.25.81.220:443?encryption=none&host=rayan-08.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rayan-08.parastoo.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_27%20%7C%20%E2%AC%87%EF%B8%8F%207.0MB/s
