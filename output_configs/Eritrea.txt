@@ -75,6 +75,7 @@ ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:8443?allowInsecure=1&encryp
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:8880?encryption=none&path=%2F&security=none&type=httpupgrade#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20httpupgr%20(4e0)%20(16)
 ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%87%B5%F0%9F%87%AA%20Lima,%20LMA,%20Peru
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://a6493c24-f28e-4dcf-b302-4f33e72dcc18@178.162.241.217:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(19)
