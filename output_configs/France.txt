@@ -18,6 +18,7 @@ ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerTyp
 ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?allowInsecure=1&encryption=none&path=%2Fteqalfws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(5)
 ss://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?allowInsecure=1&encryption=none&path=%2Fqnbufdws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(14)
 ss://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?allowInsecure=1&encryption=none&path=%2Fcnqazsws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(12)
+ss://a20b98fa-b807-4847-a6c4-e54b72391221@france2.okreza151m.ir:6719?security=none&type=ws&headerType=&path=&host=#%F0%9F%87%AB%F0%9F%87%B7%20Fr%20-%20France%20-%20%28%20VIP%20%29%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%20%23004%F0%9F%9A%80
 ss://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?allowInsecure=1&encryption=none&path=%2Fjzonrlws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(17)
 ss://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(20)
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
@@ -46,6 +47,7 @@ vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&header
 vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?allowInsecure=1&encryption=none&path=%2Fteqalfws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(5)
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?allowInsecure=1&encryption=none&path=%2Fqnbufdws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(14)
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?allowInsecure=1&encryption=none&path=%2Fcnqazsws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(12)
+vless://a20b98fa-b807-4847-a6c4-e54b72391221@france2.okreza151m.ir:6719?security=none&type=ws&headerType=&path=&host=#%F0%9F%87%AB%F0%9F%87%B7%20Fr%20-%20France%20-%20%28%20VIP%20%29%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%20%23004%F0%9F%9A%80
 vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?allowInsecure=1&encryption=none&path=%2Fjzonrlws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(17)
 vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(20)
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
@@ -53,3 +55,4 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
 vless://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?allowInsecure=1&encryption=none&path=%2Fcdfighws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(10)
 vless://f6fe292a-4775-4219-99f6-4af979ae93a5@95.164.6.201:443?allowInsecure=1&encryption=none&path=%2Fqyytmews&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(1)
+vmess://eyJhZGQiOiAiZnJhbmNlMS5va3JlemExNTFtLmlyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImM3MDhjZWQzLTRhOWUtNGZhMS1iMThmLTFlOTZkZDMzODNlNiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA1MTU2LCAicHMiOiAiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3IEZyIC0gRnJhbmNlIC0gKCBWSVAgKSAjMDAzXHVkODNkXHVkZTgwIiwgInNjeSI6ICJhdXRvIiwgInRscyI6ICJub25lIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9
