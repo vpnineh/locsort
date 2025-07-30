@@ -49,6 +49,7 @@ ss://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(14)
+ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?allowInsecure=1&encryption=none&path=%2Fattzctws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(6)
 ss://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?allowInsecure=1&encryption=none&path=%2Fwxmgbmws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia
@@ -112,6 +113,7 @@ vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)%20(14)
+vless://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 vless://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?allowInsecure=1&encryption=none&path=%2Fattzctws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(6)
 vless://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?allowInsecure=1&encryption=none&path=%2Fwxmgbmws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia

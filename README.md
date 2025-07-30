@@ -1,22 +1,22 @@
-# Configs (آخرین به‌روزرسانی: 2025-07-30 08:35:06 +0330)
+# Configs (آخرین به‌روزرسانی: 2025-07-30 09:52:53 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
 | Hysteria2 | 225 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 1084 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 1087 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 1 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 45 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 18 | [`Tuic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 871 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 874 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 35 | [`Vmess.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## دسته‌بندی بر اساس کشور
 
 | کشور | تعداد | لینک نرمال | لینک بیس۶۴ |
 |---|---|---|---|
-| <img src="https://flagcdn.com/w20/al.png" width="20"> Albania (آلبانی) | 126 | [`Albania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Albania.txt) | [`Albania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Albania.txt) |
+| <img src="https://flagcdn.com/w20/al.png" width="20"> Albania (آلبانی) | 128 | [`Albania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Albania.txt) | [`Albania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Albania.txt) |
 | <img src="https://flagcdn.com/w20/ad.png" width="20"> Andorra (آندورا) | 119 | [`Andorra.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Andorra.txt) | [`Andorra.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Andorra.txt) |
 | <img src="https://flagcdn.com/w20/ag.png" width="20"> AntiguaAndBarbuda (آنتیگوا و باربودا) | 25 | [`AntiguaAndBarbuda.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/AntiguaAndBarbuda.txt) | [`AntiguaAndBarbuda.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/AntiguaAndBarbuda.txt) |
 | <img src="https://flagcdn.com/w20/ar.png" width="20"> Argentina (آرژانتین) | 12 | [`Argentina.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Argentina.txt) | [`Argentina.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Argentina.txt) |
@@ -44,7 +44,7 @@
 | <img src="https://flagcdn.com/w20/cy.png" width="20"> Cyprus (قبرس) | 3 | [`Cyprus.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Cyprus.txt) | [`Cyprus.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Cyprus.txt) |
 | <img src="https://flagcdn.com/w20/dm.png" width="20"> Dominica (دومینیکا) | 2 | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Dominica.txt) | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Dominica.txt) |
 | <img src="https://flagcdn.com/w20/do.png" width="20"> DominicanRepublic (جمهوری دومینیکن) | 98 | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/DominicanRepublic.txt) | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/DominicanRepublic.txt) |
-| <img src="https://flagcdn.com/w20/ec.png" width="20"> Ecuador (اکوادور) | 8 | [`Ecuador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Ecuador.txt) | [`Ecuador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ecuador.txt) |
+| <img src="https://flagcdn.com/w20/ec.png" width="20"> Ecuador (اکوادور) | 12 | [`Ecuador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Ecuador.txt) | [`Ecuador.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ecuador.txt) |
 | <img src="https://flagcdn.com/w20/eg.png" width="20"> Egypt (مصر) | 2 | [`Egypt.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Egypt.txt) | [`Egypt.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Egypt.txt) |
 | <img src="https://flagcdn.com/w20/gq.png" width="20"> EquatorialGuinea (گینه استوایی) | 2 | [`EquatorialGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/EquatorialGuinea.txt) | [`EquatorialGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/EquatorialGuinea.txt) |
 | <img src="https://flagcdn.com/w20/er.png" width="20"> Eritrea (اریتره) | 205 | [`Eritrea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Eritrea.txt) | [`Eritrea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Eritrea.txt) |
