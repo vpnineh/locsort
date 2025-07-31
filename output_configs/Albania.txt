@@ -15,9 +15,6 @@ ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:80?f
 ss://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(8)
 ss://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?allowInsecure=1&encryption=none&path=%2Ffqopqrws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(3)
 ss://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-ss://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-01.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-01
-ss://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-05.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-05
-ss://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-12.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-12
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?allowInsecure=1&encryption=none&path=%2Finqabcws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(7)
 ss://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(9)
@@ -80,9 +77,6 @@ vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:8
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(8)
 vless://36f00e93-3f4b-48ca-8f19-488c321ab931@45.89.107.229:443?allowInsecure=1&encryption=none&path=%2Ffqopqrws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(3)
 vless://3cad733b-3526-476b-adf5-b7cbdd33dc6c@beLoveD-faILure.SeOtOOLsForyOu.Co.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-01.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-01
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-05.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-05
-vless://43750da6-5020-4f24-b9be-df0507b9b19a@senatorrea-12.flightbean24.com:1370?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=-yGe7KeDFSy8uzJ20PzuYfRwf0AgBmFhhi1ZzgiYBks&sid=eaa704c0444c9c&spx=/#TCP-REALITY-12
 vless://43791e7f-8e02-4189-9533-4f842bcacd79@CHARMInG-proceSs.sEotOOlSFoRyoU.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?allowInsecure=1&encryption=none&path=%2Finqabcws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(7)
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(9)
