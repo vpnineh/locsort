@@ -1,10 +1,10 @@
-ss://5f3b254e-f114-4ae2-8294-33f760833114@msx.soft98speedtest.ir:2087?type=ws&path=/scer&security=none#332%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%80%A2%20%E2%98%81%EF%B8%8F
+ss://3f868ff0-a666-46ab-82d2-b24842348cf4@uk-vip.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
-vless://5f3b254e-f114-4ae2-8294-33f760833114@msx.soft98speedtest.ir:2087?type=ws&path=/scer&security=none#332%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20%E2%80%A2%20%E2%98%81%EF%B8%8F
+vless://3f868ff0-a666-46ab-82d2-b24842348cf4@uk-vip.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
