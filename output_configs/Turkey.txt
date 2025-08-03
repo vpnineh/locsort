@@ -1,4 +1,5 @@
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@103.215.218.75:808?type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
