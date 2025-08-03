@@ -1,6 +1,5 @@
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#%F0%9F%87%A7%F0%9F%87%B7%5Bopenproxylist.com%5D%20ss-BR
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#%D8%A8%D8%B1%D8%B2%DB%8C%D9%84%20%F0%9F%87%A7%F0%9F%87%B7%20%DB%B2
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#%D8%A8%D8%B1%D8%B2%DB%8C%D9%84%20%F0%9F%87%A7%F0%9F%87%B7%20%DB%B1
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker

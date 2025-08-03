@@ -25,8 +25,6 @@ trojan://bpb-trojan@162.159.153.2:443?ed=2560&eh=Sec-WebSocket-Protocol&host=zam
 trojan://bpb-trojan@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/trr3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€trojan
 trojan://bpb-trojan@172.67.70.92:443?ed=2560&eh=Sec-WebSocket-Protocol&host=zamim340.ggff.net&path=%2Ftr&sni=zamim340.ggff.net&type=ws#@Hope_Net-join...%20(1)
 trojan://bpb-trojan@ipw.nscl.ir:443?type=ws&host=bpb-turkey.pages.dev&path=/trKekDdHsfhoQVe5Zc/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-Turkey.pAGEs.DEV&alpn=http/1.1#Aa64n€trojan
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@156.238.18.220:8443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=vle.amclubdns.dpdns.org&path=%2F%3FPROT_TYPE%3Dtrojan&sni=vle.amclubdns.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_11%20%7C%20%E2%AC%87%EF%B8%8F%207.3MB/s
-trojan://d6b8011a-c725-435a-9fec-bf6d3530392c@194.53.53.249:2083?ed=2560&eh=Sec-WebSocket-Protocol&host=vle.amclubdns.dpdns.org&path=%2F%3FPROT_TYPE%3Dtrojan&sni=vle.amclubdns.dpdns.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(103)
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11

@@ -79,7 +79,6 @@ ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-visi
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo@141.98.4.67:52952#Server%2040%20%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.252.251:990#%F0%9F%87%B5%F0%9F%87%AA%20Lima,%20LMA,%20Peru
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@46.183.185.15:990#Server%20151
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://a6493c24-f28e-4dcf-b302-4f33e72dcc18@178.162.241.217:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(19)
@@ -102,7 +101,6 @@ ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.220:443?allowInsecure=1&en
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.221:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(13)
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.222:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(14)
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.223:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(15)
-ss://ea58dac7-6ca9-448a-aeff-af1ac5070acf@de01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Fast%20%20%7C%20noP2P
 ss://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&host=verina.ccantarella.dns-dynamic.net&path=/proxyip&security=tls&sni=verina.ccantarella.dns-dynamic.net&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
@@ -209,6 +207,5 @@ vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.220:443?allowInsecure=1
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.221:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(13)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.222:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(14)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.223:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(15)
-vless://ea58dac7-6ca9-448a-aeff-af1ac5070acf@de01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20Fast%20%20%7C%20noP2P
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&host=verina.ccantarella.dns-dynamic.net&path=/proxyip&security=tls&sni=verina.ccantarella.dns-dynamic.net&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.203.123:443?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany

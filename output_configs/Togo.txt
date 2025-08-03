@@ -1,2 +1,0 @@
-ss://b368a86e-6fbc-431c-9f05-6e1fab896858@37.202.225.74:40521?encryption=auto&path=%2F&security=none&type=ws#TG:@v2ray_sub%20(7)
-vmess://b368a86e-6fbc-431c-9f05-6e1fab896858@37.202.225.74:40521?encryption=auto&path=%2F&security=none&type=ws#TG:@v2ray_sub%20(7)
