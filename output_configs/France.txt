@@ -19,7 +19,6 @@ ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?allowInsecure=1&encry
 ss://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?allowInsecure=1&encryption=none&path=%2Fqnbufdws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(14)
 ss://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?allowInsecure=1&encryption=none&path=%2Fcnqazsws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(12)
 ss://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?allowInsecure=1&encryption=none&path=%2Fjzonrlws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(17)
-ss://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(20)
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
@@ -47,7 +46,6 @@ vless://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?allowInsecure=1&en
 vless://7d31065b-980c-4295-83f0-23bde0eee9cc@185.234.64.228:443?allowInsecure=1&encryption=none&path=%2Fqnbufdws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(14)
 vless://80032848-69d9-4faa-8162-5a6b46b5828f@194.4.49.222:443?allowInsecure=1&encryption=none&path=%2Fcnqazsws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(12)
 vless://a3eb5fef-d11f-4bc4-a8eb-2b0069fb0b68@185.242.87.84:443?allowInsecure=1&encryption=none&path=%2Fjzonrlws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(17)
-vless://b6a617b7-758e-4639-b2f4-d296c0f1b03e@51.75.246.193:2052?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(20)
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
