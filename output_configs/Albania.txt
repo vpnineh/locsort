@@ -23,7 +23,6 @@ ss://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO.uk
 ss://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?allowInsecure=1&encryption=none&path=%2Fajnexnws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(2)
 ss://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-ss://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(1)
@@ -31,11 +30,12 @@ ss://87f1c3ae-e51a-4739-8e4a-d373d13f5bf8@45.128.54.6:443?allowInsecure=1&encryp
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%85%20Fragment%20Best%20Values
 ss://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443?allowInsecure=1&encryption=none&path=%2Fmfgdwhws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(4)
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#V%E2%9C%8C%EF%B8%8FRAY%20%F0%9F%87%AE%F0%9F%87%B72087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/ullMRopfAzTY5zt3?ed%3D2560&security=tls&fp=randomized&sni=STF839DVvYoG9d2Qa4-B8Z6AHgn7b7qI.pAgEs.deV&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Domain%20:%202087
-ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(7)
 ss://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://9a37131b-2b68-427f-a2fc-cc7381c2d575@glEefUL-ERror.sEoTOoLSfOrYou.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#%F0%9F%87%B2%F0%9F%87%B9%20Valletta,%2060,%20Malta
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#%F0%9F%87%AC%F0%9F%87%B7%20Thessaloniki,%20B,%20Greece
 ss://a2af50d9-09c7-4a44-90d0-42da35923e9e@communal-loss.oneeat.co:80?type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://a396bc99-8614-4452-92e3-3c9f81c54588@45.89.107.235:443?allowInsecure=1&encryption=none&path=%2Fattzctws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(6)
 ss://aadbf0d6-6a32-4473-8a87-5b17db90e035@PRActiCaL-CoMPlaint.SEoToolsFoRYOu.cO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
@@ -44,7 +44,6 @@ ss://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk:80
 ss://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?security=tls&type=ws&headerType=&path=&host=mizbanvps.ir&sni=xn--rdekors-q1a.dk&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#Aa64n-Vip🇦🇱
 ss://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-ss://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(3)
 ss://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://0226ff6d-b500-430f-8291-96b56d677660@45.89.107.227:443?allowInsecure=1&encryption=none&path=%2Fhqqprlws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(8)
 vless://048ce287-6a7b-4dad-98fe-b5f3f6789b57@randomfrag.pages.dev:443?flow=&type=ws&host=RANDOMfRaG.PagES.DEV&path=/h5qsdx5hVG43L4lT?ed%3D2560&security=tls&fp=chrome&sni=RANDOMfRaG.PagES.DEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n%20-%20Load%20Balancer
@@ -71,7 +70,6 @@ vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@InformeD-loCATiOn.SEOtooLsfoRyOU.cO
 vless://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?allowInsecure=1&encryption=none&path=%2Fajnexnws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(2)
 vless://7094df26-af60-41c4-afac-857060d1bab0@jEALoUs-ComPetITioN.sEotOOlSFoRYoU.Co.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-vless://7094df26-af60-41c4-afac-857060d1bab0@jealous-competition.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@mOoDy-LoCk.SEotoolSfOrYOU.Co.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://82cdcdf0-e772-4d9a-b0a2-d6b605572ac1@moody-lock.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(1)
@@ -79,7 +77,6 @@ vless://87f1c3ae-e51a-4739-8e4a-d373d13f5bf8@45.128.54.6:443?allowInsecure=1&enc
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ghmm.pages.dev:443?flow=&type=ws&path=/yerz1mJKm73aS0dM?ed%3D2560&security=tls&fp=randomized&sni=ghmM.paGes.DEV&alpn=h2,http/1.1&allowInsecure=false#%E2%98%85%20Fragment%20Best%20Values
 vless://8c374da3-b3cb-4460-9098-0837973e228f@45.89.107.232:443?allowInsecure=1&encryption=none&path=%2Fmfgdwhws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(4)
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#V%E2%9C%8C%EF%B8%8FRAY%20%F0%9F%87%AE%F0%9F%87%B72087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/ullMRopfAzTY5zt3?ed%3D2560&security=tls&fp=randomized&sni=STF839DVvYoG9d2Qa4-B8Z6AHgn7b7qI.pAgEs.deV&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Domain%20:%202087
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(7)
 vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@GRumpY-bUIldinG.seOToOLSfoRYou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://9926ee97-4398-48dd-b263-2863c62f5c41@COnFIDeNt-CLUb.SeoTooLsforYoU.CO.uK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
@@ -92,5 +89,4 @@ vless://bd9b0366-e5dd-4665-bd5b-9896bc7327ae@MODERN-pRomISe.SEOtOolSForyOU.co.Uk
 vless://c313c27c-97ff-45ed-ab5c-64641af5debc@fieRcE-daTa.SeOTOOlsFORYou.cO.Uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://c40d81ec-bd3f-4714-8cb2-9788414700d9@xn--rdekors-q1a.dk:443?security=tls&type=ws&headerType=&path=&host=mizbanvps.ir&sni=xn--rdekors-q1a.dk&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#Aa64n-Vip🇦🇱
 vless://d03d8815-a06f-408f-a62f-6c84869b96a9@ELegAnt-CoRpoRaTION.sEOtOOLsFORYOU.cO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
-vless://d03d8815-a06f-408f-a62f-6c84869b96a9@elegant-corporation.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)%20(3)
 vless://edb4c373-ac92-4430-8f42-94439ca829b9@MAgicaL-fISh.sEOtoolsfOryoU.co.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)

@@ -1,5 +1,7 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
+ss://c1bf2f6d-a111-4b0f-bde8-ece652fdee86@223.135.156.179:20521?encryption=auto&path=%2F&security=none&type=ws#Japan
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 vless://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
+vmess://c1bf2f6d-a111-4b0f-bde8-ece652fdee86@223.135.156.179:20521?encryption=auto&path=%2F&security=none&type=ws#Japan

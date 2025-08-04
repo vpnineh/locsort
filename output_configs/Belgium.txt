@@ -1,5 +1,4 @@
 ss://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/Z5LQZ1pKwwQcLUcX?ed%3D2560&security=tls&fp=randomized&sni=AA64N-neW.rhyLJiTI.workeRS.deV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-%20Best%20Ping%20%F0%9F%92%A5
-ss://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?encryption=none&security=tls&sni=pqh23v5.hiddendom.shop&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20(7)
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2052?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best%20%F0%9F%93%8C%20
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2095?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-Best%20%F0%9F%95%B5%EF%B8%8F%20
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:8080?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best
@@ -11,7 +10,6 @@ ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@104.17.251.174:443?flow=&type=ws&host=
 ss://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@91.193.58.207:8443?type=ws&host=aa-3lh.pages.dev&path=/8M9VttNFWglDRXu8/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=AA-3Lh.pAgEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n🇧🇪
 ss://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@aa-3lh.pages.dev:443?type=ws&host=aa-3lh.pages.dev&path=/AaFtTaHjrcLYH6NN?ed%3D2560&security=tls&fp=randomized&sni=Aa-3Lh.paGEs.deV&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Best%20Ping%20%F0%9F%92%A5
 vless://16248104-c4d8-478d-8ac7-826c059064c2@aa64n-new.rhyljiti.workers.dev:443?type=ws&path=/Z5LQZ1pKwwQcLUcX?ed%3D2560&security=tls&fp=randomized&sni=AA64N-neW.rhyLJiTI.workeRS.deV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-%20Best%20Ping%20%F0%9F%92%A5
-vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?encryption=none&security=tls&sni=pqh23v5.hiddendom.shop&type=grpc#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20(7)
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2052?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best%20%F0%9F%93%8C%20
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2095?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-Best%20%F0%9F%95%B5%EF%B8%8F%20
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:8080?type=ws&host=aash.amiralinorozjam.workers.dev&path=/192kgriyymp?ed%3D2048&security=none#Aa64n-best

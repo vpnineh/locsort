@@ -3,8 +3,9 @@ ss://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2087?alpn=http%2F1.1&ed
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2087?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n-best%20part%20
 ss://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%B5%F0%9F%87%B1%C2%AE%EF%B8%8FPoland%C2%A9%EF%B8%8FWarsaw%F0%9F%85%BF%EF%B8%8Fping:37.36ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@2.59.163.104:2222#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland%20(6)
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86%20%F0%9F%87%A6%F0%9F%87%B7
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.121.87.89:989#%F0%9F%94%A5Join+Telegram:@Farah_VPN%F0%9F%9F%A3%20(676)
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=invincible.fafa20.shop&path=%2FTelegram%40V2ray_Alpha%2F%3D&security=tls&sni=InvInciBLe.FAFa20.sHop&type=ws#CA_2940_@Surfboardv2ray
 vless://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=invincible.fafa20.shop&path=%2FFnxOCItzWpgMrgmD%2FNzguNDYuNTYuNDI%3D&security=tls&sni=invINCIBLE.FAfa20.SHOp&type=ws#CA_2942_@Surfboardv2ray
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
