@@ -36,7 +36,6 @@ ss://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryp
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?type=grpc&mode=gun&security=none#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20VLESS
 ss://ec0ecca3-57fc-426c-ad20-4f118a15d8b1@mahan-ex0.pages.dev:443?type=ws&host=mahan-ex0.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=mahan-ex0.pages.dev#%F0%9D%98%BC%F0%9D%99%9664%F0%9D%99%A3.dev
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 vless://06618506-461f-46dc-a16d-1742e25e7f41@91.107.142.123:2052?security=none&encryption=none&host=skyroom.online&headerType=none&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
@@ -71,6 +70,5 @@ vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&enc
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?type=grpc&mode=gun&security=none#Aa64n%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20VLESS
 vless://ec0ecca3-57fc-426c-ad20-4f118a15d8b1@mahan-ex0.pages.dev:443?type=ws&host=mahan-ex0.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=mahan-ex0.pages.dev#%F0%9D%98%BC%F0%9D%99%9664%F0%9D%99%A3.dev
 vmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTI1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6nwn4eqREUtNTcuMTI5LjI0LjEyNS03NjAzIiwic2N5IjoiYXV0byIsInNuaSI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
