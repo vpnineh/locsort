@@ -17,7 +17,6 @@ ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:443?allowInsecure=1&encr
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(14)
 ss://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮
 ss://b47cac74-0fe9-4138-a8a0-0a039ae84621@ng.grizzzlyyyy.ir:8080?encryption=none&headerType=http&host=varzesh3.com&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@grizzlyvpn%20%5B8%5D
-ss://ca830afc-062d-457c-bea2-02f9f1367438@FinlandiyaCumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 ss://d83c8440-4bd9-4695-aec5-c39b52313e1c@65.109.198.157:53627?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2rayng3%20%5B6%5D
 ss://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@www.speedtest.net:8443?type=ws&host=aa-3lh.pages.dev&path=/DrQxJbD6lMUScnJO/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3LH.PAGeS.dEv&alpn=http/1.1&allowInsecure=false#Aa64n🇫🇮
 ss://ed7822b0-a358-432e-b794-ae48d0e3ba4e@65.109.217.64:14070?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2rayng3%20%5B9%5D
@@ -42,7 +41,6 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@77.91.103.216:443?allowInsecure=1&e
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@92.118.233.41:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(14)
 vless://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮
 vless://b47cac74-0fe9-4138-a8a0-0a039ae84621@ng.grizzzlyyyy.ir:8080?encryption=none&headerType=http&host=varzesh3.com&security=none&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@grizzlyvpn%20%5B8%5D
-vless://ca830afc-062d-457c-bea2-02f9f1367438@FinlandiyaCumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 vless://d83c8440-4bd9-4695-aec5-c39b52313e1c@65.109.198.157:53627?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2rayng3%20%5B6%5D
 vless://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@www.speedtest.net:8443?type=ws&host=aa-3lh.pages.dev&path=/DrQxJbD6lMUScnJO/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3LH.PAGeS.dEv&alpn=http/1.1&allowInsecure=false#Aa64n🇫🇮
 vless://ed7822b0-a358-432e-b794-ae48d0e3ba4e@65.109.217.64:14070?encryption=none&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2rayng3%20%5B9%5D

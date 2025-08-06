@@ -19,7 +19,6 @@ ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
 ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20(4e0)%20(4)
-ss://7e77ca2a-b5ba-498e-8e44-db75ef9e887e@or.looksvpn.okreza151m.ir:9901?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20Germany%20
 ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlZ4bzdNOF9JZ19TdmFqV0RVQ1VR@94.156.114.37:1080?type=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
@@ -28,7 +27,6 @@ ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.214:443?allowInsecure=1&en
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.215:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(17)
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.218:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(10)
 ss://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.220:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(12)
-ss://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&host=verina.ccantarella.dns-dynamic.net&path=/proxyip&security=tls&sni=verina.ccantarella.dns-dynamic.net&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
 trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
@@ -54,7 +52,6 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&ho
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@116.203.249.124:2020?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20tcp%20(4e0)%20(4)
-vless://7e77ca2a-b5ba-498e-8e44-db75ef9e887e@or.looksvpn.okreza151m.ir:9901?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20-%20Germany%20
 vless://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
 vless://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
@@ -62,4 +59,3 @@ vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.214:443?allowInsecure=1
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.215:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(17)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.218:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(10)
 vless://c645f03c-a66f-47b2-9df9-af3c99ad7ae2@178.162.241.220:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(yr)%20(12)
-vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&host=verina.ccantarella.dns-dynamic.net&path=/proxyip&security=tls&sni=verina.ccantarella.dns-dynamic.net&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
