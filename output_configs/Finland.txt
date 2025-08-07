@@ -1,8 +1,6 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 ss://31ebde1c-f8fb-4253-a269-2bec8001fe1a@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-ss://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2053?type=ws&path=/isegaro&security=tls&sni=newmode.click#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20ws%5D
-ss://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2087?type=ws&path=/vless&security=none#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20ws%5D
-ss://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2096?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.apple.com.cn&pbk=22F-CjB4ooEv2WPdVV5owFpWo6Zl4vqEOhnXVExu620&sid=5209f4d7c31b51c9#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20tcp%5D
+ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(17)
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(8)
@@ -18,9 +16,7 @@ ss://eyJhbHBuIjoiaDIsaHR0cFwvMS4xIiwiaG9zdCI6InhtaXZJRGVPLmNGRCIsInBhdGgiOiJcL2x
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-vless://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2053?type=ws&path=/isegaro&security=tls&sni=newmode.click#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20ws%5D
-vless://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2087?type=ws&path=/vless&security=none#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20ws%5D
-vless://4ec897bd-9cc0-40cb-b6ee-7bbe9374fb22@65.108.27.213:2096?type=tcp&headerType=none&security=reality&fp=chrome&sni=www.apple.com.cn&pbk=22F-CjB4ooEv2WPdVV5owFpWo6Zl4vqEOhnXVExu620&sid=5209f4d7c31b51c9#%F0%9F%9A%80%20Finland%F0%9F%87%AB%F0%9F%87%AE%20%20(VLESS%20-%20tcp%5D
+vless://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(17)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(8)
