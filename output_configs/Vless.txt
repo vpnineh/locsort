@@ -280,12 +280,6 @@ vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@www.ums.id:443?alpn=http%2F1.1&encr
 vless://319f5e9f-a4f3-4938-9f56-c60d7709e077@212.183.88.29:2053?type=ws&host=BiTTer-sUN-b1aA.h-175.wOrkeRS.dEV&path=/3oIKauGl2ey3v8uP?ed%3D2560&security=tls&fp=randomized&sni=BiTTer-sUN-b1aA.h-175.wOrkeRS.dEV#q_035
 vless://319f5e9f-a4f3-4938-9f56-c60d7709e077@212.183.88.29:2096?type=ws&host=BiTTER-Sun-b1AA.H-175.wOrKeRs.DEv&path=/gjxWOV4t7mTiz8Eu?ed%3D2560&security=tls&fp=randomized&sni=BiTTER-Sun-b1AA.H-175.wOrKeRs.DEv#q_048
 vless://319f5e9f-a4f3-4938-9f56-c60d7709e077@212.183.88.29:443?type=ws&host=bITTer-suN-B1aA.H-175.wORkERS.Dev&path=/bmV3L283VFc9UtP2?ed%3D2560&security=tls&fp=randomized&sni=bITTer-suN-B1aA.H-175.wORkERS.Dev#q_039
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@Germanic-speakingpeoples.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@Netherlandsisafounding.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@TheUKisaconstitutional.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@TurkishAirlineBooking.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-vless://31ebde1c-f8fb-4253-a269-2bec8001fe1a@locatedinNorthAmerica.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 vless://345f9b96-ddeb-4ae1-9c1d-95a57ee41119@ph.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=Mmd.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.V2RaYNg-Mmd.CfD.&type=ws#Aa64n_vip✨✨✨
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainY-party.sEOToOlsfORyOU.CO.uk:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 vless://34797f17-09a1-400c-9f4b-275718d62a0f@brainy-party.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(3)
