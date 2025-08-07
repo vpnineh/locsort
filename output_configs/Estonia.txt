@@ -1,5 +1,3 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#premium-ee
-ss://a5cda701-fed3-4d23-88b9-007bd84d3cf0@162.55.188.221:2081?encryption=none&security=none&type=tcp#%F0%9F%93%A2%20%20%20-%20%20%20@v2ray_UnLiimited%20%20%20%E2%80%A2%20%20%E2%80%8C%20%5B%20Free%20-%202%20%5D%20-%20%221%20TB%22%60%60%60
 ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0106
-vless://a5cda701-fed3-4d23-88b9-007bd84d3cf0@162.55.188.221:2081?encryption=none&security=none&type=tcp#%F0%9F%93%A2%20%20%20-%20%20%20@v2ray_UnLiimited%20%20%20%E2%80%A2%20%20%E2%80%8C%20%5B%20Free%20-%202%20%5D%20-%20%221%20TB%22%60%60%60
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0106
