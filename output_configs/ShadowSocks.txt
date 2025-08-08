@@ -868,6 +868,12 @@ ss://6abbc1cd-33f1-45fb-bf8e-db2d94673766@zula.ir:443?flow=&type=ws&host=AF560c5
 ss://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20115ms
 ss://6d60c0fc-ec20-4c8c-9f43-a6750c6096f2@103.231.75.49:443?allowInsecure=1&encryption=none&path=%2Fxyeywwws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(6)
 ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?allowInsecure=1&encryption=none&path=%2Flkjdasws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(4)
+ss://6f490b72-5aae-4601-a147-4d32945d403e@Germanic-speakingpeoples.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
+ss://6f490b72-5aae-4601-a147-4d32945d403e@Netherlandsisafounding.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
+ss://6f490b72-5aae-4601-a147-4d32945d403e@TheUKisaconstitutional.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
+ss://6f490b72-5aae-4601-a147-4d32945d403e@TurkishAirlineBooking.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+ss://6f490b72-5aae-4601-a147-4d32945d403e@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
+ss://6f490b72-5aae-4601-a147-4d32945d403e@locatedinNorthAmerica.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 ss://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?type=ws&host=sib.sibzamini.dpdns.org&path=/?ed%3D2560&security=none#Aa64n-0414
 ss://6fe4cdfd-11a8-4d3b-94a4-4b735da523de@45.89.107.244:443?allowInsecure=1&encryption=none&path=%2Fajnexnws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(2)
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
@@ -879,6 +885,7 @@ ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-03.flightbean24.com:2052?typ
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-05.flightbean24.com:2052?type=ws&path=/&security=none#German-05-direct
 ss://72982133-27fb-46fc-9061-61113e77e201@190.93.247.159:443?eh=Sec-WebSocket-Protocol&encryption=none&host=jack.jack-cq.click&path=%2F&security=tls&sni=jack.jack-cq.click&type=ws#CR_speednode_0036
 ss://745ded22-6ae3-4c4d-b31e-c42db0ae74fa@194.4.49.229:443?allowInsecure=1&encryption=none&path=%2Fteqalfws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(5)
+ss://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.28:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(2cc)
 ss://7897c4a6-7556-431d-b3e0-9965580efef4@31.56.146.132:54099?encryption=none&headerType=http&host=tgju.org&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%B4%5Bopenproxylist.com%5D%20vless-RO
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@162.159.135.249:80?type=ws&host=rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.aparat.com.V2ray.com.sha1.ir.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--g28h.dns-dynamic.net.&path=/Telegram/XV2ray?ed%3D2048#Aa64n-5
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
