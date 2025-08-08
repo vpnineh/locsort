@@ -861,12 +861,6 @@ ss://6192c1d9-5ae1-40ba-9cbb-cfacc2f8533c@wondErfuL-degreE.sEOTOOLsFOrYOu.Co.uK:
 ss://640934db-a21c-4e58-b8a8-c2fcbe594b1b@tnl15.radnikmax.ir:8098?type=tcp&path=%2F&headerType=http&security=none#Aa64n-vip
 ss://65ee27b8-88b6-45f5-a2f8-8392c4afd82d@212.183.88.29:2053?type=ws&host=PostwaRE-2jm.PaGES.DEv&path=/JkT5yFwh3Mveqw81?ed%3D2560&security=tls&fp=randomized&sni=PostwaRE-2jm.PaGES.DEv#q_047
 ss://6600e5c4-2a9c-4ca3-9c70-b6d7cb67868c@142.132.227.65:34560?security=none&encryption=none&headerType=none&type=tcp#🆔proxyiranip%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@Germanic-speakingpeoples.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@Netherlandsisafounding.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@TheUKisaconstitutional.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@TurkishAirlineBooking.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@finlandiyacumhuriyeti.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-ss://67dfd15e-3cd7-4f70-9a7b-4fb257ed8add@locatedinNorthAmerica.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 ss://6ab440d4-6ab5-4956-b091-37c661e562c7@104.16.32.228:443?flow=&type=ws&host=36292970673925855479161748246826.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=/V2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS-ADVANCED&security=tls&fp=chrome&sni=36292970673925855479161748246826.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&alpn=http/1.1&allowInsecure=true&mux=8#Aa64n🇬🇼
 ss://6abbc1cd-33f1-45fb-bf8e-db2d94673766@104.24.197.20:443?flow=&type=ws&host=Af560C5B.Aa64n.pAGEs.DEv&path=/3aYFAf9SARQktqqG?ed%3D2560&security=tls&fp=chrome&sni=AF560C5B.aa64N.pagEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n-Frag
 ss://6abbc1cd-33f1-45fb-bf8e-db2d94673766@104.24.33.126:443?type=ws&host=AF560c5b.aA64n.pagES.DeV&path=/JlX2JiQdevFBhePG?ed%3D2560&security=tls&fp=randomized&sni=AF560c5b.aa64n.pAges.DeV&alpn=h2,http/1.1#Aa64n🇨🇳
@@ -1071,7 +1065,6 @@ ss://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?encr
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://9fe28d12-8cf1-478d-b4d4-e38c5212354c@188.212.96.235:20521?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AE%F0%9F%87%B7%5Bopenproxylist.com%5D%20vmess-IR
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-ss://GROZA_551283277@195.200.30.97:443?type=tcp&security=reality&fp=chrome&sni=whatsapp.com&pbk=ayuDtxnOh6WELrfpQwecq_wNyZ2mpdVbcS6buecMTls&sid=ffffffffff&spx=/#%F0%9F%8E%97%EF%B8%8FAa64n-%F0%9F%9A%A8speed%20%F0%9F%9A%80
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20%E2%80%A6%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20Aa64n0%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#Aa64n_1
