@@ -1,6 +1,4 @@
-ss://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?encryption=none&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&security=reality&sid=974a74bf&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20@Filter_breaker%20(1)
 ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#@Filter_breaker%60%60%60
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=store.steampowered.com&type=tcp#@Filter_breaker%20(15)
 ss://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#@Filter_breaker
 ss://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=f1.parsa.filegear-sg.me&path=%2F&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws#@Filter_breaker%20(22)
 ss://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&path=%2FTel-%40V2ray_Alpha%2F&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws#@Filter_breaker%20(23)
@@ -15,9 +13,7 @@ tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_contro
 tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker
-vless://1584806e-f63d-4f9b-a0b3-abe64b35a09c@vpn_proxy_channel_vpn_proxy_channel.hohod.ir:443?encryption=none&fp=chrome&pbk=GpgfsA-U8Y8M3LRcTfsaBViDtp2VlN5riSLLZ2kxEiQ&security=reality&sid=974a74bf&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20@Filter_breaker%20(1)
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@45.12.143.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#@Filter_breaker%60%60%60
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&security=reality&sid=f5&sni=store.steampowered.com&type=tcp#@Filter_breaker%20(15)
 vless://561623c8-4983-44d3-a6ef-92b803a74ee8@obedient-menu.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#@Filter_breaker
 vless://8df60790-c903-4661-b85d-64c0009378e5@104.25.227.244:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=f1.parsa.filegear-sg.me&path=%2F&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws#@Filter_breaker%20(22)
 vless://8df60790-c903-4661-b85d-64c0009378e5@188.114.96.6:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=F1.paRsa.fiLegEar-Sg.Me&path=%2FTel-%40V2ray_Alpha%2F&security=tls&sni=F1.paRsa.fiLegEar-Sg.Me&type=ws#@Filter_breaker%20(23)
