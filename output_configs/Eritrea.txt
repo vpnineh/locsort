@@ -157,3 +157,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.67.35.88:2096?allowInsecure=1&en
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(3)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(5)
 vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@172.67.164.4:443?type=ws&host=verina.ccantarella.dns-dynamic.net&path=/proxyip&security=tls&sni=verina.ccantarella.dns-dynamic.net&alpn=http/1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany
+vmess://eyJpZCI6IjgxODUyNzcxLTc2ZmItNGU5NC1lNGYxLTRlMzdhNjk4YTQ5YSIsImFkZCI6IjEzNS4xMjUuMTgyLjc0IiwiaG9zdCI6IiIsInBzIjoiR2VybWFuZSVGMCU5RiU4NyVBOSVGMCU5RiU4NyVBQSIsInNjeSI6ImF1dG8iLCJwYXRoIjoiIiwidHlwZSI6Im5vbmUiLCJwb3J0IjoiMjgyMTMiLCJuZXQiOiJ0Y3AifQ==
