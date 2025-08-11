@@ -1,0 +1,2 @@
+ss://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@adf.ly:443?encryption=none&host=rayan-e12.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-e12.PaRaStOo.dPdNs.oRg&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR_1%20%7C6.4MB/s%7CGPT%7CNF%7C40%25
+vless://4e4768df-0fbb-4cc1-8fd3-7c6fea95742a@adf.ly:443?encryption=none&host=rayan-e12.parastoo.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-e12.PaRaStOo.dPdNs.oRg&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR_1%20%7C6.4MB/s%7CGPT%7CNF%7C40%25

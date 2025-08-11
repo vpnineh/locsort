@@ -34,6 +34,7 @@ ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:2096?allowInsecure=1&encr
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(18)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(26)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(7)
+ss://b9199356-42fe-468e-b9aa-2761695cf902@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&host=638886055652718198.warsaw-prx-dnraaao.info&path=%2Fmjkoswws&security=tls&sni=638886055652718198.warsaw-prx-dnraaao.info&type=ws#%F0%9F%87%AB%F0%9F%87%B7FR_2%20%7C7.4MB/s%7CGPT%7CNF%7C28%25
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms
@@ -74,6 +75,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:2096?allowInsecure=1&e
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(18)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(26)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(7)
+vless://b9199356-42fe-468e-b9aa-2761695cf902@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&host=638886055652718198.warsaw-prx-dnraaao.info&path=%2Fmjkoswws&security=tls&sni=638886055652718198.warsaw-prx-dnraaao.info&type=ws#%F0%9F%87%AB%F0%9F%87%B7FR_2%20%7C7.4MB/s%7CGPT%7CNF%7C28%25
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2082ms

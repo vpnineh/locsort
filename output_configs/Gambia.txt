@@ -1,0 +1,2 @@
+ss://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?encryption=none&host=rayan-d08.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-d08.lEiLa.dPdNs.oRG&type=ws#%F0%9F%87%AC%F0%9F%87%A7GB_1%20%7C5.8MB/s%7CGPT%7CNF%7CD+%7CGM
+vless://7a80a8d9-92f9-4f0a-8352-9005a8215ab8@transferwise.com:443?encryption=none&host=rayan-d08.leila.dpdns.org&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-d08.lEiLa.dPdNs.oRG&type=ws#%F0%9F%87%AC%F0%9F%87%A7GB_1%20%7C5.8MB/s%7CGPT%7CNF%7CD+%7CGM
