@@ -1,9 +1,7 @@
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 ss://7340c76a-9063-4686-aa59-5060dbc3e4a6@77.83.245.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=moktana.digital&pbk=b--i78sllZsruYekgzWjSYwXzudHq0PkVavTk8umQns&sid=fb0083a4a8279230#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-ss://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#TR%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@45.89.52.66:9054#%F0%9F%87%B9%F0%9F%87%B7%20TR%207
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 vless://7340c76a-9063-4686-aa59-5060dbc3e4a6@77.83.245.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=moktana.digital&pbk=b--i78sllZsruYekgzWjSYwXzudHq0PkVavTk8umQns&sid=fb0083a4a8279230#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?type=tcp&headerType=none&security=reality&fp=chrome&sni=dl.google.com&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#TR%F0%9F%87%B9%F0%9F%87%B7
