@@ -1,14 +1,8 @@
 ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-02.flightbean24.com:2052?type=ws&path=/&security=none#German-02-direct
-ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-03.flightbean24.com:2052?type=ws&path=/&security=none#German-03-direct
-ss://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-05.flightbean24.com:2052?type=ws&path=/&security=none#German-05-direct
 ss://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-04.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n%20-DIRECT-04
 ss://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-04.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n-DIRECT-04
 ss://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-13.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n-DIRECT-13
-ss://deebf5ef-b214-4c50-871f-883eb4b52527@senatorgrpc-02.flightbean24.com:8880?type=grpc&mode=gun&security=none#German%20-02-Direct
 vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-02.flightbean24.com:2052?type=ws&path=/&security=none#German-02-direct
-vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-03.flightbean24.com:2052?type=ws&path=/&security=none#German-03-direct
-vless://70b6b341-b859-443a-baf0-08ceabe9d1a4@senatorws-05.flightbean24.com:2052?type=ws&path=/&security=none#German-05-direct
 vless://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-04.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n%20-DIRECT-04
 vless://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-04.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n-DIRECT-04
 vless://8e9e6061-4d11-4fb6-b077-d38d4b3a7ae9@senatortcp-13.flightbean24.com:8080?type=tcp&headerType=http&host=panel.tgju.gold&security=none#Aa64n-DIRECT-13
-vless://deebf5ef-b214-4c50-871f-883eb4b52527@senatorgrpc-02.flightbean24.com:8880?type=grpc&mode=gun&security=none#German%20-02-Direct
