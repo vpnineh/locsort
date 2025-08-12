@@ -153,6 +153,7 @@ ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=ale
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/Telegram-V2ray_Alpha/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#Aa64n%20_meli
 ss://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?allowInsecure=1&encryption=none&path=%2Fyfwhodws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(4)
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443#Aa64n-ar
+ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#Aa64n-Ar
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#Aa64n-ar
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?flow=&path=%2F&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws%20(tal)
 ss://22f453f0-1e05-4ba0-a0a8-1dad457b7c37@85.9.207.84:39352?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=lowes.com&pbk=bqBZxwknIQGVNxvW6agjANLI6jdKG8jgIJ6cLKBbjns&sid=8f#Aa64n🇮🇴
