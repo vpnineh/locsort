@@ -5,6 +5,7 @@ trojan://,T;
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.78.206:2083?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=invincible.fafa20.shop&path=%2FtrxSsuyYmFFPA4woIq%2FNzguNDYuNTYuNDI%3D&sni=inVIncibLE.fAfA20.shoP&type=ws#@V2rayNGVPN%20(37)
 trojan://13253e6e-a1f7-4090-801f-a8dc2b083bef@104.21.95.229:2083?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=invincible.fafa20.shop&path=%2FtrYStgfIRQtOjkkxCQ%2FMTI5LjE1OS44NC43MQ%3D%3D&sni=INvincIBLE.fafA20.Shop&type=ws#@V2rayNGVPN%20(30)
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
+trojan://7248e825-887c-48b9-83bc-c26bc6392bf8@172.67.214.21:443?path=%2FctdmgeIg3NII3ibrzzKXJGy3S1&security=tls&host=xXcdvFgt.191268.XYz&type=ws&sni=xXcdvFgt.191268.XYz#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://8_%5DO5ff+7.%5D_@104.24.44.228:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trcnFgGsefVOaYyGA8?ed%3D2560&security=tls&fp=randomized&sni=stf839DVVYOG9d2Qa4-b8z6aHgn7b7Qi.PAGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20Clean%20IP%20:%202087
 trojan://8_%5DO5ff+7.%5D_@172.66.44.124:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tr8kb32m45uUNvDunM?ed%3D2560&security=tls&fp=randomized&sni=STF839DVvyOg9d2QA4-B8Z6aHGn7b7QI.PAGEs.dEV&alpn=http/1.1&allowInsecure=false#Aa64n%20F%20-%20IPv4%20:%202087
 trojan://8_%5DO5ff+7.%5D_@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:2087?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/tryx8uMvriFs0bQmfF?ed%3D2560&security=tls&fp=randomized&sni=STF839dVvyOg9D2qa4-b8z6aHgn7B7Qi.paGeS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20F%20-%20Domain%20:%202087
@@ -15,6 +16,13 @@ trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
+trojan://Aimer@108.165.152.66:2083?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@160.79.105.160:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@167.68.4.7:2053?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@172.64.34.52:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@173.245.59.109:2087?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@188.164.159.22:2096?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://Aimer@199.34.228.178:8443?path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://Ng35283528@104.16.83.176:443?ed=2560&eh=Sec-WebSocket-Protocol&host=c2.validbv3528.eu.org&path=%2F&sni=c2.validbv3528.eu.org&type=ws#%F0%9F%AB%A76@oneclickvpnkeys
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
@@ -32,6 +40,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?host=vpn.stupid
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
+trojan://slch2024@104.18.2.108:8443?path=%2F&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://tg-fq521free@198.62.62.67:443?host=torjan.xn--xhq44j.eu.org&path=%2F&sni=torjan.xn--xhq44j.eu.org&type=ws#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(194)
 trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
