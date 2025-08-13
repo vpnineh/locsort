@@ -5,7 +5,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?encryption=none&sec
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@tgju.org:443?type=ws&host=AZADnet-FREeDoM-IRaniaN3.PAGES.DeV&path=/YUvl1QdvDDf1LyqP?ed%3D2560&security=tls&fp=randomized&sni=AzAdNET-FrEEdOm-iraniAn3.PagEs.Dev&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n%20-%20Domain_2%20
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8080?type=ws&host=GH-bPb.rHYLjitI.WORKErS.DEv&path=/uhPYoTjHsb3Y08TI/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Domain_2%20:%208080
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)%20(15)
-ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.51:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)%20(20)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.100:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(b16)%20(3)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.44:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(b16)
@@ -24,7 +23,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?encryption=none&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@tgju.org:443?type=ws&host=AZADnet-FREeDoM-IRaniaN3.PAGES.DeV&path=/YUvl1QdvDDf1LyqP?ed%3D2560&security=tls&fp=randomized&sni=AzAdNET-FrEEdOm-iraniAn3.PagEs.Dev&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n%20-%20Domain_2%20
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8080?type=ws&host=GH-bPb.rHYLjitI.WORKErS.DEv&path=/uhPYoTjHsb3Y08TI/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Domain_2%20:%208080
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@91.228.10.202:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)%20(15)
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.51:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.5:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)%20(20)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.100:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(b16)%20(3)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.44:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(b16)
