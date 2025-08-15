@@ -42,6 +42,7 @@ trojan://bpb-trojan@ipw.nscl.ir:443?type=ws&host=bpb-turkey.pages.dev&path=/trKe
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
+trojan://er668@kfjdi.pages.dev:443?path=%2F&type=ws#4Sarina-4412
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&sni=vpn.stupidworld.web.id&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(43)
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
@@ -53,3 +54,5 @@ trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj67
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
 trojan://xNbIgqGHQk@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan4
 trojan://yaml777@172.67.207.57:443?host=yaml7.ggff.net&path=%2F&sni=yaml7.ggff.net&type=ws#@Hope_Net-join-us-on-Telegram%20(1621)
+trojan://zY0HGcoAcY2v@104.21.80.1:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&path=%2Ftrjx5pNUl8ZquVi8r5%2FNDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx&sni=SchQqn0yHRRS34QN3a2k4i6G9xap1TpH.pAgEs.dEV&type=ws#4Sarina-4861
+trojan://zY0HGcoAcY2v@www.speedtest.net:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&path=%2FtrfrcjlzXxwTT5XGKk%2FNDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx&sni=SCHQqN0Yhrrs34qn3a2K4i6g9XAp1tPh.PaGEs.dEv&type=ws#4Sarina-4863
