@@ -18,6 +18,7 @@ ss://119c0dae-7113-4b8e-bab2-66d659230a7a@trevor.ns.cloudflare.com:443?type=ws&h
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 ss://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
+ss://401374e6-df77-41fb-f638-dad8184f175b@164.38.155.97:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#MCI-@Tunder_vpn-27
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@b6.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@n1.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)%20(4)
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@n2.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)%20(5)
@@ -127,6 +128,7 @@ vless://119c0dae-7113-4b8e-bab2-66d659230a7a@trevor.ns.cloudflare.com:443?type=w
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.digitalocean.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker.Aa64n
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@www.pcmag.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker
 vless://134ba905-86b6-4ea8-8bb6-2055aa0c8f56@workeripv6.rhyljiti.workers.dev:443?type=ws&host=workeripv6.rhyljiti.workers.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=workeripv6.rhyljiti.workers.dev#workeri
+vless://401374e6-df77-41fb-f638-dad8184f175b@164.38.155.97:443?alpn=h2&encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#MCI-@Tunder_vpn-27
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@b6.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n1.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)%20(4)
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@n2.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(c89)%20(5)
