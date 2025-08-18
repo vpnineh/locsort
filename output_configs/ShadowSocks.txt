@@ -1156,12 +1156,6 @@ ss://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=r
 ss://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=reality&encryption=none&pbk=OJ0wA5wp55uZdD16dutlTZvx1x-rbMMXmiO9D_MMCHI&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=tgju.org&sid=e701a013553059ba#🆔v2ray1_ng%20🔒%20VL-TCP-%20🇩🇪%20DE%20315ms
 ss://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#🤖
 ss://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@D-Iran-E.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@Helsinki-iran.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@N-Iran-L.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@T-Iran-R.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@U-Iran-K.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@U-Iran-S-A.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
 ss://b1726eb2-271b-4cb6-bae8-37647e78b776@173.208.51.193:20086?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7%20(1)
 ss://b26c4803-0bca-467c-a245-c9a80bdd72ec@183.109.131.75:20086?encryption=auto&path=%2F&security=none&type=ws#4Sarina-16421
 ss://b2e38621-035b-43f8-84a5-e92160762fc3@2.188.219.43:8443?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7

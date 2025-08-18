@@ -4,7 +4,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
-ss://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@N-Iran-L.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
 vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.126.196:443?alpn=http%2F1.1&encryption=none&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F&security=tls&sni=v2RaynGGHavIv2RAYNgghAVIV2rAyngGHaViV2rayNGGhAvIv2rAYnG.PagES.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C7.6MB/s%7CGPT%7CNF%7CD+%7C4%25
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
-vless://ad061ff8-9382-4a99-9bf2-7dd484cbcfff@N-Iran-L.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
