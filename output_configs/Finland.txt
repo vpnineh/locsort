@@ -9,6 +9,7 @@ ss://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?encryption=none
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(5)
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@f7.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(6)
 ss://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(7)
+ss://7b50eb1c-9dad-48a9-9699-e04716d2a967@Helsinki-iran.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(17)
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)
 ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(8)
@@ -61,6 +62,7 @@ vless://502ce704-dcec-4f92-9489-505c99ce6c89@f5.sarasimano.com:2096?encryption=n
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(5)
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f7.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(6)
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(c89)%20(7)
+vless://7b50eb1c-9dad-48a9-9699-e04716d2a967@Helsinki-iran.digitalldns.net:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(17)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@45.15.127.184:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20ws+tls%20(f69)%20(8)
