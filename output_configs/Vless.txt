@@ -380,6 +380,7 @@ vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.252.192:443?alpn=http%2F1.1&
 vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.20.31.81:443?alpn=http%2F1.1&encryption=none&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F&security=tls&sni=V2rayNGGhavIV2RayngGHAVIv2rAYngGHAviV2rayNgghAViV2rAyNG.Pages.DeV&type=ws#Channel:%20V2rayNG_Ghavi%60%60%60
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?allowInsecure=1&encryption=none&path=%2Finqabcws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(7)
 vless://469d5947-c716-40d2-8b39-0f2336660644@de.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.ScHOOLcLAsSROOm.Ir.&type=ws#A.a.6.4.n
+vless://481860cc-4961-4269-82be-bad1c56f4f62@95.181.174.138:443?type=tcp&security=reality&fp=firefox&pbk=CgdFzwfFiyFtSXnGXLQArCZIL7rcoWsr94S1Kw9YHBM&sni=yahoo.com&sid=aa7680c7&spx=%2F#Okko
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#4Sarina-7289
 vless://4926adf0-880a-4650-bee5-58250416cb40@103.246.145.244:11802?encryption=none&fp=chrome&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&security=reality&sid=2ed15414d2&sni=refersion.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20(66)
 vless://49a7ef14-1b13-4aeb-baa3-775ddee2e334@195.42.233.13:443?allowInsecure=1&encryption=none&path=%2Fyohyowws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(3)
