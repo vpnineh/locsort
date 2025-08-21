@@ -18,6 +18,7 @@ ss://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encrypt
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@94.182.104.5:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%206
 ss://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
 ss://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
+ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2087?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#.dev-HTTPS-2087
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20110ms
 ss://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 ss://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.130.233:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#0016%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20-%20Aa64n%20
@@ -61,6 +62,7 @@ vless://6bf993b8-328f-4d88-9c8e-71057b825d78@91.99.113.54:443?security=none&encr
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@94.182.104.5:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%A9%F0%9F%87%AA%20DE%206
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20116ms
 vless://88b9da00-7a25-45ec-859b-14ad57a6bd2b@91.99.179.203:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2093ms
+vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2087?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#.dev-HTTPS-2087
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20110ms
 vless://9767a982-d18d-4634-ad2b-c93489cbffae@91.107.150.172:443?security=none&encryption=none&host=exo.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 vless://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.130.233:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#0016%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20-%20Aa64n%20
