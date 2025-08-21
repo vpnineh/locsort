@@ -76,6 +76,9 @@ ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:2096?allowInsecure=1&enc
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(26)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(37)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(28)
+ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
+ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@star-dc.az9x99.ir:2083?type=ws&host=star-cloud.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=star-cloud.az9x99.ir&alpn=h2#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
+ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@tunell-GE.dsadsadads.ir:2087?type=tcp&headerType=http&host=skyroom.online&path=/&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2082?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#workers.dev-HTTP-2082
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
@@ -159,4 +162,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:2096?allowInsecure=1&
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(26)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(37)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:8443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20ws+tls%20(b16)%20(28)
+vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
+vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@star-dc.az9x99.ir:2083?type=ws&host=star-cloud.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=star-cloud.az9x99.ir&alpn=h2#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
+vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@tunell-GE.dsadsadads.ir:2087?type=tcp&headerType=http&host=skyroom.online&path=/&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2082?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#workers.dev-HTTP-2082
