@@ -1121,6 +1121,12 @@ ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@midsummer-bpb.pages.dev:443?flow=&type
 ss://c6e3e775-ea56-4dcd-950b-c323117367f4@207.174.28.20:20086?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(2)
 ss://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?encryption=none&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&security=reality&sid=5fab0deb&sni=telewebion.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(67)
 ss://c7f169a3-2e9a-4894-ba53-7b2fa6fd08b4@15.204.234.200:41100?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(65)
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip1.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%BA%F0%9F%87%B8%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip2.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip3.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B9%F0%9F%87%B7%D8%AA%D8%B1%DA%A9%DB%8C%D9%87
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip4.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AB%F0%9F%87%AE%D9%81%D9%84%D8%A7%D9%86%D8%AF
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip5.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
+ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip6.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%AC%F0%9F%87%A7%D8%A8%D8%B1%DB%8C%D8%AA%D8%A7%D9%86%DB%8C%D8%A7
 ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=dl.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.az9x99.ir&alpn=h2#379%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
 ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@rezidental.az9x99.ir:2053?type=tcp&security=none#german%F0%9F%87%A9%F0%9F%87%AA%20%E2%80%A2%20%E2%98%81%EF%B8%8F-VIP
