@@ -228,7 +228,6 @@ ss://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?allowInsecure=1&encry
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(23)
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(62)
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(24)
-ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?type=ws&host=zoomgov.vipren.biz.id&path=/193.123.81.105%3D443&security=none#ARISTA%F0%9F%8C%90+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcityhall
 ss://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?encryption=none&host=zoomgov.vipren.biz.id&path=%2F193.123.81.105%3D443&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(29)
 ss://204d108c-a677-4be0-8bed-bba90345f4f1@vless.cillnet.my.id:443?encryption=none&host=vless.cillnet.my.id&path=%2Fsgoracle&security=tls&sni=vless.cillnet.my.id&type=ws#4Sarina-5860
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#4Sarina-5863
@@ -749,7 +748,6 @@ ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.51:443?type=ws&path=/&securi
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://9f69c514-7aba-4cb2-88d2-1be504c97061@89.58.1.98:44807?encryption=none&fp=chrome&pbk=CKRx3TijRUQqqRcEOVF07CfvekiUlPbr0twB3wrpfiQ&security=reality&sid=6d78523a82d71956&sni=yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(36)
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-ss://GKVCVNnu@151.101.3.8:80?type=xhttp&mode=auto&host=sdarkrd.global.ssl.fastly.net&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none#%E1%B4%9C%C9%B4%C9%AA%E1%B4%9B%E1%B4%87%E1%B4%85%20%EA%9C%B1%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%87%EA%9C%B1%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20%E2%80%A6%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20Aa64n0%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#Aa64n_1
@@ -851,7 +849,6 @@ ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ@217.30.10.18:9006#Channel%20id:%20@S
 ss://YWVzLTI1Ni1jZmI6Rkc1ZGRMc01QYlY1Q3V0RQ@217.30.10.18:9050
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9003
 ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@217.30.10.18:9045#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9045
-ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@80.92.204.106:9097#DE2
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.18:9026
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042
 ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@217.30.10.18:9037
@@ -1218,7 +1215,6 @@ ss://cf92f705-4866-46b5-a167-cea8a9eb37dc@172.66.40.99:8080?ed=2048&eh=Sec-WebSo
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-107.155.57.11:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-107.155.57.51:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-23.251.121.242:8080
-ss://d1e44075-8c92-4698-9db0-e71d7015b757@small-meal.oneeat.co:80?type=ws&path=/#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20ws%20(tal)
 ss://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=fei.634676.xyz&path=%2F&security=tls&sni=fei.634676.xyz&type=ws#%F0%9F%8C%9D52@oneclickvpnkeys
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
