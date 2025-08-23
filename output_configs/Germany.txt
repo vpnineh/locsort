@@ -36,7 +36,6 @@ ss://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?security=r
 ss://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.18.32.151:443?encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=%2F&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&type=ws#%F0%9F%87%A9%F0%9F%87%AADE_2%20%7C5.7MB/s%7CGPT%7CNF%7CD+%7C0%25
 ss://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@c.88981401.xyz:443?type=ws&path=/@ln2ray?ed%3D2560&security=tls&fp=firefox&sni=blog.sooriland.blog&allowInsecure=false&mux=8#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%90%88%F0%9D%90%91%F0%9D%90%82%F0%9D%90%8F
 ss://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
-ss://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip5.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 ss://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
@@ -76,7 +75,6 @@ vless://ac37eb9c-0db8-4056-8f61-e8db4e2da35e@real-all3-2.sdcards.ir:8501?securit
 vless://b55ec078-3b17-4ed1-a697-71f464cdcaaa@104.18.32.151:443?encryption=none&host=barayeiranmahsang.sabzipolobamahi.dpdns.org&path=%2F&security=tls&sni=barayeiranmahsang.sabzipolobamahi.dpdns.org&type=ws#%F0%9F%87%A9%F0%9F%87%AADE_2%20%7C5.7MB/s%7CGPT%7CNF%7CD+%7C0%25
 vless://c4258f50-fe5d-4b6c-9f09-5a193b7d34ef@c.88981401.xyz:443?type=ws&path=/@ln2ray?ed%3D2560&security=tls&fp=firefox&sni=blog.sooriland.blog&allowInsecure=false&mux=8#%F0%9F%87%A9%F0%9F%87%AA%20%F0%9D%90%88%F0%9D%90%91%F0%9D%90%82%F0%9D%90%8F
 vless://c4335777-e8c8-438b-9364-4bbae410b262@91.99.144.152:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2096ms
-vless://c8d14f2c-fba8-4f2f-8aa6-eb59a17d89c3@cip5.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%A9%F0%9F%87%AA%D8%A2%D9%84%D9%85%D8%A7%D9%86
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2092ms
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2094ms
