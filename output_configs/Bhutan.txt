@@ -1,3 +1,1 @@
-ss://0aee83e9-2fce-4d16-8fad-8beb619db831@31.169.127.40:2087?allowInsecure=1&encryption=none&host=31.169.127.40&path=%2Fvless&security=tls&sni=zula.ir&type=ws#Rayan%20-%20CBT%20-%20DE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443?type=tcp#Aa64n_sabt
-vless://0aee83e9-2fce-4d16-8fad-8beb619db831@31.169.127.40:2087?allowInsecure=1&encryption=none&host=31.169.127.40&path=%2Fvless&security=tls&sni=zula.ir&type=ws#Rayan%20-%20CBT%20-%20DE%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config

@@ -1,4 +1,3 @@
-ss://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.126.196:443?alpn=http%2F1.1&encryption=none&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F&security=tls&sni=v2RaynGGHavIv2RAYNgghAVIV2rAyngGHaViV2rayNGGhAvIv2rAYnG.PagES.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C7.6MB/s%7CGPT%7CNF%7CD+%7C4%25
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
@@ -6,7 +5,6 @@ ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
 ss://b2bd2dcb-17bd-4893-8e38-232a51006f9a@cip2.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
 ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
-vless://43f3f527-af58-4fc3-9233-678bcffbd0f7@104.18.126.196:443?alpn=http%2F1.1&encryption=none&host=v2rayngghaviv2rayngghaviv2rayngghaviv2rayngghaviv2rayng.pages.dev&path=%2F&security=tls&sni=v2RaynGGHavIv2RAYNgghAVIV2rAyngGHaViV2rayNGGhAvIv2rAYnG.PagES.dev&type=ws#%F0%9F%87%B3%F0%9F%87%B1NL_1%20%7C7.6MB/s%7CGPT%7CNF%7CD+%7C4%25
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 vless://b2bd2dcb-17bd-4893-8e38-232a51006f9a@cip2.digitall-id.com:8080?type=tcp&headerType=http&host=varzesh3.com&path=/&mux=8#%F0%9F%87%B3%F0%9F%87%B1%D9%87%D9%84%D9%86%D8%AF
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
