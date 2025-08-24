@@ -5,6 +5,7 @@ ss://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?allowInsecure=1&encry
 ss://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?allowInsecure=1&encryption=none&path=%2Fholhclws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(2)%20(1)
 ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?allowInsecure=1&encryption=none&path=%2Fhxwdnrws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(7)
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%AB%F0%9F%87%B7%20FR%204
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Tmo1UnZCUXFVakU@185.193.89.140:443#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%E2%AD%90
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.190:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(32)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@2.56.126.45:443?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(42)
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.12.133.132:2096?allowInsecure=1&encryption=none&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%B5%20France%20ws+tls%20(b16)%20(11)
