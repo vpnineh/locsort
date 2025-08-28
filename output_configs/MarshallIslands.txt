@@ -1,4 +1,0 @@
-ss://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?allowInsecure=1&encryption=none&host=rayan-config-02.rayan.dns-dynamic.net&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&type=ws#@AYMH19
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#@AYMH19%20(9)
-vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?allowInsecure=1&encryption=none&host=rayan-config-02.rayan.dns-dynamic.net&path=%2F%40Rayan_Config&security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&type=ws#@AYMH19
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@5.61.50.192:34045?encryption=none&fp=chrome&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&security=reality&sid=e8ab71d0&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp#@AYMH19%20(9)
