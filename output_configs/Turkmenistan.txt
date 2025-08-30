@@ -1,2 +1,6 @@
+ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm.gerlemondns.info#wo2-ftm
+ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm.lemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm.lemondns.info#wo-ftm
 ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm2.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm2.gerlemondns.info#wo3-ftm
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm.gerlemondns.info#wo2-ftm
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm.lemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm.lemondns.info#wo-ftm
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?type=ws&host=ftm2.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=ftm2.gerlemondns.info#wo3-ftm
