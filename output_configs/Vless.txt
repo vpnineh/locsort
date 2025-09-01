@@ -321,7 +321,6 @@ vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?allowInsecure=1&
 vless://44bda3cb-a8ed-4373-951e-7c018edd4e42@45.128.54.15:443?allowInsecure=1&encryption=none&path=%2Finqabcws&security=tls&type=ws#%F0%9F%87%B2%F0%9F%87%BE%20Malaysia%20(7)
 vless://45880d1e-351b-44b6-b9e7-18f74e34e25f@104.21.46.185:80?encryption=none&host=VPNCUSTOMIZE.rubika.ir.com.nobitex.ir.fararu.com.xn--mgbaakp0b5fzg.com.&path=%2F%3Fed%3D1024&security=none&type=ws#worker
 vless://469d5947-c716-40d2-8b39-0f2336660644@de.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.ScHOOLcLAsSROOm.Ir.&type=ws#A.a.6.4.n
-vless://496e91a6-c90c-483d-adb1-133d04d8e725@blog.ruangguru.com.servpn.my.id:443?type=ws&path=/sg1&security=tls&sni=blog.ruangguru.com.servpn.my.id#ARISTA%F0%9F%8C%90
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@bRillIanT-KnOWLEDge.SeOTOoLsfoRYoU.cO.UK:80?encryption=none&path=%2F&security=none&type=ws#4Sarina-7351
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?encryption=none&path=%2F&security=none&type=ws#worker
 vless://4d7d34d8-7582-4f0d-922b-ea0be312395b@tools.mobincloud.site:2086?security=none&type=httpupgrade&headerType=&path=341speedtest.net.xn--c1akkolql&host=https.upGrade8441.gOOgle.com.www.spEEdtest.net.wWw.spEEdtest.net.heSAmhehehe.IR.#CDN-Aa64n-IRANCELL
@@ -910,6 +909,7 @@ vless://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@104.17.147.22:8443?encryption=none&host=lease-15.access.name.ng&path=%2F&security=tls&sni=lease-15.access.name.ng&type=ws#Channel%20id:%20@ShadowProxy66%20%20(77)
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?encryption=none&host=lease-19.access.name.ng&path=%2F&security=tls&sni=lease-19.access.name.ng&type=ws#4Sarina-12028
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-15.access.name.ng&path=/&security=tls&sni=lease-15.access.name.ng#ARISTA%F0%9F%8C%90
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?type=ws&host=lease-19.access.name.ng&path=/&security=tls&sni=lease-19.access.name.ng#Aa64n%20::%F0%9F%87%AC%F0%9F%87%A
 vless://cf8cf683-40fa-4cd3-93cd-820071b11c90@172.66.47.120:443?type=ws&host=8b181044.BpBpANnelPaGEs.pages.dEV&path=/qc748XfWS1Zimr8H?ed%3D2560&security=tls&fp=randomized&sni=8B181044.BPBPannelpageS.paGes.DEv&alpn=h2,http/1.1#Aa64n+4
 vless://d2965257-0536-4811-a0d5-cdce54e90326@162.159.142.252:2083?alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=fei.634676.xyz&path=%2F&security=tls&sni=fei.634676.xyz&type=ws#%F0%9F%8C%9D52@oneclickvpnkeys
 vless://d2d29254-ad3b-495a-b209-5ccc4f12c0a4@91.99.239.156:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🆔v2ray1_ng%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%2091ms
