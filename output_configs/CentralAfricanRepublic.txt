@@ -34,7 +34,6 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#Aa64n-IP_CF
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
-ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2095?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-8880
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
 vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.16.112.38:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-3.99MB/s
@@ -72,5 +71,4 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
-vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2095?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-8880
