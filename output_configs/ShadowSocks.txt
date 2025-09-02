@@ -690,7 +690,6 @@ ss://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.133.233:443?type=ws&host=de1-m
 ss://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.134.234:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%7CAa64n%7C1403-05-26
 ss://9902fc94-31f9-4afe-b37a-82f5790b3d2a@162.159.138.232:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%F0%9F%87%A9%F0%9F%87%AA%20Aa64n
 ss://9902fc94-31f9-4afe-b37a-82f5790b3d2a@172.67.159.165:443?type=ws&host=de1-moryvpnbot.PaGeS.dEv&path=/?ed%3D2048&security=tls&sni=de1-moryvpnbot.PaGeS.dEv#%7CAa64n%7C1403-05-26
-ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.51:443?type=ws&path=/&security=tls&allowInsecure=true#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws+tls%20(f69)
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20%E2%80%A6%E2%84%A2%20
