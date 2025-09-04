@@ -21,6 +21,7 @@ ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=d
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.11:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-107.155.57.11:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-107.155.57.51:8080
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20US-23.251.121.242:8080
+ss://d41ea7be-e4fd-4fce-9c4c-8e00f0d2b060@104.21.64.13:8080?type=ws&host=new.rhyljiti.workers.dev&path=/eyJqdW5rIjoiaFRmZnk3UUw1diIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 ss://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.142.12:443?eh=Sec-WebSocket-Protocol&encryption=none&host=vle.amclubsapp.dpdns.org&path=%2F&security=tls&sni=vle.amclubsapp.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_96%20%7C%20%E2%AC%87%EF%B8%8F%205.8MB/s
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
@@ -195,6 +196,7 @@ vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.184.58:443?alpn=http%2F1.1&e
 vless://c1601a96-febd-4baa-8fe3-17ca8f4121bd@104.17.186.58:443?alpn=http%2F1.1&encryption=none&host=frieren.albedo.ddns-ip.net&path=%2Fproxyip%3Dayaka.shorekeeper.irfp%3Drandomized&security=tls&sni=frieren.albedo.ddns-ip.net&type=ws#US_speednode_0303
 vless://c1da8253-1987-4501-9805-69fbb043742a@104.21.74.214:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=rayan-fg-1.nastaran-joon.filegear-sg.me&path=%2F&security=tls&sni=rayan-fg-1.nastaran-joon.filegear-sg.me&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_60%20%7C%20%E2%AC%87%EF%B8%8F%2014.7MB/s
 vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@STAR-CDN.az9x99.ir:2053?type=ws&host=dl.az9x99.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.az9x99.ir&alpn=h2#379%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20%E2%80%A2%20%E2%98%81%EF%B8%8F
+vless://d41ea7be-e4fd-4fce-9c4c-8e00f0d2b060@104.21.64.13:8080?type=ws&host=new.rhyljiti.workers.dev&path=/eyJqdW5rIjoiaFRmZnk3UUw1diIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 vless://d6b8011a-c725-435a-9fec-bf6d3530392c@104.17.142.12:443?eh=Sec-WebSocket-Protocol&encryption=none&host=vle.amclubsapp.dpdns.org&path=%2F&security=tls&sni=vle.amclubsapp.dpdns.org&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_96%20%7C%20%E2%AC%87%EF%B8%8F%205.8MB/s
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
