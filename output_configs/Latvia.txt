@@ -1,0 +1,2 @@
+ss://id104428041@185.145.245.36:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=apple.com&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&sid=ca34cd&spx=/6Vbr6ZGBYRb53Kw#Aa64n%20%F0%9F%87%B1%F0%9F%87%BB
+vless://id104428041@185.145.245.36:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=apple.com&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&sid=ca34cd&spx=/6Vbr6ZGBYRb53Kw#Aa64n%20%F0%9F%87%B1%F0%9F%87%BB

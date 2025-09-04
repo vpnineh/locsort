@@ -1090,3 +1090,5 @@ vless://fc00618d-fb80-423c-a449-ffd29ad76a9f@vpnbot.eu:29099?flow=xtls-rprx-visi
 vless://fdbccd18-bf22-438e-847c-c5a4ec380125@tnl13.radnik.tech:8086?type=tcp&headerType=http&path=/&security=none#vip13-Aa64n-vip
 vless://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?security=tls&type=ws&path=/vless#🇲🇽
 vless://ff36090d-30b3-4d30-8462-a4d401a251bd@x1usa.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F#Aa64n_2
+vless://id104428041@185.145.245.36:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=apple.com&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&sid=ca34cd&spx=/6Vbr6ZGBYRb53Kw#Aa64n%20%F0%9F%87%B1%F0%9F%87%BB
+vless://id104428041@95.181.173.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=findlaw.com&pbk=NOxCvi9RXAiS1pC8Q3LxGMvvG_X4AvL-9CUr2IioPj4&sid=17&spx=/diZbkV4QC68Sx1A#aa64n%20%F0%9F%87%BA%F0%9F%87%B8
