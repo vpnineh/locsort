@@ -1,8 +1,8 @@
+ss://3d966801-579a-4ae4-ac29-a82b85c611c2@sv6.fasdata.top:7325?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%B3%F0%9F%87%B1
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
-ss://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
+vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv6.fasdata.top:7325?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%B3%F0%9F%87%B1%20%D9%87%D9%84%D9%86%D8%AF%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%B3%F0%9F%87%B1
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
-vless://c93d4791-8299-4ab0-ad74-8ce59e2f0046@dl.fastsoft98.ir:443?type=ws&host=dl.fastsoft98.ir&path=?ed%3D2048&security=tls&fp=random&sni=dl.fastsoft98.ir&alpn=h2#379%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20%E2%80%A2%20%E2%98%81%EF%B8%8F
