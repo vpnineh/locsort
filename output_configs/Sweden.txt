@@ -1,2 +1,0 @@
-ss://3d966801-579a-4ae4-ac29-a82b85c611c2@sv7.deltafas.top:7331?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%B8%F0%9F%87%AA
-vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv7.deltafas.top:7331?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%B8%F0%9F%87%AA%20%D8%B3%D9%88%D8%A6%D8%AF%20%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%B8%F0%9F%87%AA

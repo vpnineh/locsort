@@ -3,7 +3,6 @@ ss://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws
 ss://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?allowInsecure=1&encryption=none&path=%2Fyfwhodws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(4)
 ss://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?allowInsecure=1&encryption=none&path=%2Fholhclws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(2)%20(1)
 ss://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?allowInsecure=1&encryption=none&path=%2Fhxwdnrws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(7)
-ss://3d966801-579a-4ae4-ac29-a82b85c611c2@sv9.fasone.top:7334?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%AB%F0%9F%87%B7
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%AB%F0%9F%87%B7%20FR%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3Tmo1UnZCUXFVakU@185.193.89.140:443#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%E2%AD%90
 ss://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
@@ -15,7 +14,6 @@ vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type
 vless://1f9671ee-59bf-4e26-be35-28b396e18635@94.131.118.4:443?allowInsecure=1&encryption=none&path=%2Fyfwhodws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(4)
 vless://35b0de8b-b156-43ff-a0e6-59f1018f7adb@185.242.87.162:443?allowInsecure=1&encryption=none&path=%2Fholhclws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(2)%20(1)
 vless://3a08182c-ef44-4137-afac-12d2f58994e6@185.242.87.140:443?allowInsecure=1&encryption=none&path=%2Fhxwdnrws&security=tls&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20(7)
-vless://3d966801-579a-4ae4-ac29-a82b85c611c2@sv9.fasone.top:7334?encryption=none&type=tcp&headerType=http&host=P30afzar.com&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7%20%F0%9F%87%AB%F0%9F%87%B7
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.150:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%AB%F0%9F%87%B7%20FR%204
 vless://d39eb5ea-cab6-4949-b046-9ba2c2687e2b@fra3.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🆔v2ray1_ng%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2080ms
