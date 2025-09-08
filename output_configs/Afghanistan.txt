@@ -1,0 +1,2 @@
+ss://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?encryption=none&mode=stream-one&path=%2Frf&security=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@kafing_2%20%5B12%5D
+vless://c99f45df-5daf-4610-81ea-b9b4ea7258f4@91.99.146.68:443?encryption=none&mode=stream-one&path=%2Frf&security=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@kafing_2%20%5B12%5D

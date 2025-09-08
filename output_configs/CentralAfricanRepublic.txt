@@ -12,6 +12,8 @@ ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@108.162.198.108:443?allowInsecure=1&al
 ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@172.64.42.115:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-6.9MB/s
 ss://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@blog.811520.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf811
 ss://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@cloudflare.182682.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf182
+ss://45948c7b-cd85-4040-92b2-9e634e9ddd52@104.21.62.144:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&mode=auto&path=%2FSauron%2F&security=tls&sni=sauron.melkore.ir&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@proxie%20%5B16%5D
+ss://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?encryption=none&host=fn5.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@configscenter%20%5B2%5D
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
@@ -44,6 +46,8 @@ vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@108.162.198.108:443?allowInsecure=1
 vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@172.64.42.115:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-6.9MB/s
 vless://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@blog.811520.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf811
 vless://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@cloudflare.182682.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf182
+vless://45948c7b-cd85-4040-92b2-9e634e9ddd52@104.21.62.144:443?allowInsecure=1&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&mode=auto&path=%2FSauron%2F&security=tls&sni=sauron.melkore.ir&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@proxie%20%5B16%5D
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?encryption=none&host=fn5.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@configscenter%20%5B2%5D
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
