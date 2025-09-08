@@ -1,4 +1,2 @@
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0050
-ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0106
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.196.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0050
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@25.129.198.213:8880?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=jp.laoyoutiao.link&path=%2F&security=none&type=ws#GB_speednode_0106
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#%F0%9F%87%AA%F0%9F%87%AA%20ROSE%E2%80%93%E2%80%93%2019
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.82:443#@v2FreeHub%20%7C%20%F0%9F%87%B3%F0%9F%87%B1

@@ -1,5 +1,12 @@
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
+ss://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&security=reality&sid=f430927d&sni=www.yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#ROSE%E2%80%93CA08
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLdWlxazJjUDBCTVdyZ21lOUlmRXZw@38.180.211.126:443#%F0%9F%87%A8%F0%9F%87%A6%20ROSE%E2%80%93%E2%80%93%2013
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#%F0%9F%87%A8%F0%9F%87%B7%20San%20Jos%C3%A9,%20SJ,%20Costa%20Rica
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#ROSE%E2%80%93CA07
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.213.23.226:989#ROSE%E2%80%93CA06
 ss://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
+vless://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:42557?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo&security=reality&sid=f430927d&sni=www.yahoo.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-CA
 vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20

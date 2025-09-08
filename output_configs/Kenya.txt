@@ -1,6 +1,1 @@
-ss://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?allowInsecure=1&encryption=none&path=%2Ftqjkmwws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(1)
-ss://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?allowInsecure=1&encryption=none&path=%2Flkjdasws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(4)
-ss://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?allowInsecure=1&encryption=none&path=%2Fhfwsxtws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(2)
-vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?allowInsecure=1&encryption=none&path=%2Ftqjkmwws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(1)
-vless://6e812804-b0e8-4eff-9c2e-96c6fed96f1b@185.234.66.81:443?allowInsecure=1&encryption=none&path=%2Flkjdasws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(4)
-vless://d4992ec8-d781-45f5-9f59-ef8c769f46f9@185.234.66.101:443?allowInsecure=1&encryption=none&path=%2Fhfwsxtws&security=tls&type=ws#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20(2)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnQjdPZU5aVkNPc1pHS1RodkpsY085SnVpVnNVZ0xQYThRSGpBREZobzVjdkd5NHY@5.188.168.230:31348#Turkey1%F0%9F%87%B9%F0%9F%87%B7-t.me/proSSH

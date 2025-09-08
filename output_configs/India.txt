@@ -1,5 +1,10 @@
 ss://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3Y2hWNFlVVWFuQ1BFWGNOZmQ4VTZa@52.213.50.72:443#%F0%9F%87%AE%F0%9F%87%AA%20Dublin,%20L,%20Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXZ0FDd0x5MUJQazQ3Sk96SHlBN3p1@167.71.235.238:47347#%F0%9F%87%AE%F0%9F%87%B3%20ROSE%E2%80%93%E2%80%93%2027
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3%20ROSE%E2%80%93%E2%80%93%2039
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20Kyiv,%2030,%20Ukraine
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#ROSE%E2%80%93IN42
 vless://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4

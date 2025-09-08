@@ -1,8 +1,13 @@
+ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?encryption=none&host=ftm2.gerlemondns.info&path=%2Fhjgfdws&security=tls&sni=ftm2.gerlemondns.info&type=ws#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C4.5MB/s
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0230%20%7C%200.0MB
+ss://a417d832-bb0b-4084-a5e3-a863bb5b1f9d@ir-3.kalbodteam.com:2756?encryption=none&fp=chrome&pbk=ymBQWu-t5MHVlIhGKHzwpCTX1sKv0M7pmiUabv4rPnE&security=reality&sid=531d&sni=store.steampowered.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.9MB/s
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
+vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?encryption=none&host=ftm2.gerlemondns.info&path=%2Fhjgfdws&security=tls&sni=ftm2.gerlemondns.info&type=ws#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C4.5MB/s
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
+vless://a417d832-bb0b-4084-a5e3-a863bb5b1f9d@ir-3.kalbodteam.com:2756?encryption=none&fp=chrome&pbk=ymBQWu-t5MHVlIhGKHzwpCTX1sKv0M7pmiUabv4rPnE&security=reality&sid=531d&sni=store.steampowered.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C3.9MB/s
