@@ -1,5 +1,6 @@
 ss://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&host=net2026.zanddynastyofpersia.org&path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&fp=chrome&sni=net2026.zanddynastyofpersia.org#ARISTA%F0%9F%92%A5
 ss://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Fsc&security=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2aryng_vpn%20%5B9%5D
+ss://5dc395f4-b434-4c57-88ab-31e793f0a5ce@104.19.193.139:8443?encryption=none&type=ws&host=hp-71.pages.dev&path=/proxyip%3D5.61.32.186&security=tls&fp=random&sni=hp-71.pages.dev&allowInsecure=true&fragment=1,40-60,30-50#ARISTA%F0%9F%92%A5
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@92.112.126.90:443#ROSE%E2%80%93%5BTelegram:@v2rayng_fars%5D
@@ -17,5 +18,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86%20%F0%9F%87%A6%F0%9F%87%B7
 vless://0ec8c120-33fa-4658-9bed-3a51cb04c55c@net2026.zanddynastyofpersia.org:443?type=ws&host=net2026.zanddynastyofpersia.org&path=/eJsVXFVZ6iavNx1EFxOyH861WH&security=tls&fp=chrome&sni=net2026.zanddynastyofpersia.org#ARISTA%F0%9F%92%A5
 vless://43fbd4b6-0e35-4b6f-9ed2-8fe95be28bf5@sss2180.tas-bazi.com:443?encryption=none&mode=stream-one&path=%2Fsc&security=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@v2aryng_vpn%20%5B9%5D
+vless://5dc395f4-b434-4c57-88ab-31e793f0a5ce@104.19.193.139:8443?encryption=none&type=ws&host=hp-71.pages.dev&path=/proxyip%3D5.61.32.186&security=tls&fp=random&sni=hp-71.pages.dev&allowInsecure=true&fragment=1,40-60,30-50#ARISTA%F0%9F%92%A5
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
