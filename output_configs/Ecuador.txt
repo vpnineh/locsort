@@ -1,0 +1,2 @@
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#%F0%9F%92%A0%F0%9D%91%AA%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D:%20@injector_1401Ehi%20%E2%80%8C%F0%9F%92%95
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.248:8880?encryption=none&security=none&type=grpc#%F0%9F%92%A0%F0%9D%91%AA%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D:%20@injector_1401Ehi%20%E2%80%8C%F0%9F%92%95

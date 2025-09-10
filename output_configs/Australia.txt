@@ -1,4 +1,2 @@
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
-ss://c4464ee6-e04a-433a-9575-b068b96da199@axe.soyet2j.ir:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=mojito.soyet2j.ir&path=%2Fhomepage&security=tls&sni=mojito.soyet2j.ir&type=ws#@auto_xray
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
-vless://c4464ee6-e04a-433a-9575-b068b96da199@axe.soyet2j.ir:2053?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=mojito.soyet2j.ir&path=%2Fhomepage&security=tls&sni=mojito.soyet2j.ir&type=ws#@auto_xray

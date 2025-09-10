@@ -3,7 +3,6 @@ ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerTyp
 ss://7960071e-15ff-48d7-87cd-4b638650ba52@104.21.64.13:443?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiTmFYUkFqa0IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=randomized&sni=aa64n-NEwpBP.rhYlJitI.WORkeRS.dEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 ss://7960071e-15ff-48d7-87cd-4b638650ba52@188.42.88.115:443?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiaDk2SGNuRUw5bWJvZnAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=randomized&sni=aA64N-nEWPBP.RHyLJITI.woRkers.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxc2NhdkY1VXZpSUwtOFYtRTRyYUJB@83.217.9.125:2222#TR%F0%9F%87%B9%F0%9F%87%B7+%7C+83.217.9.125-2222+%7C+140.23ms
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@45.89.52.66:9054#%F0%9F%87%B9%F0%9F%87%B7%20TR%207
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
 vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@198.62.62.2:443?encryption=none&type=ws&host=o1.gerlemondns.info&path=/hjgfdws&security=tls&fp=chrome&sni=o1.gerlemondns.info#Aa64n🇹🇷

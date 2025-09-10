@@ -1,4 +1,2 @@
 ss://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Z
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEQWw2Zkthb2lBVks2NGt5dWFZRmFR@45.130.165.90:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore,%20Singapore%20(7)
-ss://YWVzLTI1Ni1nY206NDRobmlGLzU4dU1rS1NWTk04NmhCdnRjVjhWSzZ6WDJtQXI3dGpNakRxTT0@167.172.69.97:8443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore,%20Singapore
 vmess://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Z
