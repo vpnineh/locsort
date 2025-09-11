@@ -612,7 +612,6 @@ ss://9926ee97-4398-48dd-b263-2863c62f5c41@confident-club.seotoolsforyou.co.uk:80
 ss://9a81340d-f81b-4c76-8abb-f4d305c535c0@test3.flha.ru:80?encryption=auto&host=test3.flha.ru&path=%2F9a81340d-f81b-4c76-8abb-f4d305c535c0-vmess&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20vmess-NL-11084075
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-ss://Dornanet@65.21.233.158:55519?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=google.com&pbk=r17-eEKYDtBbJNhVGqRsT7Y9F5WLeytQpbzIMSZXDQQ&sid=2df6#Finland%F0%9F%87%AB%F0%9F%87%AE-Dornanet
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20%E2%80%A6%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#%E2%98%AC%20Aa64n0%E2%84%A2%20
 ss://Join-Telegram-Picumin@190.93.247.155:80?type=ws&host=discord.com.PQN.iranserver.com.digikala.com.nobitex.ir.leader.ir.IMsrV2rayJGiioii92129TxTul.SawMINSWEDEN2.PaQmin.LAt&path=/robots.txt?ed%3D2560#Aa64n_1
@@ -1046,5 +1045,3 @@ ss://fdbccd18-bf22-438e-847c-c5a4ec380125@tnl13.radnik.tech:8086?type=tcp&header
 ss://fde73daf-cc67-42f3-9935-35b132b01abd@8.210.140.23:54809?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#hamedp71::%F0%9F%87%AD%F0%9F%87%B0%20(2)
 ss://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?security=tls&type=ws&path=/vless#🇲🇽
 ss://ff36090d-30b3-4d30-8462-a4d401a251bd@x1usa.thanks-devefun-team-omg-i-needed-free-c-im-sure-you-are-the-bes.link:8080?type=ws&path=%2F#Aa64n_2
-ss://id104428041@185.145.245.36:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=apple.com&pbk=wOSxr467-m4ivlNk1m10wf6k4LDqO2bAkN0SEoC0tCA&sid=ca34cd&spx=/6Vbr6ZGBYRb53Kw#Aa64n%20%F0%9F%87%B1%F0%9F%87%BB
-ss://id104428041@95.181.173.153:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=findlaw.com&pbk=NOxCvi9RXAiS1pC8Q3LxGMvvG_X4AvL-9CUr2IioPj4&sid=17&spx=/diZbkV4QC68Sx1A#aa64n%20%F0%9F%87%BA%F0%9F%87%B8
