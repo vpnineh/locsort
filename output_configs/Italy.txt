@@ -1,12 +1,2 @@
 ss://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
-ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.192:80?encryption=none&type=ws&path=/hjgfdws&security=none#O2United
-ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.195:80?encryption=none&type=ws&path=/hjgfdws&security=none#O3United
-ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?encryption=none&type=ws&path=/hjgfdws&security=none#O4United
-ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.72:80?encryption=none&type=ws&path=/hjgfdws&security=none#O5United
-ss://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.83:80?encryption=none&type=ws&path=/hjgfdws&security=none#O1United
 vless://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.192:80?encryption=none&type=ws&path=/hjgfdws&security=none#O2United
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.195:80?encryption=none&type=ws&path=/hjgfdws&security=none#O3United
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.205:80?encryption=none&type=ws&path=/hjgfdws&security=none#O4United
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.72:80?encryption=none&type=ws&path=/hjgfdws&security=none#O5United
-vless://598b4251-fd03-48fe-b12d-630ac3adf2e5@45.140.167.83:80?encryption=none&type=ws&path=/hjgfdws&security=none#O1United

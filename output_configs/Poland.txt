@@ -1,7 +1,5 @@
-ss://9442e48e-9275-4964-8b1f-34a517022e48@ghm-newpbp.amiralinorozjam.workers.dev:2052?encryption=none&type=ws&host=ghm-newpbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMkZkYW45Wk9YSXdsZVhCYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE5Mi4yMzYuMTkzLjEwOCIsIjEzOC42OC43MS43MyIsIjkxLjEzMi4xOTYuMjI5IiwiNDUuMTQ0LjI4LjE2NyJdfQ%3D%3D?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B5%F0%9F%87%B1
 ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9020
 ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9027
 ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA@217.30.10.18:9003#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9003
 ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@217.30.10.18:9040#%F0%9F%87%B5%F0%9F%87%B1%20PL-217.30.10.18:9040
 ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.18:9060#%F0%9F%87%B5%F0%9F%87%B1PL_78
-vless://9442e48e-9275-4964-8b1f-34a517022e48@ghm-newpbp.amiralinorozjam.workers.dev:2052?encryption=none&type=ws&host=ghm-newpbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMkZkYW45Wk9YSXdsZVhCYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE5Mi4yMzYuMTkzLjEwOCIsIjEzOC42OC43MS43MyIsIjkxLjEzMi4xOTYuMjI5IiwiNDUuMTQ0LjI4LjE2NyJdfQ%3D%3D?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B5%F0%9F%87%B1
