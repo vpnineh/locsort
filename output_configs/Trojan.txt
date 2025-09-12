@@ -48,6 +48,7 @@ trojan://slch2024@185.59.218.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F
 trojan://slch2024@185.7.240.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%40ShadowProxy66&sni=ocost-dy.wmlefl.cc&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1%20(1)
 trojan://slch2024@188.164.248.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&sni=ocost-dy.wmlefl.cc&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://slch2024@188.244.122.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#hamedp71::%E2%9D%93%20(12)
+trojan://slch2024@190.93.244.87:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_5%7C3.2MB/s
 trojan://slch2024@190.93.247.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_7%7C3.7MB/s
 trojan://slch2024@192.0.54.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#@v2FreeHub%20%7C%20%F0%9F%87%BA%F0%9F%87%B2
 trojan://slch2024@192.200.160.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram&sni=ocost-dy.wmlefl.cc&type=ws#21%F0%9F%9B%9E@oneclickvpnkeys
@@ -58,12 +59,14 @@ trojan://slch2024@195.13.44.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sn
 trojan://slch2024@195.13.44.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram&sni=ocost-dy.wmlefl.cc&type=ws#32%F0%9F%9B%9E@oneclickvpnkeys
 trojan://slch2024@195.13.45.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.8MB/s
 trojan://slch2024@195.26.229.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%AE%F0%9F%87%B7%40ShadowProxy66&sni=ocost-dy.wmlefl.cc&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%BE
+trojan://slch2024@195.85.23.87:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_4%7C2.3MB/s
 trojan://slch2024@198.202.211.195:2096?host=ocost-dy.wmlefl.cc&path=Telegram%40ShadowProxy66&sni=ocost-dy.wmlefl.cc&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(41)
 trojan://slch2024@198.62.62.195:2096?allowInsecure=1&host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B806@exclavevpn
 trojan://slch2024@198.71.190.87:2096?host=ocost-dy.wmlefl.cc&path=Telegram&sni=ocost-dy.wmlefl.cc&type=ws#10%F0%9F%9B%9E@oneclickvpnkeys
 trojan://slch2024@199.34.230.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_1%7C3.9MB/s
 trojan://slch2024@199.68.156.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%A5%8C88@oneclickvpnkeys
 trojan://slch2024@209.46.30.87:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%2525F0%25259F%252587%2525A8%2525F0%25259F%252587%2525B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_3%7C5.5MB/s
+trojan://slch2024@209.94.90.87:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3&sni=ocost-dy.wmlefl.cc&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_3%7C3.1MB/s
 trojan://slch2024@216.24.57.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#36%F0%9F%9B%9E@oneclickvpnkeys
 trojan://trojan@www.digitalocean.com:443?ed=2560&eh=Sec-WebSocket-Protocol&host=azadnet-9ya.pages.dev&path=%2F&sni=azadnet-9ya.pages.dev&type=ws#@NETMelliAnti%20(19)
 trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
