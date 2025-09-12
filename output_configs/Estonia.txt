@@ -1,6 +1,7 @@
 ss://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&security=reality&sid=16895459a2c7768d&sni=ru.sfasti.ru&type=tcp#@v2FreeHub%20%7C%20%F0%9F%87%B7%F0%9F%87%BA
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.34.244.82:443#@v2FreeHub%20%7C%20%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#@v2FreeHub%20%7C%20%F0%9F%87%A8%F0%9F%87%AD
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&sni=aio.zipzap.biz.id&type=ws#I%20865%20(@Outline_Vpn)%20free
 trojan://slch2024@192.0.54.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#@v2FreeHub%20%7C%20%F0%9F%87%BA%F0%9F%87%B2
 trojan://slch2024@193.124.224.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#@v2FreeHub%20%7C%20%F0%9F%87%BA%F0%9F%87%B2%20(1)
 vless://1a6fe500-59da-4598-8576-256f06765ffb@212.41.11.152:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&security=reality&sid=16895459a2c7768d&sni=ru.sfasti.ru&type=tcp#@v2FreeHub%20%7C%20%F0%9F%87%B7%F0%9F%87%BA

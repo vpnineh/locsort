@@ -11,6 +11,8 @@ ss://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?encryption=none&ho
 ss://5dee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:2052?encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@vpn_ioss%20%5B16%5D
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
+ss://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B39%5D
+ss://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.229.214:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B37%5D
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.tw:2053?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V10_www.visa.com.tw_2053
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2053
@@ -40,6 +42,8 @@ vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?encryption=none
 vless://5dee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:2052?encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&mode=auto&path=%2F%3F%40MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&type=xhttp#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20@vpn_ioss%20%5B16%5D
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B39%5D
+vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.229.214:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B37%5D
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.tw:2053?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V10_www.visa.com.tw_2053
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2053?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-2053

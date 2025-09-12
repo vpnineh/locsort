@@ -1,9 +1,12 @@
+ss://59da1c2b-34cb-4694-8be4-5f933c692ecc@95.38.197.116:33142?encryption=none&headerType=http&host=cloudflare.com&security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTabriz%F0%9F%85%BF%EF%B8%8Fping:90.7ms
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0202
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker
+vless://59da1c2b-34cb-4694-8be4-5f933c692ecc@95.38.197.116:33142?encryption=none&headerType=http&host=cloudflare.com&security=none&type=tcp#%F0%9F%91%89%F0%9F%86%94@v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%AE%F0%9F%87%B7%C2%AE%EF%B8%8FIran%C2%A9%EF%B8%8FTabriz%F0%9F%85%BF%EF%B8%8Fping:90.7ms
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
