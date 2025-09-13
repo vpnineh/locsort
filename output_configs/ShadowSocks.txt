@@ -1143,6 +1143,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%20171ms
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456112171.qazvin-drc-tusabw.info:8880?mode=gun&security=none&encryption=none&type=grpc#🆔mrsoulb%20🔓%20VL-GRPC-N/A%20🇫🇷%20FR%2095ms
 ss://e1103da3-811a-4543-a1db-2bdf31a895dd@m58a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%202149
+ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?allowInsecure=1&encryption=none&path=%2Fcdfighws&security=tls&sni=myket.ir&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%F0%9F%9A%80
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?allowInsecure=1&encryption=none&path=%2Fcdfighws&security=tls&type=ws#proxy-5
 ss://e137be9d-ac3a-4d54-897d-6a706f34795f@195.42.233.149:443?encryption=none&path=%2Fcdfighws&security=tls&type=ws#%D9%81%D8%B1%D8%A7%D9%86%D8%B3%D9%87%20%F0%9F%87%A8%F0%9F%87%B5%20%F0%9F%9A%80
 ss://e191ac99-e071-4e36-9a01-107eaf26a780@103.169.142.253:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=krill.xfan01.sbs&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=krill.xfan01.sbs&type=ws#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(53)
