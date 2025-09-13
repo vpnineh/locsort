@@ -1,0 +1,2 @@
+ss://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.161.188:443?encryption=auto&path=%2Fpath%2F170733132233&security=tls&sni=www.32278117.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.161.188-4991
+vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.161.188:443?encryption=auto&path=%2Fpath%2F170733132233&security=tls&sni=www.32278117.xyz&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.79.161.188-4991
