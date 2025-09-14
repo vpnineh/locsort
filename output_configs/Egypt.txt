@@ -1,4 +1,2 @@
-ss://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@registry.cyou:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#registry
 ss://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬
-vless://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@registry.cyou:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#registry
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬

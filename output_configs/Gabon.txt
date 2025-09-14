@@ -1,2 +1,0 @@
-ss://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Z
-vmess://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Z

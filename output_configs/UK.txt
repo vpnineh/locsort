@@ -1,7 +1,4 @@
 ss://%40iSeqaro@127.0.0.1:443?encryption=none&type=tcp&headerType=none&security=none#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7
-ss://3c7a1227-5383-3a19-7084-76624ec8f84f@146.19.140.10:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI&security=reality&sni=speed.cloudflare.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C3.0MB/s
-ss://46a9d008-463b-4dce-ab0d-fbd30dc4dee0@fi.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=wikiportal.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C4.2MB/s
-ss://46a9d008-463b-4dce-ab0d-fbd30dc4dee0@par.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=wikiportal.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C3.2MB/s
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
@@ -10,8 +7,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%D9%84%D9%86%D8%AF%D9%86%20%F0%9F%87%AC%F0%9F%87%A7%20
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://%40iSeqaro@127.0.0.1:443?encryption=none&type=tcp&headerType=none&security=none#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@146.19.140.10:1443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=E1iFYUiUC2G4W70mwPyfa9oV3EVt26SfZoLcqd2yaUI&security=reality&sni=speed.cloudflare.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_2%7C3.0MB/s
-vless://46a9d008-463b-4dce-ab0d-fbd30dc4dee0@fi.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=wikiportal.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_3%7C4.2MB/s
-vless://46a9d008-463b-4dce-ab0d-fbd30dc4dee0@par.aliusvpn.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg&security=reality&sid=44103f58&sni=wikiportal.su&type=tcp#%F0%9F%87%AC%F0%9F%87%A7GB_1%7C3.2MB/s
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
