@@ -6,6 +6,7 @@ vmess://14a79148-3d75-41d6-a998-2be9edef88cb@54.169.173.51:443?encryption=auto&h
 vmess://23bdf6df-c482-46d0-c0f4-5a98d534ea11@38.54.33.103:45979?encryption=auto&path=%2Ftest&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%ADTH-38.54.33.103-5347
 vmess://23bdf6df-c482-46d0-c0f4-5a98d534ea11@47.239.117.202:45979?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Ftest&security=none&type=ws#hamedp71::%F0%9F%87%AD%F0%9F%87%B0%20(6)
 vmess://418048af-a293-4b99-9b0c-98ca3580dd24@202.79.161.188:443?encryption=auto&path=%2Fpath%2F170733132233&security=tls&sni=www.32278117.xyz&type=ws#hamedp71::%F0%9F%87%B8%F0%9F%87%AC%20(2)%20(1)
+vmess://b3c47ed5-d305-4b66-9571-785414457501@node4.rtxconfigz.com:443?allowInsecure=1&encryption=auto&host=node4.rtxconfigz.com&path=%2F%40Malinda6104&security=tls&sni=aka.ms&type=ws#%F0%9F%87%B8%F0%9F%87%AC%5Bopenproxylist.com%5D%20vmess-SG
 vmess://b54b03f8-1e13-42e5-ad2e-b2b950320972@172.66.168.215:443?encryption=auto&host=blAze-UK-36.bLazEcLOUD.sitE&path=%2Flinkvkwss&security=tls&sni=blAze-UK-36.bLazEcLOUD.sitE&type=ws#telegram%20%F0%9F%9A%80%20DailyV2ry
 vmess://b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=auto&host=BLaZE-fRA-64.BLaZECLOuD.sitE&path=%2Flinkvkwss&security=tls&sni=BLaZE-fRA-64.BLaZECLOuD.sitE&type=ws#telegram%20%E2%9A%A1%EF%B8%8F%20DailyV2ry%20(1)
 vmess://b7acf44f-3c3a-430c-8ed0-fb64ccc9a13a@www.speedtest.net:443?encryption=auto&host=BLaZE-fRA-64.BLaZECLOuD.sitE&path=%2Flinkvkwss&security=tls&sni=BLaZE-fRA-64.BLaZECLOuD.sitE&type=ws#hamedp71::%F0%9F%87%AB%F0%9F%87%B7%20(2)
