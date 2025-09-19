@@ -1,9 +1,6 @@
 ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.17.228.92:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-2.04MB/s
 ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.18.17.74:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-3.92MB/s
-ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.18.19.187:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-6.13MB/s
-ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.19.134.139:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-5.92MB/s
 ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@108.162.198.108:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-5.75MB/s
-ss://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@cloudflare.182682.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf182
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 ss://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B39%5D
@@ -26,10 +23,7 @@ ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
 vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.17.228.92:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-2.04MB/s
 vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.18.17.74:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-3.92MB/s
-vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.18.19.187:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-6.13MB/s
-vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@104.19.134.139:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-5.92MB/s
 vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@108.162.198.108:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CF-5.75MB/s
-vless://2c4d3d64-9742-4d2e-9f6f-a1ecabd22b27@cloudflare.182682.xyz:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless4-8y8.pages.dev&path=%2F&security=tls&sni=vless4-8y8.pages.dev&type=ws#cf182
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 vless://8250d638-45df-41fa-b06f-160d1cb1de0c@172.67.187.114:443?encryption=none&host=abc.vpneee.top&path=%2FYnqGMcAt%2F&security=tls&sni=abc.vpneee.top&type=ws#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20@v2ray_collector%20%5B39%5D

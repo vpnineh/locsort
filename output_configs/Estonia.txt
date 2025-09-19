@@ -1,3 +1,1 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#%D8%A7%D8%B3%D8%AA%D9%88%D9%86%DB%8C%20%F0%9F%87%AA%F0%9F%87%AA
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.156.25:443?host=aio.zipzap.biz.id&path=%2Faioproxybot%2F129.150.49.58-18650&sni=aio.zipzap.biz.id&type=ws#I%20865%20(@Outline_Vpn)%20free
-trojan://slch2024@193.124.224.195:2096?host=ocost-dy.wmlefl.cc&path=%2FTelegram&sni=ocost-dy.wmlefl.cc&type=ws#@v2FreeHub%20%7C%20%F0%9F%87%BA%F0%9F%87%B2%20(1)
