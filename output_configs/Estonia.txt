@@ -1,1 +1,3 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#%D8%A7%D8%B3%D8%AA%D9%88%D9%86%DB%8C%20%F0%9F%87%AA%F0%9F%87%AA
+ss://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@filmnet.abolfazl.ru:29200?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%93%BA%20FilmNet%20Free%20%F0%9F%8D%BF
+vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@filmnet.abolfazl.ru:29200?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%93%BA%20FilmNet%20Free%20%F0%9F%8D%BF

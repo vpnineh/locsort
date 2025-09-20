@@ -35,6 +35,7 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%8
 ss://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
 ss://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@Vip_Security%20join%20us%20-%201580
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
+ss://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun3.abolfazl.ru:1890?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%BA%F0%9F%87%B2%20US%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 ss://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
@@ -87,6 +88,7 @@ vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-visio
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
 vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@Vip_Security%20join%20us%20-%201580
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
+vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun3.abolfazl.ru:1890?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%BA%F0%9F%87%B2%20US%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
