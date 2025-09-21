@@ -9,8 +9,6 @@ ss://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?encryption=none&secur
 ss://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?alpn=h2&encryption=none&security=tls&sni=vp38.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20630
 ss://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?alpn=h2&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(167)
 ss://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20631
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(58)
-ss://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20634
 ss://401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(102)
 ss://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20635
 ss://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(164)
@@ -26,15 +24,12 @@ ss://8250d638-45df-41fa-b06f-160d1cb1de0c@190.93.246.137:443?encryption=none&hos
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&path=%2F&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&type=ws#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(149)
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U@us33.giamping.com:8080#%F0%9F%87%BA%F0%9F%87%B8%20New%20York,%20NY,%20United%20States%20(9)
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.62.168:989#ROSE%E2%80%93US132
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#ROSE%E2%80%93US98
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@167.160.90.218:989#%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989#ROSE%E2%80%93US92
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#ROSE%E2%80%93US94
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%87%BA%F0%9F%87%B8%20kitkat%C2%B9%E2%81%B7
 ss://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
-ss://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@Vip_Security%20join%20us%20-%201580
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
 ss://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun3.abolfazl.ru:1890?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%BA%F0%9F%87%B2%20US%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 ss://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
@@ -43,10 +38,8 @@ ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?typ
 ss://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US%20(4)
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#@Vip_Security%20join%20us%20-%202196%20(1)
 ss://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v1.avoipok.shop:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(1)
-ss://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.13.148:443?encryption=none&mode=stream-one&path=%2Frty&security=none&type=xhttp#@Vip_Security%20join%20us%20-%202314%20(1)
 ss://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%202424
 ss://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
-ssr://MTA3LjE1MS4xODIuMjUzOjgwODA6b3JpZ2luOnJjNC1tZDU6cGxhaW46TVRSbVJsQnlZbVY2UlROSVJGcDZjMDFQY2pZLz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9OEotSHV2Q2ZoN2dnTURsQVpYaGpiR0YyWlhad2Jn
 trojan://0C3YaEDx46ODTFTcaF8lXlZ3zeqSlF33wZagexzRjIyODa8RDwp8XSCO93ygCSYcSYABA@blength.appagent.net:18332#Channel%20id:%20@ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20(6)
 trojan://3ZFDxASRw0XIcKYFlp4RSCeSwA8ap7lEAzZB7uNnO38yDYOzDe3p23CxF0OlTx6YSK3j3@toaster.isquirrel.net:443#Channel%20id:%20@ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20(9)
 trojan://4xS33pu88RaTF37ZxRjzAZc9zxe8OaYBX9CSO3p5SSxquFOFEySnDlCleCFA2DN3gaeDl@mintaka.appagent.net:443#Channel%20id:%20@ShadowProxy66%F0%9F%87%BA%F0%9F%87%B8%20(8)
@@ -70,8 +63,6 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.3.186:443?encryption=none&se
 vless://401374e6-df77-41fb-f638-dad8184f175b@172.67.68.36:443?alpn=h2&encryption=none&security=tls&sni=vp38.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20630
 vless://401374e6-df77-41fb-f638-dad8184f175b@184.174.80.250:443?alpn=h2&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(167)
 vless://401374e6-df77-41fb-f638-dad8184f175b@185.59.218.168:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20631
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.159.218.165:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(58)
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20634
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.81.58.168:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(102)
 vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#@Vip_Security%20join%20us%20-%20635
 vless://401374e6-df77-41fb-f638-dad8184f175b@92.53.188.36:443?encryption=none&security=tls&sni=pqh23v4.hiddendom.shop&type=grpc#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(164)
@@ -88,7 +79,6 @@ vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-
 vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?ed=2048&eh=Sec-WebSocket-Protocol&encryption=none&host=frAgteSt.JaHANGiRKh.eU.orG&path=%2F&security=tls&sni=frAgteSt.JaHANGiRKh.eU.orG&type=ws#%E7%BE%8E%E5%9B%BD(yudou123.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9)%20(149)
 vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
-vless://a23288ae-4c36-4822-a021-e4963addfaaa@141.11.250.143:52222?encryption=none&headerType=http&host=speedtest.net&security=none&type=tcp#@Vip_Security%20join%20us%20-%201580
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
 vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@tun3.abolfazl.ru:1890?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20-%20%F0%9F%87%BA%F0%9F%87%B2%20US%20%5B%E2%85%93%20%D8%A8%D9%87%D8%A7%5D
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
@@ -97,6 +87,5 @@ vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.148:8880?encryption=none&security=none&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%5Bopenproxylist.com%5D%20vless-US%20(4)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh37v6.avoipok.shop:8880?encryption=none&security=none&type=grpc#@Vip_Security%20join%20us%20-%202196%20(1)
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v1.avoipok.shop:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8%20(1)
-vless://ee845a26-9d15-4cac-b3a0-fc0c0c8135af@91.99.13.148:443?encryption=none&mode=stream-one&path=%2Frty&security=none&type=xhttp#@Vip_Security%20join%20us%20-%202314%20(1)
 vless://f65e636d-c532-4e6c-b428-015402fd276c@m22a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%202424
 vless://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
