@@ -30,7 +30,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@38.54.57.90:989#ROSE%E2%80%93US94
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%87%BA%F0%9F%87%B8%20kitkat%C2%B9%E2%81%B7
 ss://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
-ss://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@russia.abolfazl.ru:29200?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20(Youtube%20Ads%20%E2%9B%94)
 ss://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
@@ -78,7 +77,6 @@ vless://97909ffd-6da0-4893-9d63-00e72ad55256@zula.ir:2096?ed=2048&eh=Sec-WebSock
 vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 vless://a0c968aa-6723-404e-93e2-5987593a7f19@m15a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201593
 vless://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201667
-vless://c37ca1da-b20d-403c-9dff-d88b62b7b2ba@russia.abolfazl.ru:29200?encryption=none&type=tcp&headerType=none&security=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20(Youtube%20Ads%20%E2%9B%94)
 vless://c5d02fbd-13d9-4545-a70a-a987e5af020e@m35a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#@Vip_Security%20join%20us%20-%201825
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
