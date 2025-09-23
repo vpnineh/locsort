@@ -13,6 +13,7 @@ vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.88:443?encryption=auto&hos
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@lammaland.org:443?encryption=auto&host=lammaland.org&path=linkvws&security=tls&sni=lammaland.org&type=ws#%F0%9F%87%A9%F0%9F%87%AADE-57.129.28.70-7205
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@serkat.org:443?encryption=auto&host=serkat.org&path=linkvws&security=tls&sni=serkat.org&type=ws#hamedp71::%F0%9F%87%A9%F0%9F%87%AA%20(13)
 vmess://3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c@45.89.107.51:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(21)
+vmess://7dd2007b-0cd0-4bac-a8df-3448b59545fd@211.25.246.131:34781?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.4MB/s
 vmess://94105883-c56d-43de-888b-96afc40a118d@43.163.1.171:12345?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(7)
 vmess://9c51f7f3-eafc-4525-a920-8d7fbda435f2@38.54.33.254:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(10)
 vmess://b54b03f8-1e13-42e5-ad2e-b2b950320972@172.66.168.215:443?encryption=auto&host=blAze-UK-36.bLazEcLOUD.sitE&path=%2Flinkvkwss&security=tls&sni=blAze-UK-36.bLazEcLOUD.sitE&type=ws#telegram%20%F0%9F%9A%80%20DailyV2ry

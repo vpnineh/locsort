@@ -45,10 +45,12 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Italy.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Japan.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Laos.txt
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Latvia.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Lesotho.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Libya.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Liechtenstein.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Lithuania.txt
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Malaysia.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Mexico.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Montenegro.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Nepal.txt
@@ -68,10 +70,12 @@ https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/hea
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SouthAfrica.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SouthSudan.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Spain.txt
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Sweden.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Tanzania.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/TrinidadAndTobago.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Turkey.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/UK.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/USA.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Uganda.txt
+https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Ukraine.txt
 https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Zimbabwe.txt

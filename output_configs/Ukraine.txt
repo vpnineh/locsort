@@ -1,0 +1,2 @@
+ss://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?encryption=none&fp=chrome&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&security=reality&sni=www.speedtest.net&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.3MB/s
+vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?encryption=none&fp=chrome&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&security=reality&sni=www.speedtest.net&type=tcp#%F0%9F%87%BA%F0%9F%87%A6UA_1%7C3.3MB/s
