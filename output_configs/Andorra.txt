@@ -11,7 +11,6 @@ ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.199:443?encryption=auto&host
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.100:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(1)
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.88:443?encryption=auto&host=lammaland.org&path=linkvws&security=tls&sni=lammaland.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(4)
 ss://35533ec0-5773-4e54-ae91-a0c467c0f1e3@89.116.144.71:46650?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BWJ8ANewYTRrUHJy4TLF3nq4js7PHQN25_R3er4lQz0&security=reality&sid=a92c09eb&sni=www.yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(8)
-ss://3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c@45.89.107.51:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(21)
 ss://5ca2c41e-ffec-5bdf-865b-f12e274c4a1d@45.15.167.13:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%AE
 ss://88538870-5626-4cd7-9cda-1e0b6253c9ce@www.speedtest.net:443?encryption=none&host=6389113402676776502.rtxiran.info&path=%2F&security=tls&sni=6389113402676776502.rtxiran.info&type=ws#Channel%20id:%20@ShadowProxy66%20%20(19)
 ss://94105883-c56d-43de-888b-96afc40a118d@43.163.1.171:12345?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(7)
@@ -19,6 +18,13 @@ ss://9c51f7f3-eafc-4525-a920-8d7fbda435f2@38.54.33.254:20521?encryption=auto&pat
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@198.57.27.25:808#ss-@ShadowProxy66-48
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@67.220.67.169:808#ss-@ShadowProxy66-49
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@79.133.122.157:808#ss-@ShadowProxy66-8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20(1)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#%F0%9F%87%A8%F0%9F%87%A6%20Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQVmRNM2VaR2QwclByN1VPdHJweG1G@194.87.45.189:443#%F0%9F%87%AA%F0%9F%87%B8%20Madrid,%20MD,%20Spain
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.171:990#%F0%9F%87%AA%F0%9F%87%A8%20Quito,%20P,%20Ecuador%20(1)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#%F0%9F%87%AA%F0%9F%87%A8%20Quito,%20P,%20Ecuador
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#%F0%9F%87%A8%F0%9F%87%A6%20Vancouver,%20BC,%20Canada%20(1)
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6%20Vancouver,%20BC,%20Canada
 ss://d342d11e-d424-4583-b36e-524ab1f0afa4@141.101.120.100:2053?encryption=none&host=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&path=%2Ftelegram%40ShadowProxy66%2F%3Fed&security=tls&sni=1749734195126.wk.by.ktff.ssl.com.kokk.cn.aliyun.cdnktff.pp.ua&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.154:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%20(15)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.47:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(3)
@@ -49,6 +55,5 @@ vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.195:443?encryption=auto&h
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.199:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(3)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.100:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(1)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.88:443?encryption=auto&host=lammaland.org&path=linkvws&security=tls&sni=lammaland.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(4)
-vmess://3dbaa5c3-f493-4ad1-9c5d-8525f4962a6c@45.89.107.51:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(21)
 vmess://94105883-c56d-43de-888b-96afc40a118d@43.163.1.171:12345?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(7)
 vmess://9c51f7f3-eafc-4525-a920-8d7fbda435f2@38.54.33.254:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(10)
