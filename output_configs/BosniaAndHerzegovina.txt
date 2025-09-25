@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India%20(2)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@id.vpnsparta.pro:57456#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India
-ss://YWVzLTEyOC1nY206MTYyNjI5ZDctY2IxNy00M2IxLTgyYzktZjljN2FlNmNiYTcw@82.180.146.173:30607#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India%20(3)
-ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India%20(1)
 ss://eDnvdIau@185.143.235.210:443?encryption=none&type=ws&host=d1.gamingdll.ir&path=/ae&security=tls&fp=chrome&sni=s7r.ir&alpn=http/1.1#Dubai%20%F0%9F%87%A6%F0%9F%87%AA%20(%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20)
 vless://eDnvdIau@185.143.235.210:443?encryption=none&type=ws&host=d1.gamingdll.ir&path=/ae&security=tls&fp=chrome&sni=s7r.ir&alpn=http/1.1#Dubai%20%F0%9F%87%A6%F0%9F%87%AA%20(%20%D9%86%DB%8C%D9%85%20%D8%A8%D9%87%D8%A7%20)
 vmess://eyJuZXQiOiJncnBjIiwidGxzIjoidGxzIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwicHMiOiIlRjAlOUYlODclQkElRjAlOUYlODclQjglMjBBYTY0biIsInNjeSI6ImF1dG8iLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm9yZyIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjA3MTQ4MTE4Ny4zOS1tZW56YS5wcm8iLCJ0eXBlIjoiZ3VuIiwicG9ydCI6IjIwODciLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicGF0aCI6IiJ9

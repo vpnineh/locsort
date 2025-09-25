@@ -1,11 +1,4 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(14)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(27)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(25)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@rusrv.vpnsparta.pro:57456#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(9)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptMzJzU0s1ZGJKaEs@81.177.214.101:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(17)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(3)
 ss://b2f2f9f2-1864-48ea-839b-22815faff1f1@104.24.44.228:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/s2zlxZFhwvypqzly?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVvyog9d2QA4-B8Z6AHgN7B7QI.PAGes.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 ss://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮
 ss://e6a74be3-e58c-4b5e-b1f0-1e4bb21bf3bd@www.speedtest.net:8443?type=ws&host=aa-3lh.pages.dev&path=/DrQxJbD6lMUScnJO/OC4yMTkuMi41OSw4LjIxOS42MS4yMzksMTY3LjIzNS41Ny42MSw0Ny43OS4yMi45Mg%3D%3D?ed%3D2560&security=tls&fp=randomized&sni=aA-3LH.PAGeS.dEv&alpn=http/1.1&allowInsecure=false#Aa64n🇫🇮

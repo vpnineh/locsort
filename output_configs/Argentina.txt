@@ -1,14 +1,6 @@
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.144.49.140:57456#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland%20(2)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@pl.vpnsparta.pro:57456#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland%20(3)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVkhzQjNLbFRhYzc5MXl0TTBaejFC@moz-dozd.sbs:443#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.237.38:990#%F0%9F%87%B7%F0%9F%87%B4%20Bucharest,%20B,%20Romania
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7%20Buenos%20Aires,%20C,%20Argentina
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#%F0%9F%87%AA%F0%9F%87%B8%20Barcelona,%20CT,%20Spain
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland%20(1)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmU2N2M0drVW9IcG9xdTNQRWhja3ho@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7%20Paris,%20IDF,%20France
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86%20%F0%9F%87%A6%F0%9F%87%B7
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
