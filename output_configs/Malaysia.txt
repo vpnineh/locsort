@@ -1,2 +1,0 @@
-ss://7dd2007b-0cd0-4bac-a8df-3448b59545fd@211.25.246.131:34781?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.4MB/s
-vmess://7dd2007b-0cd0-4bac-a8df-3448b59545fd@211.25.246.131:34781?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BEMY_1%7C2.4MB/s

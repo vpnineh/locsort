@@ -2,8 +2,6 @@ ss://03fcc618-b93d-6796-6aed-8a38c975d581@15.204.64.211:443?encryption=auto&host
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.131:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(18)
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.63:443?encryption=auto&host=fapeng.org&path=linkvws&security=tls&sni=fapeng.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(13)
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.195:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(2)
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.199:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(3)
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.88:443?encryption=auto&host=lammaland.org&path=linkvws&security=tls&sni=lammaland.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(4)
 ss://35533ec0-5773-4e54-ae91-a0c467c0f1e3@89.116.144.71:46650?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BWJ8ANewYTRrUHJy4TLF3nq4js7PHQN25_R3er4lQz0&security=reality&sid=a92c09eb&sni=www.yahoo.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(8)
 ss://5ca2c41e-ffec-5bdf-865b-f12e274c4a1d@45.15.167.13:443?alpn=h2%2Chttp%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B1%F0%9F%87%AE
 ss://94105883-c56d-43de-888b-96afc40a118d@43.163.1.171:12345?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(7)
@@ -20,6 +18,4 @@ vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.204.64.211:443?encryption=auto&h
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.131:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(18)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.63:443?encryption=auto&host=fapeng.org&path=linkvws&security=tls&sni=fapeng.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(13)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.195:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(2)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.199:443?encryption=auto&host=kampong.org&path=linkvws&security=tls&sni=kampong.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(3)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.88:443?encryption=auto&host=lammaland.org&path=linkvws&security=tls&sni=lammaland.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(4)
 vmess://94105883-c56d-43de-888b-96afc40a118d@43.163.1.171:12345?encryption=auto&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%20(7)
