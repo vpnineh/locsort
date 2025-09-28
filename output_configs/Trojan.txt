@@ -1,7 +1,7 @@
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.16.0.0:443?type=ws&host=aa-3lh.pages.dev&path=/tr6CF9GIgiOjJzVqV2?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.PAGES.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20Trojan%20F%20-%20Clean%20IP%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.dev&path=/trep5Xcdji5Vi4BAEf/MTU4LjE4MC4xMi4xMTcsMTQxLjE0OC4yMDMuNiw4OS4xNjguNDMuMjg%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lH.PaGes.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Trojan%20F%20-%20IPv4%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.pages.dev&path=/trKOJj6kXGuA58q36X?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.pAges.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20-%20Clean%20IP%20:%202053گ
-trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0498
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.255.103-0276
 trojan://253bc477d4e43c209f2d427272968280@126.116.225.149:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@160.16.130.66:2045?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://253bc477d4e43c209f2d427272968280@160.16.231.103:3160?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40stairnode
@@ -37,9 +37,9 @@ trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
 trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mt_proxy%20%5B7%5D
-trojan://telegram-id-v2rayvpnchannel@15.188.98.10:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B18%5D
-trojan://telegram-id-v2rayvpnchannel@51.44.190.218:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B17%5D
-trojan://telegram-id-v2rayvpnchannel@63.178.137.4:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B16%5D
+trojan://telegram-id-v2rayvpnchannel@3.127.1.21:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B17%5D
+trojan://telegram-id-v2rayvpnchannel@35.181.223.66:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B16%5D
+trojan://telegram-id-v2rayvpnchannel@52.58.34.74:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B18%5D
 trojan://trojan@www.visa.com.sg:8443?security=tls&type=ws&host=vahid1.vahiddj6750.workers.dev&sni=vahid1.vahiddj6750.workers.dev&fp=random&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 trojan://trojan@www.visa.com.sg:8880?security=none&type=ws&host=vahid1.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
