@@ -24,7 +24,6 @@ ss://75c3f12e-bdcd-43e0-a9bb-3f1d95911966@141.227.140.74:33468?encryption=none&s
 ss://91010aab-d473-4463-8957-3c205bef4d8d@de.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A9%F0%9F%87%AA%20Germany
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-workers-T
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIOHN3eE5hV0dhb2FKbDFwaFpDV2Fm@188.132.237.3:8443#https://t.me/ForceRunVPN-%F0%9F%87%B9%F0%9F%87%B7-Istanbul-500ms-Geo%20Teknoloji
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprc2c5MjlCV2YxSzIyMGRH@azjnac1.uksouth.cloudapp.azure.com:443#https://t.me/ForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-270ms-Unknown
 ss://YXV0bzo4NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAMTA0LjE4LjI2LjkwOjg0NDM?path=/client/connection/socket&remarks=%F0%9F%87%A9%F0%9F%87%AA%20Germany%F0%9F%94%A5&obfsParam=mycloudproject2025.site&obfs=websocket&tls=1&peer=mYClouDprOjeCt2025.sitEtype=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://c2e177d4-e610-4abd-85cd-1a869d158751@188.114.97.202:8443?encryption=none&host=teslakit1.pages.dev&path=%2F&security=tls&sni=teslakit1.pages.dev&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%92%F0%9F%87%92-Unknown-609ms-Unknown
