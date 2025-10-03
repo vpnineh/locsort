@@ -1,2 +1,0 @@
-ss://b65f4df7-f6af-42b2-877a-cef33f21675e@138.124.182.204:443?encryption=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443&security=tls&sni=kejiland.freewarp.eu.org&type=ws#%F0%9F%87%B1%F0%9F%87%BBLV_1%7C4.2MB/s
-vless://b65f4df7-f6af-42b2-877a-cef33f21675e@138.124.182.204:443?encryption=none&host=kejiland.freewarp.eu.org&path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443&security=tls&sni=kejiland.freewarp.eu.org&type=ws#%F0%9F%87%B1%F0%9F%87%BBLV_1%7C4.2MB/s
