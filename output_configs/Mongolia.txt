@@ -1,0 +1,8 @@
+ss://465fd2cf-5bce-42f6-b4b7-412ec65e1ce0@193.233.19.243:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.smnsoft.com&alpn=h2,http/1.1#9-t1-support.smnsoft
+ss://7bb7d6cc-fa0b-4c86-bd32-f8084c4b14c1@193.233.19.86:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=dl.smnsoft.com&alpn=h2,http/1.1#2-t2-dl.smnsoft
+ss://a43445d4-61a0-45b0-9200-6d13cb04c960@193.233.19.241:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=shop.smnsoft.com&alpn=h2,http/1.1#5-t1-shop.smnsoft
+ss://eede597e-9b02-4d3f-8441-1405c7fe0ff3@193.233.19.243:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.smnsoft.com&alpn=h2,http/1.1#10-t2-support.smnsoft
+vless://465fd2cf-5bce-42f6-b4b7-412ec65e1ce0@193.233.19.243:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.smnsoft.com&alpn=h2,http/1.1#9-t1-support.smnsoft
+vless://7bb7d6cc-fa0b-4c86-bd32-f8084c4b14c1@193.233.19.86:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=dl.smnsoft.com&alpn=h2,http/1.1#2-t2-dl.smnsoft
+vless://a43445d4-61a0-45b0-9200-6d13cb04c960@193.233.19.241:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=shop.smnsoft.com&alpn=h2,http/1.1#5-t1-shop.smnsoft
+vless://eede597e-9b02-4d3f-8441-1405c7fe0ff3@193.233.19.243:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.smnsoft.com&alpn=h2,http/1.1#10-t2-support.smnsoft
