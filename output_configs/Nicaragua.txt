@@ -1,2 +1,0 @@
-ss://04fd4bb7-f66f-e29a-89d7-df99ae4008d9@networknim.cam:19000?encryption=none&flow=&security=none#test%20nim
-vless://04fd4bb7-f66f-e29a-89d7-df99ae4008d9@networknim.cam:19000?encryption=none&flow=&security=none#test%20nim
