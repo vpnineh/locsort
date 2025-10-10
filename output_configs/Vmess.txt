@@ -10,8 +10,6 @@ vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.69:443?encryption=auto&ho
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.194:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(3)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.200:443?encryption=auto&host=serkat.org&path=linkvws&security=tls&sni=serkat.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-480ms-OVH%20SAS%20(2)
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.64.163:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-502ms-OVH%20SAS%20(1)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@[2001:41d0:70e:c100::]:443?alpn=http%2F1.1&encryption=auto&host=serkat.org&path=%2Flinkvws&security=tls&sni=serkat.org&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(5)
-vmess://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(1)
 vmess://93e463b6-af2b-437b-90f8-dba172a70d11@103.229.127.212:32381?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(50)
 vmess://d824764a-954e-4c75-9116-f6e5eba944a9@154.9.254.63:20521?encryption=auto&path=%2F&security=none&type=ws#hamedp71::%F0%9F%87%BA%F0%9F%87%B8%20(31)
 vmess://ebba0676-e05a-49ec-8344-d96d749e01c0@185.84.161.150:20086?encryption=auto&path=%2F&security=none&type=ws#hamedp71::%F0%9F%87%B9%F0%9F%87%AD%20(1)

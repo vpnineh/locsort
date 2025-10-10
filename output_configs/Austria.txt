@@ -2,5 +2,4 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:80?type=ws&host=gh-Bpb.
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UmUrVXpWK0tDUm9YQW5NMW8zbUJBYWJpNlNoSWlSMzFucjhsaERnSzhFMD0=@185.66.71.188:443?type=tcp#%20%F0%9F%87%A7%F0%9F%87%BE%20kitkat%C2%B2%E2%81%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Q1o5OWdSSG16cDRTbEtGMk54YXhS@195.2.76.71:60422?type=tcp#%20%F0%9F%87%B7%F0%9F%87%BA%20kitkat%C2%B2%C2%B3
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%20%F0%9F%87%B3%F0%9F%87%B1%20kitkat%C2%B2%E2%81%B6
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@190.93.246.247:80?type=ws&host=gh-Bpb.rHyljiTI.Workers.DeV&path=/efcDhlRmAXfy3zjr/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Clean%20IP_55%20:%2080path=%2Ft.me%2Fv2rayvpnlink&security=tls&encryption=none&host=www.tehran1403.com&fp=chrome&type=ws&sni=www.tehran1403.com#Aa64n-mci
