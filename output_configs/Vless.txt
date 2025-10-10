@@ -1059,6 +1059,7 @@ vless://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp
 vless://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 vless://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40goldenvpn_v2rayy%20%5B4%5D
 vless://ad13e7bf-b1af-487e-a56e-3ba66f1984c9@193.111.76.89:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=edu.frnsoft.com&alpn=h2,http/1.1#2-T2-edu
+vless://ad44a6ac-311c-4c9e-bd80-c661925a9f6d@69.84.182.90:8880?encryption=none&host=sjdsbaisbs.hide-abr.com.tr.&security=none&type=httpupgrade#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1%20CDN
 vless://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪
 vless://ae028b4b-e938-483b-83eb-d6438961eda7@45.136.5.90:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=dl.frnsoft.com&alpn=h2,http/1.1#2-T
 vless://ae9f99cf-bfbf-4ed0-9504-64da0f724669@185.113.10.132:8650?encryption=none&security=reality&sni=cloudflare.com&fp=chrome&pbk=YWbuHeDHnHpfJMPsAOIJOIeQgzfCK_47CjY7TbWA5hI&sid=354b9cbe48&spx=%2F&type=xhttp&path=%2F&mode=auto#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40grizzlyvpn%20%5B11%5D
