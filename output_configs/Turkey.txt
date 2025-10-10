@@ -1,7 +1,5 @@
-ss://6569356c-b32a-4685-bb3e-aaf9742f1cd9@fast.lucypro.ir:2095?encryption=none&type=tcp&headerType=none&security=none#%F0%9D%90%93%C3%BC%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%B2%F0%9D%90%9E%F0%9F%87%B9%F0%9F%87%B7%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%8E%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88%F0%9F%8E%AE
 ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@45.89.52.66:9054#%F0%9F%87%B9%F0%9F%87%B7%20TR%207
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
-vless://6569356c-b32a-4685-bb3e-aaf9742f1cd9@fast.lucypro.ir:2095?encryption=none&type=tcp&headerType=none&security=none#%F0%9D%90%93%C3%BC%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%A2%F0%9D%90%B2%F0%9D%90%9E%F0%9F%87%B9%F0%9F%87%B7%F0%9D%91%AE%F0%9D%92%82%F0%9D%92%8E%F0%9D%92%8A%F0%9D%92%8F%F0%9D%92%88%F0%9F%8E%AE
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
