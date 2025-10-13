@@ -1,7 +1,3 @@
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.67:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-481ms-OVH%20SAS
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.69:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#hamedp71::%F0%9F%87%A9%F0%9F%87%AA%20(27)
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.200:443?encryption=auto&host=serkat.org&path=linkvws&security=tls&sni=serkat.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-480ms-OVH%20SAS%20(2)
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.64.163:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-502ms-OVH%20SAS%20(1)
 ss://44aded6c-a012-452b-8e13-04d5f15a659f@89.44.242.222:46822?encryption=none&security=none&type=tcp#hamedp71::%E2%9D%93%20(56)
 ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp#hamedp71::%F0%9F%87%A6%F0%9F%87%BF
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
@@ -20,8 +16,4 @@ vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.96.3:443?flow=&type=ws&host
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.155:8880?encryption=none&security=none&type=grpc#hamedp71::%F0%9F%87%AB%F0%9F%87%B7%20(80)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?encryption=none&security=none&type=grpc#hamedp71::%F0%9F%87%B2%F0%9F%87%BE%20(7)
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?encryption=none&security=none&type=grpc#hamedp71::%F0%9F%87%B2%F0%9F%87%BE%20(8)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.67:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-481ms-OVH%20SAS
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.69:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#hamedp71::%F0%9F%87%A9%F0%9F%87%AA%20(27)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.59.200:443?encryption=auto&host=serkat.org&path=linkvws&security=tls&sni=serkat.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-480ms-OVH%20SAS%20(2)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.64.163:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtamMain-502ms-OVH%20SAS%20(1)
 vmess://ebba0676-e05a-49ec-8344-d96d749e01c0@185.84.161.150:20086?encryption=auto&path=%2F&security=none&type=ws#hamedp71::%F0%9F%87%B9%F0%9F%87%AD%20(1)

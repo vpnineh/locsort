@@ -1,4 +1,2 @@
 ss://026f4d4ee4074844886d01537a1078d0@194.61.121.93:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=_728iHM9CMivt6YI9rBo5ZraXLQuV3L9PVK_wa5dFQY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1NEO-POLAND
-ss://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?encryption=none&headerType=http&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland
 vless://026f4d4ee4074844886d01537a1078d0@194.61.121.93:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=_728iHM9CMivt6YI9rBo5ZraXLQuV3L9PVK_wa5dFQY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1NEO-POLAND
-vless://c9b0100b-01b9-4167-b9e2-a0a8cad1e32b@m23a.vip784.com:33801?encryption=none&headerType=http&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland

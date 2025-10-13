@@ -1,2 +1,0 @@
-ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.128.189.227:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-SowerbyBridge-431ms-OVH%20SAS%20(1)
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.128.189.227:443?encryption=auto&host=yichueng.org&path=linkvws&security=tls&sni=yichueng.org&type=ws#https://t.me/ForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-SowerbyBridge-431ms-OVH%20SAS%20(1)
