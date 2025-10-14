@@ -1,2 +1,0 @@
-ss://fe27c0c7-6602-4b20-a8e4-d8eff275dbee@lva-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C3.3MB/s
-vless://fe27c0c7-6602-4b20-a8e4-d8eff275dbee@lva-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=31&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B1%F0%9F%87%B9LT_1%7C3.3MB/s

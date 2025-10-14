@@ -1,0 +1,2 @@
+ss://60a12955-d3c1-4be7-92a5-75b0e7f89ef0@27.50.48.102:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.ddff.me&path=%2F&security=tls&sni=ym.ddff.me&type=ws#https://t.me/lsmoo%E3%80%90TG:@LSMOO%E3%80%91
+vless://60a12955-d3c1-4be7-92a5-75b0e7f89ef0@27.50.48.102:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.ddff.me&path=%2F&security=tls&sni=ym.ddff.me&type=ws#https://t.me/lsmoo%E3%80%90TG:@LSMOO%E3%80%91
