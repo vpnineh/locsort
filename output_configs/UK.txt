@@ -3,8 +3,6 @@ ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
-ss://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:443?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/PSVQiRnEiAdAnOyc?ed%3D2560&security=tls&fp=randomized&sni=Stf839Dvvyog9D2QA4-B8Z6AhGN7B7qI.PaGEs.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:443?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/PSVQiRnEiAdAnOyc?ed%3D2560&security=tls&fp=randomized&sni=Stf839Dvvyog9D2QA4-B8Z6AhGN7B7qI.PaGEs.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7
