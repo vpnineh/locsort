@@ -22,7 +22,6 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(3)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(68)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20(57)
-ss://YWVzLTI1Ni1nY206Njg4NzUzZDktMTBhMi00ODUwLTk5MTctMjBkMTM1NTg3YjM0@84.200.91.158:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20(4)
 ss://YXV0bzo4NmM1MGUzYS01Yjg3LTQ5ZGQtYmQyMC0wM2M3ZjI3MzVlNDBAMTA0LjE4LjI2LjkwOjg0NDM?path=/client/connection/socket&remarks=%F0%9F%87%A9%F0%9F%87%AA%20Germany%F0%9F%94%A5&obfsParam=mycloudproject2025.site&obfs=websocket&tls=1&peer=mYClouDprOjeCt2025.sitEtype=tcp#Germany%F0%9F%87%A9%F0%9F%87%AA
 ss://a444dc5a-9459-4751-a2f6-9bb575f5ecf4@www.visa.com.sg:8880?encryption=none&security=none&type=ws&host=vahid2.vahiddj6750.workers.dev&path=%2F%3Fed%3D2560#Aa64n.workers.dev
 ss://ad069756-c14b-4443-87af-4a503c5c08f5@m33a.vip784.com:33801?encryption=none&headerType=http&host=varzesh3.ir&security=none&type=tcp#Server%20150
