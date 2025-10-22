@@ -85,6 +85,8 @@ ss://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@66.81.247.63:443?ed=2560&eh=Sec-WebSoc
 ss://602b380a-9fdf-4425-bc07-aae9a95cfc4b@27.50.48.8:443?alpn=h3&encryption=none&host=vless.hubp.de&path=%2Fsnippets%2Fip%3Dtp50000.kr.proxyip.fgfw.eu.org%3A50000&security=tls&sni=vless.hubp.de&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@147.78.0.182:990#%F0%9F%87%A6%F0%9F%87%AA%20Muhadhdhib,%20UQ,%20United%20Arab%20Emirates
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#%F0%9F%87%AA%F0%9F%87%A8%20Quito,%20P,%20Ecuador%20(1)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%87%BD%F0%9F%87%BDXX(AzadNet.t.me)%20(385)
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.141.221.200:8388#%F0%9F%87%AD%F0%9F%87%B0HK(AzadNet.t.me)%20(11)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.234.64.94:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(10)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@185.242.87.72:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(2)
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.16:8880?encryption=none&security=none&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(4)

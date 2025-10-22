@@ -1,2 +1,5 @@
+ss://670d1cd0-7097-416c-a5da-7936af95cfac@registry.cyou:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.aizrf.com&path=%2F&security=tls&sni=ym.aizrf.com&type=ws#registry%E3%80%90TG:@LSMOO%E3%80%91
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#@AblNet7%20%F0%9F%87%AE%F0%9F%87%B7%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%87%AA%F0%9F%87%AC
 ss://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬
+vless://670d1cd0-7097-416c-a5da-7936af95cfac@registry.cyou:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.aizrf.com&path=%2F&security=tls&sni=ym.aizrf.com&type=ws#registry%E3%80%90TG:@LSMOO%E3%80%91
 vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬

@@ -9,10 +9,12 @@ ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vle
 ss://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2M2JTbngxMGV1MWpxWVlsQUlsbklx@62.210.88.22:443?type=tcp#%F0%9F%87%AB%F0%9F%87%B7-Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2M2JTbngxMGV1MWpxWVlsQUlsbklx@62.210.88.22:443?type=tcp#%F0%9F%87%AB%F0%9F%87%B7-Paris-292ms-Online%20S.A.S.
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#@AblNet7%20%F0%9F%87%AE%F0%9F%87%B7%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%F0%9F%87%A6%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#%F0%9F%87%AE%F0%9F%87%A9%20Jakarta,%20JK,%20Indonesia%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.219.237.163:990#%F0%9F%87%AD%F0%9F%87%BA%20Budapest,%20BU,%20Hungary%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWbXNmMDZZVE1xdEFZZGh3TXFkU3VHcWdkVmttMHlkZGk0a1lhQUVWUVdZajlpSEE@89.223.93.176:41348#%F0%9F%87%B5%F0%9F%87%B1%20Warsaw,%2014,%20Poland
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.103.176.32:989#%D8%A2%D8%B1%DA%98%D8%A7%D9%86%D8%AA%DB%8C%D9%86%20%F0%9F%87%A6%F0%9F%87%B7
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE@54.81.226.31:80#@MARAMBASHI%20%F0%9F%98%8D%20(1)
 ss://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?allowInsecure=1&alpn=h3&ed=2560&eh=sec-websocket-protocol&encryption=none&host=diprox.pages.dev&path=%2Fassets&security=tls&sni=DiprOX.pages.DEV&type=ws#Bogzar%20ze%20man%20ey%20Ashenaa
 ss://f61a4285-7264-4d07-9408-7b9ba1922c26@139.180.154.158:443?encryption=none&type=ws&host=gaosir.unfeeling.sbs&path=Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2/?ed%3D2560&security=tls&sni=gaosir.unfeeling.sbs#%F0%9F%94%A5%20Cloudflare
 vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@104.19.144.212:443?encryption=none&type=ws&host=ym.ddff.me&path=/?ed%3D2560&security=tls&fp=random&sni=ym.ddff.me#%F0%9F%94%A5%20Cloudflare
