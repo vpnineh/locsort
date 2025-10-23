@@ -13,7 +13,6 @@ ss://75916ff8-2f80-43dc-ba9a-34464e1bd340@m36a.vip784.com:33801?encryption=none&
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@wwwopensignalcom-goodspeed-8xx.pages.dev.:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&path=%2F%2F&security=tls&sni=WwW.OPENSIgnaL.cOm.NaynaY09.dynv6.nET&type=ws#hamedp71::%F0%9F%87%BA%F0%9F%87%B8%20(49)
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowcjNCMlY5aUs5bUVUUGhHZlRhWm5L@104.192.227.162:443?type=tcp#%F0%9F%87%BA%F0%9F%87%B8-Chicago
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@us.vmagnum.win:57456#%F0%9F%87%BA%F0%9F%87%B8%20Miami,%20FL,%20United%20States%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@67.220.67.169:808#%D9%85%DB%8C%D8%B4%DB%8C%DA%AF%D8%A7%D9%86%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#%F0%9F%87%B7%F0%9F%87%BA%20Moscow,%20MOW,%20Russia%20(1)
