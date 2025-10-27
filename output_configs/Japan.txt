@@ -1,17 +1,12 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@194.68.27.76:990#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo,%2013,%20Japan%20(3)
-ss://YWVzLTEyOC1nY206MTAwODY@153.121.43.183:10087#%F0%9F%87%AF%F0%9F%87%B5JP_94
 ss://YWVzLTEyOC1nY206MTAwODY@153.121.51.214:10087#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo,%2013,%20Japan%20(4)
 ss://YWVzLTEyOC1nY206MTAwODY@160.16.123.124:10087#%F0%9F%87%AF%F0%9F%87%B5JP_93
-ss://YWVzLTEyOC1nY206bElOYUFMbkhJaUg0Y1NqOHBKbjZUUT09@202.182.98.223:9443#%F0%9F%87%AF%F0%9F%87%B5JP_91
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo,%2013,%20Japan%20(6)
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo,%2013,%20Japan
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@194.68.27.76:989#%F0%9F%87%AF%F0%9F%87%B5JP_92
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
 ss://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:2087?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/nGGlKzQNwThrIsaP?ed%3D2560&security=tls&fp=randomized&sni=Stf839DvvYOg9D2qa4-B8Z6AhGN7B7Qi.paGES.DEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AF%F0%9F%87%B5
-ss://c69374da-2208-4cbd-b81e-cdf88b5e7f53@tls.15.node-for-bigairport.win:23211?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5JP_95
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 vless://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev:2087?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/nGGlKzQNwThrIsaP?ed%3D2560&security=tls&fp=randomized&sni=Stf839DvvYOg9D2qa4-B8Z6AhGN7B7Qi.paGES.DEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AF%F0%9F%87%B5
-vmess://c69374da-2208-4cbd-b81e-cdf88b5e7f53@tls.15.node-for-bigairport.win:23211?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AF%F0%9F%87%B5JP_95

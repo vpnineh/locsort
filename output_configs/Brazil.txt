@@ -1,10 +1,7 @@
 ss://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&host=---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN---NetifyVPN&path=%2Fvless%2F&security=none&type=ws#%F0%9F%87%A7%F0%9F%87%B7%5Bopenproxylist.com%5D%20vless-BR
 ss://2eb510a2-9779-4e49-a2f2-aea96e348243@45.231.132.44:20294?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16
-ss://5941c7a8-5f82-4a98-c06d-3c3f2003ef50@189.1.226.65:11507?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_13
-ss://7732d904-8d36-4382-8c48-69ba039f445f@45.231.132.46:31835?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_15
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
-ss://a270b6a6-bd8b-4dc2-b02a-f0d20d702e14@45.231.132.46:33267?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_14
 ss://f36921b5-61f4-4fb4-e598-2d0d529ea66b@45.231.132.44:41295?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_12
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
@@ -15,7 +12,4 @@ vless://1dbfb57c-164e-47c5-9355-8e0c429e7b99@45.82.245.173:80?encryption=none&ho
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
 vmess://2eb510a2-9779-4e49-a2f2-aea96e348243@45.231.132.44:20294?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16
-vmess://5941c7a8-5f82-4a98-c06d-3c3f2003ef50@189.1.226.65:11507?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_13
-vmess://7732d904-8d36-4382-8c48-69ba039f445f@45.231.132.46:31835?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_15
-vmess://a270b6a6-bd8b-4dc2-b02a-f0d20d702e14@45.231.132.46:33267?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_14
 vmess://f36921b5-61f4-4fb4-e598-2d0d529ea66b@45.231.132.44:41295?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_12

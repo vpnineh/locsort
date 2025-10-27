@@ -1,13 +1,7 @@
 ss://39136329-6481-40ec-b9e3-72cbaae2d400@92.246.139.182:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=github.com&pbk=C77mWXCK8T47d5c3Dyqjlqr4AJsWozMxhYhhq_GwQj8&sid=2c229e23f30b9a13#Aa64n%20%E2%9C%85%F0%9F%87%AE%F0%9F%87%B7
-ss://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&security=reality&sni=www.speedtest.net&type=tcp#v2ray_Extractor%20%F0%9F%94%92%20VL-TCP-%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20314ms
-ss://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp#v2ray_Extractor%20%F0%9F%94%93%20VL-TCP-N/A%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20201ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@151.242.251.144:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_78
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@pl.vpnsparta.pro:57456#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B5%F0%9F%87%B1PL_80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.131:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_81
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.153:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_82
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.180:8080?type=tcp#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@tr.vpnsparta.pro:57456#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%AE%F0%9F%87%B7IR_86
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.133:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_87
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.142:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_79
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.152:8080#Relay_%F0%9F%87%AE%F0%9F%87%B7IR-%F0%9F%87%B3%F0%9F%87%B1NL_85
@@ -16,8 +10,6 @@ ss://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2053?encryption=none&typ
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?encryption=none&type=grpc&mode=gun&security=none#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 ss://e382220d-7ecb-4063-89f3-fd5a4d46ee87@104.21.1.102:2095?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiYmMxRGZIeDNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Aa64n🇮🇷
 vless://39136329-6481-40ec-b9e3-72cbaae2d400@92.246.139.182:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=github.com&pbk=C77mWXCK8T47d5c3Dyqjlqr4AJsWozMxhYhhq_GwQj8&sid=2c229e23f30b9a13#Aa64n%20%E2%9C%85%F0%9F%87%AE%F0%9F%87%B7
-vless://53fff6cc-b4ec-43e8-ade5-e0c42972fc33@193.151.135.21:44443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XHjKkrNBYXOaamOx8IUCrwX0zp5dAQRVErHiQ5bwAEQ&security=reality&sni=www.speedtest.net&type=tcp#v2ray_Extractor%20%F0%9F%94%92%20VL-TCP-%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20314ms
-vless://888a20e2-fc3f-4f52-973c-36a6386225b8@89.44.242.222:29500?encryption=none&security=none&type=tcp#v2ray_Extractor%20%F0%9F%94%93%20VL-TCP-N/A%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20201ms
 vless://b2f2f9f2-1864-48ea-839b-22815faff1f1@172.66.44.124:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/zthH5nzmHgHxWpAA?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVVYOG9D2qA4-B8z6AHgN7b7qi.PagEs.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@195.42.233.146:8880?encryption=none&type=grpc&mode=gun&security=none#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 vless://e382220d-7ecb-4063-89f3-fd5a4d46ee87@104.21.1.102:2095?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiYmMxRGZIeDNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Aa64n🇮🇷
