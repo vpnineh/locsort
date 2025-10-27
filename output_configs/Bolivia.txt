@@ -1,5 +1,5 @@
 ss://67c77f80-db72-48af-b3ca-04cfb7a16d2d@45.136.5.94:6060?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=book.ftmsoft.com&alpn=h2,http/1.1#34-t2-bookftm
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@181.119.30.20:990#%F0%9F%87%A8%F0%9F%87%B4%20Bogot%C3%A1,%20DC,%20Colombia
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@109.61.46.43:990#%F0%9F%87%B1%F0%9F%87%BA%20Luxembourg
 ss://a65ffee1-94f8-4514-b865-2ded4cab91a2@45.136.5.162:9090?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=book.frnsoft.com&alpn=h2,http/1.1#35-t1-bookfrn
 ss://b2dd8473-2283-47f7-8727-88f95ab51ff5@193.233.19.242:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=book.smnsoft.com&alpn=h2,http/1.1#7-t1-book.smnsoft
 ss://cb6e6e21-7bc1-4de6-b961-a78893935436@193.233.19.242:6060?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=book.smnsoft.com&alpn=h2,http/1.1#8-t2-booksmnsoft

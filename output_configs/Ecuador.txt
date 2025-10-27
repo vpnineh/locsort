@@ -1,0 +1,2 @@
+ss://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless.muzheng.top&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=vless.muzheng.top&type=ws#@injector_1401Ehi%20%F0%9F%A7%A0%20(1)
+vless://7556317c-dff6-46e8-ad29-b408f2a6456e@45.192.224.253:2096?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless.muzheng.top&path=%2FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%40WangCai2%2F&security=tls&sni=vless.muzheng.top&type=ws#@injector_1401Ehi%20%F0%9F%A7%A0%20(1)

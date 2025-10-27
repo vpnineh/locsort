@@ -2,7 +2,5 @@ ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=ale
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@145.14.131.37:990#%F0%9F%87%A8%F0%9F%87%B7%20San%20Jos%C3%A9,%20SJ,%20Costa%20Rica
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
 ss://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
-ss://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&host=%2F%3F%40&path=%2F&security=none&type=ws#canfing_vpn%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20201ms
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&host=%2F%3F%40&path=%2F&security=none&type=ws#canfing_vpn%20%F0%9F%94%93%20VL-WS-N/A%20%F0%9F%87%AE%F0%9F%87%B7%20IR%20201ms

@@ -1,2 +1,4 @@
+ss://670d1cd0-7097-416c-a5da-7936af95cfac@store.ubi.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless.ghp.cloudns.biz&path=%2F&security=tls&sni=vless.ghp.cloudns.biz&type=ws#Ubisoft%E3%80%90TG:@LSMOO%E3%80%91
 ss://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#@Aa64🇧🇮
+vless://670d1cd0-7097-416c-a5da-7936af95cfac@store.ubi.com:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=vless.ghp.cloudns.biz&path=%2F&security=tls&sni=vless.ghp.cloudns.biz&type=ws#Ubisoft%E3%80%90TG:@LSMOO%E3%80%91
 vless://e2f4d1fa-0a6d-48c3-a5bb-8b438e78af23@www.speedtest.net:443?type=ws&host=119f3a0b.chikiy123w.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=119f3a0b.chikiy123w.pages.dev#@Aa64🇧🇮
