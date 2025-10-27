@@ -1,2 +1,0 @@
-ss://1648a686-98dc-4b21-9bc6-0dcc9000e101@172.67.150.146:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CU-FRA%20(3)
-vless://1648a686-98dc-4b21-9bc6-0dcc9000e101@172.67.150.146:443?allowInsecure=1&alpn=h3&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=123-8i5.pages.dev&path=%2F&security=tls&sni=123-8i5.pages.dev&type=ws#CU-FRA%20(3)

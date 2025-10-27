@@ -1,4 +1,3 @@
-ss://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@cloudflare.182682.xyz:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.ddff.me&path=%2F&security=tls&sni=ym.ddff.me&type=ws#CF182682%E3%80%90TG:@LSMOO%E3%80%91
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
@@ -17,7 +16,6 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#Aa64n-IP_CF
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-8880
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
-vless://5dc3fdac-9384-4d14-8c15-e3250a0fde0a@cloudflare.182682.xyz:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=ym.ddff.me&path=%2F&security=tls&sni=ym.ddff.me&type=ws#CF182682%E3%80%90TG:@LSMOO%E3%80%91
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
