@@ -1,3 +1,2 @@
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG_10
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2083?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n%20%F0%9F%87%A7%F0%9F%87%AC

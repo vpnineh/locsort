@@ -1,13 +1,4 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@89.35.119.87:5904#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(3)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1VFpud1BiMjNwUVMzOWxJdWNzcEp3@fin.outlinebot1.ru:5904#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(2)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ejRYb1MwVGZ6eE5zU3FCVkFXdDdO@83.147.216.70:64519#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.143.129.98:990#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(11)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(20)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystrivpn.ru:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(8)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzN1bERqM2dmalE@81.177.214.178:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(7)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWkdVRldNQWxmV3FJNHZQNTh6dzlEQUh4UjhUWkxuZEtrdlJnSEhGYTllcVdkbng@65.21.243.22:31348#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(14)
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI_26
 ss://a32fdc84-95ef-4073-b415-3743c35080b0@fin-0001-xr.packet-drop-society.net:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=hls-svod.itunes.apple.com&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=86e999a2cdc2&spx=/#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20
 ss://b2f2f9f2-1864-48ea-839b-22815faff1f1@104.24.44.228:2053?encryption=none&type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/s2zlxZFhwvypqzly?ed%3D2560&security=tls&fp=randomized&sni=sTf839DVvyog9d2QA4-B8Z6AHgN7B7QI.PAGes.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 ss://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮

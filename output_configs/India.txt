@@ -1,12 +1,8 @@
 ss://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@103.111.114.29:57456#%F0%9F%87%AE%F0%9F%87%B3IN_68
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@196.196.192.58:990#%F0%9F%87%AE%F0%9F%87%AA%20Dublin,%20L,%20Ireland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990#%F0%9F%87%AE%F0%9F%87%B3IN_69
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#%F0%9F%87%BA%F0%9F%87%A6%20Kyiv,%2030,%20Ukraine
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20Kyiv,%2030,%20Ukraine%20(1)
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN_75
 ss://d9083d7a-fcf0-4a79-922a-2e894e3ce4fb@103.97.91.203:27262?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN_77
 ss://fac6e70d-c236-4bab-dfaf-67b75f3ced4a@103.234.238.94:59706?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN_76
 vless://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN

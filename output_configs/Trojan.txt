@@ -1,7 +1,6 @@
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.16.0.0:443?type=ws&host=aa-3lh.pages.dev&path=/tr6CF9GIgiOjJzVqV2?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.PAGES.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20Trojan%20F%20-%20Clean%20IP%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.dev&path=/trep5Xcdji5Vi4BAEf/MTU4LjE4MC4xMi4xMTcsMTQxLjE0OC4yMDMuNiw4OS4xNjguNDMuMjg%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lH.PaGes.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Trojan%20F%20-%20IPv4%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.pages.dev&path=/trKOJj6kXGuA58q36X?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.pAges.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20-%20Clean%20IP%20:%202053گ
-trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_67
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 trojan://8_%5DO5ff+7.%5D_@172.66.44.124:8443?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/truzvsPc1Ur4Q4glTQ?ed%3D2560&security=tls&fp=randomized&sni=STf839dVvYog9d2QA4-B8z6AHGN7B7Qi.pAGes.dEv&alpn=http/1.1&allowInsecure=false#F%20-%20IPv4%20:%208443
@@ -13,7 +12,6 @@ trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftro
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
-trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0HK_3%7C5.8MB/s
 trojan://G9CHhXltVx@96.9.213.108:12646?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US_248
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:8443?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiYVU2WjBuYzFDcWU1SWNBMyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewBP.AMIRaLiNorozJAm.wORkers.DEv&alpn=http/1.1&allowInsecure=false#Trojan%20-%20IPv4%20:%208443
@@ -22,7 +20,6 @@ trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:8443?type=ws&host=newbp.amiralinorozjam
 trojan://ROoDc2Luk68%7D6ftz@newbp.amiralinorozjam.workers.dev:80?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiSkFiUVR1UEYiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Trojan%20-%20Domain%20:%2080
 trojan://ROoDc2Luk68%7D6ftz@www.speedtest.net:2096?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiSzZnQ3BkV2Z4dzlrRFYiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=NEWbp.AmiRAlinOrOZJAM.WoRKeRs.DEV&alpn=http/1.1&allowInsecure=false#Trojan%20F%20-%20Domain%20:%202096
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
-trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&sni=kotlet.arshiacomplus.dpdns.org&type=ws#@Daily_Configs%20(4)
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 trojan://auto@www.visa.com.sg:443?type=ws&host=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com&path=/trojan-aa64n.amiralinorozjam.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#Aa64n-viska
 trojan://bca467b8c15211d189008a93c7519d3b@160.16.240.91:3161?allowInsecure=1&sni=www.baidu.com#Relay_%F0%9F%87%AF%F0%9F%87%B5JP-%F0%9F%87%AF%F0%9F%87%B5JP_85
@@ -37,11 +34,8 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?allowInsecure=0&sni=w
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.110.83:443?sni=www.nintendogames.net#BESTIIVPNBOT%20%D8%AA%D8%B3%D8%AA%20%D9%88%20%D8%AE%D8%B1%DB%8C%D8%AF%20(52)
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.53.136:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%5Bopenproxylist.com%5D%20trojan-HK%20(1)
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
-trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#%F0%9F%87%BA%F0%9F%87%B8US_247
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
 trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mt_proxy%20%5B7%5D
 trojan://telegram-id-v2rayvpnchannel@3.72.164.55:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D

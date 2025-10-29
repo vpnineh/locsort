@@ -4,9 +4,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%20
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@51.15.17.169:989#%F0%9F%87%B3%F0%9F%87%B1NL_124
 ss://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?allowInsecure=1&alpn=h3&ed=2560&eh=sec-websocket-protocol&encryption=none&host=diprox.pages.dev&path=%2Fassets&security=tls&sni=DiprOX.pages.DEV&type=ws#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%A7%8A
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?encryption=none&security=none&type=grpc#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?allowInsecure=1&alpn=h3&ed=2560&eh=sec-websocket-protocol&encryption=none&host=diprox.pages.dev&path=%2Fassets&security=tls&sni=DiprOX.pages.DEV&type=ws#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%A7%8A
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@88.218.93.159:8880?encryption=none&security=none&type=grpc#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
