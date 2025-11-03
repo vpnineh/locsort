@@ -2,6 +2,4 @@ ss://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerTyp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#%F0%9F%87%B9%F0%9F%87%B7TR_195
 ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@45.89.52.66:9005?type=tcp#Aa64n-turk🇹🇷
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?encryption=none&type=grpc&mode=gun#%F0%9F%87%B9%F0%9F%87%B7Aa64n
 vless://703bb7cb-6cd5-4272-9640-7fc6e8f7629f@217.60.188.137:1003?type=tcp&headerType=http&host=www.speedtest.net&path=/#%F0%9F%87%B9%F0%9F%87%B7%20TR%204
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?encryption=none&type=grpc&mode=gun#%F0%9F%87%B9%F0%9F%87%B7Aa64n
