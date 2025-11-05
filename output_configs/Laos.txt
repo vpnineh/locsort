@@ -1,8 +1,2 @@
 ss://026f4d4ee4074844886d01537a1078d0@194.61.121.93:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=_728iHM9CMivt6YI9rBo5ZraXLQuV3L9PVK_wa5dFQY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1NEO-POLAND
-ss://28f966d8-403e-4966-93ec-26ee82456f49@node3.mangging.com:10091?allowInsecure=1&encryption=auto&security=tls&type=tcp#Relay_%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%87%B8%F0%9F%87%ACSG_179
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#Relay_%F0%9F%87%B1%F0%9F%87%B9LT-%F0%9F%87%B3%F0%9F%87%B1NL_87
-ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.017.node-for-bigairport.win:15098#Relay_%F0%9F%87%B5%F0%9F%87%B1PL-%F0%9F%87%AD%F0%9F%87%B0HK_129
-ss://cbb3f877-d1fb-344c-87a9-d153bffd5484@v10.heduian.link:30807?encryption=auto&path=%2Foooo&security=none&type=ws#Relay_%F0%9F%87%AD%F0%9F%87%B0HK-%F0%9F%87%AD%F0%9F%87%B0HK_45
 vless://026f4d4ee4074844886d01537a1078d0@194.61.121.93:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=_728iHM9CMivt6YI9rBo5ZraXLQuV3L9PVK_wa5dFQY&sid=aabbccdd#%F0%9F%87%B5%F0%9F%87%B1NEO-POLAND
-vmess://28f966d8-403e-4966-93ec-26ee82456f49@node3.mangging.com:10091?allowInsecure=1&encryption=auto&security=tls&type=tcp#Relay_%F0%9F%87%B8%F0%9F%87%ACSG-%F0%9F%87%B8%F0%9F%87%ACSG_179
-vmess://cbb3f877-d1fb-344c-87a9-d153bffd5484@v10.heduian.link:30807?encryption=auto&path=%2Foooo&security=none&type=ws#Relay_%F0%9F%87%AD%F0%9F%87%B0HK-%F0%9F%87%AD%F0%9F%87%B0HK_45

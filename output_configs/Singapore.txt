@@ -1,10 +1,2 @@
-ss://23ea0b75-206b-4e3b-b624-e093d5808bf8@8.217.159.96:47872?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_172
 ss://520a5072-76ec-4c37-8e25-02cf61b04889@8.218.26.234:55566?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_181
-ss://52263901-b3cf-4d7d-b4fd-a12fe178ef2a@45.76.181.246:12345?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_184%20(1)
-ss://7ecac376-1809-4f72-bd59-aa93d748a822@8.217.158.92:50060?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_193
-ss://a3846e50-9935-4b49-bb7c-ce258f3253b2@8.217.158.92:25506?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_185%20(1)
-vmess://23ea0b75-206b-4e3b-b624-e093d5808bf8@8.217.159.96:47872?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_172
 vmess://520a5072-76ec-4c37-8e25-02cf61b04889@8.218.26.234:55566?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_181
-vmess://52263901-b3cf-4d7d-b4fd-a12fe178ef2a@45.76.181.246:12345?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_184%20(1)
-vmess://7ecac376-1809-4f72-bd59-aa93d748a822@8.217.158.92:50060?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_193
-vmess://a3846e50-9935-4b49-bb7c-ce258f3253b2@8.217.158.92:25506?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG_185%20(1)

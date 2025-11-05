@@ -1,8 +1,5 @@
-ss://2eb510a2-9779-4e49-a2f2-aea96e348243@45.231.132.44:20294?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16
-ss://6a659a6f-33cb-44cc-909c-2e37a08e2f7d@45.231.132.46:11331?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16%20(1)
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
-ss://f36921b5-61f4-4fb4-e598-2d0d529ea66b@45.231.132.44:41295?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_12
 tuic://abc012-3456-7890-1234-5678abcdef90@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://abc789-0123-4567-8901-2345abcdef78@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
 tuic://abc901-2345-6789-0123-4567abcdef89@rayan-config.ir:9443?congestion_control=bbr&alpn=h3#@Filter_breaker
@@ -10,6 +7,3 @@ tuic://def456-7890-0123-4567-8901abcdef45@rayan-config.ir:9443?congestion_contro
 tuic://m3n4o5p6-7890-4abc-1def-23456789abcd@185.146.173.150:8888?congestion_control=bbr&alpn=h3#@Filter_breaker
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇧🇷
-vmess://2eb510a2-9779-4e49-a2f2-aea96e348243@45.231.132.44:20294?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16
-vmess://6a659a6f-33cb-44cc-909c-2e37a08e2f7d@45.231.132.46:11331?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_16%20(1)
-vmess://f36921b5-61f4-4fb4-e598-2d0d529ea66b@45.231.132.44:41295?encryption=auto&security=none&type=tcp#%F0%9F%87%A7%F0%9F%87%B7BR_12
