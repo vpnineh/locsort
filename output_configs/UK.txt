@@ -4,11 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%D9%84%D9%86%D8%AF%D9%86%20%F0%9F%87%AC%F0%9F%87%A7%20
-ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80?type=tcp#%F0%9F%87%AC%F0%9F%87%A7Aa64n
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AC%F0%9F%87%A7Aa64n
 ssr://NjIuMTAwLjIwNS40ODo5ODk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpqaG1OMkZEZW1OUVMySnpSamh3TXcvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz1VRzl2YkZfd240ZXM4Si1IcDBkQ1h6TXg
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@146.19.230.248:8880?encryption=none&type=grpc&mode=gun&security=none#%F0%9F%87%AC%F0%9F%87%A7Aa64n

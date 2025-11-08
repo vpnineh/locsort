@@ -1,7 +1,6 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 ss://1a040cd3-483f-449d-9357-8525f46f132c@103.142.131.110:30837?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_230
 ss://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&host=fast01.0860852.xyz&security=tls&sni=fast01.0860852.xyz&type=ws#v2ray_Extractor%20%F0%9F%94%92%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%2018ms
-ss://32e1310b-e0a6-4333-a69e-86b0e815c6ba@www.rexo.online:49796?encryption=none&type=grpc&mode=gun&serviceName=rexo.rexo.online&authority=rexo.rexo.online&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 ss://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?encryption=none&security=none&type=grpc#v2ray_Extractor%20%F0%9F%94%93%20VL-GRPC-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%20118ms
 ss://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=edu.smnsoft.com&alpn=h2,http/1.1#4-t2-edusmnsoft
 ss://71dbcca9-1116-4bb0-c641-12f50b9ce41e@156.238.226.207:46100?encryption=auto&security=none&type=tcp#Pool_%F0%9F%87%BA%F0%9F%87%B8US_234
@@ -35,7 +34,6 @@ trojan://G9CHhXltVx@96.9.213.108:12646?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8U
 trojan://YwuvGJk36B@creativecommons.org:2053?alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&sni=kotlet.arshiacomplus.dpdns.org&type=ws#v2ray_Extractor%20%F0%9F%94%92%20TR-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%2063ms
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 vless://2456f90c-5183-476d-b069-16ae74ce120f@198.71.191.253:2096?encryption=none&host=fast01.0860852.xyz&security=tls&sni=fast01.0860852.xyz&type=ws#v2ray_Extractor%20%F0%9F%94%92%20VL-WS-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%2018ms
-vless://32e1310b-e0a6-4333-a69e-86b0e815c6ba@www.rexo.online:49796?encryption=none&type=grpc&mode=gun&serviceName=rexo.rexo.online&authority=rexo.rexo.online&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 vless://401374e6-df77-41fb-f638-dad8184f175b@pqh30v5.ipforvetra.shop:80?encryption=none&security=none&type=grpc#v2ray_Extractor%20%F0%9F%94%93%20VL-GRPC-N/A%20%F0%9F%87%BA%F0%9F%87%B8%20US%20118ms
 vless://51e7067c-f032-45e2-b76e-ef39f0a51744@193.233.19.240:8080?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=edu.smnsoft.com&alpn=h2,http/1.1#4-t2-edusmnsoft
 vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
