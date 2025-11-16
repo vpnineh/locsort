@@ -1,4 +1,5 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
+ss://2b8cd10f-82f6-4103-89e2-27a2d5a2fc21@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BYouTube%20no%20ADS%5D
 ss://71dbcca9-1116-4bb0-c641-12f50b9ce41e@156.238.226.207:46100?encryption=auto&security=none&type=tcp#Pool_%F0%9F%87%BA%F0%9F%87%B8US_234
 ss://8afb5b6d-51f6-4bf8-f4e2-0378822200b3@68.64.176.148:11325?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_240
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
@@ -20,6 +21,7 @@ ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?typ
 ss://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
 trojan://G9CHhXltVx@96.9.213.108:12646?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US_248
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
+vless://2b8cd10f-82f6-4103-89e2-27a2d5a2fc21@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BYouTube%20no%20ADS%5D
 vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2

@@ -1,0 +1,2 @@
+ss://ae23b4e5-8580-4f36-a9d6-465f54ad8e08@51.255.147.16:20757?encryption=none&type=grpc&mode=gun&security=tls&fp=chrome&sni=home.cvbsoft.com&alpn=h2,http/1.1#25-nvmgfmy1
+vless://ae23b4e5-8580-4f36-a9d6-465f54ad8e08@51.255.147.16:20757?encryption=none&type=grpc&mode=gun&security=tls&fp=chrome&sni=home.cvbsoft.com&alpn=h2,http/1.1#25-nvmgfmy1
