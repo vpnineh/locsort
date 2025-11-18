@@ -12,14 +12,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990#%F0%9F%87%A8%F0%9F%87%BE%20Nicosia,%2001,%20Cyprus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.177:8080#%F0%9F%87%BA%F0%9F%87%B8US%20%20ROSE%E2%80%94294
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#%F0%9F%87%BA%F0%9F%87%B8US_216
-ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg@216.132.112.116:34958#%F0%9F%87%BA%F0%9F%87%B8US%20%20ROSE%E2%80%94350
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%87%BA%F0%9F%87%B8%20kitkat%C2%B9%E2%81%B7
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8US%20%20ROSE%E2%80%9490
-ss://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?encryption=auto&path=%2F&security=none&type=ws#%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 ss://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
-trojan://G9CHhXltVx@96.9.213.108:12646?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8US_248
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 vless://2b8cd10f-82f6-4103-89e2-27a2d5a2fc21@213.165.54.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=bc97736f81817c41#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5BYouTube%20no%20ADS%5D
 vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
@@ -29,5 +26,4 @@ vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?
 vless://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
 vmess://71dbcca9-1116-4bb0-c641-12f50b9ce41e@156.238.226.207:46100?encryption=auto&security=none&type=tcp#Pool_%F0%9F%87%BA%F0%9F%87%B8US_234
 vmess://8afb5b6d-51f6-4bf8-f4e2-0378822200b3@68.64.176.148:11325?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_240
-vmess://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?encryption=auto&path=%2F&security=none&type=ws#%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRhdGEtVVMtQW1hem9uX1RlY2hub2xvZ2llc19JbmMuIiwNCiAgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MzZmZWQ3OC0xZTFkLTRiYzctOGM0OS1jZDNjNmNlZTQyMzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRhdGEuc2hhbHFhbS5vbmxpbmUiLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRhdGEuc2hhbHFhbS5vbmxpbmUiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiZmlyZWZveCINCn0=
