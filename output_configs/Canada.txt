@@ -1,6 +1,5 @@
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 ss://7960071e-15ff-48d7-87cd-4b638650ba52@89.116.250.150:80?encryption=none&type=ws&host=aa64n-newpbp.rhyljiti.workers.dev&path=/eyJqdW5rIjoiZmRURDVuQWVVOE04UFMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇨🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA%20%20ROSE%E2%80%94553
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
 ss://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
