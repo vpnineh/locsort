@@ -1,4 +1,2 @@
-ss://0692a919-99e8-43cc-b722-e9271f2b2935@162.217.248.137:12092?encryption=none&type=grpc&mode=gun&security=tls&fp=chrome&sni=film.cvbsoft.com&alpn=h2,http/1.1#27-28zw5w2i
 ss://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.18.250.121:2096?type=ws&host=worker-new.rhyljiti.woRKErS.DEv&path=vless-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.woRKErS.DEv&alpn=h3,h2,http/1.1&fragment=tlshello,30-80,10-50#Aa64n🇿🇼
-vless://0692a919-99e8-43cc-b722-e9271f2b2935@162.217.248.137:12092?encryption=none&type=grpc&mode=gun&security=tls&fp=chrome&sni=film.cvbsoft.com&alpn=h2,http/1.1#27-28zw5w2i
 vless://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.18.250.121:2096?type=ws&host=worker-new.rhyljiti.woRKErS.DEv&path=vless-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.woRKErS.DEv&alpn=h3,h2,http/1.1&fragment=tlshello,30-80,10-50#Aa64n🇿🇼
