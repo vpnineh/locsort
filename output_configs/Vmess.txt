@@ -7,9 +7,7 @@ vmess://6ec53cb4-1655-42f1-b738-0c5616eea9c4@176.223.131.167:39842?encryption=au
 vmess://71dbcca9-1116-4bb0-c641-12f50b9ce41e@156.238.226.207:46100?encryption=auto&security=none&type=tcp#Pool_%F0%9F%87%BA%F0%9F%87%B8US_234
 vmess://8afb5b6d-51f6-4bf8-f4e2-0378822200b3@68.64.176.148:11325?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8US_240
 vmess://8cb65b00-2519-4c5d-f305-6147b86d18f9@176.223.131.167:37816?encryption=auto&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_147%20(1)
-vmess://c5a17d1f-f0ce-410d-8a2f-13b21a80b281@176.223.131.167:12922?encryption=auto&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_152
 vmess://d7febf41-c144-4441-9fa4-56ca1ea7d9e9@176.223.131.167:24565?encryption=auto&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_159
-vmess://d9083d7a-fcf0-4a79-922a-2e894e3ce4fb@103.97.91.203:27262?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B3IN_77
 vmess://db6576b7-6469-4166-de59-5b8f4007a470@176.223.131.167:55447?encryption=auto&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_157
 vmess://eaa6fdfb-5861-4704-8c19-7dbcafea0679@176.223.131.167:56820?encryption=auto&security=none&type=tcp#%F0%9F%87%B5%F0%9F%87%B1PL_163
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkRhdGEtVVMtQW1hem9uX1RlY2hub2xvZ2llc19JbmMuIiwNCiAgImFkZCI6ICJ3d3cuc3BlZWR0ZXN0Lm5ldCIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI1MzZmZWQ3OC0xZTFkLTRiYzctOGM0OS1jZDNjNmNlZTQyMzkiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogIm5vbmUiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRhdGEuc2hhbHFhbS5vbmxpbmUiLA0KICAicGF0aCI6ICIvdm1lc3MtYXJnbz9lZD0yNTYwIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImRhdGEuc2hhbHFhbS5vbmxpbmUiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiZmlyZWZveCINCn0=
