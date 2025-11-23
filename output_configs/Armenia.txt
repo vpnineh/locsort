@@ -3,6 +3,7 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133?type=tcp#Frankfurt%20am%20Main,%20HE,%20Germany
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%AB%86%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.159.250.190:990#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%E2%99%A8%EF%B8%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.177:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1-Amsterdam
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?type=tcp#%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-279ms-Greenhost%20BV
 ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@188.114.96.3:443?flow=&type=ws&host=mIdsUmmeR-Bpb.PAgEs.DeV&path=/fYihCIH0A78Q5ZVa?ed%3D2560&security=tls&fp=chrome&sni=MIdsUmMer-bpB.pAGEs.dEV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇦🇲
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/LT6yQztdjDAym0ts/MTQxLjE0Ny4xODguNjQ%3D?ed%3D2560&security=none#Aa64n-damin-%202095
