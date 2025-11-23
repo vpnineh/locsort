@@ -3,6 +3,7 @@ ss://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&secur
 ss://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
 ss://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 ss://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+ss://18fe7f27-526d-41ba-8efc-360458e3aa69@45.136.5.235:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.frnsoft.com&alpn=h2,http/1.1#39-t1-support.frnsoft
 ss://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20187ms
 ss://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&encryption=none&type=ws#🇫🇷
@@ -188,6 +189,7 @@ vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&se
 vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
 vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
+vless://18fe7f27-526d-41ba-8efc-360458e3aa69@45.136.5.235:7070?encryption=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=support.frnsoft.com&alpn=h2,http/1.1#39-t1-support.frnsoft
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20187ms
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://248b794e-905a-47b4-8c23-fa15746a8d9a@195.42.233.83:443?path=/rsrjowws?---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&security=tls&encryption=none&type=ws#🇫🇷
