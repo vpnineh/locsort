@@ -5,6 +5,7 @@ ss://SERVERNETT-SERVERNETT1@sdct.sernett.ir:80?encryption=none&type=xhttp&mode=a
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443?type=tcp#ARISTA%F0%9F%8C%90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443?type=tcp#ARISTA%F0%9F%8C%90
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozWFBLT2c1ZW0za1Z3UU9IWlp5bUlB@81.19.141.45:443?type=tcp#ARISTA%F0%9F%8C%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990#%F0%9F%87%A6%F0%9F%87%B7%20Buenos%20Aires,%20C,%20Argentina%20(1)
 vless://34155f4a-b42f-4961-9268-df5069fca1ff@185.97.119.25:80?encryption=none&type=ws&path=/&security=none#ARISTA%F0%9F%8C%90
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64nfastly&warp
