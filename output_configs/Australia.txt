@@ -1,2 +1,4 @@
+ss://08f45028-1db6-4e93-bf51-d344b6c71e19@54.206.192.9:16407?encryption=auto&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_03
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
+vmess://08f45028-1db6-4e93-bf51-d344b6c71e19@54.206.192.9:16407?encryption=auto&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_03
