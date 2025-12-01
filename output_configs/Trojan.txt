@@ -1,8 +1,10 @@
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@104.16.0.0:443?type=ws&host=aa-3lh.pages.dev&path=/tr6CF9GIgiOjJzVqV2?ed%3D2560&security=tls&fp=randomized&sni=aA-3lh.PAGES.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20Trojan%20F%20-%20Clean%20IP%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.dev&path=/trep5Xcdji5Vi4BAEf/MTU4LjE4MC4xMi4xMTcsMTQxLjE0OC4yMDMuNiw4OS4xNjguNDMuMjg%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lH.PaGes.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Trojan%20F%20-%20IPv4%20:%20443
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.pages.dev&path=/trKOJj6kXGuA58q36X?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.pAges.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20-%20Clean%20IP%20:%202053گ
+trojan://.%2BQAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=runningshoes.purpletornado.click#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?allowInsecure=1&sni=runningshoes.purpletornado.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B5%F0%9F%87%B1
 trojan://.ie4rghJuMkcf0oF@38.96.254.102:18509?allowInsecure=1&sni=shoppingmall.electricbanana.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(6)
+trojan://2cf6d686799e6fa95316394064f26c0a@58.152.18.192:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 trojan://6e1b9a65-884f-3aa9-9469-bf6ec0f08610@37.114.62.218:443?allowInsecure=1&sni=45.32.28.232#Channel%20id:%20@ShadowProxy66%20(3)
@@ -13,7 +15,14 @@ trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftro
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
+trojan://BxceQaOe@112.118.116.66:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://BxceQaOe@219.79.165.186:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://BxceQaOe@52.199.129.13:2752?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AC
+trojan://BxceQaOe@58.152.18.95:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://BxceQaOe@58.152.53.22:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
+trojan://BxceQaOe@58.152.53.8:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=t.me%2Fripaojiedian#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?allowInsecure=1&sni=goodmorning.dancingbrick.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(4)
+trojan://Qzy7tgpRhu@37.18.14.33:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=m.vk.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://YwuvGJk36B@creativecommons.org:2053?allowInsecure=1&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&sni=kotlet.arshiacomplus.dpdns.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(4)
