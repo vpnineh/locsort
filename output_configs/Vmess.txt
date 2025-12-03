@@ -54,6 +54,7 @@ vmess://08f45028-1db6-4e93-bf51-d344b6c71e19@54.206.192.9:16407?encryption=auto&
 vmess://090d0bd9-f9c4-4c3b-8aae-ffa678765935@45.136.12.37:20521?encryption=auto&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%20(52)
 vmess://0b3da6e0-2a41-49e4-8bee-cfa705d448fc@47.238.71.166:3721?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8US_202
 vmess://112ac36f-3f53-4e26-8371-d25c028e1b9a@5.196.29.123:2082?encryption=auto&host=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&path=%2F&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%B7%20(7)
+vmess://18cd1295-e59c-4de1-b78d-a0d9c2021548@174.138.55.42:51965?encryption=auto&headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B1
 vmess://1cce7df2-251c-11ee-9409-f23c9164ca5d@34013157-sunz40-taz53d-1j0y6.hk3.p5pv.com:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AD%F0%9F%87%B0HK-119.236.147.63-5849%20%7C%200.546MB
 vmess://22550b74-3ebf-49b5-ea36-3078b5d47ed9@47.243.69.126:31904?encryption=auto&headerType=http&host=47.243.69.126&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AD%F0%9F%87%B0%20(7)
 vmess://23bdf6df-c482-46d0-c0f4-5a98d534ea11@45.231.132.46:45979?encryption=auto&path=%2Ftest&security=none&type=ws#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A7%F0%9F%87%B7

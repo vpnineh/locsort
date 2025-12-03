@@ -11,6 +11,7 @@ trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?allowInsecure=1&sni=diningtable.ele
 trojan://8_%5DO5ff+7.%5D_@172.66.47.132:2083?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trdo6RknVwhdugbYsH?ed%3D2560&security=tls&fp=randomized&sni=StF839Dvvyog9d2qA4-B8Z6AhGn7b7qI.PAGes.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%A9%F0%9F%87%AAtype=tcp#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
+trojan://92b2AnQ3A0@174.138.55.42:25192?headerType=http&security=none&type=tcp#%D9%86%DB%8C%D9%88%D8%AC%D8%B1%D8%B3%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8%20%DB%B2
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@185.146.173.16:2096?type=ws&host=worker-new.rhyljiti.wOrkerS.dEV&path=trojan-ws/?ed%3D2048&security=tls&fp=edge&sni=worker-new.rhyljiti.wOrkerS.dEV&alpn=h3,h2,http/1.1#28-trojan-worker-Aa64n
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
