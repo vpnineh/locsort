@@ -24,6 +24,8 @@ trojan://BxceQaOe@58.152.53.8:443?allowInsecure=1&sni=t.me%2Fripaojiedian#Channe
 trojan://F6xOQXz=rp7yeiNV@134.195.197.69:19579?allowInsecure=1&sni=goodmorning.dancingbrick.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(4)
 trojan://Qzy7tgpRhu@37.18.14.33:443?allowInsecure=1&sni=m.vk.com#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA%20(1)
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
+trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:8080?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiZUlCdzM4R0ZHd0liIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Trojan%20-%20IPv4%20:%208080
+trojan://ROoDc2Luk68%7D6ftz@newbp.amiralinorozjam.workers.dev:80?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoidzhoSkp5bkZxc0F5ZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Trojan%20-%20Domain%20:%2080
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://YwuvGJk36B@creativecommons.org:2053?allowInsecure=1&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh&sni=kotlet.arshiacomplus.dpdns.org&type=ws#Channel%20id:%20@ShadowProxy66%20%20(4)
 trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580?allowInsecure=1&sni=aspryonktg.mthjfbiay.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B4
