@@ -41,10 +41,5 @@ ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFN
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR%20%20ROSE%E2%80%9421
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.dev&path=/trep5Xcdji5Vi4BAEf/MTU4LjE4MC4xMi4xMTcsMTQxLjE0OC4yMDMuNiw4OS4xNjguNDMuMjg%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lH.PaGes.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Trojan%20F%20-%20IPv4%20:%20443
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:8080?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiZUlCdzM4R0ZHd0liIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Trojan%20-%20IPv4%20:%208080
-trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
-trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 trojan://bpb-trojan@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/trr3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€trojan
 trojan://bpb-trojan@ipw.nscl.ir:443?type=ws&host=bpb-turkey.pages.dev&path=/trKekDdHsfhoQVe5Zc/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-Turkey.pAGEs.DEV&alpn=http/1.1#Aa64n€trojan
-trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
-trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
-trojan://xNbIgqGHQk@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan4
