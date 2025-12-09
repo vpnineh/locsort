@@ -1,1 +1,3 @@
+ss://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94519
+vless://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
