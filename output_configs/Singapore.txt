@@ -1,2 +1,0 @@
-ss://e4767e9f-ed00-4f31-a984-a918bdd9b09c@8.218.116.26:32228?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_166
-vmess://e4767e9f-ed00-4f31-a984-a918bdd9b09c@8.218.116.26:32228?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_166
