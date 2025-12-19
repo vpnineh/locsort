@@ -1,2 +1,0 @@
-ss://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?encryption=none&type=xhttp&host=jetuk43.global.ssl.fastly.net&path=/&security=none#VLESSm
-vless://e25bd23b-22f0-4026-8883-59486d1761c5@151.101.25.242:80?encryption=none&type=xhttp&host=jetuk43.global.ssl.fastly.net&path=/&security=none#VLESSm
