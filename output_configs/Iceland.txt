@@ -1,3 +1,6 @@
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Sm5JdjhmTURQZFc1SEgycXJXMGJk@94.131.123.236:5223#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul,%2034,%20T%C3%BCrkiye
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRnFaSDFjSXc1alBSQ2hXeGxYMzZG@62.133.63.154:20255#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul,%2034,%20T%C3%BCrkiye%20(1)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuWVJoVENaZFFMRXhLNmV3VkhnSFMybWx2NEZDeXNLeWV5VFRmaFJkRWdkZWVSTjA@5.188.36.93:31348#%F0%9F%87%B9%F0%9F%87%B7%20Istanbul,%2034,%20T%C3%BCrkiye%20(2)
 trojan://auto@www.visa.com.sg:443?type=ws&host=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com&path=/trojan-aa64n.amiralinorozjam.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#Aa64n-viska
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-Aa64n

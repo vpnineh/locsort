@@ -1,6 +1,13 @@
+ss://03fcc618-b93d-6796-6aed-8a38c975d581@23.162.200.227:443?encryption=auto&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%A6CA-23.162.200.227-7284%20%7C%2052.517MB
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
+ss://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-CA%20(2)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@145.14.131.37:990#%F0%9F%87%A8%F0%9F%87%B7%20San%20Jos%C3%A9,%20SJ,%20Costa%20Rica
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990#%F0%9F%87%A8%F0%9F%87%A6CA%20%20ROSE%E2%80%94553
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%A8%F0%9F%87%A6CA%20%20ROSE%E2%80%94546
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0354%20%7C%2058.965MB
 ss://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
+vless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%5Bopenproxylist.com%5D%20vless-CA%20(2)
 vless://b9005145-03d3-47bd-b975-b70f55882e77@104.16.219.120:443?type=ws&host=ShAH-AGZ.PAGES.dEV&path=/Telegram@V2ray_Alpha/?ed%3D2048&security=tls&fp=chrome&sni=ShAh-aGz.pAGes.DEV&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.162.200.227:443?encryption=auto&path=%2F&security=tls&type=ws#%F0%9F%87%A8%F0%9F%87%A6CA-23.162.200.227-7284%20%7C%2052.517MB
