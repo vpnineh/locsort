@@ -1,3 +1,4 @@
+ss://08dad8a6-8a6c-4424-9d63-62f3a9bf7f4f@194.28.224.99:443?ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.213:990?type=tcp#%F0%9F%87%B5%F0%9F%87%B7-SanJuan%20
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?type=ws&host=bpb-worker-panel-54o.pages.dev&path=/S97Ins4sHjZzTwVB?ed%3D2560&security=tls&fp=randomized&sni=bpB-wORKer-panEL-54O.pagEs.dEv&alpn=h2,http/1.1#Aa64n🇸🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.213:990?type=tcp#%F0%9F%87%B5%F0%9F%87%B7-SanJuan%20
+vless://08dad8a6-8a6c-4424-9d63-62f3a9bf7f4f@194.28.224.99:443?ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.47.255.213:990?type=tcp#%F0%9F%87%B5%F0%9F%87%B7-SanJuan%20
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?type=ws&host=bpb-worker-panel-54o.pages.dev&path=/S97Ins4sHjZzTwVB?ed%3D2560&security=tls&fp=randomized&sni=bpB-wORKer-panEL-54O.pagEs.dEv&alpn=h2,http/1.1#Aa64n🇸🇦
