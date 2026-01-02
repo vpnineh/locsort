@@ -6,7 +6,6 @@ trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?allowInsecure=
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443?allowInsecure=1&ed=2560&eh=Sec-WebSocket-Protocol&host=_acme-challenge.2go.cloudns.be&path=%2F&sni=_acme-challenge.2go.cloudns.be&type=ws#hamedp71::%F0%9F%87%BA%F0%9F%87%B8%20(17)
-trojan://8_%5DO5ff+7.%5D_@172.66.47.132:2083?type=ws&host=stf839dvvyog9d2qa4-b8z6ahgn7b7qi.pages.dev&path=/trdo6RknVwhdugbYsH?ed%3D2560&security=tls&fp=randomized&sni=StF839Dvvyog9d2qA4-B8Z6AhGn7b7qI.PAGes.DEv&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%A9%F0%9F%87%AAtype=tcp#Aa64n%20%F0%9F%87%AE%F0%9F%87%B7
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://971ca97d-b888-5999-bf2c-5c5f0d9039ff@104.18.165.69:2096?type=ws&host=worker-new.rhyljiti.WORkErs.dEv&path=trojan-ws/?ed%3D2048&security=tls&fp=randomized&sni=worker-new.rhyljiti.WORkErs.dEv&alpn=h3,h2,http/1.1#Aa64n-trojan-worker
@@ -19,11 +18,8 @@ trojan://BxceQaOe@58.152.46.60:443?allowInsecure=1&sni=t.me%2Fripaojiedian#Chann
 trojan://IXoJvZ7SJb@de.scpnb.top:44792?fp=chrome&pbk=HuKTPB5e7tzLiGoYPhPRFgHE_1VJNaroU-TTRA9xAyI&security=reality&sid=95&sni=cloudflare.com&type=grpc#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(71)
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?allowInsecure=1&sni=www.fuzzyfeelergauge.click#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B3%20(2)
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&type=ws#hamedp71::%F0%9F%87%A8%F0%9F%87%AD
-trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:2095?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiWkZVZnJQRmNnY1giLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n🇬🇧
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:443?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiakdqSE9QRktnIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=nEWBp.aMIralinorOZjaM.wORkeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:2096?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMHU1Vnc3bDNVQyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewBP.AMirAliNoROZjAM.WORKeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
-trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:8080?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiZUlCdzM4R0ZHd0liIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Trojan%20-%20IPv4%20:%208080
-trojan://ROoDc2Luk68%7D6ftz@newbp.amiralinorozjam.workers.dev:80?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoidzhoSkp5bkZxc0F5ZyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Trojan%20-%20Domain%20:%2080
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?sni=fuzzyfonduepotstand.oscillatingovenmitt.click#hamedp71::%F0%9F%87%AF%F0%9F%87%B5%20(1)
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?sni=fuzzyfonduepotstand.oscillatingovenmitt.click#hamedp71::%F0%9F%87%AF%F0%9F%87%B5%20(2)
