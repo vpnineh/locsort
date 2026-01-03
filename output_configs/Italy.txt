@@ -1,3 +1,5 @@
 ss://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94491
+ss://a688fe84-5388-48e3-beb5-0b94780ca0c6@trt.fastlynew.hosting-ip.com:80?encryption=none&host=jetuk43.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20151.101.241.242
 vless://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
+vless://a688fe84-5388-48e3-beb5-0b94780ca0c6@trt.fastlynew.hosting-ip.com:80?encryption=none&host=jetuk43.global.ssl.fastly.net&mode=auto&path=%2F&security=none&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20151.101.241.242
