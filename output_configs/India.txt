@@ -1,9 +1,5 @@
 ss://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.97.203.227:990#%F0%9F%87%AE%F0%9F%87%B3IN%20%20ROSE%E2%80%94523
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@196.196.192.58:990#%F0%9F%87%AE%F0%9F%87%AA%20Dublin,%20L,%20Ireland
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.209.147.198:989#%F0%9F%87%AE%F0%9F%87%B3IN%20%20ROSE%E2%80%94405
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#%F0%9F%87%AE%F0%9F%87%AA%20Dublin,%20L,%20Ireland%20(1)
 vless://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4

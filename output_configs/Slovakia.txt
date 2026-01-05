@@ -1,2 +1,0 @@
-ss://e9dbc178-3656-40f8-8833-5023f306ef1d@185.82.73.212:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=stats.vk-portal.net&type=tcp#@Vpn_Sky%20(1)
-vless://e9dbc178-3656-40f8-8833-5023f306ef1d@185.82.73.212:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=stats.vk-portal.net&type=tcp#@Vpn_Sky%20(1)

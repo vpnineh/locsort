@@ -1,6 +1,2 @@
-ss://08f45028-1db6-4e93-bf51-d344b6c71e19@54.206.192.9:16407?encryption=auto&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_03
 ss://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.1.175:990#%F0%9F%87%B2%F0%9F%87%A9%20Chisinau,%20CU,%20Moldova
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#%F0%9F%87%A7%F0%9F%87%B7%20S%C3%A3o%20Paulo,%20SP,%20Brazil
 vless://899f5cbd-a4cb-49b1-aa16-cff610657cf5@aash.amiralinorozjam.workers.dev:2096?type=ws&host=aash.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=tls&fp=random&sni=aash.amiralinorozjam.workers.dev#Aa64n🇦🇺
-vmess://08f45028-1db6-4e93-bf51-d344b6c71e19@54.206.192.9:16407?encryption=auto&security=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BAAU_03

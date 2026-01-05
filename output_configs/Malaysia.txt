@@ -1,2 +1,0 @@
-ss://c77f48f5-4be3-4461-b52b-49998e7b897b@47.250.45.234:43063?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.45.234-5133
-vmess://c77f48f5-4be3-4461-b52b-49998e7b897b@47.250.45.234:43063?ed=2048&eh=Sec-WebSocket-Protocol&encryption=auto&path=%2Farki&security=none&type=ws#%F0%9F%87%B2%F0%9F%87%BEMY-47.250.45.234-5133
