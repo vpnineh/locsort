@@ -1,2 +1,17 @@
+ss://0041e43e-b888-47ab-a6ce-4906631cffa4@iT-aNiMalZoO-lOvE.rEdMaK.iR:8447?encryption=none&fp=chrome&mode=auto&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&security=reality&sni=journalofbigdata.springeropen.com&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20172.232.206.56
 ss://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42933#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(2)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42934#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(3)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42935#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(4)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NzdjM2IwNjljMzM1ZmZj@163.171.181.49:42936#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(5)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMmE5YTE2ZDhhMDQxYzk4@163.171.181.30:11201#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(1)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94491
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94317
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0320
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94588
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#%F0%9F%87%AE%F0%9F%87%B9IT%20%20ROSE%E2%80%94320
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmM0ODRlZGNmMWJlNDNj@163.171.181.49:48852#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait%20(6)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZGRkNzljNzM4NjY0NmQ2@163.171.181.29:11201#%F0%9F%87%B0%F0%9F%87%BC%20Kuwait%20City,%20KU,%20Kuwait
+vless://0041e43e-b888-47ab-a6ce-4906631cffa4@iT-aNiMalZoO-lOvE.rEdMaK.iR:8447?encryption=none&fp=chrome&mode=auto&pbk=fhNhrO00QDSDI1CBmJY8RwK9t-zFmTjERgbgqcj8NTI&security=reality&sni=journalofbigdata.springeropen.com&type=xhttp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%7C%20172.232.206.56
 vless://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
