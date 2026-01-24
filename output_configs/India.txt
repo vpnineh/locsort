@@ -1,5 +1,7 @@
 ss://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
+ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@spain.novaads.shop:42525?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
 vless://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
+vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@spain.novaads.shop:42525?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%AA%F0%9F%87%B8%20Spain
