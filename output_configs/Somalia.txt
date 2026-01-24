@@ -1,2 +1,0 @@
-ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.30.160:443?type=ws&host=bpb-worker-panel-54o.pages.dev&path=/EVFdqu9DNGS3hGp5?ed%3D2560&security=tls&fp=randomized&sni=bPB-WOrKeR-paNel-54O.pAges.DEv&alpn=h2,http/1.1#Aa64n🇸🇴
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.24.30.160:443?type=ws&host=bpb-worker-panel-54o.pages.dev&path=/EVFdqu9DNGS3hGp5?ed%3D2560&security=tls&fp=randomized&sni=bPB-WOrKeR-paNel-54O.pAges.DEv&alpn=h2,http/1.1#Aa64n🇸🇴

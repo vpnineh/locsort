@@ -1,10 +1,8 @@
 ss://38557b1f-49e9-4a33-990d-8209e69ef2be@cdn.turbooserver.com:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A33554432%2C%22scMaxConcurrentPosts%22%3A2048%2C%22scMinPostsIntervalMs%22%3A1%2C%22xPaddingBytes%22%3A%22200-3000%22%2C%22noGRPCHeader%22%3Atrue%7D&host=data.server-abr.net&mode=packet-up&path=%2F&security=none&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%202a04:4e42:600::731
-ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://38557b1f-49e9-4a33-990d-8209e69ef2be@cdn.turbooserver.com:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A33554432%2C%22scMaxConcurrentPosts%22%3A2048%2C%22scMinPostsIntervalMs%22%3A1%2C%22xPaddingBytes%22%3A%22200-3000%22%2C%22noGRPCHeader%22%3Atrue%7D&host=data.server-abr.net&mode=packet-up&path=%2F&security=none&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%202a04:4e42:600::731
-vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧

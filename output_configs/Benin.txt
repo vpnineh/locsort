@@ -1,2 +1,0 @@
-ss://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@midsummer-bpb.pages.dev:443?flow=&type=ws&host=mIdSUmMEr-BpB.paGeS.Dev&path=/7kp4FlrI8hZ4HLED?ed%3D2560&security=tls&fp=chrome&sni=MiDsummER-bPb.PAGES.DeV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇧🇯
-vless://c6d299d4-db0b-4444-8b56-b23bbdcbcd67@midsummer-bpb.pages.dev:443?flow=&type=ws&host=mIdSUmMEr-BpB.paGeS.Dev&path=/7kp4FlrI8hZ4HLED?ed%3D2560&security=tls&fp=chrome&sni=MiDsummER-bPb.PAGES.DeV&alpn=h2,http/1.1&allowInsecure=false#Aa64n🇧🇯

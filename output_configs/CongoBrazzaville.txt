@@ -1,4 +1,2 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@dnschecker.org:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%A8%F0%9F%87%AC
-ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com:80?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇨🇬
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@dnschecker.org:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-worker%F0%9F%87%A8%F0%9F%87%AC
-vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com:80?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Aa64n🇨🇬

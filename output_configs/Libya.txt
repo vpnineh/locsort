@@ -1,4 +1,0 @@
-ss://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64n-fastly
-ss://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?path=%2Fasl.mo.live.skornorth.com.zula.ir%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=asl.mo&fp=firefox&type=ws&sni=live.skornorth.com#Aa64n_fastly
-vless://9824a92c-f3d6-45e2-a1bf-88afba9b19ae@free.fastly80.hosting-ip.com:80?path=%2FLoOKiVpN%3Fed%3D2048&security=none&encryption=none&alpn=h2&host=lookivpn.ir&fp=chrome&type=ws&sni=www.scdn.co#Aa64n-fastly
-vless://dd4d9471-c0bc-4f8e-a408-8c022a7984d4@live.skornorth.com:443?path=%2Fasl.mo.live.skornorth.com.zula.ir%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=asl.mo&fp=firefox&type=ws&sni=live.skornorth.com#Aa64n_fastly

@@ -1,2 +1,0 @@
-ss://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬
-vless://c2c8a201-09b9-47a7-b336-fcf1657f54a8@172.66.44.75:443?type=ws&host=bpb-worker-panel-3jc.pages.dev&path=/Telegram@Azarakhsh_Proxy/?ed%3D2560&security=tls&fp=randomized&sni=bpb-wORKer-paNeL-3JC.pAgeS.DeV&alpn=h2,http/1.1#Aa64n🇪🇬

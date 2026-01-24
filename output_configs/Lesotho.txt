@@ -1,6 +1,4 @@
-ss://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/r3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€velss
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096
-vless://38a20c4d-ae34-4dce-90ca-a949ada6da29@172.66.44.96:443?type=ws&host=bpb-turkey.pages.dev&path=/r3tEE1eP3WzVLZyG/dHVyay5yYWRpY2FsaXphdGlvbi5pcg%3D%3D&security=tls&fp=randomized&sni=BpB-turKEY.pages.Dev&alpn=http/1.1#Aa64n€velss
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096

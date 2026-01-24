@@ -3,7 +3,6 @@ ss://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?encryption=none&
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 vless://28e96d9a-56d0-481a-a07c-b015009a0593@ghm.gh-ghnbari6264.workers.dev:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiUnQzc0xRT29yekwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%B3%F0%9F%87%B1%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
