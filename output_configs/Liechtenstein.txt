@@ -1,4 +1,2 @@
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/Telegram-V2ray_Alpha/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#Aa64n%20_meli
-ss://a6b99c05-8e0a-4f7e-bf7b-e4b9febb9589@172.234.132.232:10001?encryption=auto&security=none&type=tcp#@meli_proxyy
 vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/Telegram-V2ray_Alpha/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#Aa64n%20_meli
-vmess://a6b99c05-8e0a-4f7e-bf7b-e4b9febb9589@172.234.132.232:10001?encryption=auto&security=none&type=tcp#@meli_proxyy

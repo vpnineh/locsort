@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0433
 ss://dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb@tw3.594888.xyz:25551?encryption=auto&path=tw3.594888.xyz&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%BCTW-122.118.137.79-4346
 vmess://dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb@tw3.594888.xyz:25551?encryption=auto&path=tw3.594888.xyz&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%BCTW-122.118.137.79-4346

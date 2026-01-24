@@ -1,2 +1,0 @@
-ss://9e91d19a-c73f-4276-adbc-b337c374259c@94.232.247.165:45653?encryption=auto&security=none&type=tcp#https://t.me/V2raNG_DA
-vmess://9e91d19a-c73f-4276-adbc-b337c374259c@94.232.247.165:45653?encryption=auto&security=none&type=tcp#https://t.me/V2raNG_DA

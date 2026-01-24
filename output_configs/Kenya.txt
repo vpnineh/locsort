@@ -1,4 +1,2 @@
-ss://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?encryption=none&host=oon.visaups.ir&path=%2F&security=none&type=ws#@Ken0Tim%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%60
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@tr.speeditest.ir:81?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-vless://087d8602-503b-4091-9f05-44c20792083c@oon.visaups.ir:80?encryption=none&host=oon.visaups.ir&path=%2F&security=none&type=ws#@Ken0Tim%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%60
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@tr.speeditest.ir:81?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
