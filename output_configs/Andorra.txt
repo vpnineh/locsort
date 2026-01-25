@@ -27,8 +27,6 @@ ss://8b3a519e-6977-4b9d-96d6-ee42490c7fc2@104.16.53.11:2052?encryption=none&host
 ss://8b3a519e-6977-4b9d-96d6-ee42490c7fc2@Api-sAronet.zIrAkOmAmLe.CoM:2052?encryption=none&host=tR.nOdE-gAmE.iR&path=%2Fcloudflare.com%2Fapi%2Fstatus&security=none&type=httpupgrade#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(7)
 ss://8c36be94-bb82-401f-a6a8-2558732501c2@109.122.253.85:9000?encryption=none&path=%2F&security=none&type=http#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7%20(2)
 ss://98fb333c-3d84-4fa4-b1f7-1683b509f65a@ab.fxgoldensignals.com:36454?encryption=none&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@am2.speeditest.ir:81?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%81%20(NoAds)
-ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@ca.novaads.shop:42537?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTFlYWZkZmZkOWE4MWUw@154.205.134.155:11651#%F0%9F%87%B8%F0%9F%87%A6%20Riyadh,%2001,%20Saudi%20Arabia%20(4)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20(10)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YmM4ZWVmZmQwMzI1MTQx@154.205.134.251:11201#%F0%9F%87%B8%F0%9F%87%A6%20Riyadh,%2001,%20Saudi%20Arabia%20(1)
@@ -97,8 +95,6 @@ vless://8b3a519e-6977-4b9d-96d6-ee42490c7fc2@104.16.53.11:2052?encryption=none&h
 vless://8b3a519e-6977-4b9d-96d6-ee42490c7fc2@Api-sAronet.zIrAkOmAmLe.CoM:2052?encryption=none&host=tR.nOdE-gAmE.iR&path=%2Fcloudflare.com%2Fapi%2Fstatus&security=none&type=httpupgrade#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(7)
 vless://8c36be94-bb82-401f-a6a8-2558732501c2@109.122.253.85:9000?encryption=none&path=%2F&security=none&type=http#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%B7%20(2)
 vless://98fb333c-3d84-4fa4-b1f7-1683b509f65a@ab.fxgoldensignals.com:36454?encryption=none&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA
-vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@am2.speeditest.ir:81?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%E2%9E%81%20(NoAds)
-vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@ca.novaads.shop:42537?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A8%F0%9F%87%A6%20Canada
 vless://a22be179-d210-4313-e499-8530a577b8b7@doprax.fxgoldensignals.com:38231?encryption=none&mode=auto&path=%2F&security=none&type=xhttp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A9%F0%9F%87%AA%20(2)
 vless://a3f96810-a217-4380-9775-eee3e0e37325@wwws.fast.hosting-ip.com:80?encryption=none&host=Plhosting.zirakomam-le.com&mode=auto&path=%2F%3Fed%3D2048&security=none&type=xhttp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(12)
 vless://a8ce0aca-a11a-4105-ba03-f148c449e358@104.21.4.22:2082?encryption=none&host=clOuD.zIrAkomAmle.coM&path=%2Fapi%2Fstatus&security=none&type=httpupgrade#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%A8%F0%9F%87%A6%20(8)

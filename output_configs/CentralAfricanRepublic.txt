@@ -12,7 +12,6 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.am
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
-ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=speed.uploadq.ir&path=/cloudapi&security=tls&fp=chrome&sni=speed.uploadq.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N4
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@chatgpt.com:443?encryption=none&type=xhttp&mode=auto&host=6.speedur.ir&path=/cloudapi&security=tls&fp=chrome&sni=6.speedur.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N2
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@loading.uploado.ir:443?encryption=none&type=xhttp&mode=auto&host=4.uploado.ir&path=/cloudapi&security=tls&fp=chrome&sni=4.uploado.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#Aa64n-IP_CF
@@ -33,7 +32,6 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-80
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-cf-vless-TLS-8443
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
-vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@104.18.32.47:443?encryption=none&type=xhttp&mode=auto&host=speed.uploadq.ir&path=/cloudapi&security=tls&fp=chrome&sni=speed.uploadq.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N4
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@chatgpt.com:443?encryption=none&type=xhttp&mode=auto&host=6.speedur.ir&path=/cloudapi&security=tls&fp=chrome&sni=6.speedur.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N2
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@loading.uploado.ir:443?encryption=none&type=xhttp&mode=auto&host=4.uploado.ir&path=/cloudapi&security=tls&fp=chrome&sni=4.uploado.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N3
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
