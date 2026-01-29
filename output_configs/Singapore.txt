@@ -1,4 +1,5 @@
 ss://181472ed-0bb7-43be-dccb-74aca2b33ed5@180.215.130.123:11584?encryption=auto&host=180.215.130.123&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-180.215.130.123-0235%20%7C%200.0MB
+ss://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@singapore.iranesfahan.com:1000?encryption=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%D8%B3%D9%86%DA%AF%D8%A7%D9%BE%D9%88%D8%B1
 ss://6c82a994-b6ba-48ca-f2ed-11288fe4913b@8.217.90.175:51000?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_206
 ss://6fea1649-425b-4092-bf53-29792152c925@15.235.147.186:80?encryption=auto&host=15.235.147.186&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.147.186-0070%20%7C%200.0MB
 ss://7002330d-fe27-4b56-b22f-d7e3eb825fdb@159.223.32.230:8080?encryption=auto&host=159.223.32.230&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-159.223.32.230-0140%20%7C%200.0MB
@@ -64,6 +65,7 @@ ss://cb81e6ab-1d83-4ac1-f0ad-ae5c2a7c29ef@8.214.33.158:80?encryption=auto&host=8
 ss://ce3868a4-e2ca-4a6f-8731-e7e88d098886@139.99.61.53:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-139.99.61.53-4542
 ss://da257e73-f02b-45ab-9916-7baf154c47a3@129.150.44.64:46075?encryption=auto&path=%2Fjhndsmlanj11223&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-129.150.44.64-2326
 ss://fc912850-b6da-4ec6-9348-f3d1d7471906@146.190.202.9:57711?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-146.190.202.9-0241%20%7C%200.0MB
+vless://44d7c8d2-8965-43a0-b1eb-73a56cebdff1@singapore.iranesfahan.com:1000?encryption=none&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%D8%B3%D9%86%DA%AF%D8%A7%D9%BE%D9%88%D8%B1
 vmess://181472ed-0bb7-43be-dccb-74aca2b33ed5@180.215.130.123:11584?encryption=auto&host=180.215.130.123&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-180.215.130.123-0235%20%7C%200.0MB
 vmess://6c82a994-b6ba-48ca-f2ed-11288fe4913b@8.217.90.175:51000?encryption=auto&security=none&type=tcp#%F0%9F%87%B8%F0%9F%87%ACSG_206
 vmess://6fea1649-425b-4092-bf53-29792152c925@15.235.147.186:80?encryption=auto&host=15.235.147.186&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-15.235.147.186-0070%20%7C%200.0MB
