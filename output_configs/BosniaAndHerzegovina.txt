@@ -1,13 +1,9 @@
-ss://33edb913-abb6-4e54-8112-752a767e91c3@ae.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=zhaket.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%80
-ss://33edb913-abb6-4e54-8112-752a767e91c3@ae2.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%81
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@ae2.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#%F0%9F%87%B9%F0%9F%87%AD%20Bangkok,%2010,%20Thailand
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYmVhODllNTBlOGFiZWNl@38.60.200.187:11201#%F0%9F%87%B9%F0%9F%87%AD%20Bangkok,%2010,%20Thailand%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTRhNmZkMjIwOWY2MmE3@185.67.125.109:11201#%F0%9F%87%AE%F0%9F%87%B3%20Navi%20Mumbai,%20MH,%20India
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:11715#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India%20(2)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNjExMDI3YS03YjU1LTRmNjQtYjhkZi0yNThmMmQ3ZWY5NWM@e4d7a1c2f3b80976a5e2c1d4b3f0a987.358.onl:13702#%F0%9F%87%AE%F0%9F%87%B3%20Mumbai,%20MH,%20India%20(1)
-vless://33edb913-abb6-4e54-8112-752a767e91c3@ae.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=zhaket.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%80
-vless://33edb913-abb6-4e54-8112-752a767e91c3@ae2.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%81
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@ae2.aparat-movies-download.ir:42539?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%20Dubai%E2%9E%81
 vmess://eyJuZXQiOiJncnBjIiwidGxzIjoidGxzIiwiaG9zdCI6IiIsImlkIjoiMmEzMjYzZTItODkxYy00NDQ2LWI0NzQtYThjNjNhY2I2ZTI1IiwicHMiOiIlRjAlOUYlODclQkElRjAlOUYlODclQjglMjBBYTY0biIsInNjeSI6ImF1dG8iLCJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm9yZyIsInNuaSI6IjFmZFNOQTExOTIyODkyOE9wUzJzbVRhQjIyOGFBc0REc2QxZWExMjA3MTQ4MTE4Ny4zOS1tZW56YS5wcm8iLCJ0eXBlIjoiZ3VuIiwicG9ydCI6IjIwODciLCJhbHBuIjoiaDIsaHR0cFwvMS4xIiwicGF0aCI6IiJ9
 vmess://eyJwcyI6IjEtbmltYmFoYSUyMEdlcm1hbnklMjAlRjAlOUYlODclQTklRjAlOUYlODclQUEiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsImlkIjoiZTg2ODBkYmEtMGRiOC00ODMzLTk2MTItYzllNGUxZDhmYjkzIiwidHlwZSI6Imh0dHAiLCJwYXRoIjoiXC8iLCJwb3J0IjoiMjI1MDQiLCJuZXQiOiJ0Y3AiLCJhZGQiOiI5NC4xODIuMTAzLjYyIiwiaG9zdCI6ImFwYXJhdC5jb20ifQ==

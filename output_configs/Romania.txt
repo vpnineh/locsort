@@ -123,6 +123,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@146.70.61.37:8080#%F0%9F%87%AC%F0%9F
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%ACSG%20%20ROSE%E2%80%9426
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#%F0%9F%87%B8%F0%9F%87%ACSG%20%20ROSE%E2%80%9427
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.dev&path=/trep5Xcdji5Vi4BAEf/MTU4LjE4MC4xMi4xMTcsMTQxLjE0OC4yMDMuNiw4OS4xNjguNDMuMjg%3D?ed%3D2560&security=tls&fp=randomized&sni=Aa-3lH.PaGes.dEv&alpn=http/1.1&allowInsecure=false#Aa64n%20-%20Trojan%20F%20-%20IPv4%20:%20443
+trojan://%5E7yawa_FlmqZL:rk@[2606:4700:3034::ac43:8106]:80?type=ws&host=new140411.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiT0VhaHUzc2tQIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#%F0%9F%92%A6%206%20-%20Trojan%20-%20IPv6%20:%2080
 trojan://%7DDnPdj%7BpF0JfTnnY@188.114.97.3:80?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiQmpSelNYZzB5MDAzRyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#Trojan%20-%20IPv4%20:%2080
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
