@@ -1,6 +1,4 @@
 ss://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 ss://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
-ss://ec9ed5b4-eb65-455f-a543-46bb40909047@shaparak.ultrrasound.com:11199?encryption=none&type=ws&host=telewebion.com&path=/&security=none#testvpnvip
 vless://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 vless://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
-vless://ec9ed5b4-eb65-455f-a543-46bb40909047@shaparak.ultrrasound.com:11199?encryption=none&type=ws&host=telewebion.com&path=/&security=none#testvpnvip
