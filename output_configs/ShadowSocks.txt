@@ -671,6 +671,7 @@ ss://4d93f16b-d2d2-4267-819e-5d5c297efac5@198.41.216.98:8080?path=/@MaSTeRSeRVeR
 ss://4db07b13-6524-49d2-b432-1f312c0e9c7c@23.138.148.47:42507?encryption=auto&security=none&type=tcp#%F0%9F%8F%81ZZ_594
 ss://4ec66d81-9565-4d8e-ae58-2bacfde95f48@185.248.33.173:20509?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#%E2%9D%8CMarseille-GetAFreeNode
 ss://4ec66d81-9565-4d8e-ae58-2bacfde95f48@74.117.196.232:20905?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#%E2%9D%8CFremont-GetAFreeNode.com
+ss://4ef61e4e-270a-4e04-8faf-bcd1817abd8a@shaparak.ultrrasound.com:14557?encryption=none&host=telewebion.com&path=%2F&security=none&type=ws#tetst
 ss://4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5@n1753598452.wpg27.xyz:443?encryption=auto&host=n1753598452.wpg27.xyz&path=%2F&security=tls&sni=n1753598452.wpg27.xyz&type=ws#hamedp71::%F0%9F%87%AF%F0%9F%87%B5%20(11)
 ss://4f86a909-836d-4643-b650-d812144a1fa9@n1761214912.wpg27.xyz:443?encryption=auto&host=n1761214912.wpg27.xyz&path=%2F&security=tls&sni=n1761214912.wpg27.xyz&type=ws#%F0%9F%8F%B3%5Bopenproxylist.com%5D%20vmess-
 ss://4fc8707b-0c0d-494c-af35-024840f9a5b9@http.hexo-music.ir:2095?encryption=none&headerType=http&host=zula.ir&security=none&type=tcp#%3E%3E@FreakConfig::DE%20(1)
