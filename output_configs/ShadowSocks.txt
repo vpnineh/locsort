@@ -2763,12 +2763,9 @@ ss://aba50dd4-5484-3b05-b14a-4661caf862d5@103.253.26.134:443?encryption=auto&hos
 ss://aba50dd4-5484-3b05-b14a-4661caf862d5@103.253.26.20:443?encryption=auto&host=zecjk.com&path=%2F&security=tls&sni=zecjk.com&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-103.253.26.20-0234%20%7C%200.0MB
 ss://aba50dd4-5484-3b05-b14a-4661caf862d5@192.96.204.250:443?encryption=auto&path=%2F&security=tls&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-192.96.204.250-0139%20%7C%200.0MB
 ss://aba50dd4-5484-3b05-b14a-4661caf862d5@202.61.141.130:443?encryption=auto&host=202.61.141.130&path=%2F&security=tls&sni=202.61.141.130&type=ws#%F0%9F%87%B8%F0%9F%87%ACSG-202.61.141.130-0233%20%7C%200.0MB
-ss://abcaabc-bcaa-aabc-dabc-cacacabbbabc@127.0.0.1:8080?security=tls&type=tcp#👨🏻‍💻
 ss://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#hamedp71::%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20(177)
 ss://ac7b6757-05c0-4a28-8b08-14ab496a5fe4@193.46.81.151:49330?security=reality&encryption=none&pbk=Dee9YE139lZpb4V3QytB8DvHY3nTCnEXzk2IjvMLHi8&fp=chrome&spx=/-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&type=tcp&sni=miro.com&sid=b3#🇩🇪
 ss://ac825282-e2bc-45b1-a7ee-aa8f5effc4d7@62.84.102.162:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=taQhPfbUTkiTOyIekh1ucvlnswJTwFRmyD8UhaX4u1M&security=reality&sid=c9782e&sni=store.steampowered.com&type=tcp#BESTIIVPNBOT%20(12)%20(1)
-ss://acacabb-cbaa-acba-bcad-bccaccababba@127.0.0.1:2080?security=tls&type=tcp#🤖
-ss://acbbaac-abac-acab-bdac-bbacbcaaccba@127.0.0.1:3080?security=tls&type=tcp#🛡
 ss://acda7cb1-54f5-4852-b296-5dbe49261f19@85.133.200.76:443?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40goldenvpn_v2rayy%20%5B4%5D
 ss://ad523240-c254-41da-b624-07356ffc38eb@190.93.244.170:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#🇩🇪
 ss://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:443?encryption=none&fp=chrome&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&security=reality&serviceName=4ad80c2f8c79fca2b989b494&sid=42d7234d875308a2&sni=www.microsoft.com&type=grpc#hamedp71::%F0%9F%87%A6%F0%9F%87%B9%20(9)
@@ -2924,7 +2921,6 @@ ss://ca46f1db-8cac-4c60-aa56-67b795dd9379@91.99.179.41:24199?security=&encryptio
 ss://ca46f1db-8cac-4c60-aa56-67b795dd9379@91.99.179.41:24199?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40flyv2ray%3A%3ADE
 ss://ca46f1db-8cac-4c60-aa56-67b795dd9379@91.99.179.41:24199?security=none&encryption=none&headerType=none&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20141ms
 ss://caa995ed-86a9-4968-a332-9c11e7e13107@38.150.13.64:80?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8US-38.150.13.64-7606
-ss://caaacbb-baca-aacb-abcd-cabbabbaaccc@127.0.0.1:1080?security=tls&type=tcp#🔄
 ss://caf921c7-ac63-40bc-faa1-cda097fd7e42@92.246.87.170:18355?encryption=auto&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AADE_17
 ss://cb213db5-803d-49dd-a7e2-46d938af0751@www.visaeurope.at:2082?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=amiroo-l43dac88-v2.amiroo-d8b.workers.dev&path=%2F&security=none&type=ws#hamedp71::%F0%9F%87%BA%F0%9F%87%B8%20(261)
 ss://cb521ffa-0fe8-4c9e-d72e-92a618550695@www.speedtest.net:2087?type=ws&encryption=none&path=/@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android--------@Archive_Android&host=code.yas-nowin.ir&security=tls&fp=chrome&alpn=h2&sni=code.yas-nowin.ir#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆
