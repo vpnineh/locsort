@@ -1,3 +1,5 @@
+ss://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&host=amazon.joingulf.lol&mode=auto&path=%2Fawduhiawad%3Fed%3D2560&security=none&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20185.18.250.67
 ss://a64d45e2-b8c5-41df-ab19-58f00ea19d0d@sp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇪🇸
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
+vless://4d263c1a-fbb9-4946-a639-1de531120cde@185.18.250.67:8080?encryption=none&host=amazon.joingulf.lol&mode=auto&path=%2Fawduhiawad%3Fed%3D2560&security=none&type=xhttp#%F0%9F%87%AA%F0%9F%87%B8%20ES%20%7C%20185.18.250.67
 vless://a64d45e2-b8c5-41df-ab19-58f00ea19d0d@sp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇪🇸

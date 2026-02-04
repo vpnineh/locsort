@@ -1,0 +1,5 @@
+ss://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=filma.video-fun-new.com.de&path=%2FMv3kv92GcD3E2KuHxT&security=tls&sni=filma.video-fun-new.com.de&type=ws#Filter%20tls%20WS%20CDN%20vless
+ss://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:80?encryption=none&host=filma.video-fun-new.com.de&path=%2FMv3kv92GcD3E2KuHxT&security=none&type=ws#Filter%20http%20WS%20CDN%20vless
+trojan://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:443?allowInsecure=1&alpn=http%2F1.1&host=filma.video-fun-new.com.de&path=%2FMhTmxpkpcD3E2KuHxT&type=ws#Filter%20tls%20WS%20CDN%20trojan
+vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=filma.video-fun-new.com.de&path=%2FMv3kv92GcD3E2KuHxT&security=tls&sni=filma.video-fun-new.com.de&type=ws#Filter%20tls%20WS%20CDN%20vless
+vless://2262242d-1b1c-481c-b60d-cde0e6a48bb2@filma.video-fun-new.com.de:80?encryption=none&host=filma.video-fun-new.com.de&path=%2FMv3kv92GcD3E2KuHxT&security=none&type=ws#Filter%20http%20WS%20CDN%20vless

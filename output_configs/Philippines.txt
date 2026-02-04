@@ -1,0 +1,2 @@
+ss://81b57c84-698f-4944-9268-db6a06a4a63a@8.220.188.238:33248?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%ADPH-8.220.188.238-7323
+vmess://81b57c84-698f-4944-9268-db6a06a4a63a@8.220.188.238:33248?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B5%F0%9F%87%ADPH-8.220.188.238-7323

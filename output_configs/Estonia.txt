@@ -1,0 +1,8 @@
+ss://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#@Geek_Spot%20(3)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#%F0%9F%87%AA%F0%9F%87%AAEE%20%20ROSE%E2%80%9490
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#%F0%9F%87%AA%F0%9F%87%AAEE%20%20ROSE%E2%80%94618
+ss://b01672fa-f586-41a7-be01-bde3fc3c1ad1@95.216.155.193:2053?encryption=none&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F95.216.155.193%3D2053&security=tls&sni=joss.gvpn2.web.id&type=ws#@v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE
+ss://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&security=reality&sni=pinova.io&type=tcp#@Geek_Spot
+vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&security=reality&sid=7cad5040&sni=www.cloudflare.com&type=tcp#@Geek_Spot%20(3)
+vless://b01672fa-f586-41a7-be01-bde3fc3c1ad1@95.216.155.193:2053?encryption=none&host=joss.gvpn2.web.id&path=%2FFree-VPN-CF-Geo-Project%2F95.216.155.193%3D2053&security=tls&sni=joss.gvpn2.web.id&type=ws#@v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE
+vless://fc0e82dd-531a-4ac1-9ebc-b68ffeab7912@91.186.217.108:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bn4nV9O7aOI_pzbJsgqnyYxPX8a7efYDXqrYbxsL6V8&security=reality&sni=pinova.io&type=tcp#@Geek_Spot

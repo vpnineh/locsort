@@ -1,0 +1,2 @@
+ss://602736e4-a2e8-4eb3-9fc9-7c7082925365@127.1.1.127:80?encryption=auto&security=none&type=tcp#%E6%9B%B4%E6%96%B0%E4%BA%8E%2001-06%2016:48%20by%20https://github.com/ts-sf/fly
+vmess://602736e4-a2e8-4eb3-9fc9-7c7082925365@127.1.1.127:80?encryption=auto&security=none&type=tcp#%E6%9B%B4%E6%96%B0%E4%BA%8E%2001-06%2016:48%20by%20https://github.com/ts-sf/fly

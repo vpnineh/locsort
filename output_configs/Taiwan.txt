@@ -1,1 +1,3 @@
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000/?insecure=1&sni=bing.com#TW
+ss://dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb@tw3.594888.xyz:25551?encryption=auto&path=tw3.594888.xyz&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%BCTW-122.118.137.79-4346
+vmess://dd7639cf-66dd-3038-ab0e-cefe7e9ef9fb@tw3.594888.xyz:25551?encryption=auto&path=tw3.594888.xyz&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%BCTW-122.118.137.79-4346
