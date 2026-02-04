@@ -1,3 +1,2 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@icook.hk:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%F0%9F%87%A8%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@145.14.131.37:990#%F0%9F%87%A8%F0%9F%87%B7CR%20%20ROSE%E2%80%9480
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@icook.hk:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%F0%9F%87%A8%F0%9F%87%B7
