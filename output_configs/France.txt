@@ -210,6 +210,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&e
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠
 ss://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
+ss://ed8a1dc7-11f0-4ee5-9cb1-8c1c6158e1b9@france.novaads.shop:42541?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷
 ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkwek5TNHhPREV1TmpndU1qQTBMVEUzTlRVJTNEJnByb3RvcGFyYW09
@@ -342,6 +343,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠
 vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
+vless://ed8a1dc7-11f0-4ee5-9cb1-8c1c6158e1b9@france.novaads.shop:42541?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#%F0%9F%87%AB%F0%9F%87%B7%20France
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷
 vmess://01baf0d5-605a-4e54-d1d2-9e3b3a165f0e@129.151.234.26:38701?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%B7FR-129.151.234.26-0029%20%7C%200.0MB

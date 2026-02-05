@@ -1,4 +1,3 @@
-ss://671b8a2e-4888-459f-931a-ae6975be472a@webir.s5a8.ir:8880?encryption=none&type=xhttp&mode=auto&host=Sejsbskd.montago-shop.ir.&path=/cloudapi&security=none#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N11
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 ss://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
@@ -16,10 +15,10 @@ ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@chatgpt.com:443?encryption=none&type=xhttp&mode=auto&host=6.speedur.ir&path=/cloudapi&security=tls&fp=chrome&sni=6.speedur.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N2
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@loading.uploado.ir:443?encryption=none&type=xhttp&mode=auto&host=4.uploado.ir&path=/cloudapi&security=tls&fp=chrome&sni=4.uploado.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N3
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@77.72.5.150:989#Aa64n-IP_CF
+ss://ed8a1dc7-11f0-4ee5-9cb1-8c1c6158e1b9@dir1.serviceali.ir:8880?encryption=none&type=xhttp&mode=auto&host=Sejsxsjd.montago-shop.ir.&path=/cloudapi&security=none#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N14
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
 ss://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-8880
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
-vless://671b8a2e-4888-459f-931a-ae6975be472a@webir.s5a8.ir:8880?encryption=none&type=xhttp&mode=auto&host=Sejsbskd.montago-shop.ir.&path=/cloudapi&security=none#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N11
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2052?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#cf-vless-2052
 vless://80b38e32-7877-41ad-b04c-2d463be15ae4@www.gov.se:2082?type=ws&host=ghm1101.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@www.visa.com.sg:2052?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=none#CF_V4_www.visa.com.sg_2052
@@ -36,5 +35,6 @@ vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8443?type=ws&host=new-11
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:8880?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Misaka-cf-vless-8880
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@chatgpt.com:443?encryption=none&type=xhttp&mode=auto&host=6.speedur.ir&path=/cloudapi&security=tls&fp=chrome&sni=6.speedur.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N2
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@loading.uploado.ir:443?encryption=none&type=xhttp&mode=auto&host=4.uploado.ir&path=/cloudapi&security=tls&fp=chrome&sni=4.uploado.ir&alpn=h2#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N3
+vless://ed8a1dc7-11f0-4ee5-9cb1-8c1c6158e1b9@dir1.serviceali.ir:8880?encryption=none&type=xhttp&mode=auto&host=Sejsxsjd.montago-shop.ir.&path=/cloudapi&security=none#%F0%9F%87%A9%F0%9F%87%AA%20CF%20N14
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:2052?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-2052
 vless://f69b2c89-c6ea-4df9-9ff8-1cb2d7acbc88@ipcf.amiralinorozjam.workers.dev:8880?type=ws&host=ipcf.amiralinorozjam.workers.dev&path=/?ed%3D2048&security=none#ipcf.Aa64n.dev-HTTP-8880

@@ -1,2 +1,0 @@
-ss://671b8a2e-4888-459f-931a-ae6975be472a@93.114.98.149:81?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
-vless://671b8a2e-4888-459f-931a-ae6975be472a@93.114.98.149:81?encryption=none&type=tcp&headerType=http&host=play.google.com&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
