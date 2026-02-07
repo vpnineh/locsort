@@ -1,0 +1,2 @@
+ss://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir&security=none&type=ws#Vless%20Ws-aea717p2
+vless://48ce9313-4913-4100-eedf-bccf3f956dec@cf.mahdi383ir.website:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2Fmahdi_383ir&security=none&type=ws#Vless%20Ws-aea717p2

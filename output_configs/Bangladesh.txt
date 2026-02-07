@@ -1,0 +1,2 @@
+ss://c3ffa4ee-fbbe-45e3-f737-db2f381f557e@cf.mahdi383ir.website:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Vless%20Ws%20Tls%202053-t56fbd91
+vless://c3ffa4ee-fbbe-45e3-f737-db2f381f557e@cf.mahdi383ir.website:2053?alpn=h2%2Chttp%2F1.1&encryption=none&fp=firefox&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&path=%2F&security=tls&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website&type=ws#Vless%20Ws%20Tls%202053-t56fbd91
