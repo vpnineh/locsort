@@ -17,6 +17,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201#%F0%9F%87%AC%F0%9F%87%B7%20Athens,%20I,%20Greece
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnS1l5Z1RjUlloYzNza2MyeDZ0WjA3M2xZejBEbmllWA@5.181.21.246:443#%F0%9F%87%A6%F0%9F%87%B9AT%20%20ROSE%E2%80%9493
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%20%F0%9F%87%B3%F0%9F%87%B1%20kitkat%C2%B2%E2%81%B6
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@37.235.56.69:989#%D8%A7%D8%AA%D8%B1%DB%8C%D8%B4%20%F0%9F%87%A6%F0%9F%87%B9
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.29.82:9090#%F0%9F%87%AC%F0%9F%87%B7%20Greece%20-%20Athens%202
 ss://fee0d9c2-e4ff-40a0-b615-32dcc2a2518a@185.126.236.226:36606?encryption=auto&path=%2F&security=none&type=ws#AT-185.126.236.226-0028%20%7C%200.0MB
 vless://1602a406-a38e-4211-bbdc-3f75c890303d@146.75.64.0:80?encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A1000000%2C%22scMaxConcurrentPosts%22%3A100%2C%22scMinPostsIntervalMs%22%3A30%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22cMaxLifetimeMs%22%3A0%2C%22hMaxRequestTimes%22%3A%22800-900%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D&host=sudo2018.ir&mode=auto&path=%2FGaMeOpTiMiZeR%3Fed%3D2048&security=none&type=xhttp#%3E%3E@v2rayNG_Matsuri::AZ

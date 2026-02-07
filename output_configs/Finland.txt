@@ -12,6 +12,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@45.144.53.69:9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYMzZUSWk0QzNOSDZPbG4zVGRHeWpn@fl3.cowjuice.me:9443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(4)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqYUxZb3pKWUNBRXBKODVZY0N6WUZxV1k0MG1CV3FlVA@138.124.118.94:8080#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(3)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptWXRwT0hBaHNQNWI@185.242.247.149:443#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE%F0%9F%A5%87
 ss://YWVzLTI1Ni1nY206MTcyOTViOTItNGU1MC00MjVjLWFmOTUtZWU0NGM0MmJjMDNl@38.244.209.215:443#%F0%9F%87%AB%F0%9F%87%AE%20Helsinki,%2018,%20Finland%20(1)
 ss://b44c0cb1-1d87-42d1-ae4e-d97f7d07bbd4@fi2.connecton.surf:443?security=tls&type=ws&path=/vless#🇫🇮
 ss://e382220d-7ecb-4063-89f3-fd5a4d46ee87@www.speedtest.net:8443?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoib2oyRkdjN0xXZTRVUVEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=NEwBP.AMIRalInorOzJAM.WORKerS.Dev&alpn=http/1.1&allowInsecure=false#Aa64n🇫🇮

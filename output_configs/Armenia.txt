@@ -167,7 +167,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@151.242.251.14
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#hamedp71::%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprSjZOS29pS3Y3S29JVEwybHJ3RUxo@h110vpnde.outlinekeys.net:7048#%F0%9F%87%A9%F0%9F%87%AA%20Frankfurt%20am%20Main,%20HE,%20Germany%20(4)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#%F0%9F%87%A6%F0%9F%87%B2AM%20%20ROSE%E2%80%94109
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.222:38388#%F0%9F%87%BB%F0%9F%87%B3%20209%20-%20VN%20-%20SS/STREAM%20-%2038388
 ss://a2afaf73-dc35-45a0-95e1-ba754d710c8d@89.169.188.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Dcy5P5rKN1GmV2KHVRzWpVmX4hhZDnt4dVUdTBt2Wjs&security=reality&sni=google.com&type=tcp#hamedp71::%F0%9F%87%B7%F0%9F%87%BA%20(2)
 ss://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&security=reality&sid=e9d19fd1ca5ca23c&sni=hel1.hitori.cloud&type=grpc#hamedp71::%F0%9F%87%AB%F0%9F%87%AE%20(3)
 ss://a6b99c05-8e0a-4f7e-bf7b-e4b9febb9589@172.234.132.232:10001?encryption=auto&security=none&type=tcp#hamedp71::%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%20(179)
