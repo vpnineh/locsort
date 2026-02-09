@@ -1,2 +1,5 @@
+ss://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.97.3:8080?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic083Wm9ETVFndiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#🇮🇩Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.171.254:990#%F0%9F%87%AE%F0%9F%87%A9ID%20%20ROSE%E2%80%94496
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9ID%20%20ROSE%E2%80%94549
+trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2053?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic294N2dheE51ZE1GMSIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=ghM.gH-ghnbARi6264.wOrKerS.DEV&alpn=http/1.1&allowInsecure=false#🇮🇩Aa64n
+vless://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.97.3:8080?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoic083Wm9ETVFndiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=none#🇮🇩Aa64n
