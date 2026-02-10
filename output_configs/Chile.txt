@@ -3,8 +3,7 @@ hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#☺️92@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#☺️98@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a0c:4ac1:8::121]:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#☺️47@oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@[2a14:3f87:f001:1a::a]:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#☺️68@oneclickvpnkeys
-hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=apple.com#☺️49@oneclickvpnkeys
+hy2://spectrumvpn:nMZwnqdrvnBfEzkQZxujWQk0iTUdwGK9@uk.spectrum.vu:1935/?insecure=1&sni=google.com&obfs=salamander&obfs-password=3Lse3bDmcLLlEa77sdYZe0o6kywbTwII#♻️53@oneclickvpnkeys
 ss://0a49a5cb-526c-471d-b08e-1a52d52ee635@france.streamvault-premium.site:80?encryption=none&host=france.streamvault-premium.site&path=%2Fvless&security=none&type=ws#%3E%3E@oneclickvpnkeys::FR
 ss://0c24b522-06b9-4767-f67e-59a34c5aeeb7@aqua-aria.company:2096?encryption=none&host=deguo2.shuiwudengli.dpdns.org&path=%2F&security=tls&sni=deguo2.shuiwudengli.dpdns.org&type=ws#%3E%3E@oneclickvpnkeys::GB
 ss://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@5.178.110.28:8443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.de5.net&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.de5.net&type=ws#%3E%3E@oneclickvpnkeys::DE%20(1)

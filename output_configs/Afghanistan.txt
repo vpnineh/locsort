@@ -1,3 +1,4 @@
+hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#♻️32@proxy_kafee
 ss://12929592-a7bd-41eb-ab4d-d804f76c4ff9@95.81.114.252:49430?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#%E2%9D%8CMoscow-GetAFreeNode
 ss://3b475934-cb2a-4d96-b260-5e50cca5d430@185.90.62.25:27199?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#London-GetAFreeNode
 ss://3b475934-cb2a-4d96-b260-5e50cca5d430@5.83.150.108:29888?encryption=auto&host=imafake.locker&path=%2Fspeedtest&security=tls&sni=imafake.locker&type=ws#D%C3%BCsseldorf-GetAFreeNode.com
