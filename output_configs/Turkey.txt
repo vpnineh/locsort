@@ -7,8 +7,6 @@ ss://367077c8-ebe4-4777-a32c-13911a5cb755@fast.lucypro.ir:2095?encryption=none&t
 ss://3f688b2a-373a-4be1-846d-b159404b73b2@5.180.45.176:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&security=reality&sid=aa7e96542880027a&sni=github.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@103.215.218.75:808#%D8%AA%D8%B1%DA%A9%DB%8C%D9%87%20%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
-ss://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
-ss://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 ss://e382220d-7ecb-4063-89f3-fd5a4d46ee87@172.67.129.6:443?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoibmJDNFVxU2pxQ2lCRkZvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=NEwbp.AmiRALInOROzJAm.wORkerS.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:2096?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiTmdrNDdyZDJmWktPY1UiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=GhM.gh-gHnBaRI6264.wORkERS.dEV&alpn=http/1.1&allowInsecure=false#🇹🇷Aa64n
 trojan://fEDTdp8Sy1@95.85.76.136:56810?sni=tr1.digisport.shop#TR-95.85.76.136-0046%20%7C%200.0MB
@@ -19,6 +17,4 @@ vless://28e96d9a-56d0-481a-a07c-b015009a0593@www.speedtest.net:8443?encryption=n
 vless://36531346-97fc-40fd-9432-7627dcfddad1@Trk.zerotechlabs-powerfull.ir:8013?encryption=none&type=tcp&headerType=http&path=/&security=none#%F0%9F%87%B9%F0%9F%87%B7%20%F0%9D%90%93%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%A4%F0%9D%90%9E%F0%9D%90%B2%20%7C%20%F0%9D%90%93%F0%9D%90%8D%20x1.5
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@fast.lucypro.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%B9%F0%9F%87%B7%F0%9D%99%8F%C3%BC%F0%9D%99%A7%F0%9D%99%A0%F0%9D%99%9E%F0%9D%99%AE%F0%9D%99%9A
 vless://3f688b2a-373a-4be1-846d-b159404b73b2@5.180.45.176:4443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&security=reality&sid=aa7e96542880027a&sni=github.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F-1
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
-vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?encryption=none&type=tcp#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
 vless://e382220d-7ecb-4063-89f3-fd5a4d46ee87@172.67.129.6:443?encryption=none&type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoibmJDNFVxU2pxQ2lCRkZvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=NEwbp.AmiRALInOROzJAm.wORkerS.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%B9%F0%9F%87%B7
