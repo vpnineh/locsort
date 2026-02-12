@@ -1,2 +1,6 @@
+ss://2ab1ecad-6666-4c70-813f-d951f9bf49d7@cdnjs.com:443?encryption=none&type=grpc&mode=gun&serviceName=@mahdi_383ir&security=tls&fp=firefox&sni=kh2qpj1y59gx1wu1kzz4l3l8120phu8l68v64b1.mahdi383ir.website&alpn=h2,http/1.1#Vless%20Grpc%20Tls-Aa64n
+ss://8209efd3-4026-411e-da46-37e3ba13383f@195.201.222.173:64286?encryption=none&type=grpc&mode=gun&serviceName=@mahdi_383ir&security=none#Vless%20Grpc-Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@38.54.29.133:808#%DB%8C%D9%88%D9%86%D8%A7%D9%86%20%F0%9F%87%AC%F0%9F%87%B7
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR%20%20ROSE%E2%80%9463
+vless://2ab1ecad-6666-4c70-813f-d951f9bf49d7@cdnjs.com:443?encryption=none&type=grpc&mode=gun&serviceName=@mahdi_383ir&security=tls&fp=firefox&sni=kh2qpj1y59gx1wu1kzz4l3l8120phu8l68v64b1.mahdi383ir.website&alpn=h2,http/1.1#Vless%20Grpc%20Tls-Aa64n
+vless://8209efd3-4026-411e-da46-37e3ba13383f@195.201.222.173:64286?encryption=none&type=grpc&mode=gun&serviceName=@mahdi_383ir&security=none#Vless%20Grpc-Aa64n
