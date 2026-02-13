@@ -1,6 +1,5 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
 ss://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
-ss://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.65.206.124:28027?security=&encryption=none&headerType=none&type=tcp#%40Aa64n-new
 ss://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 ss://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
@@ -11,7 +10,6 @@ ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flo
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
 vless://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
-vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.65.206.124:28027?security=&encryption=none&headerType=none&type=tcp#%40Aa64n-new
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
