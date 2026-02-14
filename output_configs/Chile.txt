@@ -1,6 +1,5 @@
+hy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#🪝84@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🪝24@oneclickvpnkeys
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:35200/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#💫62@oneclickvpnkeys
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#💫60@oneclickvpnkeys
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.150.214:8080?type=ws&host=GH-bPB.RHyLjiti.WOrKeRs.dEV&path=/5h9xNv1aHzJ2L8wQ/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Clean%20IP_45%20:%208080
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.27.62:443?type=ws&host=AZadNEt-fReEdOM-iRaNIan2.PaGEs.DEV&path=/WXzvmwl79oLEDOWz?ed%3D2560&security=tls&fp=randomized&sni=aZAdNEt-frEEDOM-iRAnIaN2.pageS.deV&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n%20-%20Clean%20IP_9%20
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.27.62:443?type=ws&host=AZadNet-FReeDOM-iranIAN.paGes.DEv&path=/PG8ijFdLE4jhXwp6?ed%3D2560&security=tls&fp=randomized&sni=azaDNEt-fREEdOM-IrANIaN.PAGeS.deV&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n-%20Clean%20IP_9
