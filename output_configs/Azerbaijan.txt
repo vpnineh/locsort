@@ -1,1 +1,0 @@
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&sni=🔒#@V2rayBaaz
