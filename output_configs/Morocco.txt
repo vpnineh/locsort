@@ -1,2 +1,0 @@
-ss://403b2b80-703b-4498-eb92-96be57848d39@3.120.149.184:50256?security=&encryption=none&headerType=&type=tcp#%40VpnMaan%2015
-vless://403b2b80-703b-4498-eb92-96be57848d39@3.120.149.184:50256?security=&encryption=none&headerType=&type=tcp#%40VpnMaan%2015
