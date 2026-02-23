@@ -1,12 +1,5 @@
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.151.251.122:35000/?insecure=1&sni=www.lamer.com.hk#📤44@oneclickvpnkeys
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#📤88@oneclickvpnkeys
-hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@143.47.32.143:35000/?insecure=1&sni=www.lamer.com.hk#📤57@oneclickvpnkeys
-hy2://75193bef8d8fe82341e02dd083dc1399@dd.openaccessnode.com:989/?insecure=1&sni=dd.ircybersec.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi#📤38@oneclickvpnkeys
-hy2://Telegram-->@Ln2Ray@[2a14:3f87:f001:9::a]:45000/?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#🐊52@oneclickvpnkeys
-hy2://f40ca239-4a76-4808-b56c-84d4e9969939@129.151.193.163:50000/?insecure=1&sni=www.microsoft.com#📤35@oneclickvpnkeys
-hy2://f40ca239-4a76-4808-b56c-84d4e9969939@132.145.28.17:65535/?insecure=1&sni=www.microsoft.com#📤27@oneclickvpnkeys
-hy2://f40ca239-4a76-4808-b56c-84d4e9969939@132.145.52.10:65535/?insecure=1&sni=www.microsoft.com#📤30@oneclickvpnkeys
-hy2://f40ca239-4a76-4808-b56c-84d4e9969939@152.70.176.68:1/?insecure=1&sni=www.bing.com#📤16@oneclickvpnkeys
+hy2://1y4HweESOT@sss.ikun6.dpdns.org:27995/?insecure=1&sni=azure.microsoft.com#🪢95@oneclickvpnkeys
+hy2://1y4HweESOT@sss.ikun6.dpdns.org:27995/?insecure=1&sni=azure.microsoft.com#🪢98@oneclickvpnkeys
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.150.214:8080?type=ws&host=GH-bPB.RHyLjiti.WOrKeRs.dEV&path=/5h9xNv1aHzJ2L8wQ/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Clean%20IP_45%20:%208080
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.27.62:443?type=ws&host=AZadNEt-fReEdOM-iRaNIan2.PaGEs.DEV&path=/WXzvmwl79oLEDOWz?ed%3D2560&security=tls&fp=randomized&sni=aZAdNEt-frEEDOM-iRAnIaN2.pageS.deV&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n%20-%20Clean%20IP_9%20
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.27.62:443?type=ws&host=AZadNet-FReeDOM-iranIAN.paGes.DEv&path=/PG8ijFdLE4jhXwp6?ed%3D2560&security=tls&fp=randomized&sni=azaDNEt-fREEdOM-IrANIaN.PAGeS.deV&alpn=h2,http/1.1#%E2%9C%85%EF%B8%8F%20Aa64n-%20Clean%20IP_9
