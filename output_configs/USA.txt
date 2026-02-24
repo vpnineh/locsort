@@ -1,4 +1,5 @@
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#美国2
+ss://0925b355-2bcd-4eae-9720-d2709e4f7e36@47.251.91.241:42899?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20109%20-%20US%20-%20VMess%20-%2042899
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:2082?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiQmx2MkRnWkdKT2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:8080?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSFlWdzBKa0VldjgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#🇺🇸Aa64n
@@ -13,6 +14,7 @@ ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%8
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 ss://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
+trojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20137%20-%20US%20-%20Trojan/WS/TLS%20-%20443
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 vless://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:2082?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiQmx2MkRnWkdKT2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%BA%F0%9F%87%B8
 vless://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:8080?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiSFlWdzBKa0VldjgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#🇺🇸Aa64n
@@ -26,5 +28,6 @@ vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-visio
 vless://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 vless://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
 vless://f9ce27578e194f4c8b4fb24768f15349@38.180.6.26:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=LpKrbudcmxqmTv5nMYWFmgnQuDRmoFYdVAh9ar6WrWQ&sid=aabbccdd#%F0%9F%87%BA%F0%9F%87%B8NEO-USA
+vmess://0925b355-2bcd-4eae-9720-d2709e4f7e36@47.251.91.241:42899?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20109%20-%20US%20-%20VMess%20-%2042899
 vmess://eyJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwiaWQiOiJlZTZkZmQzMS1kMGQ4LTQxNjctOTE5MS1mY2YyNjE1ZDJkNzkiLCJwb3J0IjoiMjg1MDUiLCJhZGQiOiJ0ZXgtaDEuaWdldG1hYy5pciIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwVVNBJTIwJTVCVE5MJTVEJTIwJUYwJTlGJTlBJUE4Iiwic2N5IjoiIn0=
 vmess://eyJwb3J0IjoiMjg1MDUiLCJhZGQiOiJ0ZXgtaDEuaWdldG1hYy5pciIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaWQiOiJlZTZkZmQzMS1kMGQ4LTQxNjctOTE5MS1mY2YyNjE1ZDJkNzkiLCJzY3kiOiIiLCJob3N0IjoiIiwicGF0aCI6IiIsInBzIjoiJUYwJTlGJTg3JUJBJUYwJTlGJTg3JUI4JTIwVVNBJTIwJTVCVE5MJTVEJTIwJUYwJTlGJTlBJUE4In0=
