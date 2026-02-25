@@ -1,177 +1,177 @@
-[اطلاعات ] - 2026-02-25 05:38:19 - ==================================================
-[اطلاعات ] - 2026-02-25 05:38:19 - اسکریپت جمع‌آوری و دسته‌بندی کانفیگ‌ها شروع به کار کرد
-[اطلاعات ] - 2026-02-25 05:38:19 - ==================================================
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new ...
-[اطلاعات ] - 2026-02-25 05:38:19 - درحال ارسال درخواست به https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed ...
-[خطا     ] - 2026-02-25 05:38:19 - خطا در اتصال به https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed: 404, message='Not Found', url='https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed'
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:19 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:20 - محتوای متنی از https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP با موفقیت استخراج شد.
-[اطلاعات ] - 2026-02-25 05:38:20 - --- شروع تحلیل و تجمیع نتایج ---
-[اطلاعات ] - 2026-02-25 05:38:20 - 📊 آمار برای https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP -> کل: 277, ایران: 0, [ShadowSocks: 277]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt -> کل: 406, ایران: 0, [Vmess: 51, Vless: 123, Trojan: 3, ShadowSocks: 228, ShadowSocksR: 1]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt -> کل: 1240, ایران: 0, [Vmess: 110, Vless: 462, Trojan: 9, ShadowSocks: 657, ShadowSocksR: 2]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt -> کل: 24, ایران: 0, [Tuic: 4, Hysteria2: 20]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b -> کل: 85, ایران: 0, [Vmess: 4, Vless: 34, Trojan: 5, ShadowSocks: 42]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new -> کل: 182, ایران: 4, [Vmess: 2, Vless: 87, Trojan: 4, ShadowSocks: 89]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family -> کل: 152, ایران: 3, [Vless: 65, Trojan: 19, ShadowSocks: 68]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind -> کل: 174, ایران: 0, [Vmess: 7, Vless: 76, Trojan: 8, ShadowSocks: 83]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir -> کل: 197, ایران: 0, [Vmess: 2, Vless: 88, Trojan: 2, ShadowSocks: 105]
-[اطلاعات ] - 2026-02-25 05:38:21 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new -> کل: 166, ایران: 3, [Vmess: 4, Vless: 72, Trojan: 3, ShadowSocks: 87]
-[اطلاعات ] - 2026-02-25 05:38:21 - --- شروع ذخیره‌سازی فایل‌ها ---
-[اطلاعات ] - 2026-02-25 05:38:21 - پوشه قدیمی output_configs با موفقیت حذف شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - پوشه output_configs با موفقیت ایجاد شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - پوشه قدیمی output_base64_countries با موفقیت حذف شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - پوشه output_base64_countries با موفقیت ایجاد شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 180 کانفیگ در فایل output_configs/Vmess.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 984 کانفیگ در فایل output_configs/Vless.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 53 کانفیگ در فایل output_configs/Trojan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1608 کانفیگ در فایل output_configs/ShadowSocks.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 3 کانفیگ در فایل output_configs/ShadowSocksR.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 4 کانفیگ در فایل output_configs/Tuic.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 20 کانفیگ در فایل output_configs/Hysteria2.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 30 کانفیگ در فایل output_configs/USA.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 30 کانفیگ در فایل output_base64_countries/USA.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 10 کانفیگ در فایل output_configs/Albania.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Albania.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 237 کانفیگ در فایل output_configs/Andorra.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 237 کانفیگ در فایل output_base64_countries/Andorra.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 23 کانفیگ در فایل output_configs/AntiguaAndBarbuda.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 23 کانفیگ در فایل output_base64_countries/AntiguaAndBarbuda.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Argentina.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Argentina.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 5 کانفیگ در فایل output_configs/Armenia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Armenia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Australia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Australia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 5 کانفیگ در فایل output_configs/Austria.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Austria.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Bahrain.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Bahrain.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 21 کانفیگ در فایل output_configs/Belgium.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 21 کانفیگ در فایل output_base64_countries/Belgium.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Bhutan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Bhutan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 5 کانفیگ در فایل output_configs/BosniaAndHerzegovina.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/BosniaAndHerzegovina.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Brazil.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Brazil.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Brunei.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Brunei.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Bulgaria.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Bulgaria.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 4 کانفیگ در فایل output_configs/Burundi.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/Burundi.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 5 کانفیگ در فایل output_configs/Canada.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Canada.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 38 کانفیگ در فایل output_configs/CentralAfricanRepublic.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 38 کانفیگ در فایل output_base64_countries/CentralAfricanRepublic.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 109 کانفیگ در فایل output_configs/Chile.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 109 کانفیگ در فایل output_base64_countries/Chile.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 9 کانفیگ در فایل output_configs/Colombia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 9 کانفیگ در فایل output_base64_countries/Colombia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/CongoBrazzaville.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/CongoBrazzaville.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/CostaRica.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/CostaRica.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Dominica.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Dominica.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 18 کانفیگ در فایل output_configs/DominicanRepublic.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 18 کانفیگ در فایل output_base64_countries/DominicanRepublic.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/EquatorialGuinea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/EquatorialGuinea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 42 کانفیگ در فایل output_configs/Eritrea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 42 کانفیگ در فایل output_base64_countries/Eritrea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Ethiopia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Ethiopia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 32 کانفیگ در فایل output_configs/Finland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 32 کانفیگ در فایل output_base64_countries/Finland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 362 کانفیگ در فایل output_configs/France.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 362 کانفیگ در فایل output_base64_countries/France.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1172 کانفیگ در فایل output_configs/Germany.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1172 کانفیگ در فایل output_base64_countries/Germany.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Iceland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Iceland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 5 کانفیگ در فایل output_configs/India.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/India.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 3 کانفیگ در فایل output_configs/Indonesia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Indonesia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 10 کانفیگ در فایل output_configs/Iran.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Iran.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Italy.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Italy.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 6 کانفیگ در فایل output_configs/Japan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/Japan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Laos.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Laos.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 4 کانفیگ در فایل output_configs/Lesotho.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/Lesotho.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Liechtenstein.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Liechtenstein.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 14 کانفیگ در فایل output_configs/Malta.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 14 کانفیگ در فایل output_base64_countries/Malta.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 3 کانفیگ در فایل output_configs/Mexico.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Mexico.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Montenegro.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Montenegro.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 8 کانفیگ در فایل output_configs/Netherlands.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 8 کانفیگ در فایل output_base64_countries/Netherlands.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 20 کانفیگ در فایل output_configs/Niger.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 20 کانفیگ در فایل output_base64_countries/Niger.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Norway.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Norway.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/PapuaNewGuinea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/PapuaNewGuinea.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Poland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Poland.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 15 کانفیگ در فایل output_configs/Romania.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 15 کانفیگ در فایل output_base64_countries/Romania.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 10 کانفیگ در فایل output_configs/Russia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Russia.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 4 کانفیگ در فایل output_configs/SaoTomeAndPrincipe.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/SaoTomeAndPrincipe.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/Singapore.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Singapore.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 16 کانفیگ در فایل output_configs/SouthSudan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 16 کانفیگ در فایل output_base64_countries/SouthSudan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 3 کانفیگ در فایل output_configs/Spain.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Spain.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 6 کانفیگ در فایل output_configs/Sweden.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/Sweden.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Taiwan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Taiwan.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/TrinidadAndTobago.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/TrinidadAndTobago.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 14 کانفیگ در فایل output_configs/Turkey.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 14 کانفیگ در فایل output_base64_countries/Turkey.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 6 کانفیگ در فایل output_configs/UK.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/UK.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 2 کانفیگ در فایل output_configs/VaticanCity.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/VaticanCity.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 31 کانفیگ در فایل output_configs/Vietnam.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 31 کانفیگ در فایل output_base64_countries/Vietnam.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - تعداد 1 کانفیگ در فایل output_configs/Yemen.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Yemen.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - --- تولید گزارش نهایی ---
-[اطلاعات ] - 2026-02-25 05:38:21 - فایل README.md با موفقیت تولید شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - فایل لینک‌های نرمال در output_normal_links.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - فایل لینک‌های Base64 در output_base64_links.txt ذخیره شد.
-[اطلاعات ] - 2026-02-25 05:38:21 - ==================================================
-[اطلاعات ] - 2026-02-25 05:38:21 - 🎉 تمام مراحل با موفقیت انجام شد. برنامه به پایان رسید.
-[اطلاعات ] - 2026-02-25 05:38:21 - ==================================================
+[اطلاعات ] - 2026-02-25 06:54:08 - ==================================================
+[اطلاعات ] - 2026-02-25 06:54:08 - اسکریپت جمع‌آوری و دسته‌بندی کانفیگ‌ها شروع به کار کرد
+[اطلاعات ] - 2026-02-25 06:54:08 - ==================================================
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new ...
+[اطلاعات ] - 2026-02-25 06:54:08 - درحال ارسال درخواست به https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed ...
+[خطا     ] - 2026-02-25 06:54:08 - خطا در اتصال به https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed: 404, message='Not Found', url='https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ir/mixed'
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:08 - محتوای متنی از https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:09 - محتوای متنی از https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP با موفقیت استخراج شد.
+[اطلاعات ] - 2026-02-25 06:54:09 - --- شروع تحلیل و تجمیع نتایج ---
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP -> کل: 277, ایران: 0, [ShadowSocks: 277]
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt -> کل: 406, ایران: 0, [Vmess: 51, Vless: 123, Trojan: 3, ShadowSocks: 228, ShadowSocksR: 1]
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://raw.githubusercontent.com/DiDiten/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt -> کل: 1240, ایران: 0, [Vmess: 110, Vless: 462, Trojan: 9, ShadowSocks: 657, ShadowSocksR: 2]
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/refs/heads/main/custom/udp.txt -> کل: 24, ایران: 0, [Tuic: 4, Hysteria2: 20]
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/b -> کل: 85, ایران: 0, [Vmess: 4, Vless: 34, Trojan: 5, ShadowSocks: 42]
+[اطلاعات ] - 2026-02-25 06:54:09 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/backk up new -> کل: 182, ایران: 4, [Vmess: 2, Vless: 87, Trojan: 4, ShadowSocks: 89]
+[اطلاعات ] - 2026-02-25 06:54:10 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/family -> کل: 152, ایران: 3, [Vless: 65, Trojan: 19, ShadowSocks: 68]
+[اطلاعات ] - 2026-02-25 06:54:10 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/freind -> کل: 174, ایران: 0, [Vmess: 7, Vless: 76, Trojan: 8, ShadowSocks: 83]
+[اطلاعات ] - 2026-02-25 06:54:10 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/wir -> کل: 197, ایران: 0, [Vmess: 2, Vless: 88, Trojan: 2, ShadowSocks: 105]
+[اطلاعات ] - 2026-02-25 06:54:10 - 📊 آمار برای https://raw.githubusercontent.com/Aa64n/Aa64n-/refs/heads/main/new -> کل: 166, ایران: 3, [Vmess: 4, Vless: 72, Trojan: 3, ShadowSocks: 87]
+[اطلاعات ] - 2026-02-25 06:54:10 - --- شروع ذخیره‌سازی فایل‌ها ---
+[اطلاعات ] - 2026-02-25 06:54:10 - پوشه قدیمی output_configs با موفقیت حذف شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - پوشه output_configs با موفقیت ایجاد شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - پوشه قدیمی output_base64_countries با موفقیت حذف شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - پوشه output_base64_countries با موفقیت ایجاد شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 180 کانفیگ در فایل output_configs/Vmess.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 984 کانفیگ در فایل output_configs/Vless.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 53 کانفیگ در فایل output_configs/Trojan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1608 کانفیگ در فایل output_configs/ShadowSocks.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 3 کانفیگ در فایل output_configs/ShadowSocksR.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 4 کانفیگ در فایل output_configs/Tuic.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 20 کانفیگ در فایل output_configs/Hysteria2.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 30 کانفیگ در فایل output_configs/USA.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 30 کانفیگ در فایل output_base64_countries/USA.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 10 کانفیگ در فایل output_configs/Albania.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Albania.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 237 کانفیگ در فایل output_configs/Andorra.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 237 کانفیگ در فایل output_base64_countries/Andorra.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 23 کانفیگ در فایل output_configs/AntiguaAndBarbuda.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 23 کانفیگ در فایل output_base64_countries/AntiguaAndBarbuda.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Argentina.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Argentina.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 5 کانفیگ در فایل output_configs/Armenia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Armenia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Australia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Australia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 5 کانفیگ در فایل output_configs/Austria.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Austria.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Bahrain.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Bahrain.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 21 کانفیگ در فایل output_configs/Belgium.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 21 کانفیگ در فایل output_base64_countries/Belgium.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Bhutan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Bhutan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 5 کانفیگ در فایل output_configs/BosniaAndHerzegovina.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/BosniaAndHerzegovina.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Brazil.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Brazil.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Brunei.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Brunei.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Bulgaria.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Bulgaria.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 4 کانفیگ در فایل output_configs/Burundi.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/Burundi.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 5 کانفیگ در فایل output_configs/Canada.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/Canada.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 38 کانفیگ در فایل output_configs/CentralAfricanRepublic.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 38 کانفیگ در فایل output_base64_countries/CentralAfricanRepublic.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 109 کانفیگ در فایل output_configs/Chile.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 109 کانفیگ در فایل output_base64_countries/Chile.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 9 کانفیگ در فایل output_configs/Colombia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 9 کانفیگ در فایل output_base64_countries/Colombia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/CongoBrazzaville.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/CongoBrazzaville.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/CostaRica.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/CostaRica.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Dominica.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Dominica.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 18 کانفیگ در فایل output_configs/DominicanRepublic.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 18 کانفیگ در فایل output_base64_countries/DominicanRepublic.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/EquatorialGuinea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/EquatorialGuinea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 42 کانفیگ در فایل output_configs/Eritrea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 42 کانفیگ در فایل output_base64_countries/Eritrea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Ethiopia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Ethiopia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 32 کانفیگ در فایل output_configs/Finland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 32 کانفیگ در فایل output_base64_countries/Finland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 362 کانفیگ در فایل output_configs/France.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 362 کانفیگ در فایل output_base64_countries/France.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1172 کانفیگ در فایل output_configs/Germany.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1172 کانفیگ در فایل output_base64_countries/Germany.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Iceland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Iceland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 5 کانفیگ در فایل output_configs/India.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 5 کانفیگ در فایل output_base64_countries/India.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 3 کانفیگ در فایل output_configs/Indonesia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Indonesia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 10 کانفیگ در فایل output_configs/Iran.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Iran.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Italy.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Italy.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 6 کانفیگ در فایل output_configs/Japan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/Japan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Laos.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Laos.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 4 کانفیگ در فایل output_configs/Lesotho.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/Lesotho.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Liechtenstein.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Liechtenstein.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 14 کانفیگ در فایل output_configs/Malta.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 14 کانفیگ در فایل output_base64_countries/Malta.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 3 کانفیگ در فایل output_configs/Mexico.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Mexico.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Montenegro.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Montenegro.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 8 کانفیگ در فایل output_configs/Netherlands.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 8 کانفیگ در فایل output_base64_countries/Netherlands.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 20 کانفیگ در فایل output_configs/Niger.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 20 کانفیگ در فایل output_base64_countries/Niger.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Norway.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Norway.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/PapuaNewGuinea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/PapuaNewGuinea.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Poland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Poland.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 15 کانفیگ در فایل output_configs/Romania.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 15 کانفیگ در فایل output_base64_countries/Romania.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 10 کانفیگ در فایل output_configs/Russia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 10 کانفیگ در فایل output_base64_countries/Russia.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 4 کانفیگ در فایل output_configs/SaoTomeAndPrincipe.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 4 کانفیگ در فایل output_base64_countries/SaoTomeAndPrincipe.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/Singapore.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/Singapore.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 16 کانفیگ در فایل output_configs/SouthSudan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 16 کانفیگ در فایل output_base64_countries/SouthSudan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 3 کانفیگ در فایل output_configs/Spain.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 3 کانفیگ در فایل output_base64_countries/Spain.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 6 کانفیگ در فایل output_configs/Sweden.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/Sweden.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Taiwan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Taiwan.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/TrinidadAndTobago.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/TrinidadAndTobago.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 14 کانفیگ در فایل output_configs/Turkey.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 14 کانفیگ در فایل output_base64_countries/Turkey.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 6 کانفیگ در فایل output_configs/UK.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 6 کانفیگ در فایل output_base64_countries/UK.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 2 کانفیگ در فایل output_configs/VaticanCity.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 2 کانفیگ در فایل output_base64_countries/VaticanCity.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 31 کانفیگ در فایل output_configs/Vietnam.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 31 کانفیگ در فایل output_base64_countries/Vietnam.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - تعداد 1 کانفیگ در فایل output_configs/Yemen.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - خروجی Base64 برای 1 کانفیگ در فایل output_base64_countries/Yemen.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - --- تولید گزارش نهایی ---
+[اطلاعات ] - 2026-02-25 06:54:10 - فایل README.md با موفقیت تولید شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - فایل لینک‌های نرمال در output_normal_links.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - فایل لینک‌های Base64 در output_base64_links.txt ذخیره شد.
+[اطلاعات ] - 2026-02-25 06:54:10 - ==================================================
+[اطلاعات ] - 2026-02-25 06:54:10 - 🎉 تمام مراحل با موفقیت انجام شد. برنامه به پایان رسید.
+[اطلاعات ] - 2026-02-25 06:54:10 - ==================================================
