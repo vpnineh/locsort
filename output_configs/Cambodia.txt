@@ -1,0 +1,1 @@
+trojan://Nova-Proxy@103.21.244.38:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-3WKHO🇮🇷

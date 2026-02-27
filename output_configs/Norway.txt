@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989?type=tcp#%20%F0%9F%87%B3%F0%9F%87%B4%20Aa64n%20-5
+trojan://Nova-Proxy@198.41.199.243:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-uptxv🇷🇺
