@@ -1,2 +1,0 @@
-ss://7f878543-f241-4ea6-9c44-e5371003d00d@mci.p4rsw.shop:40388?type=tcp&encryption=none&path=%2F&host=skyroom.online&headerType=http&security=reality&pbk=BFlebr-dh-6PaCE3bUxqURtMyeHxtGxyGopn3cYL2Cc&fp=chrome&sni=www.apple.com&sid=39&spx=%2F#mci
-vless://7f878543-f241-4ea6-9c44-e5371003d00d@mci.p4rsw.shop:40388?type=tcp&encryption=none&path=%2F&host=skyroom.online&headerType=http&security=reality&pbk=BFlebr-dh-6PaCE3bUxqURtMyeHxtGxyGopn3cYL2Cc&fp=chrome&sni=www.apple.com&sid=39&spx=%2F#mci
