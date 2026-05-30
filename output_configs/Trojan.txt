@@ -27,6 +27,7 @@ trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&header
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
+trojan://G2qM_GHnAEpbuIp1mcZh3mGvVn3+rHrwNe@172.232.194.147:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=172.232.194.147#erfwp
 trojan://Nova-Proxy@103.21.244.233:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-nJwJn🇩🇪
 trojan://Nova-Proxy@103.21.244.38:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-3WKHO🇮🇷
 trojan://Nova-Proxy@104.18.124.218:443?type=ws&host=newpanel.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=random&sni=newpanel.amiralinorozjam.workers.dev&fragment=1,40-60,30-50#Nova-10H0N🇧🇬

@@ -8,6 +8,8 @@ ss://367077c8-ebe4-4777-a32c-13911a5cb755@usa.lucypro.ir:2095?encryption=none&ty
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@usa.novaads.shop:42537?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWWDNhZERrNklPM2JaOW5M@4.168.201.246:443#https%3A%2F%2Ft.me%2Fv2raynplus+%7C%F0%9F%87%BF%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRW5aZWRwMm1rVGJUMXFD@4.168.201.246:443#%40musiclovers85%D8%AC%D9%88%DB%8C%D9%86+%D8%A8%D8%AF%D9%87
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.93.118:2375?type=tcp#%20%F0%9F%87%BA%F0%9F%87%B8%20kitkat%C2%B9%E2%81%B7
 ss://de584bc7-3191-4b75-972b-5a422f8d3324@help.footballfantasyforum.com:2456?type=tcp&security=tls&headerType=none&sni=xmlazaus2.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus2
 ss://e31c6b00-9bc9-4604-8290-1c88f28dce8a@help.footballfantasyforum.com:1456?type=tcp&security=tls&headerType=none&sni=xmlazaus1.hiiumaaisland.online&alpn=h2,http/1.1#anonymith-azaus1
