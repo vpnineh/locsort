@@ -5,4 +5,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%D9%84%D9%86%D8%AF%D9%86%20%F0%9F%87%AC%F0%9F%87%A7%20
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
+vmess://eyJ0eXBlIjoibm9uZSIsImFkZCI6IjE4NS4yMTUuMjI5LjQiLCJwb3J0IjoiNzMzMyIsInNjeSI6ImF1dG8iLCJwcyI6IkdCJTIwJUYwJTlGJTg3JUFDJUYwJTlGJTg3JUE3JTIwIiwibmV0IjoidGNwIiwiaWQiOiIzZWRhMWVmOS1hNGViLTRmNjMtYTkyNS05ZmRiMjY4NTllMWIifQ==
 vmess://eyJwcyI6IkdCJTIwJUYwJTlGJTg3JUFDJUYwJTlGJTg3JUE3JTIwIiwicG9ydCI6IjczMzMiLCJ0eXBlIjoibm9uZSIsImFkZCI6IjE4NS4yMTUuMjI5LjQiLCJuZXQiOiJ0Y3AiLCJzY3kiOiJhdXRvIiwiaWQiOiIzZWRhMWVmOS1hNGViLTRmNjMtYTkyNS05ZmRiMjY4NTllMWIifQ==
