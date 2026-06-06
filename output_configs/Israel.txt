@@ -1,2 +1,0 @@
-ss://26b10d68-fbd3-4320-9ac5-91c7a8be204d@169.40.32.5:80?security=reality&encryption=none&pbk=UmcGXETXGRBPOjchm2HKHHdvhXpn57G-Fd8Skr_0gVs&headerType=none&fp=chrome&spx=%2FRT0MDHJZ47F5ztE&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=52fd6449#%F0%9F%94%B5%40chillguy_vpn
-vless://26b10d68-fbd3-4320-9ac5-91c7a8be204d@169.40.32.5:80?security=reality&encryption=none&pbk=UmcGXETXGRBPOjchm2HKHHdvhXpn57G-Fd8Skr_0gVs&headerType=none&fp=chrome&spx=%2FRT0MDHJZ47F5ztE&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=52fd6449#%F0%9F%94%B5%40chillguy_vpn
