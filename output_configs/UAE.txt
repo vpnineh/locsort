@@ -1,0 +1,2 @@
+ss://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:2006?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AD%D8%AF%D9%87
+vless://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:2006?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%A6%F0%9F%87%AA%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%85%D8%AA%D8%AD%D8%AF%D9%87

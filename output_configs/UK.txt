@@ -3,5 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@62.100.205.48:989#%D9%84%D9%86%D8%AF%D9%86%20%F0%9F%87%AC%F0%9F%87%A7%20
+ss://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:2008?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
+vless://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:2008?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%AC%F0%9F%87%A7%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3
