@@ -1,2 +1,0 @@
-ss://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:3001?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%AE%F0%9F%87%AA%D8%A7%DB%8C%D8%B1%D9%84%D9%86%D8%AF
-vless://d5e7df9b-0ac4-4f23-9a43-e72d15ae425b@swe.changiz.cloud:3001?encryption=none&type=xhttp&mode=auto&path=/&security=none#%F0%9F%87%AE%F0%9F%87%AA%D8%A7%DB%8C%D8%B1%D9%84%D9%86%D8%AF
