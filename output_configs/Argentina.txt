@@ -6,7 +6,7 @@ ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vle
 ss://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.240:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%206
 ss://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.242:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&allowInsecure=1&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%204
 ss://91e120bc-159a-4390-b4e1-197b19602ea0@87.120.93.25:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=qq&allowInsecure=1&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%208
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%E2%9C%85%20%40Sparkynet1%2010
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%E2%9C%85%20%40Sparkynet1%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%E2%9C%85%20%40Sparkynet1%209
 ss://afc941a0-b6b4-42d1-b284-d59a42f083fd@194.58.41.65:443?encryption=none&security=reality&sni=www.microsoft.com&fp=chrome&pbk=cjCwI7alv-GUgef0TW7i-S7jNgnIoZ6aooGYH7Nopxs&sid=deadbeef&type=grpc&authority=&serviceName=GrpcFuckRKN&mode=gun#%E2%9C%85%20%40Sparkynet1%2012
 ss://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&type=tcp&headerType=none#%E2%9C%85%20%40Sparkynet1%203
