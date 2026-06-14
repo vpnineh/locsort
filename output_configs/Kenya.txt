@@ -1,2 +1,0 @@
-ss://5bd61d7f-3713-4246-9d1c-132c49943106@dubai.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%201
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@dubai.gmax12.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%201

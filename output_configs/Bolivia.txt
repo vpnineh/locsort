@@ -1,2 +1,0 @@
-ss://5bd61d7f-3713-4246-9d1c-132c49943106@ips.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AAirancell%201%20%F0%9F%91%A4%40TurboConfigs
-vless://5bd61d7f-3713-4246-9d1c-132c49943106@ips.list.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A9%F0%9F%87%AAirancell%201%20%F0%9F%91%A4%40TurboConfigs
