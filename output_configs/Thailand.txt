@@ -1,2 +1,0 @@
-ss://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#the
-vless://36a41d68-7ee1-4eac-80de-76848f5879da@s1.meoshop.ir:2053?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=server.meoshop.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=server.meoshop.ir#the

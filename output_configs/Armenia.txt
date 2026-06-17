@@ -3,7 +3,6 @@ ss://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@193.56.3.125:8443?encryption=none&flow
 ss://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp&headerType=none#family
 ss://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#family
 ss://32f1b878-3b34-4070-863e-055a3cc714bc@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#family🌟🔥☄️
-ss://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Family☎️📽️
 ss://6c09488f-5d0c-47de-b953-6e0af3ed4c33@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#family🔥✨🌤️
 ss://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=none&security=reality&sni=0w7ymj.spectrum.vu&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&sid=abcdef123456&type=grpc&authority=&serviceName=vless&mode=gun#family
 ss://78f89cec-ca7e-48f2-bfe6-669dbb272567@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#👨‍💻family🚇
@@ -28,7 +27,6 @@ vless://0e3a9376-1bf0-4b9e-a328-f28083bf6c34@193.56.3.125:8443?encryption=none&f
 vless://16c6faa4-1162-49ca-acf7-059afdf1ecd3@91.107.189.143:29039?encryption=none&security=none&type=tcp&headerType=none#family
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@62.238.32.25:443?encryption=none&security=reality&sni=yastatic.net&fp=chrome&pbk=3LUIM_6cYceTgNt6LWnR8YSVrenpLsh-FIGDrmfjjwc&sid=5e841fab&type=tcp&headerType=none#family
 vless://32f1b878-3b34-4070-863e-055a3cc714bc@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#family🌟🔥☄️
-vless://3f61815a-1c63-456a-ad05-655374dfd7c8@199.232.78.159:443?path=%2F&security=tls&encryption=none&insecure=1&host=bazaryabab.global.ssl.fastly.net&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#Family☎️📽️
 vless://6c09488f-5d0c-47de-b953-6e0af3ed4c33@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#family🔥✨🌤️
 vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@194.156.101.115:443?encryption=none&security=reality&sni=0w7ymj.spectrum.vu&fp=chrome&pbk=QobAF8R0o6yO2clMtVMNzji7PG2VZ418T4HvjNy4Mk0&sid=abcdef123456&type=grpc&authority=&serviceName=vless&mode=gun#family
 vless://78f89cec-ca7e-48f2-bfe6-669dbb272567@1.1.1.1:1000?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#👨‍💻family🚇

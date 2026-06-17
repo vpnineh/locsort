@@ -12,6 +12,7 @@ ss://78f89cec-ca7e-48f2-bfe6-669dbb272567@cdn2.portalcode.ir:2095?encryption=non
 ss://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9b7ff7a4-7437-4688-9063-3d73ca4f8498@usa.novaads.shop:42537?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%BA%F0%9F%87%B8%20USA
 ss://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
+ss://XpnTeam-kwu2@23.235.42.246:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@166.88.182.43:808#%D8%A7%DB%8C%D9%84%DB%8C%D9%86%D9%88%DB%8C%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.237.163:808#%D9%86%DB%8C%D9%88%DB%8C%D9%88%D8%B1%DA%A9%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@207.90.239.80:808#%DA%A9%D8%A7%D9%84%DB%8C%D9%81%D8%B1%D9%86%DB%8C%D8%A7%20%F0%9F%87%BA%F0%9F%87%B8
@@ -45,6 +46,7 @@ vless://78f89cec-ca7e-48f2-bfe6-669dbb272567@cdn2.portalcode.ir:2095?encryption=
 vless://91010aab-d473-4463-8957-3c205bef4d8d@usa.pixvpn.app:8443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdn.discordapp.com&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%BA%F0%9F%87%B8%20USA
 vless://9b7ff7a4-7437-4688-9063-3d73ca4f8498@usa.novaads.shop:42537?encryption=none&type=tcp&headerType=http&host=excoino.com&path=/&security=none#%F0%9F%87%BA%F0%9F%87%B8%20USA
 vless://9eaf68d9fc874dfca1700ed5bc6200a6@62.113.114.116:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BANEO-RUS
+vless://XpnTeam-kwu2@23.235.42.246:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=Appxdn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8US
 vless://abf4819c-889c-459d-b97a-bc16aa76d71b@104.16.0.0:2087?encryption=none&security=tls&type=ws&headerType=none&host=Ghd23er.rainzone.ir&sni=Ghd23er.rainzone.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20CDN%20%7C%2002
 vless://abf4819c-889c-459d-b97a-bc16aa76d71b@cdn2.portalcode.ir:2095?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=amnus2.monopolitass.ir#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HttpUpgrade%20%7C%2002
 vless://bfd6c195-e37e-40ed-b962-c3ea4ac0f5df@37.139.34.63:23356?encryption=none&type=grpc&security=reality&mode=gun&serviceName=api&fp=edge&sni=apple.com&pbk=KtHJA0ZiW3VEPTjGQOlT3NlXZWlqAPHKHqki_IGX3Wk&sid=483d116ad48a4091#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D%20VK
