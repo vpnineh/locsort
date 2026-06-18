@@ -1,0 +1,2 @@
+ss://b830dc97-840b-46cd-b667-e5e01427a10b@xgermany1.cloudlimits.ir:80?encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany+%F0%9F%94%97+Direct
+vless://b830dc97-840b-46cd-b667-e5e01427a10b@xgermany1.cloudlimits.ir:80?encryption=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA+Germany+%F0%9F%94%97+Direct
