@@ -1,11 +1,4 @@
 ss://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
-ss://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?mode=gun&security=none&encryption=none&type=grpc#test
-ss://76a556ba-cec0-4323-81d4-546ea40a360c@ir.iratom.com:443?path=%2Fatom10%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=d2.iratom.com&type=ws&allowInsecure=0&sni=d2.iratom.com#test
-ss://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@84.32.100.252:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=decher10.potatosubge20.org#test
 ss://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
-trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#test2
 vless://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
-vless://57c7030e-d72b-4e8d-bc5b-8bc534763128@netnab2.dgrozz.ir:48405?mode=gun&security=none&encryption=none&type=grpc#test
-vless://76a556ba-cec0-4323-81d4-546ea40a360c@ir.iratom.com:443?path=%2Fatom10%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=d2.iratom.com&type=ws&allowInsecure=0&sni=d2.iratom.com#test
-vless://d23a1ce1-b6a6-4a58-b56b-1be6a1cd7d39@84.32.100.252:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=decher10.potatosubge20.org#test
 vless://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n

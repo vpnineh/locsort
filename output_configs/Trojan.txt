@@ -10,7 +10,6 @@ trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftro
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
 trojan://Masir_Sefid@83.228.225.220:1040?type=tcp&headerType=none&security=reality&fp=chrome&sni=store.steampowered.com&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=84e87fdcdf2ea9e8&spx=/aRBYGa427aKKE16#family
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#new
-trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=linkkon-w.ir&fp=chrome&type=ws&allowInsecure=0&sni=linkkon-w.ir#test2
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:443?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiakdqSE9QRktnIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=nEWBp.aMIralinorOZjaM.wORkeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:2096?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMHU1Vnc3bDNVQyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewBP.AMirAliNoROZjAM.WORKeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
