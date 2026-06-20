@@ -1,2 +1,0 @@
-ss://74a0d4f2-8eaa-4a4f-8b63-48880a8522ad@104.17.108.69:443?encryption=none&security=tls&sni=gamingss.xorilo.ir&type=ws&alpn=h2http/1.1&host=gamingss.xorilo.ir&path=/ws-vlees#spe
-vless://74a0d4f2-8eaa-4a4f-8b63-48880a8522ad@104.17.108.69:443?encryption=none&security=tls&sni=gamingss.xorilo.ir&type=ws&alpn=h2http/1.1&host=gamingss.xorilo.ir&path=/ws-vlees#spe
