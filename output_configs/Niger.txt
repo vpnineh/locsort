@@ -8,8 +8,9 @@ ss://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
-ss://f90417b5-d7ce-4af7-8476-3b3d8c276223@51.89.22.80:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new%20panel%E2%9C%A8
-ss://f90417b5-d7ce-4af7-8476-3b3d8c276223@94.159.109.242:443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new%20panel%E2%9C%A8
+ss://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new
+trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new
+trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
 vless://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
@@ -20,5 +21,4 @@ vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.c
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
-vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@51.89.22.80:8443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new%20panel%E2%9C%A8
-vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@94.159.109.242:443?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new%20panel%E2%9C%A8
+vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new
