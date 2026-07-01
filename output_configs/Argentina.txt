@@ -1,4 +1,3 @@
-ss://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:11600?encryption=none&host=allnets.lorqina.ir&path=%2Fedp%3D3054&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%BFAzarbaijan%20-%20ws-TG_8943272221_0qBiUYe
 ss://3b715892-8610-4fdc-9086-647b36af5443@152.53.142.246:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=f.cafearen.ir&mode=auto#7%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 ss://3b715892-8610-4fdc-9086-647b36af5443@157.90.198.231:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=J.cafearen.ir&mode=auto#%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare%20%28copy%29
 ss://3b715892-8610-4fdc-9086-647b36af5443@162.159.41.250:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=D.cafearen.ir&mode=auto#5%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
@@ -12,7 +11,6 @@ ss://3b715892-8610-4fdc-9086-647b36af5443@www.speedtest.net:2086?encryption=none
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881?#Paris%20-%20804
 trojan://4naxa-Rl1yXOAP1x5OsEbYqtHS79BVFJ@93.115.240.146:2095?security=reality&type=tcp&headerType=none&sni=www.yahoo.com&fp=chrome&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&sid=d8969f220ae60765#%F0%9F%87%A6%F0%9F%87%B2%20Armenia
-vless://08dece95-fba2-4f48-b4aa-2633f367c9b0@allnets.lorqina.ir:11600?encryption=none&host=allnets.lorqina.ir&path=%2Fedp%3D3054&security=none&type=ws#%F0%9F%87%A6%F0%9F%87%BFAzarbaijan%20-%20ws-TG_8943272221_0qBiUYe
 vless://3b715892-8610-4fdc-9086-647b36af5443@152.53.142.246:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=f.cafearen.ir&mode=auto#7%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 vless://3b715892-8610-4fdc-9086-647b36af5443@157.90.198.231:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=J.cafearen.ir&mode=auto#%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare%20%28copy%29
 vless://3b715892-8610-4fdc-9086-647b36af5443@162.159.41.250:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=D.cafearen.ir&mode=auto#5%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
