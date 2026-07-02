@@ -7,6 +7,7 @@ ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&flo
 ss://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+ss://e52db28b-04f4-45da-bb10-e416d5c12f83@WWW.SPEEDTEST.NET:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=GGGGDE5.TORPROSPEED.IR&mode=auto&sni=GGGGDE5.TORPROSPEED.IR&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#new
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 ss://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#new
@@ -20,5 +21,6 @@ vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+vless://e52db28b-04f4-45da-bb10-e416d5c12f83@WWW.SPEEDTEST.NET:2053?encryption=none&security=tls&type=xhttp&headerType=none&path=%2F&host=GGGGDE5.TORPROSPEED.IR&mode=auto&sni=GGGGDE5.TORPROSPEED.IR&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#new
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://fd47216b-4217-4ec1-85b9-98304634a391@5.199.170.105:443?security=reality&encryption=none&pbk=xFUmqmEPEKyv-5ReppEM1oTkc04HQcBUfySH-EwPBlE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=amd.com&sid=6ba85179e30d4fc2#new
