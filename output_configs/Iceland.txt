@@ -1,2 +1,4 @@
+ss://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3051?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AE%F0%9F%87%B8%20Iceland
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dlgxdiNOU0ZQX0xHX2JK@212.192.214.159:808#%D8%A7%DB%8C%D8%B3%D9%84%D9%86%D8%AF%20%F0%9F%87%AE%F0%9F%87%B8
 trojan://auto@www.visa.com.sg:443?type=ws&host=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com&path=/trojan-aa64n.amiralinorozjam.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#Aa64n-viska
+vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3051?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AE%F0%9F%87%B8%20Iceland

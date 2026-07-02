@@ -1,0 +1,2 @@
+ss://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3054?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong
+vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3054?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong

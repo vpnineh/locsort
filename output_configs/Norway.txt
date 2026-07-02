@@ -1,1 +1,3 @@
+ss://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3049?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%B3%F0%9F%87%B4%20Norway
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.90.61.153:989?type=tcp#%20%F0%9F%87%B3%F0%9F%87%B4%20Aa64n%20-5
+vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3049?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%B3%F0%9F%87%B4%20Norway

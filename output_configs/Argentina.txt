@@ -9,6 +9,8 @@ ss://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?encryption=none
 ss://3b715892-8610-4fdc-9086-647b36af5443@ip1.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=cdn7-pro.postshup.ir&mode=auto#1%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 ss://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=J.cafearen.ir&mode=auto#%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 ss://3b715892-8610-4fdc-9086-647b36af5443@www.speedtest.net:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=E.cafearen.ir&mode=auto#6%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
+ss://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3050?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%A9%F0%9F%87%B0%20Denmark
+ss://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3065?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
 ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#ARISTA
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881?#Paris%20-%20804
@@ -25,6 +27,8 @@ vless://3b715892-8610-4fdc-9086-647b36af5443@html.iranpood.com:2086?encryption=n
 vless://3b715892-8610-4fdc-9086-647b36af5443@ip1.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=cdn7-pro.postshup.ir&mode=auto#1%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 vless://3b715892-8610-4fdc-9086-647b36af5443@ip2.iranphlox.ir:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=J.cafearen.ir&mode=auto#%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
 vless://3b715892-8610-4fdc-9086-647b36af5443@www.speedtest.net:2086?encryption=none&security=none&type=xhttp&headerType=none&path=%2F%3Fed%3D2082&host=E.cafearen.ir&mode=auto#6%20%E2%80%A2%E2%98%81%EF%B8%8FCloudflare
+vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3050?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%A9%F0%9F%87%B0%20Denmark
+vless://45b193ba-0f6d-4038-aedd-1376ca8b22b7@m1.mamad-imnix.ir:3065?encryption=none&security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=rAMI1oVMHVoYdsrBJGJyY1IOAAbopPUlg7BJuJ8PWFU&sid=abadbb95be30dccf#%F0%9F%87%AD%F0%9F%87%BA%20Hungary
 vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#ARISTA
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#ARISTA
