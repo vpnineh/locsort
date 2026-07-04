@@ -21,6 +21,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:316?allowInsecure=1&sni
 trojan://c53647f3153f784b3c695ffbe5fb43c0@203.198.123.249:443?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF6%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.87:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40stairnode
 trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftrojan&sni=fi2.connecton.surf&type=ws#🇫🇮
+trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.145:443?type=tcp&security=tls&headerType=none&insecure=0&allowInsecure=0#4https://t.me/ConfigX2ray
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
@@ -31,5 +32,6 @@ trojan://telegram-id-v2rayvpnchannel@3.72.164.55:22223?security=tls&alpn=http%2F
 trojan://telegram-id-v2rayvpnchannel@35.181.218.22:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B14%5D
 trojan://telegram-id-v2rayvpnchannel@52.47.52.84:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B13%5D
 trojan://trojan@www.visa.com.tw:2053?type=ws&host=trojan-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=trojan-aa64n.rhyljiti.workers.dev#CF_T10_www.visa.com.tw_2053
+trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&host=sm.farxmode.ir&path=/da&security=tls&fp=firefox&sni=sm.farxmode.ir&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTAmokhabrrat
 trojan://xNbIgqGHQk@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan4
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🇩🇪
