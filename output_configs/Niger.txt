@@ -7,6 +7,7 @@ ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&flow
 ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 ss://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
+ss://a4376779-88a3-4752-9654-126bf55b6f08@87.120.106.210:443?security=reality&encryption=none&pbk=RfXhX5lUkxq1DZf0Bb-N2ijyPakixN01msTTL6Oy4QI&host=play.google.com&headerType=http&fp=chrome&spx=%2FNPVTyoqBoNdTH6T&type=tcp&sni=www.yahoo.com&sid=b42a#new
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 ss://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.17.162.229:2087?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new
@@ -21,6 +22,7 @@ vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&f
 vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 vless://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
+vless://a4376779-88a3-4752-9654-126bf55b6f08@87.120.106.210:443?security=reality&encryption=none&pbk=RfXhX5lUkxq1DZf0Bb-N2ijyPakixN01msTTL6Oy4QI&host=play.google.com&headerType=http&fp=chrome&spx=%2FNPVTyoqBoNdTH6T&type=tcp&sni=www.yahoo.com&sid=b42a#new
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://f90417b5-d7ce-4af7-8476-3b3d8c276223@104.17.162.229:2087?encryption=none&type=ws&host=shrill-poetry-f70c.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=shrill-poetry-f70c.gh-ghanbari62.workers.dev#new
