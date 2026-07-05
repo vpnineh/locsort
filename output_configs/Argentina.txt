@@ -1,9 +1,9 @@
-ss://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&host=sp.linuxdododo.ccwu.cc&path=/proxyip&security=tls&fp=chrome&sni=sp.linuxdododo.ccwu.cc#ARISTA
-ss://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#ARISTA
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-ss://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#ARISTA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.3:8080?type=tcp#ARISTA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080?type=tcp#ARISTA
+ss://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=reality&fp=firefox&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#ARISTA
+trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
 trojan://v2TkL6FH3h@45.130.125.2:443?type=ws&host=sm.farxmode.ir&path=/da&security=tls&fp=firefox&sni=sm.farxmode.ir&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTAmokhabrrat
-vless://06b65903-406d-4a41-8400-6fd5c0ee7798@104.16.72.70:2096?encryption=none&type=ws&host=sp.linuxdododo.ccwu.cc&path=/proxyip&security=tls&fp=chrome&sni=sp.linuxdododo.ccwu.cc#ARISTA
-vless://659a9075-d5ab-4fd2-bf34-b37043fae832@104.18.153.10:443?encryption=none&type=ws&host=nbhhh.mrcool.kdns.fr&path=/proxyip&security=tls&sni=nbhhh.mrcool.kdns.fr#ARISTA
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-vless://a5c05c1e-aa68-443f-8598-09800244bd4b@192.71.82.2:443?encryption=none&type=ws&path=/LiL?ed&security=tls&fp=firefox&sni=kingcloud.biack.ir&alpn=h3#ARISTA
+vless://a6704fb4-4874-4e6b-98f4-571b048e3d90@31.77.161.2:8443?encryption=none&type=tcp&headerType=none&host=/?BIA_TELEGRAM@vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=reality&fp=firefox&sni=prod.de-node-01.security-sbrf.ru&pbk=4XxjInQuDp4SqaYF03yQ1VY61exkKi9e0RS5-kgyxAE&sid=db04ce8bdb8900f1#ARISTA
+vmess://eyJzY3kiOiJhdXRvIiwiaWQiOiJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCJhZGQiOiI4Mi4xOTguMjQ2Ljk3IiwidHlwZSI6Im5vbmUiLCJwb3J0IjoiMTgwIiwicHMiOiJBUklTVEEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIn0=
