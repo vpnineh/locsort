@@ -1,2 +1,0 @@
-ss://e89b67fd-402d-4a53-9005-bf359a00d271@websecret.ir:80?encryption=none&type=ws&host=zeus-panel-lla35q.zeus-tym6vu.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none#Aa64n%20%7C%20%E2%80%8Ewebsecret.ir%20%7C%20%E2%80%8E80
-vless://e89b67fd-402d-4a53-9005-bf359a00d271@websecret.ir:80?encryption=none&type=ws&host=zeus-panel-lla35q.zeus-tym6vu.workers.dev&path=/In_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=none#Aa64n%20%7C%20%E2%80%8Ewebsecret.ir%20%7C%20%E2%80%8E80
