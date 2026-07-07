@@ -9,7 +9,7 @@ trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftro
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
 trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
-trojan://MITIVPN@151.101.56.7:443/?type=ws&host=miticonfig.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20151.101.56.7
+trojan://MITIVPN@151.101.56.7:443?allowInsecure=1&host=miticonfig.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20151.101.56.7
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:443?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiakdqSE9QRktnIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=nEWBp.aMIralinorOZjaM.wORkeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:2096?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMHU1Vnc3bDNVQyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewBP.AMirAliNoROZjAM.WORKeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://UKugG6v3k0@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan3
@@ -18,7 +18,7 @@ trojan://WeF67m5iY-WT4WI6bK_o3xRKaqinZGaP@193.233.136.157:2095?security=reality&
 trojan://WeF67m5iY-WT4WI6bK_o3xRKaqinZGaP@51.91.161.218:2095?security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=0r2yv_VMH5jino3sZ6SF6vl4HhDf4BEyc3ybFbF1_V4&sid=eb769d7505cb9e86#3_%F0%9F%87%AB%F0%9F%87%B7Franc
 trojan://auto@185.146.173.3:443?type=ws&host=aa64-trojan.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=aa64-trojan.rhyljiti.workers.dev#Aa64n-trojan
 trojan://auto@www.visa.com.sg:443?type=ws&host=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com&path=/trojan-aa64n.amiralinorozjam.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=478a9f2a-0d66-4035-a797-06e9c83c6739.3869fe04-6fcd-4ad4-a8f4-40582f4fa0c4.giize.com#Aa64n-viska
-trojan://bpb-trojan@104.26.4.60:443/?type=ws&host=zamim340.ggff.net&path=%2Ftr&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=zamim340.ggff.net#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B4
+trojan://bpb-trojan@104.26.4.60:443?ed=2560&eh=Sec-WebSocket-Protocol&host=zamim340.ggff.net&path=%2Ftr&sni=zamim340.ggff.net&type=ws#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B4
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5321?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:1331?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
@@ -30,8 +30,13 @@ trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftro
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
-trojan://humanity@45.130.125.2:443/?type=ws&host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&security=tls&sni=Www.cReaTIOnLONG.OrG#Seychelles_%F0%9F%87%B8%F0%9F%87%A8_%40wbnet_SC_6
+trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&sni=Www.cReaTIOnLONG.OrG&type=ws#Seychelles_%F0%9F%87%B8%F0%9F%87%A8_@wbnet_SC_6
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
+trojan://telegram-id-directvpn@13.38.149.14:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(12)
+trojan://telegram-id-directvpn@13.39.139.191:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(11)
+trojan://telegram-id-directvpn@3.66.180.209:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TLS%20(30)
+trojan://telegram-id-privatevpns@13.39.139.191:22222?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(10)
+trojan://telegram-id-privatevpns@3.66.180.209:22222?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TLS%20(32)
 trojan://telegram-id-privatevpns@3.70.33.164:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mt_proxy%20%5B7%5D
 trojan://telegram-id-v2rayvpnchannel@3.72.164.55:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B12%5D
 trojan://telegram-id-v2rayvpnchannel@35.181.218.22:22223?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40v2rayvpnchannel%20%5B14%5D
