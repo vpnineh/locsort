@@ -185,7 +185,6 @@ ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&s
 ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkwek5TNHhPREV1TmpndU1qQTBMVEUzTlRVJTNEJnByb3RvcGFyYW09
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
-trojan://WeF67m5iY-WT4WI6bK_o3xRKaqinZGaP@51.91.161.218:2095?security=reality&type=tcp&headerType=none&sni=play.google.com&fp=chrome&pbk=0r2yv_VMH5jino3sZ6SF6vl4HhDf4BEyc3ybFbF1_V4&sid=eb769d7505cb9e86#3_%F0%9F%87%AB%F0%9F%87%B7Franc
 trojan://telegram-id-directvpn@13.38.149.14:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(12)
 trojan://telegram-id-directvpn@13.39.139.191:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(11)
 trojan://telegram-id-privatevpns@13.39.139.191:22222?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(10)
