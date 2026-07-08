@@ -1,3 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6eE1kZU1CcV9rWEEwQ2RMcXBUM084ZWFlYXE0NE9XcQ==@45.155.124.152:1080#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20Premium
 ss://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?encryption=none&host=&path=%2Fvless&security=none&type=ws#Turki
 vless://e1c7f7ce-5bf8-41a8-87d5-896d2659f08a@turki.gelqino.ir:17830?encryption=none&host=&path=%2Fvless&security=none&type=ws#Turki
