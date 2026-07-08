@@ -1,0 +1,2 @@
+ss://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20%E1%B5%81%E1%B4%AC%E1%B4%B1%20TCP
+vless://f8cae104-2eaa-4b16-b258-65be28281b70@uae1.codesystem.ir:8080?security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20%E1%B5%81%E1%B4%AC%E1%B4%B1%20TCP
