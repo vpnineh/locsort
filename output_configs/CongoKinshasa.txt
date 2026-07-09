@@ -1,2 +1,0 @@
-ss://f8cae104-2eaa-4b16-b258-65be28281b70@cdn.textin.ir:2053?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D2560&host=turk1.nomac.ir&sni=turk1.nomac.ir&fp=&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20%E1%B5%80%C3%BC%CA%B3%E1%B5%8F%E2%81%B1%CA%B8%E1%B5%89%20CDN
-vless://f8cae104-2eaa-4b16-b258-65be28281b70@cdn.textin.ir:2053?security=tls&type=ws&headerType=&path=%2Fws%3Fed%3D2560&host=turk1.nomac.ir&sni=turk1.nomac.ir&fp=&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%B9%F0%9F%87%B7%20%E1%B5%80%C3%BC%CA%B3%E1%B5%8F%E2%81%B1%CA%B8%E1%B5%89%20CDN
