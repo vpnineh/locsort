@@ -1,14 +1,14 @@
-# Configs (آخرین به‌روزرسانی: 2026-07-10 22:47:39 +0330)
+# Configs (آخرین به‌روزرسانی: 2026-07-11 00:30:05 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
 | Hysteria2 | 8 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 1455 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 1462 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 3 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 43 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 1083 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 1090 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 181 | [`Vmess.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## دسته‌بندی بر اساس کشور
@@ -35,7 +35,7 @@
 | <img src="https://flagcdn.com/w20/cl.png" width="20"> Chile (شیلی) | 78 | [`Chile.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Chile.txt) | [`Chile.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Chile.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20"> Colombia (کلمبیا) | 42 | [`Colombia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Colombia.txt) | [`Colombia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Colombia.txt) |
 | <img src="https://flagcdn.com/w20/cg.png" width="20"> CongoBrazzaville (کنگو برازاویل) | 2 | [`CongoBrazzaville.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/CongoBrazzaville.txt) | [`CongoBrazzaville.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/CongoBrazzaville.txt) |
-| <img src="https://flagcdn.com/w20/cr.png" width="20"> CostaRica (کاستاریکا) | 2 | [`CostaRica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/CostaRica.txt) | [`CostaRica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/CostaRica.txt) |
+| <img src="https://flagcdn.com/w20/cr.png" width="20"> CostaRica (کاستاریکا) | 16 | [`CostaRica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/CostaRica.txt) | [`CostaRica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/CostaRica.txt) |
 | <img src="https://flagcdn.com/w20/dk.png" width="20"> Denmark (دانمارک) | 1 | [`Denmark.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Denmark.txt) | [`Denmark.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Denmark.txt) |
 | <img src="https://flagcdn.com/w20/dm.png" width="20"> Dominica (دومینیکا) | 2 | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Dominica.txt) | [`Dominica.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Dominica.txt) |
 | <img src="https://flagcdn.com/w20/do.png" width="20"> DominicanRepublic (جمهوری دومینیکن) | 18 | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/DominicanRepublic.txt) | [`DominicanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/DominicanRepublic.txt) |
