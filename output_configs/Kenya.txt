@@ -1,0 +1,2 @@
+ss://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://6ac4e892-2204-4330-9cd0-7c137f86dfab@smd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
