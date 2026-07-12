@@ -3,12 +3,12 @@ trojan://%25!%3EuJ%255o%7CN7n3%23*;@172.66.44.86:443?type=ws&host=aa-3lh.pages.d
 trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.pages.dev&path=/trKOJj6kXGuA58q36X?ed%3D2560&security=tls&fp=randomized&sni=aa-3lh.pAges.Dev&alpn=http/1.1&allowInsecure=false#Aa64n-%20Trojan%20-%20Clean%20IP%20:%202053گ
 trojan://%7DDnPdj%7BpF0JfTnnY@188.114.96.3:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoid2M2TUJVYnQ0R01ST3EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=GhM.Gh-GHNBarI6264.WoRKeRs.dEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoidllNVFdBcDdEIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=Ghm.Gh-GHNbaRI6264.woRkers.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
+trojan://4aFbwy5BHa@151.101.34.144:443?type=xhttp&mode=packet-up&host=edgezvx.global.ssl.fastly.net&path=/db&security=tls&fp=firefox&sni=global.fastly.com&alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN#ARISTA
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
-trojan://Ldbgt4IUYv0S+5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4=@65.109.208.236:54673?type=tcp&security=none#ARISTA
 trojan://MITIVPN@151.101.56.7:443?allowInsecure=1&host=miticonfig.global.ssl.fastly.net&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DGE&sni=ssl.fastly.com&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20151.101.56.7
 trojan://ROoDc2Luk68%7D6ftz@104.21.1.102:443?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiakdqSE9QRktnIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=nEWBp.aMIralinorOZjaM.wORkeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://ROoDc2Luk68%7D6ftz@172.67.129.6:2096?type=ws&host=newbp.amiralinorozjam.workers.dev&path=/eyJqdW5rIjoiMHU1Vnc3bDNVQyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D?ed%3D2560&security=tls&fp=chrome&sni=NewBP.AMirAliNoROZjAM.WORKeRS.dev&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
@@ -27,7 +27,9 @@ trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftro
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
+trojan://humanity@162.159.38.119:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com#ARISTA
 trojan://humanity@45.130.125.2:443?host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&sni=Www.cReaTIOnLONG.OrG&type=ws#Seychelles_%F0%9F%87%B8%F0%9F%87%A8_@wbnet_SC_6
+trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
 trojan://telegram-id-directvpn@13.38.149.14:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(12)
 trojan://telegram-id-directvpn@13.39.139.191:22223?allowInsecure=1&alpn=h2%2Chttp%2F1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20(11)
