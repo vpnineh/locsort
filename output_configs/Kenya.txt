@@ -1,0 +1,2 @@
+ss://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
+vless://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:55974?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey
