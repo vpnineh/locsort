@@ -4,7 +4,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?allowInsecure=1&enc
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.139.191:22224?allowInsecure=1&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20%E2%80%A2%20WS
 ss://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
-ss://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
 ss://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 ss://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20187ms
@@ -181,6 +180,8 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security=&e
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠
 ss://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
+ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
+ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷
 ss://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷
 ssr://ejAxMTEuc2VjdXJpdHktY2xvdWRmcm9udC1jZG4uY29tOjQyODMzOm9yaWdpbjphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpXWEJZTW05d1FtSnlabkZLZW5wTmN3PT0vP29iZnNwYXJhbT0mcmVtYXJrcz04SiUyQkhxJTJGQ2ZoN2RHVWkwek5TNHhPREV1TmpndU1qQTBMVEUzTlRVJTNEJnByb3RvcGFyYW09
@@ -197,7 +198,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.38.149.14:22224?allowInsecure=1&
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.139.191:22224?allowInsecure=1&encryption=none&path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#%F0%9F%87%AB%F0%9F%87%B7%20France%20%7C%20TLS%20%E2%80%A2%20WS
 vless://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://10432a5d-da29-4985-bb91-27cea3c151b6@creativecommons.org:2083?flow=&type=ws&host=LOyaLTy-Is.PAGES.dev&path=/NiREvil6pMrnt2JjmtMMeq3l8hoWVLZIg1KiGB0r47C3TrKxkFO?ed%3D2560&security=tls&fp=chrome&sni=LOyaLTy-Is.PAGES.dev&alpn=h2,http/1.1&allowInsecure=false#%E2%A8%B5%20Fr%C9%91g%CF%BB%CF%B5%CD%B7%E2%82%BA
-vless://10ccd4b1-d394-4836-bb86-aae27e4e3887@Samd.softupdl.ir:13908?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=Play.google.com#%F0%9F%87%AB%F0%9F%87%B7France
 vless://12345678-1234-1234-1234-123456789123@185.158.133.50:2096?path=%2Fsnippets&security=tls&encryption=none&host=saas.sosocn.abrdns.com&type=ws&sni=saas.sosocn.abrdns.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2trayproxy%20%5B24%5D
 vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://21d29623-3b91-4494-8402-08372da813a9@m31a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#mrsoulb%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20187ms
@@ -320,6 +320,8 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.70:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?encryption=none&type=grpc&mode=gun&security=none#🇫🇷@𝗦𝗶𝗡𝗔𝗩𝗠
 vless://e7f80705-a246-42b0-9b18-802d125aedc3@104.24.40.146:443?path=/index.html?ed&security=tls&encryption=none&host=revest.maketunnelim.lat&fp=chrome&type=ws&sni=revest.maketunnelim.lat#@FrewIranWeb
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?encryption=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
+vless://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&type=ws#🇫🇷
 vless://f0758892-f40c-412d-9fab-88103bad1fd8@ov-france2.09vpn.com:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷
 vmess://ewogICAgImFkZCI6ICI1LjEzNS40My4xMTkiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImQxNTljNWJlLTgyOTEtNDVjNC1iZDIxLTUxZDAyNDY1OGE2ZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA1ODczMiwKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTUuMTM1LjQzLjExOS0xOTYxIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=

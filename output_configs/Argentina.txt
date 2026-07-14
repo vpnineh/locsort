@@ -1,7 +1,2 @@
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info#ARISTA
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-trojan://humanity@162.159.38.119:443?type=ws&host=www.calmloud.com&path=/assignment&security=tls&sni=www.calmloud.com#ARISTA
-trojan://itX52H4tiA@151.101.34.144:443?type=xhttp&mode=packet-up&host=networkzvx.global.ssl.fastly.net&path=/da&security=tls&fp=firefox&sni=global.fastly.com&alpn=h2,http/1.1#ARISTA
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info#ARISTA
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-vmess://eyJwcyI6IkFSSVNUQSIsInBhdGgiOiIiLCJpZCI6Ijk1OGY1OTQwLWRlM2QtNDQ2Ni1iYjMwLWI2MDU5OTNkYjI3ZSIsImFkZCI6IjIuMjYuNy41OSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMTEwIn0=
