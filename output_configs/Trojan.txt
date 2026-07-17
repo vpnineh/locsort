@@ -117,6 +117,7 @@ trojan://humanity@www.creationlong.org:443?security=tls&encryption=none&sni=www.
 trojan://humanity@www.creationlong.org:443?sni=www.creationlong.org&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%208
 trojan://humanity@www.ignitelimit.com:443?security=tls&type=ws&path=%2fassignment&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%205
 trojan://humanity@www.multiplydose.com:443?security=tls&encryption=none&type=ws&host=www.multiplydose.com&path=%2f%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%206
+trojan://hysc8lcine8gfd10@104.17.80.82:443?alpn=http%2F1.1&host=mo.mobo22.com&allowInsecure=0&type=ws&security=tls&fp=chrome&path=%2Fmobotouch&sni=mo.mobo22.com&insecure=0#new
 trojan://itX52H4tiA@151.101.34.144:443?mode=packet-up&path=%2Fda&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=networkzvx.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=0&sni=global.fastly.com#%F0%9F%94%B0%20%40PewezaTech%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?sni=38.54.64.247&fp=chrome&type=tcp&path=%2f#%f0%9f%87%bf%f0%9f%87%a6%20ZA%201
 trojan://l8zfHpgcZr@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan2
