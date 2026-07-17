@@ -1,9 +1,0 @@
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%203
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%204
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&sni=38.60.168.129&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%207
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&sni=38.60.168.129&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%206
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%202
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b2%f0%9f%87%be%20MY%201
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?sni=38.60.168.129&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%209
-trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?sni=38.60.168.129&path=%2f#%f0%9f%87%b2%f0%9f%87%be%20MY%205
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Lwn4e+IE1ZIDgiLCJhZGQiOiI0Ny4yNTAuMjE3LjEwOCIsInBvcnQiOjI1MDMxLCJpZCI6IjYyNmEyNWRjLTk3ZTMtNGQzOS05OGNiLTkzYjc4ZDRmODNjNyIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOm51bGwsInNuaSI6bnVsbCwiZnAiOm51bGx9
