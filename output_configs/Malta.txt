@@ -1,6 +1,8 @@
 ss://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.17.147.22:2096?encryption=none&type=ws&host=DiGIkALaA.dpdns.ORG&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=DiGIkALaA.dpdns.ORG#qmt_010
 ss://56c678a3-c08b-4148-a87b-4e041b680e6f@104.18.2.26:443?encryption=none&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=/ws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg#qmt_018
 ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?encryption=none&type=ws&host=8j3f7HD37h.PaGES.dEV&path=/PVlCNDt9CiMEktH3?ed%3D2560&security=tls&fp=chrome&sni=8j3f7HD37h.PaGES.dEV#qmt_031
+ss://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=pn.lox30shop.ir&path=%2F&security=tls&sni=pn.lox30shop.ir&type=ws#MTP-test
+ss://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.27.57.122:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=pn.lox30shop.ir&path=%2F&security=tls&sni=pn.lox30shop.ir&type=ws#MTP-test
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@104.18.160.63:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/?ed%3D2560&security=tls&fp=chrome&sni=a.azadnet003.ddns-ip.net#qmt_016
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@104.18.160.63:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/?ed%3D2560&security=tls&fp=randomized&sni=a.azadnet003.ddns-ip.net#qmt_017
 ss://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/telegram-@v2ray_alpha%3D?ed%3D2560&security=tls&fp=chrome&sni=a.azadnet003.ddns-ip.net#qmt_055
@@ -8,6 +10,8 @@ ss://da943f80-91e6-46df-b7ba-c6ecf28e0171@104.26.10.57:443?encryption=none&type=
 vless://2fb8808b-b94c-42ea-9dd2-cd77d2efcc8d@104.17.147.22:2096?encryption=none&type=ws&host=DiGIkALaA.dpdns.ORG&path=/eyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=DiGIkALaA.dpdns.ORG#qmt_010
 vless://56c678a3-c08b-4148-a87b-4e041b680e6f@104.18.2.26:443?encryption=none&type=ws&host=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg&path=/ws&security=tls&fp=chrome&sni=rAyAn-cOnFiG-de-1.pArSa.dPdNs.oRg#qmt_018
 vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?encryption=none&type=ws&host=8j3f7HD37h.PaGES.dEV&path=/PVlCNDt9CiMEktH3?ed%3D2560&security=tls&fp=chrome&sni=8j3f7HD37h.PaGES.dEV#qmt_031
+vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.18.24.41:8443?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=pn.lox30shop.ir&path=%2F&security=tls&sni=pn.lox30shop.ir&type=ws#MTP-test
+vless://88360a6d-0fd7-49ef-ad06-6397fc7a80e5@104.27.57.122:2087?alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&fp=chrome&host=pn.lox30shop.ir&path=%2F&security=tls&sni=pn.lox30shop.ir&type=ws#MTP-test
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.18.160.63:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/?ed%3D2560&security=tls&fp=chrome&sni=a.azadnet003.ddns-ip.net#qmt_016
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.18.160.63:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/?ed%3D2560&security=tls&fp=randomized&sni=a.azadnet003.ddns-ip.net#qmt_017
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@172.66.132.196:443?encryption=none&type=ws&host=a.azadnet003.ddns-ip.net&path=/telegram-@v2ray_alpha%3D?ed%3D2560&security=tls&fp=chrome&sni=a.azadnet003.ddns-ip.net#qmt_055
