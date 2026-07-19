@@ -1,2 +1,0 @@
-ss://6cfe049b-fd98-48be-93f3-2e1015bbc414@aoe5119534.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9D%97%97%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B6
-vless://6cfe049b-fd98-48be-93f3-2e1015bbc414@aoe5119534.dadashinet10.ir:2044?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%A6%F0%9F%87%AA%20%F0%9D%97%97%F0%9D%98%82%F0%9D%97%AF%F0%9D%97%AE%F0%9D%97%B6
