@@ -1,4 +1,5 @@
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
+ss://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&sni=pizzashop.dearhossein-taktaz.ir#new
 ss://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
 ss://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 ss://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
@@ -9,6 +10,7 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
+vless://1cbb57cd-47bb-4de5-9f1d-932fa81f8f96@pizzashop.dearhossein-taktaz.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&encryption=none&host=pizzashop.dearhossein-taktaz.ir&fp=firefox&type=ws&sni=pizzashop.dearhossein-taktaz.ir#new
 vless://2b47192f-1e0c-466d-bf3e-547fd8d62a2d@dl97.azmooniha.site:2086?type=ws&path=/&security=none#ENG-Aa64n-tunel
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
