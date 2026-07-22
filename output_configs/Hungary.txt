@@ -1,0 +1,2 @@
+ss://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.177:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#OpenRay%20%20HU-309
+vless://360c46b7-afe1-4e86-bfe1-ba09b5fcd8a6@45.198.87.177:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=2715592069f36fe7#OpenRay%20%20HU-309

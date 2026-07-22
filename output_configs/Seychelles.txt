@@ -1,0 +1,1 @@
+trojan://humanity@45.130.125.2:443/?type=ws&host=Www.cReaTIOnLONG.OrG&path=%2Fassignment&security=tls&sni=Www.cReaTIOnLONG.OrG#Seychelles_%F0%9F%87%B8%F0%9F%87%A8
