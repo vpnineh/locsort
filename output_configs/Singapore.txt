@@ -1,6 +1,2 @@
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
 hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
-ss://aac4f4aa-24b8-4112-8d94-9bbc4ffbeb2a@ansooyefilter-3x-ui-production-7511.up.railway.app:443?encryption=none&fp=chrome&host=ansooyefilter-3x-ui-production-7511.up.railway.app&path=%2Fws&security=tls&sni=ansooyefilter-3x-ui-production-7511.up.railway.app&type=ws#%F0%9F%87%B8%F0%9F%87%AC
-ss://e88cd70e-bbd6-472c-b0a6-a543eaea9014@ansooyefilter-3x-ui-production-7511.up.railway.app:443?encryption=none&fp=chrome&host=ansooyefilter-3x-ui-production-7511.up.railway.app&path=%2Fws&security=tls&sni=ansooyefilter-3x-ui-production-7511.up.railway.app&type=ws#%F0%9F%87%B8%F0%9F%87%AC
-vless://aac4f4aa-24b8-4112-8d94-9bbc4ffbeb2a@ansooyefilter-3x-ui-production-7511.up.railway.app:443?encryption=none&fp=chrome&host=ansooyefilter-3x-ui-production-7511.up.railway.app&path=%2Fws&security=tls&sni=ansooyefilter-3x-ui-production-7511.up.railway.app&type=ws#%F0%9F%87%B8%F0%9F%87%AC
-vless://e88cd70e-bbd6-472c-b0a6-a543eaea9014@ansooyefilter-3x-ui-production-7511.up.railway.app:443?encryption=none&fp=chrome&host=ansooyefilter-3x-ui-production-7511.up.railway.app&path=%2Fws&security=tls&sni=ansooyefilter-3x-ui-production-7511.up.railway.app&type=ws#%F0%9F%87%B8%F0%9F%87%AC
