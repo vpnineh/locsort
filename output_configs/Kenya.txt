@@ -1,0 +1,2 @@
+ss://40eb0d9f-6c4a-4e6b-99d1-c5e88c4556e8@myip.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%201
+vless://40eb0d9f-6c4a-4e6b-99d1-c5e88c4556e8@myip.check.nonpath.ir:42542?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%201
