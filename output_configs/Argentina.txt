@@ -1,8 +1,4 @@
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info#ARISTA
 ss://50414e45-4c5f-5a45-5553-983fd9b90e78@fullfreelearn.ir:8080?encryption=none&type=ws&host=zeus-panel-a136la.gh-ghanbari62.workers.dev&path=/stream/PANEL_ZEUS/50414e45&security=none&fragment=200-3000,1-2,#%F0%9F%8C%90%20%7C%20A64n%20%7C%20%E2%80%8Efullfreelearn.ir%20%7C%20%E2%80%8E8080
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.28:8080?type=tcp#ARISTA
-vless://14b59caf-a196-4ec2-8c70-c7b388062f5b@162.159.38.119:443?encryption=none&type=ws&host=vangoghhh.info&path=/rdfgtws&security=tls&sni=vangoghhh.info#ARISTA
 vless://50414e45-4c5f-5a45-5553-983fd9b90e78@fullfreelearn.ir:8080?encryption=none&type=ws&host=zeus-panel-a136la.gh-ghanbari62.workers.dev&path=/stream/PANEL_ZEUS/50414e45&security=none&fragment=200-3000,1-2,#%F0%9F%8C%90%20%7C%20A64n%20%7C%20%E2%80%8Efullfreelearn.ir%20%7C%20%E2%80%8E8080
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
-vmess://eyJpZCI6IjM1OGY0NGYwLTI2ODYtNDZjOC05Y2M2LWVjNTJhYmQ2NmRmNCIsImhvc3QiOiIiLCJwYXRoIjoiIiwiYWRkIjoiNjUuMTA5LjIxOS4xMjQiLCJuZXQiOiJ0Y3AiLCJwcyI6IkFSSVNUQSIsInNjeSI6ImF1dG8iLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwb3J0IjoiNTI1MjUifQ==
