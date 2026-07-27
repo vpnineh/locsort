@@ -12,6 +12,7 @@ ss://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.114.155:443?encryption=none&typ
 ss://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.118.132:2083?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast✨🔥✨
 ss://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.62.116:2096?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast🔥✨🔥✨
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+ss://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-ShadowProxy66%3Fed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#new
 ss://ehda@69.46.46.157:443?path=%2Fws%2Fehda&security=tls&encryption=none&alpn=http%2F1.1&host=node-6917430897-46d9b7-production.up.railway.app&fp=chrome&type=ws&sni=node-6917430897-46d9b7-production.up.railway.app#new
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@104.17.68.85:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n_new
@@ -28,5 +29,6 @@ vless://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.114.155:443?encryption=none&
 vless://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.118.132:2083?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast✨🔥✨
 vless://a515a71a-428d-45ef-8a41-8bbe04616e0e@104.17.62.116:2096?encryption=none&type=ws&host=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev&path=/&security=tls&fp=chrome&sni=nova-pearl-cloud-6a58.gh-ghanbari62.workers.dev#new%20panel-fast🔥✨🔥✨
 vless://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F%3FTELEGRAM-ShadowProxy66%3Fed&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#new
 vless://ehda@69.46.46.157:443?path=%2Fws%2Fehda&security=tls&encryption=none&alpn=http%2F1.1&host=node-6917430897-46d9b7-production.up.railway.app&fp=chrome&type=ws&sni=node-6917430897-46d9b7-production.up.railway.app#new
 vless://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
