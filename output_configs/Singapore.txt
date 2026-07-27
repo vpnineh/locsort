@@ -1,5 +1,3 @@
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp1.mangshe.xyz:2055/?insecure=1&sni=xjp1.mangshe.xyz#新加坡1
-hy2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000/?insecure=1&sni=bing.com#SG
 ss://29ca503d-e6b8-4509-b666-48133f450857@104.18.37.191:2087/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt%3Fed%3D2560&security=tls&sni=learn00.evany.de5.net&fp=random&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_15%7C4.7MB%2Fs
 ss://29ca503d-e6b8-4509-b666-48133f450857@104.18.38.78:2087/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&fp=random&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_17%7C3.9MB%2Fs
 ss://29ca503d-e6b8-4509-b666-48133f450857@104.18.40.56:443/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&sni=learn00.evany.de5.net&fp=random&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%ACSG_19%7C4.1MB%2Fs
