@@ -1,0 +1,2 @@
+ss://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@83.228.231.239:8080/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=www.yahoo.com&fp=chrome&security=reality&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&sid=4da5c8a61cc588e8#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%2083.228.231.239
+vless://e912f8d6-f59a-48b1-b5ad-bbe548d7ebf3@83.228.231.239:8080/?type=xhttp&encryption=none&flow=&path=%2F&mode=packet-up&sni=www.yahoo.com&fp=chrome&security=reality&pbk=bkj8m8COBtgcxZZ0ankB6vbxWRwnnreXjDTZA5CUVB0&sid=4da5c8a61cc588e8#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%2083.228.231.239

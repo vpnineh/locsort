@@ -1,0 +1,2 @@
+trojan://IQ68037294@108.130.91.15:443/?type=tcp&security=tls&sni=adapting-ghost.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%2080
+trojan://OD90375861@18.202.244.191:443/?type=tcp&security=tls&sni=fit-calf.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AA%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%2075
