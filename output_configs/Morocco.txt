@@ -56,6 +56,7 @@ ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@144.126.193.192:41941/?encryption=none
 ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@165.232.100.206:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%284%29
 ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@167.99.203.130:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2812%29
 ss://85cd2659-7cef-4b2b-9206-f88d31bbcbc9@45.77.140.249:440/?type=tcp&encryption=none&flow=#%40VpnMaan%2023
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@clo.monobit.ir:2052?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=ru.tyvonsadweb.ir#%F0%9F%87%B7%F0%9F%87%B4%20ROMANIA%20DR
 ss://ac28d81f-8950-41fc-848e-68c8d420ef45@209.38.218.6:29181/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2011
 ss://aeaa2919-cec1-4d04-a752-594aa6b8b75f@165.22.119.251:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2821%29
 ss://aeaa2919-cec1-4d04-a752-594aa6b8b75f@46.101.82.131:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%288%29
@@ -130,6 +131,7 @@ vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@144.126.193.192:41941/?encryption=n
 vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@165.232.100.206:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%284%29
 vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@167.99.203.130:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2812%29
 vless://85cd2659-7cef-4b2b-9206-f88d31bbcbc9@45.77.140.249:440/?type=tcp&encryption=none&flow=#%40VpnMaan%2023
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@clo.monobit.ir:2052?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=ru.tyvonsadweb.ir#%F0%9F%87%B7%F0%9F%87%B4%20ROMANIA%20DR
 vless://ac28d81f-8950-41fc-848e-68c8d420ef45@209.38.218.6:29181/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2011
 vless://aeaa2919-cec1-4d04-a752-594aa6b8b75f@165.22.119.251:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2821%29
 vless://aeaa2919-cec1-4d04-a752-594aa6b8b75f@46.101.82.131:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%288%29

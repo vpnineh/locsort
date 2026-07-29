@@ -1,0 +1,4 @@
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@45.76.182.147:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=asiaa.global.ssl.fastly.net#%F0%9F%87%B8%F0%9F%87%AC%20fastly%20SINGAPORE
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@clo.monobit.ir:2052?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=sing.musichubmel.ir#%F0%9F%87%B8%F0%9F%87%AC%20SINGAPORE%20DR
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@45.76.182.147:80?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=asiaa.global.ssl.fastly.net#%F0%9F%87%B8%F0%9F%87%AC%20fastly%20SINGAPORE
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@clo.monobit.ir:2052?encryption=none&security=none&type=httpupgrade&headerType=none&path=%2F&host=sing.musichubmel.ir#%F0%9F%87%B8%F0%9F%87%AC%20SINGAPORE%20DR

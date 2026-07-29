@@ -1,2 +1,6 @@
 ss://48059138-8fee-5282-a7dc-791c75541ff8@google.com:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=google.com&alpn=h2%2Chttp%2F1.1#fakeproxy-out
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@10.15.176.114:9094?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%F0%9F%90%B6%20%CB%A3%C2%B2
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@trk.musichubmel.ir:44030?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20%20TORKEY%20DR
 vless://48059138-8fee-5282-a7dc-791c75541ff8@google.com:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=google.com&alpn=h2%2Chttp%2F1.1#fakeproxy-out
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@10.15.176.114:9094?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%F0%9F%90%B6%20%CB%A3%C2%B2
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@trk.musichubmel.ir:44030?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%B9%F0%9F%87%B7%20%20TORKEY%20DR
