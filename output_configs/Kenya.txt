@@ -1,0 +1,2 @@
+ss://48059138-8fee-5282-a7dc-791c75541ff8@google.com:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=google.com&alpn=h2%2Chttp%2F1.1#fakeproxy-out
+vless://48059138-8fee-5282-a7dc-791c75541ff8@google.com:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=google.com&alpn=h2%2Chttp%2F1.1#fakeproxy-out

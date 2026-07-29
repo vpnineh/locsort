@@ -1,0 +1,2 @@
+ss://6771b88d-c041-407c-984e-b33593a806cd@sr.novatechsapr.ir:80/?type=ws&encryption=none&flow=&host=sr.novatechsapr.ir&path=%2F#2t6p7jlqTlgrm_turboae_Test_1
+vless://6771b88d-c041-407c-984e-b33593a806cd@sr.novatechsapr.ir:80/?type=ws&encryption=none&flow=&host=sr.novatechsapr.ir&path=%2F#2t6p7jlqTlgrm_turboae_Test_1

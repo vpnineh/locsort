@@ -1,2 +1,4 @@
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
+ss://a55f484d-2d20-4a02-828e-7a526148dfa9@world.asperwild.com:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=world.asperwild.com&fp=chrome&security=reality&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=755a050c139dbfc8#%F0%9F%87%AC%F0%9F%87%A7Britain
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:80?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=none#Aa64n%F0%9F%87%A7%F0%9F%87%B7
+vless://a55f484d-2d20-4a02-828e-7a526148dfa9@world.asperwild.com:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=world.asperwild.com&fp=chrome&security=reality&pbk=hLlhnCZGMfjakOk2U1uDynwnqG0z4A8HSE4cu-lrrzo&sid=755a050c139dbfc8#%F0%9F%87%AC%F0%9F%87%A7Britain

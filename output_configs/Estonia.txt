@@ -1,0 +1,2 @@
+ss://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&fp=chrome&security=reality&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07#bugFreenet
+vless://971adc95-c9f1-437c-8964-8dbdaaaec2b8@94.126.204.93:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandexcloud.net&fp=chrome&security=reality&pbk=97m6bc1WSj1DJ-QzBU6Fx5s0NxA4uSvVKTcZAcjlHF8&sid=138dcd25cce7ab07#bugFreenet

@@ -10,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%F0%9F%87%B3%F0%9F%87%B1NL%20%20ROSE%E2%80%9455
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%2014
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0176
 ss://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444/?type=grpc&encryption=none&flow=&serviceName=auragrpc&sni=cloudflare.com&fp=qq&security=reality&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&sid=d6b2e9f1a4c8d3f5#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
 trojan://FC60532879@89.39.70.208:443/?type=tcp&security=tls&sni=actual-aardvark.rooster465.autos&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%2021
 trojan://XG59623478@193.169.239.76:443/?type=tcp&security=tls&sni=renewed-chigger.rooster465.autos&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%2025
