@@ -53,6 +53,8 @@ hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52081/?sni=assets.gateway-strea
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52082/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cy5hc4e02q6o5hcp#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52083/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=6e232hr6a65ce4xg#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://76TeSy4hi8@51.159.137.79:55809/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%B5%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%B5
+hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇬🇧英国
+hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@82.47.32.31:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇭🇰香港
 hy2://CakZRUUlundefinedS@91.107.152.188:40460/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AAhy
 hy2://DBUklcvOyH@45.81.19.251:443/?insecure=1&sni=web.bale.ai#Wiski
 hy2://EaDTeupk9I@91.107.178.22:43913/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
