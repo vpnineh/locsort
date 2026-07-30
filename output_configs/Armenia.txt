@@ -37,7 +37,6 @@ ss://8cf9848f-76ae-44a7-adc5-cfd0ab4c9f5a@marzban-node-production-081bc.up.railw
 ss://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666/?type=ws&encryption=none&flow=&path=%2Fproxy&security=tls&sni=43.164.0.59&allowInsecure=1#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880/?type=grpc&encryption=none&flow=#amir
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-Aa64n%20type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#@A64N-1
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@ccl.musichubmel.ir:2082?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=azer.musichubmel.ir#%F0%9F%87%A6%F0%9F%87%BF%20AZERBAIJAN%20GAMING
 ss://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&sid=abcd1234#hamedvpns%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 ss://9a38fa2a-e626-4263-aa9e-b84eaaa6a37c@172.65.99.23:25565/?type=tcp&encryption=none&flow=#%40bamanetorg
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#hamedvpns%F0%9F%87%AE%F0%9F%87%B3IN%20IN-17
@@ -141,7 +140,6 @@ vless://8cf9848f-76ae-44a7-adc5-cfd0ab4c9f5a@marzban-node-production-081bc.up.ra
 vless://8d5e7f2a-3c1b-4d9e-a6f8-2b5c0e7d4a19@43.164.0.59:666/?type=ws&encryption=none&flow=&path=%2Fproxy&security=tls&sni=43.164.0.59&allowInsecure=1#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@151.115.164.129:8880/?type=grpc&encryption=none&flow=#amir
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-Aa64n%20type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#@A64N-1
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ccl.musichubmel.ir:2082?encryption=none&security=none&type=ws&headerType=none&path=%2F&host=azer.musichubmel.ir#%F0%9F%87%A6%F0%9F%87%BF%20AZERBAIJAN%20GAMING
 vless://98de0f0d-faec-43e1-ab40-a3bd6d91ceb8@132.243.254.58:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.google.com&fp=chrome&security=reality&pbk=BR69ZK8WI9lWKssofXxe45kViW7TcBoIPKv5aZI4uxE&sid=abcd1234#hamedvpns%3A%3A%F0%9F%87%A6%F0%9F%87%B9
 vless://9a38fa2a-e626-4263-aa9e-b84eaaa6a37c@172.65.99.23:25565/?type=tcp&encryption=none&flow=#%40bamanetorg
 vless://a0addfd6-969a-43ea-a3ea-c2392b2e06a8@157.22.183.74:19984/?type=ws&encryption=none&flow=&host=%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN%2FBegoo_VPN&path=%2F#hamedvpns%3A%3A%F0%9F%87%B3%F0%9F%87%B1

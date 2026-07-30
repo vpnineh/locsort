@@ -6,12 +6,6 @@ ss://40a9bfd0-c0e4-4736-a8c3-1ae41ef0fdb3@89.125.48.179:443/?type=tcp&encryption
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 ss://8bba3194-4856-46d1-8319-075817d87eb1@185.76.243.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl3.cyphervpn.pro&fp=firefox&security=reality&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20202
 ss://8bba3194-4856-46d1-8319-075817d87eb1@31.77.131.16:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl6.cyphervpn.pro&fp=firefox&security=reality&pbk=-KXksmJF8nKxlRkGQmQUxTaL8bwo9ovMWtM5eDFVqx8&sid=a90b11965b93922b#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20268
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@185.143.234.5:2082?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=network.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL3
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@185.143.234.95:2095?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=money.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@Noah.dl-rockstargame.ir:554?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL3%20%7C%20TCP
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@Sophia.dl-rockstargame.ir:553?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL2%20%7C%20TCP
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@arvancloud.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=money.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL2
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@west.egistration.ir:552?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TCP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.203:8080#%F0%9F%87%B3%F0%9F%87%B1NL%20%20ROSE%E2%80%9455
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%2014
@@ -26,10 +20,4 @@ vless://40a9bfd0-c0e4-4736-a8c3-1ae41ef0fdb3@89.125.48.179:443/?type=tcp&encrypt
 vless://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
 vless://8bba3194-4856-46d1-8319-075817d87eb1@185.76.243.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl3.cyphervpn.pro&fp=firefox&security=reality&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20202
 vless://8bba3194-4856-46d1-8319-075817d87eb1@31.77.131.16:2443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl6.cyphervpn.pro&fp=firefox&security=reality&pbk=-KXksmJF8nKxlRkGQmQUxTaL8bwo9ovMWtM5eDFVqx8&sid=a90b11965b93922b#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20268
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@185.143.234.5:2082?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=network.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL3
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@185.143.234.95:2095?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=money.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@Noah.dl-rockstargame.ir:554?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL3%20%7C%20TCP
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@Sophia.dl-rockstargame.ir:553?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL2%20%7C%20TCP
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@arvancloud.ir:2052?encryption=none&security=none&type=ws&headerType=none&path=%2Fpulse&host=money.dl-rockstargame.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL2
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@west.egistration.ir:552?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TCP
 vless://b05346a9-4d13-41a4-8d2a-6b7b64e73ffc@31.77.131.97:8444/?type=grpc&encryption=none&flow=&serviceName=auragrpc&sni=cloudflare.com&fp=qq&security=reality&pbk=DYhUefVTZg0ol7QLdgp6hqcZ_TjIt02uoZk8iQz4WHM&sid=d6b2e9f1a4c8d3f5#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
