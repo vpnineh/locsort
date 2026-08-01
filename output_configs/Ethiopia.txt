@@ -1,1 +1,2 @@
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@107.181.134.90:443/?sni=wopa7.api3-max.ru#channel→@networld_vpn
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
