@@ -8,6 +8,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.174:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.34-0088
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.49-0170
 ss://YWVzLTI1Ni1nY206TGV2aWtvX3YycmF5@0.0.0.0:443#%E2%8F%B013%20days%20%F0%9F%93%8A%20%E2%88%9E%20GB
+ss://ded5ee4f-9f6c-426d-971d-d817b1c2a618@28days:9999?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%93%8A16.6%20GB%20-%20%E2%8F%B328%20
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://7124626c-9341-48a6-b89f-2ec1e96fba33@104.16.72.110:2053/?type=ws&encryption=none&flow=&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&path=%2FeyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev#%F0%9F%87%AC%F0%9F%87%A7
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
+vless://ded5ee4f-9f6c-426d-971d-d817b1c2a618@28days:9999?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%93%8A16.6%20GB%20-%20%E2%8F%B328%20

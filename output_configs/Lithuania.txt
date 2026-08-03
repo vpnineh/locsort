@@ -1,4 +1,0 @@
-ss://061fce9e-b2a1-49ad-b5ca-c324ca056719@clyde.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=dooors.info&host=dooors.info&path=%2Fuxtsows#Ultra
-ss://e77965cf-ccf6-4aa9-ba3c-cbe60afef954@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=cloudwaytest.info&host=cloudwaytest.info&path=%2Fbsatews#Ultra
-vless://061fce9e-b2a1-49ad-b5ca-c324ca056719@clyde.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=dooors.info&host=dooors.info&path=%2Fuxtsows#Ultra
-vless://e77965cf-ccf6-4aa9-ba3c-cbe60afef954@meg.ns.cloudflare.com:443?encryption=none&security=tls&type=ws&sni=cloudwaytest.info&host=cloudwaytest.info&path=%2Fbsatews#Ultra
