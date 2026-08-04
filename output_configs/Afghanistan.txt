@@ -1,2 +1,0 @@
-ss://917d6f07-d77d-693d-f8f7-150847ec68fe@af.ebrapro.ir:44030?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%BF%F0%9F%87%A6%20AFRICA%20DR
-vless://917d6f07-d77d-693d-f8f7-150847ec68fe@af.ebrapro.ir:44030?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#%F0%9F%87%BF%F0%9F%87%A6%20AFRICA%20DR
