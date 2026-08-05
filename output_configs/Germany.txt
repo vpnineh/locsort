@@ -1,7 +1,6 @@
 hy2://2ef4cf10-34df-4c0f-9d82-bf6ca9e45025@node-degame.bangboonet.ru:443/?sni=node-degame.bangboonet.ru#德国
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga5.api3-max.ru:443/?sni=taga5.api3-max.ru#🇩🇪德国
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga8.api3-max.ru:443/?sni=taga8.api3-max.ru#🇩🇪德国
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#🇩🇪德国
+hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#德国
 hy2://8645697d-51c1-4e90-aca5-ba63a0392f11@cze-01.node.lumixnet.com:443/?sni=cze-01.node.lumixnet.com#德国
 hy2://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@de2.sunconnecthub.com:443/?sni=de2.sunconnecthub.com#🇩🇪德国
 hy2://CakZRUUlundefinedS@91.107.152.188:40460/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AAhy
