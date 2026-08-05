@@ -120,6 +120,7 @@ hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=qu
 hy2://d1224950-ffab-4b9a-8696-431b40a6cfbd@bel-03.node.lumixnet.com:443/?sni=bel-03.node.lumixnet.com#德国
 hy2://elknam6l7izf3z71@95.217.96.131:52021/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#%F0%9F%87%AB%F0%9F%87%AE109138%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
 hy2://elknam6l7izf3z71@95.217.96.131:52051/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l6l4n5a0q9epnr5k#%F0%9F%87%B3%F0%9F%87%B4%20T5
+hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#荷兰
 hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#🇫🇷法国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@185.79.138.71:8443/?sni=hopp-legend-se.roxa.org#芬兰
 hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#US🇺🇸
