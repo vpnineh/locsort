@@ -1,3 +1,4 @@
+hy2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#意大利
 ss://137a4bd1-c389-443f-9259-106eb3171999@help.footballfantasyforum.com:3456?type=tcp&security=tls&headerType=none&sni=xmlned1.footballfantasyforum.com&alpn=h2,http/1.1#anonymith-ned1
 ss://3185c9f6-02c1-4d7c-8dea-f6a543ffd77d@157.245.46.192:13336?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United
 ss://3185c9f6-02c1-4d7c-8dea-f6a543ffd77d@206.189.127.75:13336?type=tcp&encryption=none&path=%2F&host=play.google.com&headerType=http&security=none#United
