@@ -3,6 +3,7 @@ hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@taga8.api3-max.ru:443/?sni=taga8.api3
 hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#德国
 hy2://8645697d-51c1-4e90-aca5-ba63a0392f11@cze-01.node.lumixnet.com:443/?sni=cze-01.node.lumixnet.com#德国
 hy2://8ffbff3b-12c9-4d49-af97-93a8d6cb4edb@de2.sunconnecthub.com:443/?sni=de2.sunconnecthub.com#🇩🇪德国
+hy2://9d3356a0-c07e-43cc-b30e-450bd50521b8@dg1.mangshe.xyz:2056/?insecure=1&sni=dg1.mangshe.xyz#🇩🇪DE
 hy2://CakZRUUlundefinedS@91.107.152.188:40460/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AAhy
 hy2://EaDTeupk9I@91.107.178.22:43913/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hy2://HYi0xllvAM@91.107.178.22:443/?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20t-me-V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
