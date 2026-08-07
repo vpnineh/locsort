@@ -119,7 +119,6 @@ ss://9a88c105-9cb0-4092-acde-723eba07d762@95.85.252.202:31090/?type=tcp&encrypti
 ss://9aa22854-b213-44c1-b966-14284fce33df@89.110.84.36:31067/?type=tcp&encryption=none&flow=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 ss://9b7388b9-8c8c-4a86-b518-da32df36e6c6@2.26.89.153:38733/?type=grpc&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
 ss://9b7388b9-8c8c-4a86-b518-da32df36e6c6@kcf.tarfiq.ir:38733/?type=grpc&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=CXOpQI3hwCqEp5ul2SKWfdAK-PBjjzUn-eRb7bAxDgU&sid=09e78c1d381f98ed#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B9%F0%9F%87%B7
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206MHo1akxwOC9YZ2JGZk1nWHlWT2R6Zz09QDEwNy4xNTAuNS4xNDE6Mjg1NTk=#Shadowsocks-2022-melancholy
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UzVSQ0k2Z0o2U1VPY2RuTnBjRWdSMVVWemlkKzhPOC8rRGNlVVNIRG5Gcz06aWZmZ2RQU1I4Zzc1dDQ5bjN4Q2I5K09HMldHSlRqVWhvaHBQb0hOVDU5OD0@94.101.184.47:2052#%E2%9A%AA%20%40IraneAzad_News%20423
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2V2NpbVVTaVQxcmZWTTF2@20.107.187.192:443#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%AE%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
