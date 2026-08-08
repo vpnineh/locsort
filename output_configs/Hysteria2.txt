@@ -106,6 +106,8 @@ hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443/?sni=grape-zet-tur
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#荷兰
 hy2://RWn1s1QBjJ@212.74.39.202:2087/?insecure=1&sni=www.oracle.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%AC%F0%9F%87%A7%20Telegram%20%3D%20V2RayyNGvpn%20%F0%9F%87%AC%F0%9F%87%A7
 hy2://STYyftThFn@freedom.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#🇯🇵JP
+hy2://STYyftThFn@freedom.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#🇷🇴137070
+hy2://STYyftThFn@soskeynets.chenlan.top:12765/?insecure=1&sni=freedom.chenlan.top#🇷🇴137070
 hy2://T-me-V2RayyNGvpn@91.107.178.22:443/?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20Telegram%20%3D%20V2RayyNGvpn%202%F0%9F%87%A9%F0%9F%87%AA
 hy2://V2RayyNGvpn@91.107.178.22:443/?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20Telegram%20%3D%20V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
 hy2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443/?sni=hopp-us.yyuyy.com#🇺🇸美国
