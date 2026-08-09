@@ -12,6 +12,7 @@ hy2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253/?insecure=1&s
 hy2://bd37d63b-c75d-3e48-acbf-1d5954fe9cdc@usaw2.awo-link.com:14101/?sni=usaw2.awo-link.com&obfs=salamander&obfs-password=XBvVbvzQCq6Ovbnh#🇺🇸US
 hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#美国
 hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#🇺🇸US
+hy2://e0c7af35-e2db-47c7-b1a3-ce5ec0dd0474@hy2-us.frdmhere.com:8458/?sni=hy2.frdmhere.com#美国
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@us4.xiaoliyu.cyou:443/?mport=22000-27000&insecure=1#美国
 hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#US🇺🇸
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#1236%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
