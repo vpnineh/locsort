@@ -71,7 +71,6 @@ hy2://71cada65-d23e-418c-88e4-a06188d14689@144.31.166.91:443/?sni=de-two.quiet-r
 hy2://71cada65-d23e-418c-88e4-a06188d14689@de-two.quiet-rogue.site:443/?sni=de-two.quiet-rogue.site#德国
 hy2://71cada65-d23e-418c-88e4-a06188d14689@it-one.quiet-rogue.site:443/?sni=it-one.quiet-rogue.site#意大利
 hy2://76TeSy4hi8@51.159.137.79:55809/?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#%F0%9F%87%A8%F0%9F%87%B5%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%B5
-hy2://8645697d-51c1-4e90-aca5-ba63a0392f11@cze-01.node.lumixnet.com:443/?sni=cze-01.node.lumixnet.com#德国
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl2.unlockvpn.online:10808/?sni=nl2.unlockvpn.online#荷兰
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl6.unlockvpn.online:10808/?insecure=1&sni=nl6.unlockvpn.online#🇨🇭瑞士
@@ -89,6 +88,7 @@ hy2://DBUklcvOyH@45.81.19.251:443/?insecure=1&sni=web.bale.ai#Wiski
 hy2://EaDTeupk9I@91.107.178.22:43913/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.29:443/?insecure=1#🇭🇰HK
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.89.239:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#韩国
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇫🇷138894
 hy2://HYi0xllvAM@91.107.178.22:443/?insecure=1&sni=www.refersion.com&obfs=salamander&obfs-password=RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak#%F0%9F%87%A9%F0%9F%87%AA%20t-me-V2RayyNGvpn%20%F0%9F%87%A9%F0%9F%87%AA
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.119:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.120:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#德国
