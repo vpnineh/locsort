@@ -56,6 +56,8 @@ ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@144.126.193.192:41941/?encryption=none
 ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@165.232.100.206:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%284%29
 ss://81f9b6e0-638a-4e94-9119-f93909b6bebd@167.99.203.130:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2812%29
 ss://85cd2659-7cef-4b2b-9206-f88d31bbcbc9@45.77.140.249:440/?type=tcp&encryption=none&flow=#%40VpnMaan%2023
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@om.hyperlinkbt.com:11167?encryption=none&type=tcp&headerType=none&security=tls&sni=afr-data-15.myket.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60#%F0%9F%87%B4%F0%9F%87%B2%20Oman%20%E2%85%93
+ss://917d6f07-d77d-693d-f8f7-150847ec68fe@ro.hyperlinkbt.com:11154?encryption=none&type=tcp&headerType=none&security=tls&sni=afr-data-15.myket.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%E2%85%93
 ss://ac28d81f-8950-41fc-848e-68c8d420ef45@209.38.218.6:29181/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2011
 ss://aeaa2919-cec1-4d04-a752-594aa6b8b75f@165.22.119.251:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2821%29
 ss://aeaa2919-cec1-4d04-a752-594aa6b8b75f@46.101.82.131:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%288%29
@@ -130,6 +132,8 @@ vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@144.126.193.192:41941/?encryption=n
 vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@165.232.100.206:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%284%29
 vless://81f9b6e0-638a-4e94-9119-f93909b6bebd@167.99.203.130:41941/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2812%29
 vless://85cd2659-7cef-4b2b-9206-f88d31bbcbc9@45.77.140.249:440/?type=tcp&encryption=none&flow=#%40VpnMaan%2023
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@om.hyperlinkbt.com:11167?encryption=none&type=tcp&headerType=none&security=tls&sni=afr-data-15.myket.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60#%F0%9F%87%B4%F0%9F%87%B2%20Oman%20%E2%85%93
+vless://917d6f07-d77d-693d-f8f7-150847ec68fe@ro.hyperlinkbt.com:11154?encryption=none&type=tcp&headerType=none&security=tls&sni=afr-data-15.myket.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&pcs=4ece5a77f6cb0657ebc4b07848417428b492cf53d500c50d2b1bede9c39d0a60#%F0%9F%87%B7%F0%9F%87%B4%20Romania%20%E2%85%93
 vless://ac28d81f-8950-41fc-848e-68c8d420ef45@209.38.218.6:29181/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2011
 vless://aeaa2919-cec1-4d04-a752-594aa6b8b75f@165.22.119.251:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2821%29
 vless://aeaa2919-cec1-4d04-a752-594aa6b8b75f@46.101.82.131:59421/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%288%29
