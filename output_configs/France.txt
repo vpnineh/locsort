@@ -1,6 +1,6 @@
 hy2://5bc8aea0-04a6-4fcf-9a04-1a51518396a8@129.151.250.154:35000/?insecure=1&sni=www.lamer.com.hk#法国
 hy2://95e8532b-cc69-42d4-9553-e3c23292b15b@iq5ny.pleiades.codes:8443/?sni=iq5ny.pleiades.codes#法国
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.213.137:443?insecure=1&sni=speedtest.tinkoff.ru&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇫🇷138894
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.180.193.231:443?insecure=1&sni=whatsapp.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇫🇷139094
 hy2://d1a0857bc1eb833a9edf96be4c1f999e@host-vds2-fr.kvncococ.org:55443/?sni=host-vds2-fr.kvncococ.org#法国
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#法国
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20126ms
