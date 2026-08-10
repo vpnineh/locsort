@@ -1,3 +1,4 @@
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.97.11.1:443?insecure=1&sni=whatsapp.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦139543
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.50:443/?type=ws&encryption=none&flow=&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info#OpenRay%20%20CA-21923
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 ss://917d6f07-d77d-693d-f8f7-150847ec68fe@home.hyperlinkun.com:2096?encryption=none&security=tls&type=ws&headerType=none&path=%2F&host=cana.musichubmel.ir&sni=cana.musichubmel.ir&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%20%F0%9D%90%82%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%9A%F0%9D%90%9D%F0%9D%90%9A%20%E1%B4%85%CA%80
