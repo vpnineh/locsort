@@ -1,0 +1,2 @@
+ss://c80db5a4-2271-453a-b27b-7b4adce3c0f7@3x-ui-production-b035.up.railway.app:443?path=%2Fin1&security=tls&encryption=none&host=3x-ui-production-b035.up.railway.app&type=ws&sni=3x-ui-production-b035.up.railway.app#8081-uajt2t89sr%7C%F0%9F%93%8A49.87GB%7C%E2%8F%B389D
+vless://c80db5a4-2271-453a-b27b-7b4adce3c0f7@3x-ui-production-b035.up.railway.app:443?path=%2Fin1&security=tls&encryption=none&host=3x-ui-production-b035.up.railway.app&type=ws&sni=3x-ui-production-b035.up.railway.app#8081-uajt2t89sr%7C%F0%9F%93%8A49.87GB%7C%E2%8F%B389D

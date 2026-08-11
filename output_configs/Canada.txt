@@ -1,3 +1,4 @@
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@99.79.62.65:443?insecure=1&sni=google.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇨🇦140465
 ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@104.16.72.50:443/?type=ws&encryption=none&flow=&host=vangoghhh.info&path=%2Frdfgtws&security=tls&sni=vangoghhh.info#OpenRay%20%20CA-21923
 ss://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?type=ws&host=alecruiz.pages.dev&path=/TELEGRAM-PROXY_MTM/?ed%3D2560&security=tls&fp=randomized&sni=alecruiz.pages.dev&alpn=h2,http/1.1#%5B%F0%9F%87%A8%F0%9F%87%A6%5DAa64n%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
