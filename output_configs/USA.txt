@@ -228,6 +228,7 @@ trojan://humanity@162.159.38.119:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@165.215.250.14:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@198.202.211.1:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@208.103.161.170:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@141.193.213.190:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@159.223.194.58:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8
