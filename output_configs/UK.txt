@@ -1,3 +1,4 @@
+hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056/?insecure=1&sni=yg3.mangshe.xyz#🇬🇧GB
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#英国
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#英国
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#英国
