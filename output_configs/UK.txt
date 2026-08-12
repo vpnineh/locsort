@@ -1,6 +1,5 @@
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#英国
 hy2://99800091-8337-4112-8756-8cc60eb1ffa8@nl7.unlockvpn.online:10808/?sni=nl7.unlockvpn.online#英国
-hy2://9abff4cd-ac3b-40ce-a3e7-f71f445d670f@5.183.102.113:443/?mport=50000-53000&insecure=1&sni=iosapps.itunes.apple.com#🇬🇧英国
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#英国
 ss://7124626c-9341-48a6-b89f-2ec1e96fba33@104.16.72.110:2053/?type=ws&encryption=none&flow=&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&path=%2FeyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev#%F0%9F%87%AC%F0%9F%87%A7
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
