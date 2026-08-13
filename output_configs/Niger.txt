@@ -4,12 +4,14 @@ ss://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&flow
 ss://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 ss://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+ss://68b6c08e-8ee6-55e9-5ac9-ca551ce9a0db@159.89.198.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e&sni=www.apple.com#new
 ss://7a657573-2b15-7da4-f946-ea01958fc999@0.0.0.0:1?encryption=none&security=none&type=ws&host=amz7goecubds.qiz56mebupbs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999#new
 ss://7a657573-2b15-7da4-f946-ea01958fc999@amz7goecubds.qiz56mebupbs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999&security=none&encryption=none&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws#new
 ss://7a657573-7d3c-ff65-ebed-bdfc484fe288@0.0.0.0:1?encryption=none&security=none&type=ws&host=klz9ipeuubas.9uz3s8e2u0zs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fbdfc484fe288#new
 ss://7a657573-7d3c-ff65-ebed-bdfc484fe288@klz9ipeuubas.9uz3s8e2u0zs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2Fbdfc484fe288&security=none&encryption=none&host=klz9ipeuubas.9uz3s8e2u0zs.workers.dev&fp=ios&type=ws#%new
 ss://7ce368f1-a89a-4a1f-88f0-6f5ec6a22713@amir.ovh:80?type=ws&host=komoakol.com&path=/admintwebnandmci/wild/?ed%3D2048&security=none#Aa64n_new
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.21.1.102:2053?type=ws&host=aa64-m.amiralinorozjam.workers.dev&path=/8U0FFbIzdOiYUDmf?ed%3D2560&security=tls&fp=randomized&sni=Aa64-m.AmIRalInoROZjAM.WorKeRS.DeV&alpn=h2,http/1.1#Aa64n-newbpb
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206RjQzSk1aL0Y4c1hrcTZ4ODVJdWkrdz09OjhtWlpYTUUwYjZRL05ma1YrWGlVaUE9PQ==@panel.gamavpn1.li:45167?type=tcp#new
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvb2psUlQ2Vm13bVNPa0dRMEpIZkdXTHNXbmRiSDVFRnVCbGZxcklxczdzPQ==@panel.gamavpn1.li:44553?type=tcp#new
 ss://c6d71ba0-81be-4ed9-ae6e-424e39a8f5cd@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
 ss://f228d9bc-8e4d-4b40-ae64-4b8e84f94575@62.60.178.63:443?type=xhttp&mode=auto&path=/&security=none#test-new2
@@ -19,6 +21,7 @@ vless://5bcf762d-8204-4791-a7cf-1b816eceef61@194.87.29.240:443?encryption=none&f
 vless://5bcf762d-8204-4791-a7cf-1b816eceef61@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@194.87.29.240:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=edge&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=82c8140feb118043#new2026
 vless://64d73b4c-c837-40a0-8671-5b9b14d24dc6@94.141.123.233:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=cdnjs.com&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&sid=fc7a526a7e61ba3b#new2026
+vless://68b6c08e-8ee6-55e9-5ac9-ca551ce9a0db@159.89.198.1:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&pbk=uDC0dV4encJJZ84nnweP4g8ggzgaxGGphSYfhV2ATxw&sid=0963b9822ae8b87e&sni=www.apple.com#new
 vless://7a657573-2b15-7da4-f946-ea01958fc999@0.0.0.0:1?encryption=none&security=none&type=ws&host=amz7goecubds.qiz56mebupbs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999#new
 vless://7a657573-2b15-7da4-f946-ea01958fc999@amz7goecubds.qiz56mebupbs.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2Fea01958fc999&security=none&encryption=none&host=amz7goecubds.qiz56mebupbs.workers.dev&fp=ios&type=ws#new
 vless://7a657573-7d3c-ff65-ebed-bdfc484fe288@0.0.0.0:1?encryption=none&security=none&type=ws&host=klz9ipeuubas.9uz3s8e2u0zs.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fbdfc484fe288#new
