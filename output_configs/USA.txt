@@ -38,6 +38,12 @@ ss://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:2082?encryption=none&type
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.97.3:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiTVF2MTgwTjgwcVNGWU15IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Aa64n%F0%9F%87%BA%F0%9F%87%B8
 ss://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.119:443/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-EastLosAngeles-228ms-Cloudflare%20Inc.
 ss://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.119:443/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&allowInsecure=1#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-EastLosAngeles-73ms-Cloudflare%20Inc.%20%282%29
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@13.59.152.140:27775?type=tcp&encryption=none&security=none#us
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none#us
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@18.223.15.23:27775?type=tcp&encryption=none&security=none#us
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@18.226.97.47:27775?type=tcp&encryption=none&security=none#us
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@3.144.136.246:27775?type=tcp&encryption=none&security=none#us
+ss://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?type=tcp&encryption=none&security=none#us
 ss://367077c8-ebe4-4777-a32c-13911a5cb755@usa.lucypro.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%BA%F0%9F%87%B8%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%94
 ss://3857c126-6475-4dd7-d219-2e1d8fd43684@154.64.228.51:44194/?type=ws&encryption=none&flow=&path=%2F#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-LosAngeles-52ms-NetLab%20Global
 ss://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087/?type=ws&encryption=none&flow=&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&security=tls&sni=valid22.validbv9501.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
@@ -251,6 +257,12 @@ vless://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.96.3:2082?encryption=none&t
 vless://28e96d9a-56d0-481a-a07c-b015009a0593@188.114.97.3:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiTVF2MTgwTjgwcVNGWU15IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=none#Aa64n%F0%9F%87%BA%F0%9F%87%B8
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.119:443/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-EastLosAngeles-228ms-Cloudflare%20Inc.
 vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.38.119:443/?type=ws&encryption=none&flow=&host=learn00.evany.de5.net&path=%2Ffdip&security=tls&sni=learn00.evany.de5.net&allowInsecure=1#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-EastLosAngeles-73ms-Cloudflare%20Inc.%20%282%29
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@13.59.152.140:27775?type=tcp&encryption=none&security=none#us
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.217.238.49:27775?type=tcp&encryption=none&security=none#us
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.223.15.23:27775?type=tcp&encryption=none&security=none#us
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.226.97.47:27775?type=tcp&encryption=none&security=none#us
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.144.136.246:27775?type=tcp&encryption=none&security=none#us
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@3.21.75.34:27775?type=tcp&encryption=none&security=none#us
 vless://367077c8-ebe4-4777-a32c-13911a5cb755@usa.lucypro.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%BA%F0%9F%87%B8%F0%9D%97%A8%F0%9D%97%A6%F0%9D%97%94
 vless://3857c126-6475-4dd7-d219-2e1d8fd43684@154.64.228.51:44194/?type=ws&encryption=none&flow=&path=%2F#https%3A%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-LosAngeles-52ms-NetLab%20Global
 vless://38a43f18-b4d9-443f-9ff1-4cf9de3d666e@141.193.27.16:2087/?type=ws&encryption=none&flow=&host=valid22.validbv9501.ir&path=%2FeyJqdW5rIjoiS0ZJaGhSaG14Z0NMeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Ni4xMDMuMTE0LjEzNCJdfQ%3D%3D&security=tls&sni=valid22.validbv9501.ir#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
