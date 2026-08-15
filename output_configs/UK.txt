@@ -1,6 +1,7 @@
 hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@yg3.mangshe.xyz:2056/?insecure=1&sni=yg3.mangshe.xyz#🇬🇧GB
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#英国
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.221:8443/?sni=grape-turbo-fr.roxa.org#英国
+ss://00b41e07-68e6-46b0-928f-a02becd4e398@site.awexco.shop:2020?encryption=mlkem768x25519plus.native.0rtt.3mjd2WKbtUjfzkJO2SMVeOLyDFUE0bMH5T_R5H_YCV0&security=reality&type=tcp&headerType=http&path=%2F&host=upload.google.com&sni=play.googleapis.com&fp=edge&pbk=V-4X2cijRTs7097yspcWqhSXP1AejmSMEM3epCS-EFY&sid=d5f57af384c851d0#UK
 ss://7124626c-9341-48a6-b89f-2ec1e96fba33@104.16.72.110:2053/?type=ws&encryption=none&flow=&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&path=%2FeyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev#%F0%9F%87%AC%F0%9F%87%A7
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
@@ -11,5 +12,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.34:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:8080#%F0%9F%87%AC%F0%9F%87%A7GB-82.38.31.49-0170
 ss://YWVzLTI1Ni1nY206TGV2aWtvX3YycmF5@0.0.0.0:443#%E2%8F%B013%20days%20%F0%9F%93%8A%20%E2%88%9E%20GB
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
+vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awexco.shop:2020?encryption=mlkem768x25519plus.native.0rtt.3mjd2WKbtUjfzkJO2SMVeOLyDFUE0bMH5T_R5H_YCV0&security=reality&type=tcp&headerType=http&path=%2F&host=upload.google.com&sni=play.googleapis.com&fp=edge&pbk=V-4X2cijRTs7097yspcWqhSXP1AejmSMEM3epCS-EFY&sid=d5f57af384c851d0#UK
 vless://7124626c-9341-48a6-b89f-2ec1e96fba33@104.16.72.110:2053/?type=ws&encryption=none&flow=&host=autumn-mud-426b.jdydyxhhdjsfhf.workers.dev&path=%2FeyJqdW5rIjoiZnRRTXp4V2lQSElhRWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&sni=autUMN-MuD-426B.JDYdyxhHdJSfhf.workers.Dev#%F0%9F%87%AC%F0%9F%87%A7
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧

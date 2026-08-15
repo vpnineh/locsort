@@ -7,6 +7,7 @@ hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52079/?sni=assets.gateway-strea
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52081/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=8sajadulna2wdqej#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52082/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cy5hc4e02q6o5hcp#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52083/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=6e232hr6a65ce4xg#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
+hy2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443/?insecure=1&sni=srvhy1.ezcon24.online#🇺🇸US
 hy2://571e40e5-d597-4618-9204-535c94dca771@uswx3.wxgqlfx.vip:36253/?insecure=1&sni=144.225.187.184#美国3@wxgqlfx#美国
 hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443/?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#美国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.122:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#美国
@@ -16,6 +17,7 @@ hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@us4.xiaoliyu.cyou:443/?mport=22000-27
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸139909
 hy2://rs2mR3g9bZiMloftx6lZQ59Um1Ld@80.66.81.78:9443/?sni=tunel1.washing.help&obfs=salamander&obfs-password=oMgvuBy5Lj5kYM57sGsnjpjNcSEQ#1236%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#%40Verna_VPN%20%F0%9F%94%90%20%7C%20US%20%F0%9F%87%BA%F0%9F%87%B8
+ss://00b41e07-68e6-46b0-928f-a02becd4e398@site.awexaou.shop:2086?encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&security=reality&type=tcp&headerType=http&path=%2F&host=upload.google.com&sni=check-host.net&fp=chrome&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&sid=31eec4cab22d3de8#USA
 ss://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@141.193.213.190:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 ss://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@159.223.194.58:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -235,6 +237,7 @@ trojan://humanity@165.215.250.14:443/?type=ws&path=%2Fassignment&security=tls&sn
 trojan://humanity@198.202.211.1:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@208.103.161.170:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&host=www.calmlunch.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
+vless://00b41e07-68e6-46b0-928f-a02becd4e398@site.awexaou.shop:2086?encryption=mlkem768x25519plus.native.0rtt.f7Tb0m3B9X1wwykTgP_vWHH6uXOt8CX-MAipUAObJ1c&security=reality&type=tcp&headerType=http&path=%2F&host=upload.google.com&sni=check-host.net&fp=chrome&pbk=wlmLbcRWfPz3NkrX18vCrw-C3s3qzeipsfnrm457x1k&sid=31eec4cab22d3de8#USA
 vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&sid=#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%BA%F0%9F%87%B8
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@141.193.213.190:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@159.223.194.58:443/?type=ws&encryption=none&flow=&host=vpn47.cc.cd&path=%2F&security=tls&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%B8

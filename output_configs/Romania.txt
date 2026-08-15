@@ -3,7 +3,6 @@ hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.220:8443/?sni=mercedes-gra
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.164:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.119:8443/?insecure=1&sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.121:8443/?sni=grape-zet-ro-turbo.bumbleshrimp.com#罗马尼亚
-hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=www.amazon.com#罗马尼亚
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@205.237.109.220:8443/?sni=grape-turbo-fr.roxa.org#罗马尼亚
 ss://784808bc-3962-4f82-a6b8-ded08140152a@s5.irandrphone2.ir:2082/?type=ws&encryption=none&flow=&path=%2F#proxy
 ss://fd6fb48f-b324-4a82-9dcd-f8bdb1bd5301@104.17.108.69:443/?type=xhttp&encryption=none&flow=&host=htsmart-live-dxxz264j.avexilon.ir&path=%2Fmeti&mode=stream-one&extra=%7B%0A%20%20%22xPaddingBytes%22%3A%20%22100-1000%22%0A%7D&security=tls&sni=htsmart-live-dxxz264j.avexilon.ir&alpn=h2#proxy
