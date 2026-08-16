@@ -763,6 +763,7 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@gg.tamio-servio.com:443?encryption=
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@gg.tamio-servio.com:443?encryption=none&type=grpc&mode=gun&security=tls&sni=g4.tamio-servio.com&alpn=h3h2#443
 vless://784808bc-3962-4f82-a6b8-ded08140152a@s5.irandrphone2.ir:2082/?type=ws&encryption=none&flow=&path=%2F#proxy
 vless://785e05fc-66e4-4141-8587-72c4ee8ce65e@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=medcezir5.global.ssl.fastly.net&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪
+vless://788312f9-b95e-46da-9a39-623d798de761@164.37.100.59:443?security=tls&encryption=none&insecure=0&type=grpc&serviceName=rpc.v1.SyncService&allowInsecure=0&sni=edge1.numberoneok.com#%7CSE%7C%40mobilesignal%20%7C%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%F0%9F%87%B8%F0%9F%87%AA
 vless://78a1da80-7383-4ff6-b0ff-b6626b2f72cd@134.122.93.83:440/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%2013
 vless://78a1da80-7383-4ff6-b0ff-b6626b2f72cd@157.230.113.38:440/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%203
 vless://78a1da80-7383-4ff6-b0ff-b6626b2f72cd@165.232.119.158:440/?encryption=none&flow=&host=play.google.com&type=tcp&headerType=http#%40VpnMaan%207
