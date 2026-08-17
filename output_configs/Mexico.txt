@@ -1,0 +1,3 @@
+ss://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?security=tls&type=ws&path=/vless#🇲🇽
+trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
+vless://fe2bad2c-a7a8-43c6-9042-e37cb049fa62@mx1.connecton.surf:443?security=tls&type=ws&path=/vless#🇲🇽

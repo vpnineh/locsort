@@ -1,1 +1,0 @@
-hy2://b42d90fa667942aebc734d60@137.23.2.19:443/?mport=20000-30000&sni=rmgyvpn.rest&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#澳大利亚

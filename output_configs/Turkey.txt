@@ -1,4 +1,2 @@
-hy2://@Telegram@Configvibes@45.92.219.237:8486/?insecure=1&sni=ftp.debian.org&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------#土耳其
 ss://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.110:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc#%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaczA3UDkxVTRFZlJpc01ObThwN1NR@193.124.46.226:1080#Aa64n+TR
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.110:443/?type=ws&encryption=none&flow=&host=support.zoom.us.yxls.eu.cc&path=%2Fsg-amz&security=tls&sni=support.zoom.us.yxls.eu.cc#%F0%9F%87%B9%F0%9F%87%B7

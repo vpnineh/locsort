@@ -1,6 +1,2 @@
-hy2://08794874-93d0-4cf2-b9d6-1f2774cdffeb@144.31.5.9:2101/?insecure=1&sni=panel.vlessbotkey.ru#波兰
-hy2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443/?insecure=1&sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41#波兰
-hy2://b11841e3-2acc-45ff-afe0-a9ed9a823aaa@rpc-2068.internet-booster.com:443/?sni=rpc-2068.internet-booster.com#波兰
-hy2://df489ab2-2242-4952-a774-1074a3a31f41@eh-spl1.craft-supply.org:8443/?sni=eh-spl1.craft-supply.org#波兰
 trojan://IQ68037294@62.112.222.60:443/?type=tcp&security=tls&sni=dear-ferret.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%2013
 trojan://humanity@188.114.96.3:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%F0%9F%87%B5%F0%9F%87%B1%20trojan-PL-12692079
