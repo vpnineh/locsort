@@ -1,0 +1,2 @@
+ss://00b41e07-68e6-46b0-928f-a02becd4e398@site1.awextr.ir:2095?encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&security=none&type=httpupgrade&headerType=none&path=%2F&host=www.varzesh3.com#Azerbaijan
+vless://00b41e07-68e6-46b0-928f-a02becd4e398@site1.awextr.ir:2095?encryption=mlkem768x25519plus.native.0rtt.Mx0f1kLg9E0uQfA79cfhs8n6akrAp8vej3lxYml4aDU&security=none&type=httpupgrade&headerType=none&path=%2F&host=www.varzesh3.com#Azerbaijan

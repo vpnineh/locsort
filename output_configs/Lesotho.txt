@@ -1,2 +1,4 @@
+ss://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096
+vless://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096
