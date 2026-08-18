@@ -7,7 +7,6 @@ hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52079/?sni=assets.gateway-strea
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52081/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=8sajadulna2wdqej#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52082/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=cy5hc4e02q6o5hcp#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
 hy2://4z2oldt85p494bgb@assets.gateway-stream.com:52083/?sni=assets.gateway-stream.com&obfs=salamander&obfs-password=6e232hr6a65ce4xg#%F0%9F%87%BA%F0%9F%87%B8%20%40ShadowProxy66
-hy2://553e3253-c454-431d-a7e6-42bc06ea5e14@srvhy1.ezcon24.online:8443/?insecure=1&sni=srvhy1.ezcon24.online#🇺🇸US
 hy2://90af65ff00ef2ff089d28d6a11fc10de@23-19-231-152.liao.kdns.fr:50160/?insecure=1&sni=23-19-231-152.liao.kdns.fr#🇺🇸US
 hy2://CJtE4HLmxz859YMNiZM1NTuDRy7jjs8t@pg-usa2-hy2.gigatapbot.top:1443/?insecure=1&sni=pg-usa2-hy2.gigatapbot.top#美国
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.226.172.222:443/?insecure=1&sni=vpn-us-003.fastervpn.world#美国
