@@ -3,6 +3,7 @@ hy2://c175d956-d1f4-4c53-b2b1-8493bf8529c6@87.120.84.189:443/?sni=de1.apexvpn.sp
 hy2://d1224950-ffab-4b9a-8696-431b40a6cfbd@bel-03.node.lumixnet.com:443/?sni=bel-03.node.lumixnet.com#德国
 hy2://dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s@194.180.188.21:8443/?insecure=1&sni=keyhop-offshore.roxa.org#🇩🇪DE
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#德国
+hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443/?insecure=1&sni=germany3.h2corp.local#🇩🇪146504
 ss://%40Geek_Spot@176.97.210.2:37589?security=none&encryption=none&headerType=none&type=tcp#%40V2_MOD_SHOP%20-%20%F0%9F%87%A9%F0%9F%87%AA%20%E2%9A%A1%20%7C
 ss://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🇩🇪⤿
 ss://003c712d-daa1-4c3f-bed2-658e7787d04c@31.77.57.112:6243/?type=tcp&encryption=none&flow=&sni=github.com&fp=firefox&security=reality&pbk=B55CpLIn63ajsDxoRe9icE2qa-rXcEiQXLpqfhHp2B0&sid=0dabc5964c#%F0%9F%87%A9%F0%9F%87%AA%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20523
