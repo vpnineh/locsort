@@ -860,6 +860,7 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=/&security=t
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.159:8443?path=/&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5eddeef-737a-4126-8d1e-527f85d7ed18@2.26.129.247:443?security=reality&encryption=none&pbk=gPTBA-gVUWAK9yziB_v_sGSncm0LwBQvEAsTQZK4jEE&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=ukrop.mycdn-me.ru&sid=5a8e1a04f3d92b67#@meliproxyy
+vless://a622acbf-6990-4669-b7aa-39e42620e9cd@Plelahoa.horlutr.ir:2087?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#new✨✨✨✨✨
 vless://a63498ed-34f5-43fb-92d6-b3a6bde6d0b0@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪
 vless://a64d45e2-b8c5-41df-ab19-58f00ea19d0d@sp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇪🇸
 vless://a6a2e834-7e39-416f-a7bd-d2b5e42590fa@91.98.175.72:42671?security=&encryption=none&headerType=&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
