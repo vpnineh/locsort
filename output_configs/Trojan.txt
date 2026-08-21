@@ -50,6 +50,7 @@ trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.18
 trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.188&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%201787%20-%20SG%20-%20Trojan%2FTLS%2FUTLS%20-%2052
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
+trojan://hotfIEe8wNzvC7y-jT2Dc26pqYAtKscl@peo2.awexio.ir:2020?security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#Uk
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#ARISTA
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
