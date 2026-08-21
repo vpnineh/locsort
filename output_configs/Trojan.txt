@@ -4,7 +4,6 @@ trojan://%25!%3EuJ%255o%7CN7n3%23*;@188.114.96.151:2053?type=ws&host=aa-3lh.page
 trojan://%7DDnPdj%7BpF0JfTnnY@188.114.96.3:8443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoid2M2TUJVYnQ0R01ST3EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=tls&fp=chrome&sni=GhM.Gh-GHNBarI6264.WoRKeRs.dEV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://%7DDnPdj%7BpF0JfTnnY@www.speedtest.net:443?type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoidllNVFdBcDdEIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D?ed%3D2560&security=tls&fp=chrome&sni=Ghm.Gh-GHNbaRI6264.woRkers.DeV&alpn=http/1.1&allowInsecure=false#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#ARISTA
-trojan://21E_5T2fGm-vzDku_aw2hvA93rkl1Rgj@peo2.awexio.ir:2020?security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#Uk
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#ARISTA
 trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#ARISTA
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
