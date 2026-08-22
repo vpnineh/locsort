@@ -11,6 +11,8 @@ ss://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880/?type=ws&encryption
 ss://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24592
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.66:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F#OpenRay%20%20CA-24866
 ss://878dd962-027b-4bd3-a1f8-66be68a03c4d@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=young-wind-3c58.240-2ce.workers.dev&path=%2F#OpenRay%20%20CA-25509
+ss://8954366d-e08c-4693-962f-569d440ec7b7@ca.milkabebar.ir:10694?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
+ss://8954366d-e08c-4693-962f-569d440ec7b7@ca.milkabebar.ir:38479?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
 ss://91c7ea79-9187-4f07-ab97-68c584186843@104.21.56.202:8880/?type=ws&encryption=none&flow=&host=nameless-dust-1a36.207-b50.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-22036
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#%F0%9F%87%A8%F0%9F%87%A6%20direct
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#@CAA_Aa64n
@@ -40,6 +42,8 @@ vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880/?type=ws&encrypt
 vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24592
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.66:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F#OpenRay%20%20CA-24866
 vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=young-wind-3c58.240-2ce.workers.dev&path=%2F#OpenRay%20%20CA-25509
+vless://8954366d-e08c-4693-962f-569d440ec7b7@ca.milkabebar.ir:10694?encryption=none&security=reality&type=tcp&headerType=none&sni=amp-api-edge.apps.apple.com&fp=ios&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&sid=a0fbc54d937aaccb#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
+vless://8954366d-e08c-4693-962f-569d440ec7b7@ca.milkabebar.ir:38479?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A8%F0%9F%87%A6%20%E2%9F%A1%20%E2%9C%A8%20%CA%80%E1%B4%87%E1%B4%80%CA%9F%C9%AA%E1%B4%9B%CA%8F%20
 vless://91c7ea79-9187-4f07-ab97-68c584186843@104.21.56.202:8880/?type=ws&encryption=none&flow=&host=nameless-dust-1a36.207-b50.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-22036
 vless://a429499b-6237-44b2-ae4d-0d53d14cf46a@172.64.144.180:8880/?type=ws&encryption=none&flow=&host=small-wave-9851.441-57f.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#OpenRay%20%20CA-26402
 vless://a8985e6a-f338-4b44-9a41-f94495603a96@104.21.56.202:8880/?type=ws&encryption=none&flow=&host=dawn-cell-346f.238-df6.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#OpenRay%20%20CA-21443
