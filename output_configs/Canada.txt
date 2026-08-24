@@ -1,3 +1,4 @@
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#加拿大
 ss://0787cfdb-9930-4abb-8419-c1b96c3ef628@172.67.174.37:8880/?type=ws&encryption=none&flow=&host=red-snowflake-c399.12-ee1.workers.dev&path=%2F#OpenRay%20%20CA-25265
 ss://121c3728-2b6b-4b69-bac6-170b13658d74@172.65.90.52:8880/?type=ws&encryption=none&flow=&host=falling-darkness-95ea.289.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net#OpenRay%20%20CA-26285
 ss://160ca353-676d-4b7f-a041-0289e388b865@172.67.174.37:8880/?type=ws&encryption=none&flow=&host=proud-cloud-7bdd.208-a52.workers.dev&path=%2F#OpenRay%20%20CA-26413
