@@ -8,6 +8,12 @@ trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tl
 trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#ARISTA
 trojan://58f00ea19d0d@sp2.connecton.surf:443?host=sp2.connecton.surf&path=%2Ftrojan&sni=sp2.connecton.surf&type=ws#🇪🇸
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&headerType=none&type=tcp&sni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40proxyfn%20%5B19%5D
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%206%20-%20US%20-%20Trojan%2FTLS%2FUTLS%20-%2050887
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%5BTR%5D%20%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%20%235776%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887/?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%207%20-%20HK%20-%20Trojan%2FTLS%2FUTLS%20-%2050887
+trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682/?type=tcp&security=tls&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20TLS%20%285%29
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443/?type=raw&security=tls&sni=193.124.46.65&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20Join%2BTelegram%3A%40SolVPN%20%F0%9F%87%B9%F0%9F%87%B7%20t.me%2Frjsxrd
+trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443/?type=tcp&security=tls&sni=193.124.46.65&alpn=http%2F1.1&fp=chrome#%F0%9F%87%B9%F0%9F%87%B7%20%5BTR%5D%20%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%236550%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
 trojan://9ba2c2687e2b@fra3.connecton.surf:443?host=fra3.connecton.surf&path=%2Ftrojan&sni=fra3.connecton.surf&type=ws#🇫🇷
@@ -40,6 +46,8 @@ trojan://d97f7d07bbd4@fi2.connecton.surf:443?host=fi2.connecton.surf&path=%2Ftro
 trojan://e37cb049fa62@mx1.connecton.surf:443?host=mx1.connecton.surf&path=%2Ftrojan&sni=mx1.connecton.surf&type=ws#🇲🇽
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
 trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=%2F&security=tls&sni=yuzhenb886.dpdns.org#ARISTA
+trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.188#%F0%9F%87%B8%F0%9F%87%AC%201786%20-%20SG%20-%20Trojan%2FTLS%20-%2052
+trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.188&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%201787%20-%20SG%20-%20Trojan%2FTLS%2FUTLS%20-%2052
 trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http/1.1#Aa64n-trojan1
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 trojan://hotfIEe8wNzvC7y-jT2Dc26pqYAtKscl@peo2.awexio.ir:2020?security=none&type=tcp&headerType=http&path=%2F&host=msedge.b.tlu.dl.delivery.mp.microsoft.com#Uk
