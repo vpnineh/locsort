@@ -2,17 +2,13 @@ hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy
 hy2://HowdyHysteria2023w0W@hysteria.udpgw.com:8443/?insecure=1&sni=sni-here.com&obfs=salamander&obfs-password=HysteriaHowdy#荷兰
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.75:8443/?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#荷兰
 hy2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.78:8443/?sni=hopp-netherland-new.dynuddns.net#荷兰
-hy2://cd74c0a406664a5bc0bac098220a2468@nl2.sferavpn.pro:443?sni=nl2.sferavpn.pro&path=%2f&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&allow_insecure=1#%f0%9f%87%b3%f0%9f%87%b1%20NL%2018
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.139:8443/?insecure=1&sni=grape-turbo-fr.roxa.org#荷兰
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@ghm.gh-ghnbari6264.workers.dev:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiUnQzc0xRT29yekwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%B3%F0%9F%87%B1%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80
 ss://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.94.59:13443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.cendora.ru&fp=firefox&security=reality&pbk=gc9oXe37KCCm3J1dJ03wdGsnxPBdeEkRPOvl_t-vfVM&sid=a7f3c91b2e6d84c0#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20306
 ss://682102a3-9731-4562-ad28-04dc62bc8dee@2.27.40.190:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=jgf0wWpgkEJZzu9wu45Ms33SNZpibtx507rpvzfz3mQ&sid=635a76c25a4b1820#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20362
 ss://7a5a4624-df8d-4955-bccc-b3fa6161411f@93.123.17.189:443?type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#%F0%9F%87%B3%F0%9F%87%B1@A64N
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2034
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.129:8080?type=tcp#%20%F0%9F%94%92%20Aa64n%20%F0%9F%87%B3%F0%9F%87%B1%20NL%20106ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.132:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2040
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2068
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443?type=tcp#%F0%9F%87%B3%F0%9F%87%B1NL-Aa64n%20
 ss://aaf61260-5a93-430b-965a-5180ae20023c@31.77.157.38:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.gitlab.com&fp=firefox&security=reality&pbk=klqenfvPoePfiVDDeWb7GwcIB25cWF1bjuNVjVDc8BA&sid=c62b8d01#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20820
 ss://ac6a8052-b2d2-4b75-9352-10756a445ca5@195.78.49.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.hipertune.ru&fp=firefox&security=reality&pbk=IzgffKkveDU5cboe6pVJz4wYxXYz9Vv3ll0kWym4VEI&sid=c279a74d19205d38#%F0%9F%87%B3%F0%9F%87%B1%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20808

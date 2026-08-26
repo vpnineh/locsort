@@ -41,7 +41,6 @@ ss://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&typ
 ss://f27894bf-349c-44e6-a0ce-4c787e18476f@18.238.109.26:80?host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#ARISTA
 ss://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=tls&sid=c6ef72e4635d15a5&sni=storage.yandex.net#ARISTA
 ss://fd30891c-63d9-4110-9a90-0e0ce07f4522@nl3.freekeysh110.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl3.freekeysh110.online&fp=edge&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1#ARISTA
-ss://fe6cd26d-5037-4a0d-a3bc-2538c7bbf2c8@bmi.ir:2052?encryption=none&type=ws&path=%2FMozhiNet&host=vv.rayan-hostingo.ir&security=none#%F0%9F%87%A7%F0%9F%87%AC%20StarLink%2020X
 ss://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026&sni=d3gxy6d0a9fs18.cloudfront.net&type=ws#ARISTA
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#ARISTA
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#ARISTA
@@ -85,7 +84,6 @@ vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&
 vless://f27894bf-349c-44e6-a0ce-4c787e18476f@18.238.109.26:80?host=duatoup3wk8q2.cloudfront.net&path=%2FGDkX4xpB%2F&type=ws#ARISTA
 vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=tls&sid=c6ef72e4635d15a5&sni=storage.yandex.net#ARISTA
 vless://fd30891c-63d9-4110-9a90-0e0ce07f4522@nl3.freekeysh110.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl3.freekeysh110.online&fp=edge&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1#ARISTA
-vless://fe6cd26d-5037-4a0d-a3bc-2538c7bbf2c8@bmi.ir:2052?encryption=none&type=ws&path=%2FMozhiNet&host=vv.rayan-hostingo.ir&security=none#%F0%9F%87%A7%F0%9F%87%AC%20StarLink%2020X
 vless://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026&sni=d3gxy6d0a9fs18.cloudfront.net&type=ws#ARISTA
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4xOS40Ny4xMzciLCJwb3J0IjoiODA4MCIsImlkIjoiYjU1MWFhMjItMjJhZi0xMWVlLWI4ZDgtZjIzYzkzMmViNjhkIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJwYXRoIjoiLz9lZD0yMDQ4JlRlbGVncmFt8J+HqPCfh7MgQFdhbmdDYWkyIiwicHMiOiJBUklTVEEifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yMS41MS4yMDgiLCJwb3J0IjoiODAiLCJpZCI6ImNiNGZjYTVmLWVkZjgtNDE1Yi1hYThmLWFjNTJmNDE1Mjk2YSIsImFpZCI6MCwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJuZXQiOiJ3cyIsImhvc3QiOiJkZWVmdWxsLnRyYWRleDIwODAuY29tIiwicGF0aCI6Ii8wZnBaRkI2SWJwTnB0R0F4QXRJMFFNIiwicHMiOiJBUklTVEEifQ==

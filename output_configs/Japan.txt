@@ -2,7 +2,6 @@ hy2://Foc_Mcxi45rM9v3ve_N92fdrK_10_Ssc5@185.39.31.117:8443/?insecure=1&sni=grape
 hy2://ef18d810-719c-4bf1-83c6-615d01f217eb@jp.cryptoofarm.com:443/?insecure=1&sni=jp.cryptoofarm.com#日本
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
 ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad#%F0%9F%87%AF%F0%9F%87%B5%20%5BWL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20190
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYTZ6YzRKb0xSSkE=@176.97.73.215:8388#Japan%20Tokyo
 ss://YWVzLTEyOC1nY206c3lubGdtbQ@66.112.211.35:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan
 ss://YWVzLTI1Ni1nY206QXlxWDhLeW55eVFMUmVPWm9yUVJRYnN2bWl3eEJRT2Y@64.83.33.45:443#%F0%9F%87%AF%F0%9F%87%B5%20Tokyo%2C%2013%2C%20Japan%20%281%29
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵

@@ -7,7 +7,6 @@ ss://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2095?type=ws&host=aa
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:443?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Misaka-Aa64n%20type=ws&host=xn-36.xv2ray.cloudns.be&path=/Telegram/XV2ray?ed%3D2560&security=tls&sni=gcore.com#@A64N-1
 ss://9500cf8b-020a-4a70-906c-e14bb5375875@85.209.135.10:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&fp=qq&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#%F0%9F%87%B7%F0%9F%87%BA%20Join%20Telegram%3A%40SolVPN%20%F0%9F%87%B7%F0%9F%87%BA%20t.me%2Frjsxrd%20%282%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N2RZZmkxdUF2MlpUeFh2TG9lazM5@66.151.41.89:33133?type=tcp#Frankfurt%20am%20Main,%20HE,%20Germany
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVkM2MzRRdlZrNWw=@188.116.23.244:8388#Netherlands%20Amsterdam
 ss://a5c7e18f-1701-46ed-8f42-00eb078d9445@172.65.90.52:8880/?type=ws&encryption=none&flow=&host=weathered-snow-b87b.292-455.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20Dynamic-22822
 ss://aa7461af-3176-42a3-8974-59930189c521@104.20.28.74:8880/?type=ws&encryption=none&flow=&host=round-block-e864.326.workers.dev&path=%2Fpyip%3DProxyIP.US.CMLiussss.net#OpenRay%20Dynamic-24319
 ss://b1b99d33-8df1-4c74-b140-28941b43a4d2@188.114.99.0:8880/?type=ws&encryption=none&flow=&host=nameless-poetry-cc33.268-910.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20Dynamic-22728
