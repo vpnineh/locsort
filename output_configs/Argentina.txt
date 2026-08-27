@@ -7,6 +7,7 @@ ss://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-visio
 ss://5387ee06-08d9-4d46-9831-e7891851cf66@91.107.158.132:16267?encryption=none&type=tcp#ARISTA
 ss://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?fp=chrome&host=wasmer-earth.jzy88.top&path=%2F60156344&security=tls&sni=wasmer-earth.jzy88.top&type=ws#ARISTA
 ss://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.70:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=tls&sid=d020b987f84eb78a&sni=storage.yandex.net#ARISTA
+ss://85bc48e0-2468-45d8-8328-8dff4ced7af2@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A6%F0%9F%87%BF_AZAR2
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&type=ws#ARISTA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536#ARISTA
@@ -43,18 +44,15 @@ ss://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.62:443?flow=xtls-rprx-visio
 ss://fd30891c-63d9-4110-9a90-0e0ce07f4522@nl3.freekeysh110.online:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=nl3.freekeysh110.online&fp=edge&pbk=zVEDSKwQEIM6xRD7YEhJakteNI2xPK3xhhKulDo_vWg&sid=b664d93e9d7a04f1#ARISTA
 ss://ff485c50-b364-4b4f-90be-ea576b949dd3@www.true.th:80?host=d3gxy6d0a9fs18.cloudfront.net&path=%2Ffnetvpn2026&sni=d3gxy6d0a9fs18.cloudfront.net&type=ws#ARISTA
 trojan://0_Oms89nH82l_Ki813_Nxmw81_Rbt_Jq190Kl_m@167.150.100.133:450?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-power-sg.roxa.org#ARISTA
-trojan://521314@millionaire.levikogjgfdd.ir:443?path=%2FLeviko_v2ray&security=tls&host=tjplay.lxdxo.kdns.fr&type=ws&sni=tjplay.lxdxo.kdns.fr#ARISTA
 trojan://521314@millionaire.levikogjgfdd.ir:443?security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#ARISTA
 trojan://MITIVPN@104.19.229.21:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde2---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=0&host=De2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&fp=chrome&type=ws&allowInsecure=0&sni=Ddee2-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#ARISTA
 trojan://MITIVPN@45.130.125.112:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde&security=tls&alpn=http%2F1.1&insecure=1&host=11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir&fp=chrome&type=ws&allowInsecure=1&sni=ikk---7-MiTiVPN----o.Maqror.ir#ARISTA
-trojan://S2afbE52L3@51.75.69.164:2087?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#ARISTA
 trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@oplosgru-c.catcat321.com:20004?security=tls&sni=hk.catxstar.com&type=tcp&path=/#ARISTA
 trojan://eb2b32c4-8844-4e79-8ec8-133a8a3aca3c@yuzhenb886.dpdns.org:443/?type=ws&host=yuzhenb886.dpdns.org&path=%2F&security=tls&sni=yuzhenb886.dpdns.org#ARISTA
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#ARISTA
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#ARISTA
 trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#ARISTA
-trojan://humanity@162.159.38.119:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#ARISTA
 trojan://humanity@172.66.47.69:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#ARISTA
 trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#ARISTA
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#ARISTA
@@ -71,6 +69,7 @@ vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vi
 vless://5387ee06-08d9-4d46-9831-e7891851cf66@91.107.158.132:16267?encryption=none&type=tcp#ARISTA
 vless://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?fp=chrome&host=wasmer-earth.jzy88.top&path=%2F60156344&security=tls&sni=wasmer-earth.jzy88.top&type=ws#ARISTA
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.70:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=tls&sid=d020b987f84eb78a&sni=storage.yandex.net#ARISTA
+vless://85bc48e0-2468-45d8-8328-8dff4ced7af2@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A6%F0%9F%87%BF_AZAR2
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&type=ws#ARISTA
 vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@172.64.32.6:443?fp=random&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#ARISTA
