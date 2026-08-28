@@ -7,7 +7,6 @@ ss://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-visio
 ss://5387ee06-08d9-4d46-9831-e7891851cf66@91.107.158.132:16267?encryption=none&type=tcp#ARISTA
 ss://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?fp=chrome&host=wasmer-earth.jzy88.top&path=%2F60156344&security=tls&sni=wasmer-earth.jzy88.top&type=ws#ARISTA
 ss://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.70:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=tls&sid=d020b987f84eb78a&sni=storage.yandex.net#ARISTA
-ss://85bc48e0-2468-45d8-8328-8dff4ced7af2@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A6%F0%9F%87%BF_AZAR2
 ss://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 ss://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&type=ws#ARISTA
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MzlDNHQxVUhMTGtHY0xPVDVwMldGY2c2Ykg2RnJmTzFVRHBlYVlNVi9JOD06K0IxMDhUOEp1QVhIT3hISmpoRDZSREpBejBoY1draVRCOUpBR252anN3ST0@185.126.64.86:10536#ARISTA
@@ -69,7 +68,6 @@ vless://3e7cede4-721a-4807-b0a2-5fe6586af907@45.194.10.79:8443?flow=xtls-rprx-vi
 vless://5387ee06-08d9-4d46-9831-e7891851cf66@91.107.158.132:16267?encryption=none&type=tcp#ARISTA
 vless://60156344-dbc3-4614-8177-fd337539a473@wasmer-earth.jzy88.top:443?fp=chrome&host=wasmer-earth.jzy88.top&path=%2F60156344&security=tls&sni=wasmer-earth.jzy88.top&type=ws#ARISTA
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@45.196.182.70:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=tls&sid=d020b987f84eb78a&sni=storage.yandex.net#ARISTA
-vless://85bc48e0-2468-45d8-8328-8dff4ced7af2@nono.awextr.ir:2095?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=amp-api-edge.apps.apple.com#%F0%9F%87%A6%F0%9F%87%BF_AZAR2
 vless://86b94f95-3310-4d1a-b333-4848c05fdf6b@myanmar.visa.com:8443?type=ws&host=vlees-aa64n.rhyljiti.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=vlees-aa64n.rhyljiti.workers.dev#CF_V9_myanmar.visa.com_8443
 vless://98b6cb05-b5ab-4c82-8683-07de28f796a9@172.67.89.31:2086?host=holy-glitter-39f9.wwewee2dasdds.workers.dev&path=%2FeyJqdW5rIjoiRHF6VWU4SmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0&type=ws#ARISTA
 vless://dd321f25-8f90-4e7c-a1fa-01883a8988a7@172.64.32.6:443?fp=random&host=soucuovls.pages.dev&path=pyip%3Dproxyip.cmliussss.net&security=tls&sni=soucuovls.pages.dev&type=ws#ARISTA
