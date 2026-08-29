@@ -2,7 +2,6 @@ hy2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000/?insecure=1&sni=w
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@uk196.mechvpn.online:443/#英国
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?sni=crt.ultimagamest.com#🇬🇧GB
 hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-germany.unlimited-access.ru:8443/?insecure=1&sni=hy2-germany.unlimited-access.ru#英国
-hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&sni=hopp-legend-se.roxa.org#🇬🇧UK
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?sni=hopp-legend-se.roxa.org#英国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8080/?insecure=1&sni=hopp-legend-se.roxa.org#英国
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧

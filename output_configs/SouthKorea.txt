@@ -1,1 +1,2 @@
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#韩国
+hy2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000/?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM#韩国
