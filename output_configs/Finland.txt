@@ -1,3 +1,4 @@
+hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443/?sni=quic.tyr-agentstvo.tech#芬兰
 hy2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443/?insecure=1&sni=hys-mesh.spliceflowtech.com#芬兰
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE

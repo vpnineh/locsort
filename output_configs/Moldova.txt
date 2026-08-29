@@ -1,0 +1,1 @@
+hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#摩尔多瓦
