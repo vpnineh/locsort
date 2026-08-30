@@ -1,5 +1,6 @@
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443/?sni=quic.tyr-agentstvo.tech#芬兰
+hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#芬兰
 hy2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443/?insecure=1&sni=hys-mesh.spliceflowtech.com#芬兰
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 ss://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=axisvpn.ru&fp=qq&security=reality&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2#%F0%9F%87%AB%F0%9F%87%AE%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20819

@@ -1,5 +1,6 @@
 hy2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora3.api3-max.ru:443/?insecure=1&sni=dora3.api3-max.ru#法国
 hy2://ac7fb60f-0b7a-465d-a002-05160ec04ed6@dora4.api3-max.ru:443/?insecure=1&sni=dora4.api3-max.ru#法国
+hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#法国
 hy2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115/?insecure=1&sni=www.microsoft.com#法国
 ss://005a5104-82c5-4a6b-b023-6e621ec9071d@95.164.45.122:50268?security=&encryption=none&headerType=&type=tcp#v2ray_Extractor%20🔓%20VL-TCP-N/A%20🇫🇷%20FR%20126ms
 ss://0943cb18-a760-42c2-95e0-a8c75bfecbc2@185.234.64.97:443?path=/lmhdjfws&security=tls&encryption=none&type=ws#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
