@@ -9,6 +9,7 @@ ss://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@104.26.7.214:8880/?type=ws&encryption=
 ss://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=cold-water-945c.43-bc5.workers.dev&path=%2F#OpenRay%20%20CA-24899
 ss://565326ee-c588-4843-9472-a051578ab1ae@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24612
 ss://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24872
+ss://675ee872-adb2-4c66-8358-bd360259311f@212.80.9.40:443?encryption=mlkem768x25519plus.native.0rtt.wCG6szIH0acVoari_5tnfHNJ7vKEJeMmaYAijN7Hrhw&security=tls&type=xhttp&headerType=none&flow=xtls-rprx-vision&path=%2F&mode=auto&sni=ca.host-germany.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%2B%F0%9F%87%AE%F0%9F%87%B7
 ss://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24592
 ss://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.66:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F#OpenRay%20%20CA-24866
 ss://878dd962-027b-4bd3-a1f8-66be68a03c4d@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=young-wind-3c58.240-2ce.workers.dev&path=%2F#OpenRay%20%20CA-25509
@@ -38,6 +39,7 @@ vless://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@104.26.7.214:8880/?type=ws&encrypti
 vless://4bf6fee9-d3c4-4a98-b83b-170bf37c669c@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=cold-water-945c.43-bc5.workers.dev&path=%2F#OpenRay%20%20CA-24899
 vless://565326ee-c588-4843-9472-a051578ab1ae@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=lucky-cell-e8c5.490-f12.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24612
 vless://5bbf0601-8431-45f6-a4e9-a1e8b44c0055@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=misty-mouse-141d.177-f18.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24872
+vless://675ee872-adb2-4c66-8358-bd360259311f@212.80.9.40:443?encryption=mlkem768x25519plus.native.0rtt.wCG6szIH0acVoari_5tnfHNJ7vKEJeMmaYAijN7Hrhw&security=tls&type=xhttp&headerType=none&flow=xtls-rprx-vision&path=%2F&mode=auto&sni=ca.host-germany.ir&fp=chrome&alpn=h2%2Chttp%2F1.1#%F0%9F%87%A8%F0%9F%87%A6%2B%F0%9F%87%AE%F0%9F%87%B7
 vless://7ed93ccf-6a54-4b19-a9b4-aedfc79bab7d@172.67.152.71:8880/?type=ws&encryption=none&flow=&host=muddy-sky-4767.344-7a7.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#OpenRay%20%20CA-24592
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@172.64.146.66:2095/?type=ws&encryption=none&flow=&host=cnmfangbinxing.cnmfangbinxing-f.workers.dev&path=%2F#OpenRay%20%20CA-24866
 vless://878dd962-027b-4bd3-a1f8-66be68a03c4d@172.67.68.240:8880/?type=ws&encryption=none&flow=&host=young-wind-3c58.240-2ce.workers.dev&path=%2F#OpenRay%20%20CA-25509
