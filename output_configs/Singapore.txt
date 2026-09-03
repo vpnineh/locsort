@@ -1,10 +1,5 @@
 hy2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160/?insecure=1&sni=www.bing.com#新加坡
 hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#新加坡
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.82.184:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#新加坡
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.254.190.23:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#新加坡
-ss://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#%F0%9F%87%B8%F0%9F%87%AC%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20842
-ss://f3ed1945-dc1e-478a-b067-12b71badbea9@163.128.99.246:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=ZMYQqRPgpITMElFSEMesSocBj7jvhhw3JGGzWEfyrBk&sid=693f679d3294f967#%F0%9F%87%B8%F0%9F%87%AC%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20889
 tuic://9a198016-fdb7-4510-acca-e2c68c1083e5:9a198016-fdb7-4510-acca-e2c68c1083e5@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#新加坡
 tuic://c5031c3d-bc5a-47fd-9ab2-636c307eec59:c5031c3d-bc5a-47fd-9ab2-636c307eec59@singapore.ruixing.fun:58441/?congestion_control=bbr&udp_relay_mode=native&sni=singapore.ruixing.fun&alpn=h3#🇸🇬SG
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@111.119.235.145:13779/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#%F0%9F%87%B8%F0%9F%87%AC%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20842
-vless://f3ed1945-dc1e-478a-b067-12b71badbea9@163.128.99.246:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=ZMYQqRPgpITMElFSEMesSocBj7jvhhw3JGGzWEfyrBk&sid=693f679d3294f967#%F0%9F%87%B8%F0%9F%87%AC%20%5BBL%5D%20%D0%A1%D0%B5%D1%80%D0%B2%D0%B5%D1%80%20889

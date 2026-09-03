@@ -1,9 +1,4 @@
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 ss://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096
-ss://f47ac10b-58cc-4372-a567-0e02b2c3d479@45.130.125.114:8443/?type=ws&encryption=none&flow=&host=free-hzr113-cdn.soren-app.com.&path=%2F&security=tls&sni=ssl.soren-app.com.#%F0%9F%87%B8%F0%9F%87%A8%20512%20-%20SC%20-%20VLESS%2FWS%2FTLS%20-%208443
-trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887/?type=tcp&security=tls&sni=www.nintendogames.net&fp=chrome#%F0%9F%87%AD%F0%9F%87%B0%207%20-%20HK%20-%20Trojan%2FTLS%2FUTLS%20-%2050887
-trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.188#%F0%9F%87%B8%F0%9F%87%AC%201786%20-%20SG%20-%20Trojan%2FTLS%20-%2052
-trojan://fVZMat1g9H@172.236.133.188:52/?type=tcp&security=tls&sni=172.236.133.188&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%201787%20-%20SG%20-%20Trojan%2FTLS%2FUTLS%20-%2052
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@ir3.hosting-ip.com:2087?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n%20-TLS-2087
 vless://91410ff4-c365-4d91-a701-85f24bac5f6b@www.gov.se:2096?type=ws&host=new-1101.amiralinorozjam.workers.dev&path=/?ed%3D2560&security=tls&fp=randomized&sni=new-1101.amiralinorozjam.workers.dev#Aa64n-TLS-2096
-vless://f47ac10b-58cc-4372-a567-0e02b2c3d479@45.130.125.114:8443/?type=ws&encryption=none&flow=&host=free-hzr113-cdn.soren-app.com.&path=%2F&security=tls&sni=ssl.soren-app.com.#%F0%9F%87%B8%F0%9F%87%A8%20512%20-%20SC%20-%20VLESS%2FWS%2FTLS%20-%208443
