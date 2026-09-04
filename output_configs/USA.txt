@@ -23,7 +23,6 @@ hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?sni=hopp-legend-s
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸139909
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD%20%233
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?sni=cabinet.wwwinternetvideo.click#0811%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#美国
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@104.25.254.4:2087?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#%F0%9F%87%BA%F0%9F%87%B8%20Aa64n%20US
 ss://14b48651-3738-4926-bc09-4c04e87ff80b@5.175.249.174:443/?type=xhttp&encryption=none&flow=&host=static.lotussec.com&path=%2FJoin-JavidnamanIran-on-Telegram&mode=stream-one&security=tls&sni=static.lotussec.com&alpn=h2&allowInsecure=1&fp=chrome#%40Vip_Security%20join%20us%20-%20187
 ss://170e1be8-e51b-4a82-a779-3ad27b78607c@31.169.125.12:443/?type=ws&encryption=none&flow=#4678%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20VLESS%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
