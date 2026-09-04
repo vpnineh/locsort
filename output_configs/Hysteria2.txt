@@ -125,7 +125,6 @@ hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@167.104.223.173:8443/?sni=wiki.locall
 hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@185.121.179.129:5443/?sni=gaming.locallynet.org#1858%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@171.22.31.148:443/?sni=de1.apexvpn.space#5211%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:443/?sni=de1.apexvpn.space#DE
-hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:443?sni=de1.apexvpn.space&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%201
 hy2://dongtaiwang.com@142.249.37.90:44356/?insecure=1&sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Rose%E2%80%9425
 hy2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Rose%E2%80%9416
 hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#法国

@@ -1,6 +1,8 @@
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&sni=vpn-in-001.fastervpn.world#印度
 ss://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
+ss://50414e45-4c5f-5a45-5553-72665601df3c@0.0.0.0:1?encryption=none&security=none&type=ws&host=oszpxmeeui5s.gentle-pine-0d35.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F72665601df3c#%F0%9F%93%8A%20remaining%20%7C%20%E2%80%8EUnlimited%20%7C%20%E2%80%8EUnlimited%20%7C%20%E2%80%8EUnlimited
 ss://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4
 ss://YWVzLTEyOC1nY206WkVkMnpuQGRucy55eXBhLnp6c3NwdG9wLmNvbToyMTQ3NQ==#Aa64n%20-cheina
 vless://1db6f665d99b4a87b008969a7069f5ae@38.180.33.201:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=0coAEE2hnrm6BphHSvLG6qjb9A7UmOWY6Ll9ADfPSlI&sid=aabbccdd#%F0%9F%87%AA%F0%9F%87%B8NEO-SPAIN
+vless://50414e45-4c5f-5a45-5553-72665601df3c@0.0.0.0:1?encryption=none&security=none&type=ws&host=oszpxmeeui5s.gentle-pine-0d35.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F72665601df3c#%F0%9F%93%8A%20remaining%20%7C%20%E2%80%8EUnlimited%20%7C%20%E2%80%8EUnlimited%20%7C%20%E2%80%8EUnlimited
 vless://920a95cd-8038-4118-b3db-3845f2bce0cc@51.195.103.227:2087?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=cloudflare.com&pbk=QNZfaWsdkgBNCdi_t5WpcYzTut5fnfl2GGmgJjnXYR4&sid=aed7&spx=/@GoldNet_Store#Hossein%20%F0%9F%8F%B4

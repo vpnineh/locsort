@@ -2,14 +2,8 @@ hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bi
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#日本
 hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#日本
 hy2://a9081889-1949-49ba-a2aa-7054515716de@c2.bestai.beauty:3488/?insecure=1&sni=c2.bestai.beauty#日本
-ss://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%87%af%f0%9f%87%b5%20JP%201
-ss://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
 ss://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
 trojan://8e66f1cd7803@jp2.connecton.surf:443?host=jp2.connecton.surf&path=%2Ftrojan&sni=jp2.connecton.surf&type=ws#🇯🇵
-trojan://a68f2c6c-3525-4050-9129-8759e4327660@jp200m.jiasu.asia:50000?sni=jp200m.jiasu.asia&fp=chrome&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%202
-vless://0ca45842-71e2-47fe-889f-9e75f93ea459@134.122.202.244:44915?path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
 vless://119c0dae-7113-4b8e-bab2-66d659230a7a@172.67.243.218:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#new-work%F0%9F%87%AF%F0%9F%87%B5
-vless://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
 vless://a7239019-e707-4370-9358-8e66f1cd7803@jp2.connecton.surf:443?security=tls&type=ws&path=/vless#🇯🇵
