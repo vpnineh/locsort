@@ -55,6 +55,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1#4670%20%7C%20%F0%9
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443/?sni=vpn-kr-003.fastervpn.world#2765%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&sni=vpn-kr-003.fastervpn.world#%F0%9F%87%B0%F0%9F%87%B7%20%DA%A9%D8%B1%D9%87%20%D8%AC%D9%86%D9%88%D8%A8%DB%8C%20
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?sni=vpn-kr-003.fastervpn.world#1873%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#法国
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?sni=vpn-kr-003.fastervpn.world#7256%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#澳大利亚
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&sni=vpn-in-001.fastervpn.world#印度
@@ -153,7 +154,6 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443/?sni=vpn-sg-001.fastervpn.worl
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443/?sni=vpn-sg-001.fastervpn.world#1008%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?sni=google.com#6914%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?sni=vk.com#2497%20%7C%20%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸139909
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.141:8443/?sni=grape-turbo-fr.roxa.org#3646%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.143:8443/?sni=grape-turbo-fr.roxa.org#1409%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD%20%233
