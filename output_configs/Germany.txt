@@ -1,7 +1,6 @@
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%231
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#德国
 hy2://Telegram%40vpnjey@31.76.27.23:37009/?insecure=1&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram%40vpnjey#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B2

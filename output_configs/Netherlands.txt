@@ -1,5 +1,4 @@
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#荷兰
-hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy222.routeon.pro#荷兰
 hy2://BWAFlp8g53@72.56.102.31:443/?insecure=1#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
 hy2://OD6gGbGU9a@195.133.24.124:443/?sni=hys26.wba-pn.ru#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1%20%DB%B1
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@ghm.gh-ghnbari6264.workers.dev:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiUnQzc0xRT29yekwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1

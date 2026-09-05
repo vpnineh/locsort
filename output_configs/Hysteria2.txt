@@ -13,7 +13,6 @@ hy2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443/?insecure=1&sni=19
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#荷兰
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?sni=replay.wwwinternetvideo.click#2053%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://2b3e8750-b944-42fc-b36e-ec2c64b48a98@31.177.111.213:443/?insecure=1&sni=hy222.routeon.pro#荷兰
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?sni=pixelcast.wwwinternetvideo.click#0717%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:443/?insecure=1&sni=us.frkn.org#美国
@@ -29,12 +28,10 @@ hy2://76ivwa51ce2gauym@giftcard.gateway-stream.com:52004/?sni=giftcard.gateway-s
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#%3E%3E%40oneclickvpnkeys%3A%3APL%20%282%29
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#波兰
-hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#🇬🇧GB
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?sni=crt.ultimagamest.com#2847%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@46.247.41.120:443/?sni=kz03hy01.tcp-reset-club.net#0951%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://990c8eb6-4c4e-4277-8602-79af8402cdd0@104.165.205.42:8443/?sni=speedtestmark.com#4478%20%7C%20%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://990c8eb6-4c4e-4277-8602-79af8402cdd0@45.145.43.56:8443/?sni=speedtestmark.com#5277%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.114:8080/?insecure=1&sni=hopp-germany-new.ddnsguru.com#土耳其
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.124.118:8080/?sni=hopp-germany-new.ddnsguru.com#土耳其
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.2:8443/?sni=hopp-germany-new.ddnsguru.com#5260%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.6:8443/?sni=hopp-germany-new.ddnsguru.com#3350%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -68,7 +65,6 @@ hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443/?sni=hopp-roman
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8080/?sni=hopp-romania-new.roxa.org#0004%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.173:8443/?sni=hopp-romania-new.roxa.org#3982%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%231
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?insecure=1&sni=hopp-romania-new.roxa.org#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8080/?sni=hopp-romania-new.roxa.org#2837%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.174:8443/?sni=hopp-romania-new.roxa.org#3352%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.175:8080/?sni=hopp-romania-new.roxa.org#0719%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -115,8 +111,6 @@ hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266
 hy2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443/?insecure=1&sni=hys-mesh.spliceflowtech.com#芬兰
 hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443/?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0640%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443/?sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0003%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://cd74c0a406664a5bc0bac098220a2468@nl1.sferavpn.pro:443/?insecure=1&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#美国
-hy2://d19b459e-fcc3-4f2a-8f2e-77e8701cd1d8@ush2.shazamri.xyz:443/?insecure=1&sni=ush2.shazamri.xyz#🇺🇸US
 hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@167.104.223.173:8443/?sni=wiki.locallynet.org#2190%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@185.121.179.129:5443/?sni=gaming.locallynet.org#1858%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@171.22.31.148:443/?sni=de1.apexvpn.space#5211%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
