@@ -2,7 +2,7 @@ hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443/#芬兰
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@78.17.187.184:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#芬兰
-hy2://becd3b04-62a8-4b74-be67-be746008b4c2@45.149.147.194:443/?insecure=1&sni=hys-mesh.spliceflowtech.com#芬兰
+hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#芬兰
 ss://119c0dae-7113-4b8e-bab2-66d659230a7a@benedict.ns.cloudflare.com:443?type=ws&host=new-worker.rhyljiti.workers.dev&path=/new-worker.rhyljiti.workers.dev/?ed%3D2560&security=tls&fp=randomized&sni=new-worker.rhyljiti.workers.dev#Aa64n%20%F0%9F%87%AB%F0%9F%87%AE
 ss://367077c8-ebe4-4777-a32c-13911a5cb755@dashboard-trx.netbazshop.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
 ss://367077c8-ebe4-4777-a32c-13911a5cb755@my.server-teamspeak.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%AB%F0%9F%87%AE%F0%9D%97%99%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1
