@@ -5,6 +5,7 @@ hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1#390
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1&sni=155.248.209.237#%3E%3E%40oneclickvpnkeys%3A%3AUS%20%2842%29
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=155.248.209.237#0319%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?sni=hy2.123266.xyz#%3E%3E%40oneclickvpnkeys%3A%3AUS%20%2843%29
+hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#US
 hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443/?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0640%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://dongtaiwang.com@142.249.37.90:44356/?insecure=1&sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Rose%E2%80%9425
 hy2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F%87%B8%20Rose%E2%80%9416
