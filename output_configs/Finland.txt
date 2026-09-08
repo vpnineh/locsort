@@ -1,5 +1,6 @@
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443/#芬兰
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
+hy2://9311376a-814b-49b3-af70-9c7e7507e20f@193.35.17.133:443/?sni=fin1.apexvpn.space#FI_1%7C4.2MB%2Fs
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@78.17.187.184:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#芬兰
 hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#芬兰
