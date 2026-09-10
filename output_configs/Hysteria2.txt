@@ -7,7 +7,6 @@ hy2://140.82.121.3:443/?insecure=1&sni=www.microsoft.com#EPODONIOS%20%2836%29
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@10.10.34.36:443/?sni=samurai.h4ck.me#EPODONIOS%20%281%29
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@samurai.h4ck.me:443/#芬兰
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#EPODONIOS%20%282%29
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#韩国
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#EPODONIOS%20%283%29
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#日本
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=css.rbxcdn.com#4738%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -343,7 +342,6 @@ hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecu
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?sni=germany1.h2corp.local#0666%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%91%9D36%40oneclickvpnkeys
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?sni=germany1.h2corp.local#5699%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443/?insecure=1&sni=germany1.h2corp.local#德国
 hy2://vpw:443/
 hy2://vpwz:443/
 hy2://vpwzu6ug7tpoprsq@65.109.198.221:52008/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u

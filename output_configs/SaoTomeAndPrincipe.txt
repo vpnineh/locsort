@@ -1,4 +1,6 @@
 ss://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 ss://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n
+trojan://humanity@172.67.149.60:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%Aa64n-test
+trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#Aa64n-test
 vless://144e9929-f813-460c-e3fb-68d35d5a215d@www.forcepower.monster:8081?type=tcp&path=%2F&headerType=http&security=none#Aa64n-24test✨✨✨
 vless://ebd74251-142d-5f4e-9d2a-3ac3c245a666@worker-nameless-pine-d223.lixaho3875.workErS.DEV:2083?type=ws&host=worker-nameless-pine-d223.lixaho3875.workErS.DEV&path=vless-ws/?ed%3D2048&security=tls&fp=chrome&sni=worker-nameless-pine-d223.lixaho3875.workErS.DEV&alpn=http/1.1#%F0%9F%93%A1%20Fast%20%E2%9A%A1%EF%B8%8FAa64n

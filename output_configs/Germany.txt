@@ -10,7 +10,6 @@ hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@de1.apexvpn.space:443/?sni=de1.apexvp
 hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE
 hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE%20%281%29
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@144.31.93.173:443/?insecure=1&sni=germany1.h2corp.local#%E5%BE%B7%E5%9B%BD%20%234
-hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@hold.wwwinternetvideo.click:443/?insecure=1&sni=germany1.h2corp.local#德国
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%DB%B1
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=https%253a%252f%252fwww.calmloud.com#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE466%7C4.9MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=https%3A%2F%2Fwww.calmloud.com#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA
