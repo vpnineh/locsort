@@ -49,7 +49,6 @@ hy2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorba
 hy2://76186f1e-3062-4a2b-98c2-fab3c61a9511@2.27.209.1:443/?sni=srvhy1.ezcon24.online#4172%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://76ivwa51ce2gauym@65.109.198.221:52004/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#EPODONIOS%20%2812%29
 hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@10.10.34.36:443/?insecure=1&sni=ltu-01.node.lumixnet.com#EPODONIOS%20%2813%29
-hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@ltu-01.node.lumixnet.com:443/?insecure=1&sni=ltu-01.node.lumixnet.com#芬兰
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52049/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE164945%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52050/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE164946%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52051/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE164947%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
@@ -137,7 +136,6 @@ hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?sni=hopp-romania-new.roxa.org#3419%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#1167%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8443/?sni=hopp-romania-new.roxa.org#3552%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.183:8080/?sni=hopp-romania-new.roxa.org#1012%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.184:8443/?sni=hopp-romania-new.roxa.org#2392%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -253,7 +251,6 @@ hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.231:8443/?sni=hopp-legend-
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.232:8443/?sni=hopp-legend-se.roxa.org#2736%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.233:8443/?sni=hopp-legend-se.roxa.org#3836%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#EPODONIOS%20%2838%29
-hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#英国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8443/?sni=hopp-legend-se.roxa.org#5901%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.235:8443/?sni=hopp-legend-se.roxa.org#0401%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.239:8443/?sni=hopp-legend-se.roxa.org#1769%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
