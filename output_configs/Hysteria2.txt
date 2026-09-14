@@ -38,12 +38,10 @@ hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&sni=ms
 hy2://5bcodmhjtyfyyrqh@10.10.34.36:36758/?sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze
 hy2://5bcodmhjtyfyyrqh@91.142.73.159:36758/?insecure=1&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze#%40Begoo_VPN%20%C2%B2%E2%81%B9%E2%81%B0
 hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#EPODONIOS%20%2810%29
-hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&sni=md1.cnyvpn.com#摩尔多瓦
 hy2://617z9r1mbzbm1t5z@178.236.251.64:52000/?sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram%20%F0%9F%86%94%40cnetvpn%20%F0%9F%87%B7%F0%9F%87%BA
 hy2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@10.10.34.36:443/?insecure=1&sni=mkm.icu#%E7%BE%8E%E5%9B%BD%20%231
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@10.10.34.36:443/?mport=9000-20000&insecure=1&sni=mkm.icu#EPODONIOS%20%2811%29
-hy2://6dcb725e-947e-4bbe-bb35-903374d57179@rm-eco-us-01.409648.xyz:443/?mport=9000-20000&insecure=1&sni=mkm.icu#美国
 hy2://6f716a3e-2843-4930-94ab-d21af3b4927f@10.10.34.36:443/?sni=forever.h4ck.me#%E2%9C%8559%40oneclickvpnkeys
 hy2://6f7a8009ecf6a12e10d03f9d88493c89@167.179.34.13:55443/?insecure=1&sni=gorbachev-th.kvnfreetest.uk
 hy2://76186f1e-3062-4a2b-98c2-fab3c61a9511@2.27.209.1:443/?sni=srvhy1.ezcon24.online#4172%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -75,7 +73,6 @@ hy2://AstroVPN_official@104.234.138.106:36896/?sni=ptserv.accuratenetworkchecker
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@10.10.34.36:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#EPODONIOS%20%2816%29
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@78.17.187.184:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#%D9%81%D9%86%D9%84%D8%A7%D9%86%D8%AF%20%F0%9F%87%AB%F0%9F%87%AE
 hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@78.17.187.184:443/?sni=fin14qr.wwwinternetvideo.click#0553%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs=@fin14qr.wwwinternetvideo.click:443/?insecure=1&sni=fin14qr.wwwinternetvideo.click#芬兰
 hy2://BWAFlp8g53@72.56.102.31:443/?insecure=1#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
 hy2://C0DD7bgChaltqnh/T2az6ijM@140.238.31.111:20000/?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh/T2az6ijM#韩国
 hy2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click
@@ -132,7 +129,6 @@ hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.176:8443/?sni=hopp-roman
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8080/?sni=hopp-romania-new.roxa.org#5360%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.177:8443/?sni=hopp-romania-new.roxa.org#0184%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#%E5%BE%B7%E5%9B%BD%20%231
-hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?insecure=1&sni=hopp-romania-new.roxa.org#德国
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.178:8080/?sni=hopp-romania-new.roxa.org#3419%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?insecure=1&sni=hopp-romania-new.roxa.org
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.181:8080/?sni=hopp-romania-new.roxa.org#1167%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -222,7 +218,6 @@ hy2://dongtaiwang.com@142.249.37.90:44356/?sni=hy2.561891.xyz#%F0%9F%87%BA%F0%9F
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com
 hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com
 hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#EPODONIOS%20%2834%29
-hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#法国
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1#3883%20%7C%20%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%F0%9F%87%B0%F0%9F%87%BF%20%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86%20
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?sni=kaz0001hy01.packet-drop-society.net#0163%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
