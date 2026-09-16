@@ -14,10 +14,8 @@ hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=google.com#06
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=speedtest.tinkoff.ru#1407%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=vk.com#2936%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://19f72087-4591-4d72-930b-2697078ec2be@45.88.42.16:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#EPODONIOS%20%284%29
-hy2://19f72087-4591-4d72-930b-2697078ec2be@sg1.xiaoliyu.cyou:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#新加坡
 hy2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160/?sni=152-69-231-175.liao.kdns.fr#咕
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#EPODONIOS%20%285%29
-hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#荷兰
 hy2://2630a66444286f47ce591752f28adf5e@[2001:4188:2:600:10:10:34:36]:50160/?sni=154-49-127-140.liao.kdns.fr#%40OutlineReleasedKey
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?sni=replay.wwwinternetvideo.click#2053%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -51,7 +49,6 @@ hy2://7nkm4doh2gkgl5op@65.109.198.221:52049/?sni=giftcard.gateway-stream.com&obf
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52050/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE164946%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52051/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%F0%9F%87%AB%F0%9F%87%AE164947%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FS...
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#%3E%3E%40oneclickvpnkeys%3A%3APL%20%282%29
-hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&sni=crt.ultimagamest.com#波兰
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?sni=crt.ultimagamest.com#2847%20%7C%20%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://8f0gvz5eul6omhq4@65.109.198.221:52016/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85%20%231
 hy2://8f0gvz5eul6omhq4@65.109.198.221:52022/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%E2%9C%85%20%20%40vistav2ray%20%20%F0%9F%91%88%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D9%85%D8%A7%20%E2%9C%85%20%232
