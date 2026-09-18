@@ -4,5 +4,10 @@ ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&ty
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
+ss://e9e7be6a-2a38-4c0c-bf60-3bf4d345eff1@dns.chandplus.com:2083?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=2zB97reqEK5vzd5IOVHi_86h33aFsFGXmYRqqcWbhi8&sid=92a332&type=tcp&headerType=none#UK1
+ss://e9e7be6a-2a38-4c0c-bf60-3bf4d345eff1@dns.chandplus.com:2083?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=2zB97reqEK5vzd5IOVHi_86h33aFsFGXmYRqqcWbhi8&sid=92a332&type=tcp&headerType=none#UK2
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
+vless://e9e7be6a-2a38-4c0c-bf60-3bf4d345eff1@dns.chandplus.com:2083?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=2zB97reqEK5vzd5IOVHi_86h33aFsFGXmYRqqcWbhi8&sid=92a332&type=tcp&headerType=none#UK1
+vless://e9e7be6a-2a38-4c0c-bf60-3bf4d345eff1@dns.chandplus.com:2083?encryption=none&security=reality&sni=amp-api-edge.apps.apple.com&fp=firefox&pbk=2zB97reqEK5vzd5IOVHi_86h33aFsFGXmYRqqcWbhi8&sid=92a332&type=tcp&headerType=none#UK2
+vmess://eyJ0bHMiOiIiLCJob3N0IjoidmliZXIuY29tIiwidiI6IjIiLCJwcyI6IvCfh6zwn4enIEdCIDEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3ZtZXNzXC8iLCJwb3J0Ijo4MCwiYWRkIjoiNTcuMTI5LjEzMi4yMjMiLCJhaWQiOjAsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwic2N5IjoiYXV0byJ9
