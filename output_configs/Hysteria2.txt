@@ -106,7 +106,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?sni=vpn-kr-003.fastervpn.worl
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=t.me#IN_1%7C3.9MB%2Fs
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=vpn-in-001.fastervpn.world#EPODONIOS%20%2823%29
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=whatsapp.com#澳大利亚
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-in-001.fastervpn.world:443/?insecure=1&sni=vpn-in-001.fastervpn.world#印度
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1&sni=vpn-uk-001.fastervpn.world#英国
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443/?insecure=1&sni=vpn-uk-002.fastervpn.world#嘎
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443/?sni=hopp-romania-new.roxa.org#1072%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -194,7 +193,6 @@ hy2://bfmf6a05bp4fjwuh@65.109.198.221:52029/?sni=giftcard.gateway-stream.com&obf
 hy2://bfmf6a05bp4fjwuh@65.109.198.221:52030/?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%98%81
 hy2://c0dd7bgchaltqnh:443/?sni=rmgyvpn.rest&obfs=salamander&obfs-password=C0DD7bgChaltqnh%2FT2az6ijM#EPODONIOS%20%2817%29
 hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#EPODONIOS%20%2832%29
-hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#US
 hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443/?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0640%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443/?sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0003%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#%28%40VmessProtocol%29%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D9%88%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%87%A9%F0%9F%87%AA
@@ -217,7 +215,6 @@ hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=ka
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?sni=kaz0001hy01.packet-drop-society.net#0163%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net
 hy2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da
-hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE
 hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE%20%281%29
 hy2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443/#嘎嘎
 hy2://f80fadf1-4f90-40e2-891f-e9a10146d960@87.229.95.140:443/?sni=55127e420fe3nl1.587458.xyz&obfs=salamander&obfs-password=i5mjtZaeVza5scg3#0442%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
