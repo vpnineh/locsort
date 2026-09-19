@@ -106,7 +106,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?sni=vpn-kr-003.fastervpn.worl
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=t.me#IN_1%7C3.9MB%2Fs
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=vpn-in-001.fastervpn.world#EPODONIOS%20%2823%29
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=whatsapp.com#澳大利亚
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443/?insecure=1&sni=vpn-uk-001.fastervpn.world#英国
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443/?insecure=1&sni=vpn-uk-002.fastervpn.world#嘎
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443/?sni=hopp-romania-new.roxa.org#1072%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8080/?sni=hopp-romania-new.roxa.org#2215%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
