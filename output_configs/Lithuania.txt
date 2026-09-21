@@ -1,0 +1,2 @@
+ss://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.foxsports.com&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=d659da01fb94&path=/#%F0%9F%87%B1%F0%9F%87%B9%20LT%201
+vless://ff40696b-06d6-443b-9481-8d01eddd13e1@server.slavkiti.monster:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=www.foxsports.com&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=d659da01fb94&path=/#%F0%9F%87%B1%F0%9F%87%B9%20LT%201
