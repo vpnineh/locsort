@@ -104,7 +104,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?sni=vpn-kr-003.fastervpn.world#7256%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=t.me#IN_1%7C3.9MB%2Fs
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=vpn-in-001.fastervpn.world#EPODONIOS%20%2823%29
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=whatsapp.com#澳大利亚
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-002.fastervpn.world:443/?insecure=1&sni=vpn-uk-002.fastervpn.world#嘎
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443/?sni=hopp-romania-new.roxa.org#1072%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8080/?sni=hopp-romania-new.roxa.org#2215%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
@@ -169,7 +168,6 @@ hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@144.31.93.60:443/?sni=adm
 hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?insecure=1
 hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?insecure=1&sni=admin.wwwinternetvideo.click#1181%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@45.192.12.93:443/?sni=admin.wwwinternetvideo.click#%D9%84%D9%87%D8%B3%D8%AA%D8%A7%D9%86%20%F0%9F%87%B5%F0%9F%87%B1
-hy2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@go.wwwinternetvideo.click:443/?insecure=1&sni=admin.wwwinternetvideo.click#巴西
 hy2://a34f3990b69f44bfa0d32385@149.118.78.109:443/?insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#AU%20%281%29
 hy2://a34f3990b69f44bfa0d32385@149.118.78.109:443/?mport=20000-30000&insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=a34f3990b69f44bfa0d32385#AU
 hy2://a9081889-1949-49ba-a2aa-7054515716de@135.149.78.46:3488/?insecure=1&sni=c2.bestai.beauty#EPODONIOS%20%2830%29
@@ -308,13 +306,11 @@ hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@217.60.182.79:443/?insecure=1&sni=cab
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.250:443/?sni=news.gazette.help#EPODONIOS%20%2841%29
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#%E7%BE%8E%E5%9B%BD%20%233
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@31.76.71.63:443/?sni=cabinet.wwwinternetvideo.click#0811%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443/?sni=news.gazette.help#阿联酋
 hy2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1
 hy2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8164718%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 hy2://switzerland_hysteria2_fastlane_8r4fgh8f1:TRVdyaK5S0DUjC46peYVgtw2Ci4GwiCF@45.140.205.58:1935/?sni=ch3.h.fastlanehosting.ru#5665%20%7C%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://sxc15led4b0vp5fy@2.26.49.16:443/?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#1748%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://sxc15led4b0vp5fy@2.26.97.21:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#EPODONIOS%20%2842%29
-hy2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443/?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#芬兰
 hy2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@13.143.134.185:30000/?sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%40V2ray_Alpha%F0%9F%AB%91%202
 hy2://tnnls@13.143.134.185:443/?sni=bwdf2fnt.xn--e1aatfr8bwa.online&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81#%40ConfigV2RayNG%20%281%29
 hy2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@185.225.19.39:443/?sni=ro.h2corp.org
