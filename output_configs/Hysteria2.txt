@@ -1,5 +1,4 @@
 hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#EPODONIOS
-hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#日本
 hy2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&sni=gorbachev-new-th.kvnfreetest.uk
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?sni=vk.com#4512%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://140.82.121.3:443/?insecure=1&sni=bing.com#EPODONIOS%20%2837%29
@@ -224,7 +223,6 @@ hy2://g2d0ooqq3ykzsacc@65.109.198.221:52010/?sni=giftcard.gateway-stream.com&obf
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&sni=css.rbxcdn.com
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&sni=www.linux.com#%E2%AD%90%EF%B8%8F18%40oneclickvpnkeys
 hy2://gf1@5.129.235.85:443/?insecure=1&sni=www.linux.com#%E2%AD%90%EF%B8%8F18%40oneclickvpnkeys%20%282%29
-hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#法国
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.227:8443/?sni=hopp-legend-se.roxa.org#0725%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.229:8080/?insecure=1&sni=hopp-legend-se.roxa.org#%40OutlineReleasedKey%20%2811%29
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.229:8443/?sni=hopp-legend-se.roxa.org#1413%20%7C%20%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
