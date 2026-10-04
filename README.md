@@ -1,10 +1,10 @@
-# Configs (آخرین به‌روزرسانی: 2026-10-04 15:30:43 +0330)
+# Configs (آخرین به‌روزرسانی: 2026-10-04 20:16:02 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
-| Hysteria2 | 341 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
+| Hysteria2 | 338 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
 | ShadowSocks | 1488 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 3 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 61 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |

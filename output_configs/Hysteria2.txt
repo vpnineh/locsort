@@ -11,8 +11,6 @@ hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=google.com#06
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=speedtest.tinkoff.ru#1407%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?sni=vk.com#2936%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20SNI-VK%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://19f72087-4591-4d72-930b-2697078ec2be@45.88.42.16:1933/?insecure=1&sni=sg1.xiaoliyu.cyou#EPODONIOS%20%284%29
-hy2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433/?insecure=1&sni=es1.xiaoliyu.cyou#咕咕嘎嘎
-hy2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433/?insecure=1&sni=se.xiaoliyu.cyou#嘎嘎
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&sni=cloud.mail.ru#EPODONIOS%20%285%29
 hy2://2630a66444286f47ce591752f28adf5e@[2001:4188:2:600:10:10:34:36]:50160/?sni=154-49-127-140.liao.kdns.fr#%40OutlineReleasedKey
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?insecure=1&sni=replay.wwwinternetvideo.click
@@ -69,7 +67,6 @@ hy2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@78.17.187.184:443/?sni=fin1
 hy2://BWAFlp8g53@72.56.102.31:443/?insecure=1#%D9%87%D9%84%D9%86%D8%AF%20%F0%9F%87%B3%F0%9F%87%B1
 hy2://C91FbOXGY9XRymrcEebtax9R1Nj62UizoT8S6kCb7xwey8IE@31.76.30.97:443/?insecure=1&sni=fast.wwwinternetvideo.click
 hy2://CnVfXXvMzh@72.56.92.120:443/?insecure=1&sni=hys13.wba-pn.ru
-hy2://CyG0RFxMjzs41uQD4OLuHQ==@137.131.167.179:443/?mport=20000-30000&insecure=1&sni=rmgyvpn.rest&obfs=salamander&obfs-password=CyG0RFxMjzs41uQD4OLuHQ==#咕咕
 hy2://EkF2Yw0Lc7@72.56.16.243:443/?insecure=1&sni=hys34.wba-pn.ru
 hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@85.159.228.22:443/?sni=hy2-latvia2.unlimited-access.ru
 hy2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@[2a05:541:126:20::1]:443/?sni=hy2-latvia2.unlimited-access.ru#5070%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
