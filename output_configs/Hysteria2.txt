@@ -78,8 +78,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?insecure=1&sni=vpn-kr-003.faste
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?sni=vpn-kr-003.fastervpn.world#4446%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&sni=css.rbxcdn.com#EPODONIOS%20%2821%29
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&sni=whatsapp.com#EPODONIOS%20%2822%29
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#🇫🇷188762
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.38.44.64:443?insecure=1&sni=off#🇫🇷188763
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?insecure=1&sni=t.me#%3E%3E%40oneclickvpnkeys%3A%3ACA%20%281%29
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.122.197:443/?sni=t.me#0884%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20HYSTERIA2%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@15.223.183.81:443/?insecure=1&sni=t.me
@@ -98,6 +96,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?sni=vpn-kr-003.fastervpn.world#18
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&sni=vpn-fr-002.fastervpn.world
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#EPODONIOS%20%2820%29
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?sni=vpn-kr-003.fastervpn.world#7256%20%7C%20%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@51.44.167.227:443?insecure=1&sni=vpn-fr-001.fastervpn.world#🇫🇷189112
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=t.me#IN_1%7C3.9MB%2Fs
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&sni=vpn-in-001.fastervpn.world#EPODONIOS%20%2823%29
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443/?sni=hopp-romania-new.roxa.org#1072%20%7C%20%F0%9F%87%A9%F0%9F%87%BF%20Algeria%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
