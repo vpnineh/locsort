@@ -1,14 +1,14 @@
-# Configs (آخرین به‌روزرسانی: 2026-10-16 01:12:36 +0330)
+# Configs (آخرین به‌روزرسانی: 2026-10-16 03:29:05 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
 | Hysteria2 | 339 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 1444 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 1439 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 3 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 38 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 1047 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vless | 1042 | [`Vless.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
 | Vmess | 188 | [`Vmess.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## دسته‌بندی بر اساس کشور
@@ -70,7 +70,7 @@
 | <img src="https://flagcdn.com/w20/pl.png" width="20"> Poland (لهستان) | 3 | [`Poland.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) | [`Poland.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Poland.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20"> Romania (رومانی) | 6 | [`Romania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Romania.txt) | [`Romania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Romania.txt) |
 | <img src="https://flagcdn.com/w20/ru.png" width="20"> Russia (روسیه) | 2 | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Russia.txt) |
-| <img src="https://flagcdn.com/w20/ws.png" width="20"> Samoa (ساموآ) | 20 | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Samoa.txt) |
+| <img src="https://flagcdn.com/w20/ws.png" width="20"> Samoa (ساموآ) | 8 | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Samoa.txt) |
 | <img src="https://flagcdn.com/w20/st.png" width="20"> SaoTomeAndPrincipe (سائوتومه و پرنسیپ) | 6 | [`SaoTomeAndPrincipe.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/SaoTomeAndPrincipe.txt) | [`SaoTomeAndPrincipe.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SaoTomeAndPrincipe.txt) |
 | <img src="https://flagcdn.com/w20/sa.png" width="20"> SaudiArabia (عربستان سعودی) | 1 | [`SaudiArabia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/SaudiArabia.txt) | [`SaudiArabia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SaudiArabia.txt) |
 | <img src="https://flagcdn.com/w20/kr.png" width="20"> SouthKorea (کره جنوبی) | 1 | [`SouthKorea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/SouthKorea.txt) | [`SouthKorea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SouthKorea.txt) |
@@ -80,4 +80,4 @@
 | <img src="https://flagcdn.com/w20/tt.png" width="20"> TrinidadAndTobago (ترینیداد و توباگو) | 2 | [`TrinidadAndTobago.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/TrinidadAndTobago.txt) | [`TrinidadAndTobago.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/TrinidadAndTobago.txt) |
 | <img src="https://flagcdn.com/w20/tr.png" width="20"> Turkey (ترکیه) | 7 | [`Turkey.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Turkey.txt) | [`Turkey.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Turkey.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20"> UK (انگلیس) | 7 | [`UK.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/UK.txt) | [`UK.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20"> USA (آمریکا) | 53 | [`USA.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) | [`USA.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/USA.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20"> USA (آمریکا) | 55 | [`USA.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) | [`USA.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/USA.txt) |
