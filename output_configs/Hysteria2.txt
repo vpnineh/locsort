@@ -19,6 +19,7 @@ hy2://28a91bb2-51fe-48e1-9865-ec8bc9e48890@204.152.221.119:4434/?insecure=1&sni=
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&sni=pixelcast.wwwinternetvideo.click#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%281%29
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?sni=pixelcast.wwwinternetvideo.click#0717%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20HYSTERIA2%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 hy2://3b8c82ed-fe66-472d-915e-034ccb57103f@205.172.56.52:443/?insecure=1&sni=us.frkn.org#EPODONIOS%20%286%29
+hy2://41edb44c8e@103.88.243.142:11592/?insecure=1&sni=srv-17e124.21freedom.net#🇷🇺197970
 hy2://41f0d6d3-4a45-4635-8225-2abd2284189b@10.10.34.36:2056/?insecure=1&sni=lmny.mangshe.xyz#EPODONIOS%20%287%29
 hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#EPODONIOS%20%288%29
 hy2://4savc5ig1n3549e4@65.109.198.221:52023/?sni=giftcard.gateway-stream.com
