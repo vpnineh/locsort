@@ -1,1 +1,1 @@
-hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&sni=kaz0001hy01.packet-drop-society.net#%F0%9F%87%B0%F0%9F%87%BF%20%D9%82%D8%B2%D8%A7%D9%82%D8%B3%D8%AA%D8%A7%D9%86%20
+hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_interval=10&sni=kaz0001hy01.packet-drop-society.net#🇰🇿
