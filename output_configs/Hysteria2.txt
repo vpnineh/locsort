@@ -97,7 +97,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.89:443/?insecure=1&hop_interval=10#46
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.111.166:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#2765
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#1873
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.36.93.74:443/?insecure=1&hop_interval=10&sni=vpn-kr-003.fastervpn.world#🇰🇷
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.158.96.132:443?insecure=1&sni=vpn-de-002.fastervpn.world#🇩🇪192088
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.166.40:443/?insecure=1&hop_interval=10&sni=vpn-fr-002.fastervpn.world
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&hop_interval=10&sni=35.181.169.140#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#7256
