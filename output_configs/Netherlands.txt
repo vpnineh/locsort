@@ -1,6 +1,7 @@
 hy2://BWAFlp8g53@72.56.102.31:443/?insecure=1&hop_interval=10#هلند
 hy2://OD6gGbGU9a@195.133.24.124:443/?hop_interval=10&sni=hys26.wba-pn.ru#هلند
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&hop_interval=10&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱
+hy2://f04i31zq8sy80v9b@r5ycmuko.zibayeman.com:54280/?hop_interval=10&sni=r5ycmuko.zibayeman.com&obfs=salamander&obfs-password=hfwq51con9efdxx6#🇳🇱199940
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10&sni=hys9.wba-pn.ru#هلند
 ss://28e96d9a-56d0-481a-a07c-b015009a0593@ghm.gh-ghnbari6264.workers.dev:8880?encryption=none&type=ws&host=ghm.gh-ghnbari6264.workers.dev&path=/eyJqdW5rIjoiUnQzc0xRT29yekwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed%3D2560&security=none#Aa64n%20%F0%9F%87%B3%F0%9F%87%B1
 ss://367077c8-ebe4-4777-a32c-13911a5cb755@a-lf-0.okamii.ir:2095?encryption=none&type=tcp&headerType=http&host=varzesh3.com&path=/path#%F0%9F%87%B3%F0%9F%87%B1%F0%9D%97%A1%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%AE%F0%9D%97%BB%F0%9D%97%B1%F0%9D%98%80

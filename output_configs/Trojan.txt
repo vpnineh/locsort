@@ -28,7 +28,6 @@ trojan://faGPpGuzFP@x1germany.devefun.eu:1935?type=tcp&security=tls&alpn=h2,http
 trojan://fb1f3b3bd7e0@de3.connecton.surf:443?host=de3.connecton.surf&path=%2Ftrojan&sni=de3.connecton.surf&type=ws#🇩🇪
 trojan://humanity@144.31.205.106:443/?type=tcp&security=tls&sni=www.volumeroot.com#2483%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 trojan://humanity@162.159.91.211:443/?type=tcp&security=tls&sni=www.calmlunch.com#2309%20%7C%20%E2%98%81%EF%B8%8F%20Cloudflare%20%7C%20TROJAN%20%7C%20TG%3A%20%40YoutubeUnBlockRu
-trojan://humanity@172.64.145.133:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@meliproxyy
 trojan://humanity@195.181.244.216:443/?type=tcp&security=tls&sni=www.calmlunch.com#1771%20%7C%20%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20%F0%9F%94%90%20Stable%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 trojan://humanity@45.80.111.7:443/?type=tcp&security=tls&sni=www.calmlunch.com#2250%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
 trojan://humanity@5.253.189.238:443/?type=tcp&security=tls&sni=www.calmlunch.com#1202%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20TROJAN%20%7C%20%F0%9F%93%BA%20YT%20%7C%20TG%3A%20%40YoutubeUnBlockRu
