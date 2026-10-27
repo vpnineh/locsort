@@ -1,7 +1,9 @@
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.130.83.30:443/?insecure=1&hop_interval=10&sni=vpn-uk-002.fastervpn.world#GB_7|4.7MB/s
+ss://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#🏆🇬🇧GB
 ss://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#Aa64n%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20103ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443?type=tcp#GB%F0%9F%87%AC%F0%9F%87%A7+Aa64n
 trojan://8cc0cc527b6c@uk2.connecton.surf:443?host=uk2.connecton.surf&path=%2Ftrojan&sni=uk2.connecton.surf&type=ws#🇬🇧
+vless://948df76f-505d-4608-9c76-a933ee3ccc76@46.250.240.80:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=4cc9dc65f7770115&pbk=CYFeysLf--_IVhxQOCd3ZxLrAVWFFOkJzvIGHOVXN3E#🏆🇬🇧GB
 vless://9fec9cd6-3bf2-4adb-8fcd-8cc0cc527b6c@uk2.connecton.surf:443?security=tls&type=ws&path=/vless#🇬🇧
