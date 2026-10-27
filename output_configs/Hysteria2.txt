@@ -204,7 +204,6 @@ hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@167.104.223.173:8443/?hop_interval=10
 hy2://d8d69a2d-dbc3-4d8d-a896-0425dcd04895@185.121.179.129:5443/?hop_interval=10&sni=gaming.locallynet.org#1858
 hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@171.22.31.148:443/?hop_interval=10&sni=de1.apexvpn.space#5211
 hy2://dffb4c3d-1e84-4938-8881-cad917e8efb2@87.120.187.192:443/?hop_interval=10&sni=de1.apexvpn.space#DE
-hy2://dfo5i9p6payp29i0@ll5xoe8j.easyiran.org:22357/?hop_interval=10&sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#🇫🇷200692
 hy2://dongtaiwang.com@142.249.37.90:44356/?hop_interval=10&sni=hy2.561891.xyz#🇺🇸
 hy2://dongtaiwang.com@142.249.37.90:44356/?insecure=1&hop_interval=10&sni=hy2.561891.xyz#🇺🇸
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&hop_interval=10&sni=www.bing.com
