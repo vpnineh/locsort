@@ -1,0 +1,2 @@
+hy2://CQUPACy34t6Tjx8FdQdkCiYW@47.129.112.129:20000/?insecure=1&hop_interval=10&sni=sg-transit-3.nebulacloud.win#🇹🇼
+hy2://CQUPACy34t6Tjx8FdQdkCiYW@47.129.112.129:20000/?insecure=1&hop_interval=10&sni=sg-transit-3.nebulacloud.win&upmbps=100&downmbps=200#🇹🇼

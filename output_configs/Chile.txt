@@ -2,9 +2,16 @@ hy2://4c858cccff331e64c711a199a6cb256a@3.12.34.194:443/?hop_interval=10&sni=clas
 hy2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&hop_interval=10&sni=bing.com#🛸69@oneclickvpnkeys
 hy2://6f716a3e-2843-4930-94ab-d21af3b4927f@10.10.34.36:443/?hop_interval=10&sni=forever.h4ck.me#✅59@oneclickvpnkeys
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&hop_interval=10&sni=crt.ultimagamest.com#>>@oneclickvpnkeys::PL
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.153.65.67:443/?insecure=1&hop_interval=10&sni=vpn-de-002.fastervpn.world#⚡73@oneclickvpnkeys
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.193.79.104:443/?insecure=1&hop_interval=10&sni=18.193.79.104#🎃71@oneclickvpnkeys
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@202.146.222.174:443/?insecure=1&hop_interval=10&sni=https%3A%2F%2Ft.me%2Foneclickvpnkeys#🐙61@oneclickvpnkeys
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@3.76.221.4:443/?insecure=1&hop_interval=10&sni=3.76.221.4#🎃96@oneclickvpnkeys
 hy2://V1UQuwa-4PRIDW2paxrPe58RcxXHPGyFIGS-5QojaM8@144.31.221.57:443/?insecure=1&hop_interval=10&sni=player.wwwinternetvideo.click#🏓62@oneclickvpnkeys
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.105:4444/?insecure=1&hop_interval=10&sni=pl2.nexfile.net#🎃93@oneclickvpnkeys
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&hop_interval=10&sni=pl3.nexfile.net#🎃34@oneclickvpnkeys
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&hop_interval=10&sni=www.linux.com#⭐️18@oneclickvpnkeys
 hy2://gf1@5.129.235.85:443/?insecure=1&hop_interval=10&sni=www.linux.com#⭐️18@oneclickvpnkeys
+hy2://mhsl@88.99.213.222:14444/?insecure=1&hop_interval=10&sni=bing.com#🐍13@oneclickvpnkeys
 hy2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&hop_interval=10&sni=germany3.h2corp.local#👝62@oneclickvpnkeys
 hy2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&hop_interval=10&sni=germany1.h2corp.local#👝36@oneclickvpnkeys
 ss://89b3cbba-e6ac-485a-9481-976a0415eab9@104.16.150.214:8080?type=ws&host=GH-bPB.RHyLjiti.WOrKeRs.dEV&path=/5h9xNv1aHzJ2L8wQ/SVIuZmhxMGxhNDQ3YWFjNTUwNGRzcGVlZHRlc3RpcmNvbW5ldG1lbGVvc2phbndqZGlmanNuanN4LmNsb3Vk?ed%3D2560#BPB%20-%20Clean%20IP_45%20:%208080

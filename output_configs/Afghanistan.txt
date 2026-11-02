@@ -1,1 +1,2 @@
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?insecure=1&hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@KAFING_2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEUHBrM09oYmNGcEZPcFRuS25sR3NpNWtXSDdCSlREdg@31.77.10.59:5062#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20Johannesburg%20%7C%20%E2%8F%B11294ms%20%7C%20%E2%9A%A1539KB%2Fs%20%7C%20%40NamazVPN
