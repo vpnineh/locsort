@@ -353,7 +353,6 @@ hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_in
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_interval=10&sni=kaz0001hy01.packet-drop-society.net#🇰🇿
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@kaz0001hy01.packet-drop-society.net:443/?insecure=1&hop_interval=10&sni=kaz0001hy01.packet-drop-society.net
 hy2://ed76d01a068000d9f034144d47baf1a4@134.65.60.88:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=02c4876afcc37c4298f71796b09a55da
-hy2://eik6hcffscbuqdbt@kp09bn7y.easyiran.org:46183/?hop_interval=10&sni=kp09bn7y.easyiran.org&obfs=salamander&obfs-password=egnqz8stetfo2ci9#🇩🇪205290
 hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#DE
 hy2://f13f964e-f06c-11ec-a858-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=bd6e538b-tmm5c0-tt2yf5-1j61y.los.hyhuawei.com#0772
 hy2://f4b80b26-b6d4-49a6-a460-f50efb7a457c@186.246.18.62:443/?hop_interval=10&sni=hy.cardlist24.shop#0791
