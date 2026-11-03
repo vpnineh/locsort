@@ -1,0 +1,1 @@
+hy2://dq6rfcyex30h1b6z@ll5xoe8j.easyiran.org:22357/?hop_interval=10&sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#@VPNConnectd
