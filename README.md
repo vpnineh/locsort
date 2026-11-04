@@ -1,10 +1,10 @@
-# Configs (آخرین به‌روزرسانی: 2026-11-04 05:26:17 +0330)
+# Configs (آخرین به‌روزرسانی: 2026-11-04 12:00:02 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
-| Hysteria2 | 500 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
+| Hysteria2 | 499 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
 | ShadowSocks | 1699 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 3 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 67 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
@@ -33,7 +33,6 @@
 | <img src="https://flagcdn.com/w20/bg.png" width="20"> Bulgaria (بلغارستان) | 2 | [`Bulgaria.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Bulgaria.txt) | [`Bulgaria.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Bulgaria.txt) |
 | <img src="https://flagcdn.com/w20/ca.png" width="20"> Canada (کانادا) | 12 | [`Canada.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Canada.txt) | [`Canada.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Canada.txt) |
 | <img src="https://flagcdn.com/w20/cf.png" width="20"> CentralAfricanRepublic (جمهوری آفریقای مرکزی) | 77 | [`CentralAfricanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/CentralAfricanRepublic.txt) | [`CentralAfricanRepublic.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/CentralAfricanRepublic.txt) |
-| <img src="https://flagcdn.com/w20/td.png" width="20"> Chad (چاد) | 1 | [`Chad.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Chad.txt) | [`Chad.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Chad.txt) |
 | <img src="https://flagcdn.com/w20/cl.png" width="20"> Chile (شیلی) | 94 | [`Chile.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Chile.txt) | [`Chile.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Chile.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20"> Colombia (کلمبیا) | 25 | [`Colombia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Colombia.txt) | [`Colombia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Colombia.txt) |
 | <img src="https://flagcdn.com/w20/cg.png" width="20"> CongoBrazzaville (کنگو برازاویل) | 2 | [`CongoBrazzaville.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/CongoBrazzaville.txt) | [`CongoBrazzaville.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/CongoBrazzaville.txt) |

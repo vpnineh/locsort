@@ -346,7 +346,6 @@ hy2://dongtaiwang.com@142.249.37.90:44356/?insecure=1&hop_interval=10&sni=hy2.56
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&hop_interval=10&sni=www.bing.com
 hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&hop_interval=10&sni=www.microsoft.com
 hy2://dq6rfcyex30h1b6z@ll5xoe8j.easyiran.org:22357/?hop_interval=10&sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#@V2ray_confiig
-hy2://dq6rfcyex30h1b6z@ll5xoe8j.easyiran.org:22357/?hop_interval=10&sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#@VPNConnectd
 hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?hop_interval=10&sni=hopp-transit.1cooldns.com#EPODONIOS
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?hop_interval=10&sni=kaz0001hy01.packet-drop-society.net#0163
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_interval=10#3883
