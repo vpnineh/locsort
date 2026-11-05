@@ -387,8 +387,6 @@ hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?insecure=1&hop_int
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.81:8443/?hop_interval=10&sni=hopp-legend-se.roxa.org#فلوریدا
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?hop_interval=10&sni=hopp-legend-se.roxa.org#1692
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&hop_interval=10&sni=hopp-legend-se.roxa.org
-hy2://https://xship.top@starlink-ft.251313.xyz:443?sni=xship.top#🌍207111
-hy2://https://xship.top@starlink-ft.251313.xyz:443?sni=xship.top#🌍207160
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52021/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52029/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52067/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
