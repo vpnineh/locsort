@@ -1,3 +1,4 @@
+hy2://40546f3a-0590-4a5a-a104-6eb2e6ba5f0c@194.113.235.254:23661/?sni=fr.verymad.net#🇫🇷4@exclavevpn
 hy2://4c858cccff331e64c711a199a6cb256a@3.12.34.194:443/?hop_interval=10&sni=clash2.deep-links.com#🛸62@oneclickvpnkeys
 hy2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&hop_interval=10&sni=bing.com#🛸69@oneclickvpnkeys
 hy2://6f716a3e-2843-4930-94ab-d21af3b4927f@10.10.34.36:443/?hop_interval=10&sni=forever.h4ck.me#✅59@oneclickvpnkeys

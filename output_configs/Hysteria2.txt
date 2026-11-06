@@ -37,6 +37,7 @@ hy2://3bd247a8-993e-11ec-a8bf-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni
 hy2://3be8cba8-b721-11ec-8b04-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=b8c1a181-tmm5c0-twuk0i-1hzyr.los.hyhuawei.com#0329
 hy2://3d7634af8cb2c6cb4bac1c0efad8b43d@152.67.200.82:50160/?hop_interval=10&sni=152-67-200-82.liao.kdns.fr#1700
 hy2://3f514ea2-4662-11ed-a8bf-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=03aa25ad-tmm5c0-tmj4pk-1kcpe.los.hyhuawei.com#2661
+hy2://40546f3a-0590-4a5a-a104-6eb2e6ba5f0c@194.113.235.254:23661/?sni=fr.verymad.net#🇫🇷4@exclavevpn
 hy2://40639730-e027-11ea-87ad-f23c913c8d2b@203.218.231.16:443/?hop_interval=10&sni=e0064cf5-tmm5c0-to0mym-z93q.hk3.hyhuawei.com#0960
 hy2://40639730-e027-11ea-87ad-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=13f3ae7f-tmm5c0-to0mym-z93q.los.hyhuawei.com#1312
 hy2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=ddcdcde6-tm96o0-0-1imi4.los.hyhuawei.com#0675
@@ -278,6 +279,7 @@ hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444/?hop_interval=10&
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444/?hop_interval=10&sni=pl2.nexfile.net#2406
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444/?hop_interval=10&sni=pl2.nexfile.net#1170
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444/?hop_interval=10&sni=pl3.nexfile.net#2481
+hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444/?sni=pl3.nexfile.net#🇵🇱
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?hop_interval=10&sni=pl3.nexfile.net#3171
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&hop_interval=10&sni=pl3.nexfile.net#🎃34@oneclickvpnkeys
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.158:4444/?hop_interval=10&sni=fl3.nexfile.net#1959
