@@ -5,6 +5,7 @@ hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443/?hop_interval=10&sni=6f9a8496-tmm5c0-txkkcl-1fli7.los.hyhuawei.com#1486
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=bing.com#EPODONIOS
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=www.microsoft.com#EPODONIOS
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#🇺🇸
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@10.10.34.36:443/?hop_interval=10&sni=samurai.h4ck.me#EPODONIOS
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
@@ -278,7 +279,6 @@ hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.146:4444/?hop_interval=10&
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.147:4444/?hop_interval=10&sni=pl2.nexfile.net#2406
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.149:4444/?hop_interval=10&sni=pl2.nexfile.net#1170
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.71:4444/?hop_interval=10&sni=pl3.nexfile.net#2481
-hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.80:4444/?sni=pl3.nexfile.net#🇵🇱
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?hop_interval=10&sni=pl3.nexfile.net#3171
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@13.143.189.96:4444/?insecure=1&hop_interval=10&sni=pl3.nexfile.net#🎃34@oneclickvpnkeys
 hy2://a35c508f-4d5d-4531-842e-6e9d43c762c0@144.31.109.158:4444/?hop_interval=10&sni=fl3.nexfile.net#1959

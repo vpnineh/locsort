@@ -1,3 +1,4 @@
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#🇺🇸
 hy2://28a91bb2-51fe-48e1-9865-ec8bc9e48890@204.152.221.119:4434/?insecure=1&hop_interval=10&sni=www.cloudflare.com#美国+加利福尼亚州洛杉矶QuadraNet数据中心
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@10.10.34.36:443/?insecure=1&hop_interval=10&sni=mkm.icu#美国
