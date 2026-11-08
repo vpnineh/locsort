@@ -301,7 +301,6 @@ hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?insecure=1&hop_inter
 hy2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=ed4ccc41-tmm5c0-tpsg94-1jbj0.los.hyhuawei.com#0662
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#EPODONIOS
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?insecure=1&hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@KAFING_2
 hy2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076/?hop_interval=10&sni=scrap.halyvanedorogo.ru#@V2ray_Collector
