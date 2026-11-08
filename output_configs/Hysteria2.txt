@@ -52,6 +52,7 @@ hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&hop_interva
 hy2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@203.218.231.16:443/?hop_interval=10&sni=e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com#3653
 hy2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#0085
 hy2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&hop_interval=10&sni=bing.com#🛸69@oneclickvpnkeys
+hy2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.62:20443/?insecure=1&sni=hy530899-3.w-mebel.pro#🇸🇬
 hy2://4savc5ig1n3549e4@65.109.198.221:52023/?hop_interval=10&sni=giftcard.gateway-stream.com
 hy2://4savc5ig1n3549e4@65.109.198.221:52034/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray_phoenix
 hy2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=4e5b2b98-tmm5c0-tnkuks-wujn.los.hyhuawei.com#0296
