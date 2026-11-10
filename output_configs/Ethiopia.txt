@@ -1,8 +1,3 @@
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1#@FXxNET⚡️
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160?insecure=1&sni=138.3.208.26#@FXxNET⚡️
-hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443?sni=speedtestmark.com#@FXxNET⚡️
-hy2://96ab5cd282733fd4c312a61f972f330a@45.32.10.7:443?sni=vp3.yysyy.online#@FXxNET⚡️
-hy2://u63SxILNwtrQZ7Y1ZrFaZfsA@8.211.175.236:8443?insecure=1#@FXxNET⚡️
 ss://f35af769-00e9-4ddf-977e-72322d743676@91.107.169.224:2083?type=ws&encryption=none&path=%2F&host=kala.taghvimtime.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=kala.taghvimtime.ir#new-het1
 trojan://e8105dfd24414268b6c7652c63731097@198.41.220.83:443?type=ws&host=jobscareertoday.com&path=6b777a91&security=tls&sni=jobscareertoday.com#Aa64n%20_net11
 vless://f35af769-00e9-4ddf-977e-72322d743676@91.107.169.224:2083?type=ws&encryption=none&path=%2F&host=kala.taghvimtime.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=kala.taghvimtime.ir#new-het1
