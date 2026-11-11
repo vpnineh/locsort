@@ -5,10 +5,8 @@ hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443/?hop_interval=10&sni=6f9a8496-tmm5c0-txkkcl-1fli7.los.hyhuawei.com#1486
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=bing.com#EPODONIOS
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=www.microsoft.com#EPODONIOS
-hy2://146d567c-6335-4e63-a8aa-7ec068642440@fi1.obxodvpn.us:443/?sni=fi1.obxodvpn.us#🇺🇸
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@10.10.34.36:443/?hop_interval=10&sni=samurai.h4ck.me#EPODONIOS
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
-hy2://1794466637:db57c865-2318-4fd2-8aea-e8ba58ec696d:Sjcl0gc4tJZu1HqNgL502Y4uLCJSzLg9X3R0zYjQ6MQ@31.76.91.168:8443/?insecure=1&sni=jp.lumacache.com#🇯🇵
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
 hy2://19dd9c70-e4a5-11ed-8347-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=a436bbe7-tmm5c0-tug19l-1go3q.los.hyhuawei.com#0391
 hy2://19f72087-4591-4d72-930b-2697078ec2be@107.174.82.77:4433/?hop_interval=10&sni=css.rbxcdn.com#4738
@@ -53,7 +51,6 @@ hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&hop_interva
 hy2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@203.218.231.16:443/?hop_interval=10&sni=e6b91583-tm96o0-tnhquc-1j0a4.hk3.hyhuawei.com#3653
 hy2://4eedcde6-d16a-11ef-973a-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=4cbb5b88-tm96o0-tnhquc-1j0a4.los.hyhuawei.com#0085
 hy2://4fUg3KH31LpMhko6o0Ka9Q@198.46.146.118:36720/?insecure=1&hop_interval=10&sni=bing.com#🛸69@oneclickvpnkeys
-hy2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.62:20443/?insecure=1&sni=hy530899-3.w-mebel.pro#🇸🇬
 hy2://4savc5ig1n3549e4@65.109.198.221:52023/?hop_interval=10&sni=giftcard.gateway-stream.com
 hy2://4savc5ig1n3549e4@65.109.198.221:52034/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray_phoenix
 hy2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=4e5b2b98-tmm5c0-tnkuks-wujn.los.hyhuawei.com#0296

@@ -1,2 +1,1 @@
-hy2://4fa0ca1b-0742-419d-8fd2-3f698e06b206@84.32.23.62:20443/?insecure=1&sni=hy530899-3.w-mebel.pro#🇸🇬
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443/?insecure=1&hop_interval=10&sni=47.129.0.20#🇸🇬164551
