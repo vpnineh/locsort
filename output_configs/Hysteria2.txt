@@ -5,6 +5,7 @@ hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443/?hop_interval=10&sni=6f9a8496-tmm5c0-txkkcl-1fli7.los.hyhuawei.com#1486
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=bing.com#EPODONIOS
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=www.microsoft.com#EPODONIOS
+hy2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:443/?insecure=1&sni=nlll.obxodvpn.us#🇺🇸12@exclavevpn
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@10.10.34.36:443/?hop_interval=10&sni=samurai.h4ck.me#EPODONIOS
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
@@ -57,6 +58,7 @@ hy2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni
 hy2://526a1128-7487-11ee-9bca-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=c7cf6abc-tmm5c0-tpw4i4-1pckg.los.hyhuawei.com#2371
 hy2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#3858
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
+hy2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433/?insecure=1#🇮🇷
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.40:8443/?hop_interval=10&sni=speedtestmark.com#0318
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#4637
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&hop_interval=10&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#EPODONIOS

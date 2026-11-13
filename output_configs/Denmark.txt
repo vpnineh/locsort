@@ -6,3 +6,5 @@ hy2://b4c8ee9caa74b7ba0a61@78.17.128.153:35076/?insecure=1&hop_interval=10&sni=s
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.229:8080/?insecure=1&hop_interval=10&sni=hopp-legend-se.roxa.org#@OutlineReleasedKey
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.140:8443/?insecure=1&hop_interval=10&sni=grape-turbo-fr.roxa.org#@OutlineReleasedKey
 hy2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.152:8443/?insecure=1&hop_interval=10&sni=grape-turbo-fr.roxa.org#@OutlineReleasedKey
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com:443?alpn=h3&congestion_control=bbr&congestion_controller=bbr&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com&udp_relay_mode=native&version=5#@OutlineReleasedKey
+tuic://73bfcc1c-5814-5f2a-b43a-3ef6af011db8:73bfcc1c-5814-5f2a-b43a-3ef6af011db8@58.152.81.104:443?alpn=h3&sni=54fb07dd-tk7400-toh6wi-jx5r.pccw3.hyhuawei.com⊂_tag=M003-260806&udp=true&congestion_control=cubic&udp_relay_mode=native#@OutlineReleasedKey
