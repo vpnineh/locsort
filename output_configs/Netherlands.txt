@@ -1,4 +1,6 @@
 hy2://BWAFlp8g53@72.56.102.31:443/?insecure=1&hop_interval=10#هلند
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=hysteria.udpgw.co#🇳🇱215890
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?insecure=1&obfs=salamander&obfs-password=HysteriaHowdy&sni=hysteria.udpgw.co#🇳🇱215939
 hy2://OD6gGbGU9a@195.133.24.124:443/?hop_interval=10&sni=hys26.wba-pn.ru#هلند
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&hop_interval=10&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#🇳🇱
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10&sni=hys9.wba-pn.ru#هلند
