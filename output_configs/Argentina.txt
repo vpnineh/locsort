@@ -1,4 +1,3 @@
-hy2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#@tootffarangi🍓
 hy2://KevinZakarian@179.61.132.96:8443/?insecure=1&hop_interval=10&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#🩵+@Azarakhsh_Proxy+🩷
 hy2://fmaznn1lrzys7ddy@65.109.198.221:52050/?hop_interval=10&sni=giftcard.gateway-stream.com#giftcard.gateway-stream.com:52050
 hy2://mdq80x0xv9wt7520@65.109.198.221:52001/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#giftcard.gateway-stream.com:52001

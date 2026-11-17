@@ -5,7 +5,6 @@ hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni
 hy2://0abd5d38-fdf1-11ed-bade-f23c91369f2d@64.32.13.230:443/?hop_interval=10&sni=6f9a8496-tmm5c0-txkkcl-1fli7.los.hyhuawei.com#1486
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=bing.com#EPODONIOS
 hy2://140.82.121.3:443/?insecure=1&hop_interval=10&sni=www.microsoft.com#EPODONIOS
-hy2://146d567c-6335-4e63-a8aa-7ec068642440@nlll.obxodvpn.us:443/?insecure=1&sni=nlll.obxodvpn.us#🇺🇸12@exclavevpn
 hy2://14f7504c-bd01-4d88-bd42-80dc6bf6b202@10.10.34.36:443/?hop_interval=10&sni=samurai.h4ck.me#EPODONIOS
 hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
 hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&hop_interval=10&sni=www.bing.com#EPODONIOS
@@ -28,7 +27,6 @@ hy2://2bc6428196efb899f544d750bea0c06d@50.7.193.146:443/?hop_interval=10&sni=pro
 hy2://2c01eae6-0b6a-11ee-a058-f23c91369f2d@64.32.13.230:443/?hop_interval=10&sni=e3e217d6-tmm5c0-tzkd63-1jr1u.los.hyhuawei.com#0214
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?hop_interval=10&sni=pixelcast.wwwinternetvideo.click#0717
 hy2://2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o@89.125.156.80:443/?insecure=1&hop_interval=10&sni=pixelcast.wwwinternetvideo.click#آلمان
-hy2://307ee0e53ea04dfd86a7f2f9fcd53844@s5.libertyrunet.store:443/?hop_interval=10&sni=s5.libertyrunet.store#🙏69@oneclickvpnkeys
 hy2://31676725-b0fd-fed2-c857-2da8ce5a6e4f@64.32.13.230:443/?hop_interval=10&sni=24407910-tmm5c0-trnd2c-jjv2.los.hyhuawei.com#0586
 hy2://3437f34e-1b77-11eb-8684-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=127.0.0.1#3038
 hy2://3437f34e-1b77-11eb-8684-f23c913c8d2b@64.32.13.230:443/?insecure=1&hop_interval=10&sni=25188aad-tm3mo0-unh4sc-xm0q.los.hyhuawei.com#1497
@@ -59,7 +57,6 @@ hy2://51362ab6-b5e6-11ea-ad28-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni
 hy2://526a1128-7487-11ee-9bca-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=c7cf6abc-tmm5c0-tpw4i4-1pckg.los.hyhuawei.com#2371
 hy2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#3858
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
-hy2://549766c3-fa5f-471e-8031-ffc1f8d5064f@94.183.164.119:24433/?insecure=1#🇮🇷
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.40:8443/?hop_interval=10&sni=speedtestmark.com#0318
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#4637
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&hop_interval=10&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#EPODONIOS
@@ -85,9 +82,6 @@ hy2://7c5566a7-4b55-4659-975f-06507d32fd3f@10.10.34.36:443/?insecure=1&hop_inter
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52049/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#🇫🇮164945
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52050/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#🇫🇮164946
 hy2://7nkm4doh2gkgl5op@65.109.198.221:52051/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#🇫🇮164947
-hy2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#@tootffarangi🍓
-hy2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#🇩🇪216615
-hy2://833539ec-fbba-40e8-ba6c-ac31bf6b3b4c@144.31.168.201:443?sni=fastconv-mirror.ru#🇩🇪216664
 hy2://861726bb-c61a-b0e0-99fa-5ddfdcf21902@64.32.13.230:443/?hop_interval=10&sni=4c37a418-tmm5c0-ttxkqc-e06r.los.hyhuawei.com#0192
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?hop_interval=10&sni=crt.ultimagamest.com#2847
 hy2://8674df07-56b3-43ea-b687-aef2b1a20137@31.76.22.210:443/?insecure=1&hop_interval=10&sni=crt.ultimagamest.com#>>@oneclickvpnkeys::PL
@@ -138,6 +132,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&hop_interval=10&sn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#2331
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#4446
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?insecure=1&hop_interval=10&sni=vpn-kr-003.fastervpn.world
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.184.166.19:443/?insecure=1#🇺🇲16@exclavevpn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.184.188.220:443/?hop_interval=10&sni=vpn-us-004.fastervpn.world#3284
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&hop_interval=10&sni=css.rbxcdn.com#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&hop_interval=10&sni=whatsapp.com#EPODONIOS
@@ -305,8 +300,6 @@ hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?hop_interval=10&sni=
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?insecure=1&hop_interval=10#1192
 hy2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=ed4ccc41-tmm5c0-tpsg94-1jbj0.los.hyhuawei.com#0662
 hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@179.254.127.219:25318/?sni=775c8bt.lt4.h1clayd.click#🇱🇹
-hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@hy2-eee-1.aloranode.top:443/?hop_interval=10&sni=hy2-eee-1.aloranode.top#🙏66@oneclickvpnkeys
-hy2://b36a14f8-fc3f-4142-968f-48031cf5f330@tr3.h1cloud.net:25515/?hop_interval=10&sni=2c74e5t.tr3.h1clayd.click#🙏67@oneclickvpnkeys
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
@@ -330,7 +323,6 @@ hy2://c11ff50c-f582-11ee-94df-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni
 hy2://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=42fab11a-tm96o0-tnggms-6gn6.los.hyhuawei.com#4279
 hy2://c594c7ec-8b10-11ef-a2b8-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=83401821-tnhmo0-toktib-1hhyy.los.hyhuawei.com#1663
 hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#EPODONIOS
-hy2://ccb8ff48-3934-4250-b4ec-bb76b95d154f@185.126.237.178:443/?hop_interval=10&sni=185.126.237.178#🙏68@oneclickvpnkeys
 hy2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443/?hop_interval=10&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0640
 hy2://cd74c0a406664a5bc0bac098220a2468@2.27.249.79:443/?hop_interval=10&sni=nl1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0003
 hy2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443/?hop_interval=10&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#0229
@@ -339,7 +331,6 @@ hy2://cd74c0a406664a5bc0bac098220a2468@[2001:4188:2:600:10:10:34:34]:443/?hop_in
 hy2://clz08qwil91241w7@65.109.198.221:52021/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://clz08qwil91241w7@65.109.198.221:52029/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://clz08qwil91241w7@65.109.198.221:52030/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
-hy2://d042d150716709bb778cc73889cddb02@138.2.89.249:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=309502c4a8df10b46fb976d4a8c43f42#🙏33@oneclickvpnkeys
 hy2://d095ecc6-7b69-11eb-b77b-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=ac8140ad-tmm5c0-tvk1qn-19les.los.hyhuawei.com#2961
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?hop_interval=10&sni=promo.betust.net#1127
 hy2://d4ca9415f0eac7897472e1e5b86d2e96@50.7.38.243:443/?insecure=1&hop_interval=10&sni=promo.betust.net#0664
@@ -356,8 +347,6 @@ hy2://dongtaiwang.com@142.249.37.90:44356/?insecure=1&hop_interval=10&sni=hy2.56
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&hop_interval=10&sni=www.bing.com
 hy2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&hop_interval=10&sni=www.microsoft.com
 hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?hop_interval=10&sni=hopp-transit.1cooldns.com#EPODONIOS
-hy2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443?sni=cruises-cdn.travel-blogmir.blog#🇩🇪216606
-hy2://e45c1654-9184-40c7-b68b-2929ce2a0a89@86.107.179.245:443?sni=cruises-cdn.travel-blogmir.blog#🇩🇪216655
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?hop_interval=10&sni=kaz0001hy01.packet-drop-society.net#0163
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_interval=10#3883
 hy2://eb0e3aec-f67f-4fa2-8577-b0bff0484e77@194.238.40.185:443/?insecure=1&hop_interval=10&sni=kaz0001hy01.packet-drop-society.net#🇰🇿
@@ -401,9 +390,6 @@ hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&hop_in
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52021/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52029/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52067/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
-hy2://lCk4_xMXmmLQV45zGLuQ5BRmzKEHDU8Q@81.90.17.166:443/?sni=assets.stackbase-dev.com#
-hy2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@212.102.227.131:9443?sni=n34.neproxy.net#🇩🇪216604
-hy2://lvu_1f46c9c7e44bef3f9974936d87ee4f44_1f900674c11bcad65b09ef1f77502ea5:np2.1.z9PBCLlUfCKIMqYEuafOnTLQIjz8lGsSRofhhXAlFdc@212.102.227.131:9443?sni=n34.neproxy.net#🇩🇪216653
 hy2://mdq80x0xv9wt7520@65.109.198.221:52001/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#giftcard.gateway-stream.com:52001
 hy2://mdq80x0xv9wt7520@65.109.198.221:52046/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://mdq80x0xv9wt7520@65.109.198.221:52050/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#giftcard.gateway-stream.com:52050
