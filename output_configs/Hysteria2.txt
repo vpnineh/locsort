@@ -418,8 +418,6 @@ hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.189.148:443/?hop_interval=10&sni=vpn-sg-00
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.98.169:443/?hop_interval=10&sni=vpn-sg-001.fastervpn.world#1008
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?hop_interval=10&sni=google.com#6914
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.151.142.26:443/?hop_interval=10&sni=vk.com#2497
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬217441
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬217490
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443/?insecure=1&hop_interval=10&sni=vk.com#EPODONIOS
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.213.89.22:443?insecure=1&sni=vk.com&type=tcp&allowInsecure=1&upmbps=10&downmbps=50#🇺🇸139909
 hy2://qtMKhrFAMrVZUfupkc5CFHmRKYtNPSjt@165.154.193.165:443/?hop_interval=10&sni=165.154.193.165&obfs=salamander&obfs-password=d7897b996af77eeecb7ac010361d74fb#3797

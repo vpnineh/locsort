@@ -1,3 +1,1 @@
 hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.0.20:443/?insecure=1&hop_interval=10&sni=47.129.0.20#🇸🇬164551
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬217441
-hy2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.179.113.70:443?insecure=1&sni=vpn-sg-001.fastervpn.world#🇸🇬217490
