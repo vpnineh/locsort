@@ -41,8 +41,6 @@ hy2://40639730-e027-11ea-87ad-f23c913c8d2b@203.218.231.16:443/?hop_interval=10&s
 hy2://40639730-e027-11ea-87ad-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=13f3ae7f-tmm5c0-to0mym-z93q.los.hyhuawei.com#1312
 hy2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=ddcdcde6-tm96o0-0-1imi4.los.hyhuawei.com#0675
 hy2://40fb1315-191a-11ed-b0ca-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=fed5d047-tmeqo0-0-1imi4.los.hyhuawei.com#3278
-hy2://41edb44c8e@103.88.243.142:11592/?insecure=1&sni=srv-17e124.21freedom.net#🇷🇺218179
-hy2://41edb44c8e@103.88.243.142:11592/?insecure=1&sni=srv-17e124.21freedom.net#🇷🇺218228
 hy2://41f0d6d3-4a45-4635-8225-2abd2284189b@10.10.34.36:2056/?insecure=1&hop_interval=10&sni=lmny.mangshe.xyz#EPODONIOS
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013/?hop_interval=10&sni=www.bing.com#0512
 hy2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013/?insecure=1&hop_interval=10#0967

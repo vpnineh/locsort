@@ -1,10 +1,10 @@
-# Configs (آخرین به‌روزرسانی: 2026-11-19 02:39:49 +0330)
+# Configs (آخرین به‌روزرسانی: 2026-11-19 08:48:29 +0330)
 
 ## دسته‌بندی بر اساس پروتکل
 
 | پروتکل | تعداد | لینک دانلود |
 |---|---|---|
-| Hysteria2 | 502 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
+| Hysteria2 | 500 | [`Hysteria2.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
 | ShadowSocks | 1760 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 3 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
 | Trojan | 60 | [`Trojan.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
@@ -67,7 +67,7 @@
 | <img src="https://flagcdn.com/w20/pg.png" width="20"> PapuaNewGuinea (پاپوآ گینه نو) | 1 | [`PapuaNewGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/PapuaNewGuinea.txt) | [`PapuaNewGuinea.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/PapuaNewGuinea.txt) |
 | <img src="https://flagcdn.com/w20/pl.png" width="20"> Poland (لهستان) | 5 | [`Poland.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) | [`Poland.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Poland.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20"> Romania (رومانی) | 8 | [`Romania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Romania.txt) | [`Romania.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Romania.txt) |
-| <img src="https://flagcdn.com/w20/ru.png" width="20"> Russia (روسیه) | 4 | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Russia.txt) |
+| <img src="https://flagcdn.com/w20/ru.png" width="20"> Russia (روسیه) | 2 | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) | [`Russia.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Russia.txt) |
 | <img src="https://flagcdn.com/w20/ws.png" width="20"> Samoa (ساموآ) | 40 | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) | [`Samoa.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Samoa.txt) |
 | <img src="https://flagcdn.com/w20/st.png" width="20"> SaoTomeAndPrincipe (سائوتومه و پرنسیپ) | 4 | [`SaoTomeAndPrincipe.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/SaoTomeAndPrincipe.txt) | [`SaoTomeAndPrincipe.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/SaoTomeAndPrincipe.txt) |
 | <img src="https://flagcdn.com/w20/sg.png" width="20"> Singapore (سنگاپور) | 1 | [`Singapore.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_configs/Singapore.txt) | [`Singapore.txt`](https://raw.githubusercontent.com/vpnclashfa-backup/ScrapeAndCategorize/refs/heads/main/output_base64_countries/Singapore.txt) |
