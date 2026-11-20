@@ -132,7 +132,6 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@103.115.109.49:443/?insecure=1&hop_interval=10&sn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.124.233.211:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#2331
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#4446
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.125.11.91:443/?insecure=1&hop_interval=10&sni=vpn-kr-003.fastervpn.world
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.184.166.19:443/?insecure=1#🇺🇲16@exclavevpn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.184.188.220:443/?hop_interval=10&sni=vpn-us-004.fastervpn.world#3284
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&hop_interval=10&sni=css.rbxcdn.com#EPODONIOS
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.239.242.244:443/?insecure=1&hop_interval=10&sni=whatsapp.com#EPODONIOS
@@ -366,6 +365,7 @@ hy2://g2d0ooqq3ykzsacc@65.109.198.221:52000/?hop_interval=10&sni=giftcard.gatewa
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52001/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52002/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52010/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
+hy2://gG1JyjbJgDmEMvdTgcD9wVOS@35.221.91.82:443/?sni=www.microsoft.com#
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&hop_interval=10&sni=css.rbxcdn.com
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?hop_interval=10&sni=t.me#4169
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&hop_interval=10&sni=www.linux.com#⭐️18@oneclickvpnkeys
@@ -484,6 +484,8 @@ hy2://vz86jgszv4zszchv@65.109.198.221:52062/?hop_interval=10&sni=giftcard.gatewa
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10&sni=hys9.wba-pn.ru#هلند
 hy2://xf2ak19a4uajprxg@65.109.198.221:52090/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
+hy2://yjg6ygy6u97387j2@tjzx49io.zibayeman.com:31848/?hop_interval=10&sni=tjzx49io.zibayeman.com&obfs=salamander&obfs-password=yew4ada1rrbq11fq#🇸🇪220265
+hy2://yjg6ygy6u97387j2@tjzx49io.zibayeman.com:31848/?hop_interval=10&sni=tjzx49io.zibayeman.com&obfs=salamander&obfs-password=yew4ada1rrbq11fq#🇸🇪220314
 hy2://zhangyang@130.61.50.75:6443/?hop_interval=10&sni=130.61.50.75#1718
 hy2://zhangyang@130.61.50.75:6443/?hop_interval=10&sni=https%3A%2F%2Fwww.calmloud.com#آلمان
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&hop_interval=10#0581
