@@ -484,8 +484,6 @@ hy2://vz86jgszv4zszchv@65.109.198.221:52062/?hop_interval=10&sni=giftcard.gatewa
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10
 hy2://wrSuBorIlf@72.56.116.57:443/?insecure=1&hop_interval=10&sni=hys9.wba-pn.ru#هلند
 hy2://xf2ak19a4uajprxg@65.109.198.221:52090/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#Telegram
-hy2://yjg6ygy6u97387j2@tjzx49io.zibayeman.com:31848/?hop_interval=10&sni=tjzx49io.zibayeman.com&obfs=salamander&obfs-password=yew4ada1rrbq11fq#🇸🇪220265
-hy2://yjg6ygy6u97387j2@tjzx49io.zibayeman.com:31848/?hop_interval=10&sni=tjzx49io.zibayeman.com&obfs=salamander&obfs-password=yew4ada1rrbq11fq#🇸🇪220314
 hy2://zhangyang@130.61.50.75:6443/?hop_interval=10&sni=130.61.50.75#1718
 hy2://zhangyang@130.61.50.75:6443/?hop_interval=10&sni=https%3A%2F%2Fwww.calmloud.com#آلمان
 hy2://zhangyang@130.61.50.75:6443/?insecure=1&hop_interval=10#0581
