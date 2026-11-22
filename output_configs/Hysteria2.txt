@@ -389,7 +389,6 @@ hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@222.167.212.82:8443/?insecure=1&hop_in
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52021/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52029/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
 hy2://jbmuokj7p4kg4h4s@65.109.198.221:52067/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#@v2ray313
-hy2://linlin-2026@3.106.35.101:36712?auth=linlin-2026&insecure=1&sni=3.106.35.101#ᴛᴇʟᴇɢʀᴀᴍ
 hy2://mdq80x0xv9wt7520@65.109.198.221:52001/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#giftcard.gateway-stream.com:52001
 hy2://mdq80x0xv9wt7520@65.109.198.221:52046/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://mdq80x0xv9wt7520@65.109.198.221:52050/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#giftcard.gateway-stream.com:52050
