@@ -59,6 +59,9 @@ hy2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443/?hop_interval=10&
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.40:8443/?hop_interval=10&sni=speedtestmark.com#0318
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#4637
+hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#ᴛᴇʟᴇɢʀᴀᴍ
+hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#🇯🇵226713
+hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#🇯🇵226762
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&hop_interval=10&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#EPODONIOS
 hy2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#1999
 hy2://5bcodmhjtyfyyrqh@10.10.34.36:36758/?hop_interval=10&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze
