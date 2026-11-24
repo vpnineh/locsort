@@ -1,3 +1,4 @@
+hy2://04920673-035c-410d-94e4-5b1469d3fb6f@171.22.183.158:42848/?insecure=1&sni=171.22.183.158#🇳🇱
 hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#EPODONIOS
 hy2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&hop_interval=10&sni=gorbachev-new-th.kvnfreetest.uk
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni=t.me#3608
@@ -59,9 +60,7 @@ hy2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443/?hop_interval=10&
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.40:8443/?hop_interval=10&sni=speedtestmark.com#0318
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#4637
-hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#ᴛᴇʟᴇɢʀᴀᴍ
-hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#🇯🇵226713
-hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@dg3rb.ianai.it.com:443?sni=dg3rb.ianai.it.com&insecure=1&obfs=salamander&obfs-password=e3ymhs6gbzptjysj#🇯🇵226762
+hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.49.216:40055/?sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=re61ep4ancwplwh8#
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&hop_interval=10&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#EPODONIOS
 hy2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#1999
 hy2://5bcodmhjtyfyyrqh@10.10.34.36:36758/?hop_interval=10&sni=cdn77.dmtr.ru&obfs=salamander&obfs-password=dzcb7hv6i2kx2zze
