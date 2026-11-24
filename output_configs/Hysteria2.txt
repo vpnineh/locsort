@@ -189,6 +189,7 @@ hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&hop_interval=10&sn
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@43.203.252.104:443/?hop_interval=10&sni=vpn-kr-003.fastervpn.world#7256
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&hop_interval=10&sni=t.me#IN_1|3.9MB/s
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@65.2.178.161:443/?insecure=1&hop_interval=10&sni=vpn-in-001.fastervpn.world#EPODONIOS
+hy2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=hysteria.udpgw.co&path=%2f&obfs=salamander&obfs-password=HysteriaHowdy&allow_insecure=1#SS44-121
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.170:8443/?hop_interval=10&sni=hopp-romania-new.roxa.org#1072
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8080/?hop_interval=10&sni=hopp-romania-new.roxa.org#2215
 hy2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@85.204.107.172:8443/?hop_interval=10&sni=hopp-romania-new.roxa.org#2650
@@ -367,7 +368,6 @@ hy2://g2d0ooqq3ykzsacc@65.109.198.221:52000/?hop_interval=10&sni=giftcard.gatewa
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52001/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52002/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
 hy2://g2d0ooqq3ykzsacc@65.109.198.221:52010/?hop_interval=10&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u
-hy2://gG1JyjbJgDmEMvdTgcD9wVOS@35.221.91.82:443/?sni=www.microsoft.com#
 hy2://gf1:gfhysteria2024@185.156.44.99:443/?insecure=1&hop_interval=10&sni=css.rbxcdn.com
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?hop_interval=10&sni=t.me#4169
 hy2://gf1:gfhysteria2024@5.129.235.85:443/?insecure=1&hop_interval=10&sni=www.linux.com#⭐️18@oneclickvpnkeys
