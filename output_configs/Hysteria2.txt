@@ -19,6 +19,7 @@ hy2://1cce7df2-251c-11ee-9409-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni
 hy2://203d1d64-3313-11ed-bb74-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=fbe34f09-tmm5c0-trpvht-1ey07.los.hyhuawei.com#0759
 hy2://20f87b02-0eaa-11eb-8684-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=b774a499-tmm5c0-tphvvu-gacy.los.hyhuawei.com#0621
 hy2://23c82941-70f4-4381-90db-bd28e9a902e9@153.52.85.32:443/?hop_interval=10&sni=steel7.hadsvpn.com#0752
+hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:30300?insecure=1&sni=www.bing.com#ᴛᴇʟᴇɢʀᴀᴍ
 hy2://252bb78f404ff43efa42808e98cc4ae9@45.88.14.120:443/?insecure=1&hop_interval=10&sni=cloud.mail.ru#EPODONIOS
 hy2://2630a66444286f47ce591752f28adf5e@[2001:4188:2:600:10:10:34:36]:50160/?hop_interval=10&sni=154-49-127-140.liao.kdns.fr#@OutlineReleasedKey
 hy2://2691cbe7c20cced8b0aeb12c812d09077e5b3eec7669fb8f@144.31.148.87:443/?hop_interval=10&sni=replay.wwwinternetvideo.click#2053
@@ -60,6 +61,7 @@ hy2://52e3dd44-ed23-4030-b0cc-5b5a953f2d4d@104.165.205.42:8443/?hop_interval=10&
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.40:8443/?hop_interval=10&sni=speedtestmark.com#0318
 hy2://54d2f622-fd71-4f5f-8813-832b68f4ca3b@104.165.205.42:8443/?hop_interval=10&sni=speedtestmark.com#4637
+hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.49.216:40055/?insecure=1&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=re61ep4ancwplwh8#🇺🇸
 hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.49.216:40055/?sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=re61ep4ancwplwh8#
 hy2://585b7bfe-6269-4149-ae22-ff07c57b5510@157.228.137.81:443/?insecure=1&hop_interval=10&sni=msk2.nebuchadnezzar.ink&obfs=salamander&obfs-password=Xydh1mcz51VQHbbJ#EPODONIOS
 hy2://5a4c13ae-6673-11ee-a149-f23c9164ca5d@64.32.13.230:443/?hop_interval=10&sni=f452bbe9-tmm5c0-tpda83-1lkbs.los.hyhuawei.com#1999
@@ -301,6 +303,7 @@ hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?hop_interval=10&sni=
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?hop_interval=10&sni=www.bing.com#0944
 hy2://b0917015b656b3dd2286b5633af0c5c1@31.57.248.176:50160/?insecure=1&hop_interval=10#1192
 hy2://b2c6384c-f63d-11ec-b1b3-f23c91cfbbc9@64.32.13.230:443/?hop_interval=10&sni=ed4ccc41-tmm5c0-tpsg94-1jbj0.los.hyhuawei.com#0662
+hy2://b42d90fa667942aebc734d60@159.13.55.48:20000?sni=hy2-au2.whuiy.xyz&obfs=salamander&obfs-password=b42d90fa667942aebc734d60#ᴛᴇʟᴇɢʀᴀᴍ
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#EPODONIOS
 hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000/?hop_interval=10&sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi#کانال
