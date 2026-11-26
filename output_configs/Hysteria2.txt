@@ -1,3 +1,5 @@
+hy2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848/?sni=171.22.183.158#[🇵🇱]t.me/ConfigsHub
+hy2://04920673-035c-410d-94e4-5b1469d3fb6f@91.211.27.231:42848/?sni=171.22.183.158#ᴛᴇʟᴇɢʀᴀᴍ
 hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#EPODONIOS
 hy2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?insecure=1&hop_interval=10&sni=gorbachev-new-th.kvnfreetest.uk
 hy2://099830134df5ac3a04a4b21d39b8c395@163.192.14.135:50160/?hop_interval=10&sni=t.me#3608
