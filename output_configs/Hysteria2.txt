@@ -69,6 +69,8 @@ hy2://5fa748137b6d822308eea4611f474ad5@155.117.19.17:443/?hop_interval=10&sni=ww
 hy2://60e2a548-96aa-4850-a279-1edab743c39b@md1.cnyvpn.com:443/?insecure=1&hop_interval=10&sni=md1.cnyvpn.com#EPODONIOS
 hy2://617z9r1mbzbm1t5z@178.236.251.64:52000/?hop_interval=10&sni=giftcard.gisora.ir&obfs=salamander&obfs-password=09p333uviv2qal0y#Telegram
 hy2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?hop_interval=10&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx
+hy2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.106:443/?sni=de1-balance.rezproffx.ru#🇺🇸
+hy2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443/?sni=de2-balance.rezproffx.ru#🇺🇸
 hy2://6d4abac0-86e6-11ef-83cc-f23c913c8d2b@64.32.13.230:443/?hop_interval=10&sni=ca3ddbd3-tmm5c0-tw2fdz-1s824.los.hyhuawei.com#3885
 hy2://6da2c981-8c77-4340-bda3-93399b7aea26@163.245.41.48:443/?hop_interval=10&sni=blogs.blog-forme.ru#1435
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@10.10.34.36:443/?insecure=1&hop_interval=10&sni=mkm.icu#美国

@@ -1,6 +1,8 @@
 hy2://28a91bb2-51fe-48e1-9865-ec8bc9e48890@204.152.221.119:4434/?insecure=1&hop_interval=10&sni=www.cloudflare.com#美国+加利福尼亚州洛杉矶QuadraNet数据中心
 hy2://5319f194c3164cd0f0dce502e83d60aa@23.95.28.131:443/?insecure=1&hop_interval=10&sni=www.bing.com&obfs=salamander&obfs-password=73221641ddc56c49b02bf110ac85afdb#🇺🇸US_2|3.2MB/s
 hy2://57beeeb0-03fc-4fc9-94da-7604488a7134@154.40.49.216:40055/?insecure=1&sni=psstatic.cdn.bcebos.com&obfs=salamander&obfs-password=re61ep4ancwplwh8#🇺🇸
+hy2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.106:443/?sni=de1-balance.rezproffx.ru#🇺🇸
+hy2://6ac6d17d-040c-4fab-940e-8f5d72c3fed6@135.126.21.107:443/?sni=de2-balance.rezproffx.ru#🇺🇸
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@10.10.34.36:443/?insecure=1&hop_interval=10&sni=mkm.icu#美国
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?hop_interval=10&sni=hy2.123266.xyz#>>@oneclickvpnkeys::US
 hy2://bce6c821-200d-421f-bf3d-7159e5246ea0@155.248.209.237:33333/?insecure=1&hop_interval=10&sni=155.248.209.2#🇺🇸
